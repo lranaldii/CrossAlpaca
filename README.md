@@ -2,4 +2,4 @@
  
  
  
-This repository is in the making, soon the final version will be uploaded.
+This repository is in the making, the final version will be uploaded soon.
