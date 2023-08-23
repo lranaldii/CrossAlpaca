@@ -1,0 +1,283 @@
+"Identifica la conclusione del seguente argomento. È difficile non riscontrare nei nostri coetanei la stessa intelligenza indebolita a causa delle emozioni che osserviamo nei nostri pazienti di tutti i giorni. L'arroganza della nostra coscienza, che in genere appartiene ai più forti meccanismi di difesa, blocca i complessi inconsci. Per questo motivo, è difficile convincere le persone dell'inconscio e, a loro volta, insegnare loro ciò che contraddice la loro conoscenza cosciente. (Sigmund Freud, L'origine e lo sviluppo della psicoanalisi)",È difficile non riscontrare nei nostri coetanei la stessa intelligenza indebolita a causa delle emozioni che osserviamo nei nostri pazienti di tutti i giorni.,"L'arroganza della nostra coscienza, che in genere appartiene ai più forti meccanismi di difesa, blocca i complessi inconsci.","Per questo motivo, è difficile convincere le persone dell'inconscio e, a loro volta, insegnare loro ciò che contraddice la loro conoscenza cosciente.","È difficile convincere le persone dell'inconscio e, a loro volta, insegnare loro ciò che contraddice la loro conoscenza cosciente.",D
+Seleziona la migliore traduzione nella logica dei predicati. David insegna a Chris. (c: Chris; d: David; Txy: x insegna a y),Tdc,Tcd,Tcc,dTc,A
+"Seleziona la migliore interpretazione inglese della proposizione data, usando la seguente chiave di traduzione: Ax: x è un appartamento Hx: x è una casa Lx: x è grande Bxy: x è più grande di y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]",Alcune grandi case sono più grandi di alcuni appartamenti.,Alcune case sono più grandi di tutti i grandi appartamenti.,Alcuni grandi appartamenti sono più grandi di alcune case.,Alcune case sono più grandi di alcuni grandi appartamenti.,C
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~SOL ⊃ MI
+~H/G",Valid,Non valido. Controesempio quando G e H sono vere,Non valido. Controesempio quando G è vero e H è falso,Non valido. Controesempio quando H è vero e G è falso,A
+"Usa la seguente chiave per tradurre la formula data di PL in frasi inglesi naturali.
+A: Marina legge un libro di Percy Jackson.
+B: Izzy gioca a Minecraft.
+C: Emily smette di lavorare.
+D: Russell prepara la cena.
+E: Ashleigh si ferma.
+(~SI • MI) ⊃ RE","Se non è che Izzy gioca a Minecraft e Ashleigh si ferma, allora Russell prepara la cena.","Se non è il caso che Izzy giochi a Minecraft e Ashleigh si fermi, allora Russell prepara la cena.",Izzy che interpreta Minecraft e Ashleigh che si ferma comporta che Russell prepari la cena.,Il fatto che Russell prepari la cena è una condizione sufficiente perché Izzy non giochi a Minecraft e Ashleigh si fermi.,B
+"Seleziona la migliore interpretazione inglese della proposizione data, usando la seguente chiave di traduzione: Ax: x è un appartamento Hx: x è una casa Lx: x è grande Bxy: x è più grande di y (∃x)[Hx • (∀y )(Ay ⊃ Bxy)]",Alcune case sono più piccole di tutti gli appartamenti.,Ogni casa è più grande di ogni appartamento.,Alcuni appartamenti sono più piccoli di ogni casa.,Alcune case sono più grandi di ogni appartamento.,D
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~K ≡ L / (K · L) ∨ (K · ~L)",Valid,Non valido. Controesempio quando K e L sono vere,Non valido. Controesempio quando K è vero e L è falso,Non valido. Controesempio quando L è vero e K è falso,D
+"Identifica l'antecedente della seguente proposta condizionale: se l'università non aumenta il sostegno finanziario, o il presidente non lo approva o il consiglio di amministrazione lo impedisce.",L'università aumenta gli aiuti finanziari.,L'università non aumenta gli aiuti finanziari.,Il consiglio di amministrazione lo impedisce.,Il presidente non lo approva.,B
+"Quale delle seguenti proposizioni è una conseguenza immediata (a un passo) in PL delle premesse date?
+~E ⊃ ~F
+SOL ⊃ FA
+H∨~E
+H ⊃ I
+~io",E ⊃ F,F ⊃ G,H ⊃ ~E,~H,D
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Tutti amano Raymond o no.",L,~L,L • ~L,L ∨ ~L,D
+Seleziona la migliore traduzione nella logica dei predicati. Tutti i re sono più fortunati di tutti i poveri. (Kx: x è un re; Px: x è un povero; Lxy: x è più fortunato di y),(∀x)[Kx ⊃ (∀y)(Py ⊃ Lxy)],(∀x)[Kx ⊃ (∀y)(Lxy ⊃ Py)],(∀x)(∀y)[(Kx • Py) ⊃ Lyx],(∀x)[(Kx • (∀y)(Py)) ⊃ Lxy],A
+"Costruisci una tavola di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tavole di verità, determina se le affermazioni sono logicamente equivalenti o contraddittorie. In caso contrario, determinare se sono coerenti o incoerenti. Motiva le tue risposte.
+(~M ⊃ ~N) ∨ (O ≡ N) e (~M · N) · [(~O ∨ ~N) · (O ∨ N)]",Logicamente equivalente,Contraddittorio,"Né logicamente equivalente né contraddittorio, ma coerente",Incoerente,B
+"Quale delle seguenti proposizioni è una conseguenza immediata (a un passo) in PL delle premesse date?
+MI ⊃ ~FA
+~F ⊃ SOL
+~G",E ⊃ F,F ⊃ G,G ⊃ E,~~F,D
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+MI ⊃ (FA ∨ ~ SOL)
+F ⊃ (~E ∨ ~G) / ~(E ≡ F)",Valid,"Non valido. Controesempio quando E, F e G sono vere",Non valido. Controesempio quando E e F sono vere e G è falsa,"Non valido. Controesempio quando E, F e G sono false",C
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+H ≡ (~ io ∨ J)
+H ∨ ~J / ~I",Valid,"Non valido. Controesempio quando H, I e J sono false",Non valido. Controesempio quando H e I sono vere e J è falsa,Non valido. Controesempio quando I è vero e H e J sono falsi,D
+Seleziona la migliore traduzione nella logica dei predicati. Alcuni vigili del fuoco salvano le vittime dal pericolo. (Dx: x è pericolo; Fx: x è un vigile del fuoco; Vx: x è una vittima; Rxyz: x salva y da z),(∃x){Fx • (∀y)[Dy ⊃ (∃z)(Vz • Rxyz)]},(∃x){Fx • (∃y)[Vy • (∃z)(Dz • Rxyz)]},(∃x){Fx • (∃y)(∃z)[(Vy • Dz) • Rxzy]},(∀x){Fx ⊃ (∃y)[Vy . (∃z)(Dz • Rxyz)]},B
+"Identifica l'antecedente della seguente proposizione condizionale: l'università aumenta le tasse scolastiche se, e solo se, sia il governatore lo approva sia il consiglio di amministrazione lo raccomanda.",L'università alza le tasse.,Il governatore lo approva.,Lo raccomanda il consiglio di amministrazione.,Nessuna delle precedenti,D
+Seleziona la migliore traduzione nella logica dei predicati. Tutti i pianeti sono più piccoli di Giove. (j: Giove; Px: x è un pianeta; Sxy: x è più piccolo di y),(∃x)(Px • Sxj),(∀x)(Px • Sxj),(∀x)(Px ⊃ Sjx),(∀x)(Px ⊃ Sxj),D
+Seleziona la migliore traduzione nella logica dei predicati. José presenta Wilma a Kevin. (j: José; k: Kevin; w: Wilma; Ixyz: x introduce la y alla z),Iwkj,Ijwk,Iwjk,Ijkw,B
+Seleziona la migliore traduzione nella logica dei predicati: nessun artefatto è una persona.,~Pa,(∀x)(Ax ⊃ ~Px),~Ap,(∀x)(Ax • ~Px),B
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+P ⊃ D
+Q · R / ~ P · R",Valid,"Non valido. Controesempio quando P, R e Q sono vere",Non valido. Controesempio quando P e Q sono vere e R è falsa,Non valido. Controesempio quando R e Q sono vere e P è falsa,B
+Seleziona la migliore traduzione nella logica dei predicati. Marco si trasferisce dall'Italia alla Spagna. (i: Italia; m: Marco; s: Spagna; Mxyz: x si sposta in y da z),Msim,Mmis,Mims,Mmsi,D
+"Seleziona la migliore interpretazione inglese della proposizione data, usando la seguente chiave di traduzione: Ax: x è un appartamento Hx: x è una casa Lx: x è grande Bxy: x è più grande di y (∀x){Ax ⊃ (∀y )[(Hy • Ly) ⊃ ∼Bxy]}",Tutti gli appartamenti non sono più grandi di una grande casa.,Nessun appartamento è più grande di una grande casa.,Tutte le grandi case non sono più grandi di qualche appartamento.,Nessuna casa grande è più grande di tutti gli appartamenti.,B
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+J ≡ ~K
+J ∨ L
+~K/L",Valid,Non valido. Controesempio quando J e K sono vere e L è falsa,Non valido. Controesempio quando J è vero e K e L sono falsi,Non valido. Controesempio quando K è vero e J e L sono falsi,C
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Pablo andrà al negozio se, e solo se, suo fratello lo accompagnerà e pagherà la benzina.",(P ≡ D) ≡ G,(RE • SOL) ⊃ P,P ⊃ (RE • SOL),P ≡ (RE • SOL),D
+"Usa tabelle di verità indirette per determinare se ogni insieme di proposizioni è coerente. Se il set è coerente, scegli un'opzione con una valutazione coerente. (Potrebbero esserci altre valutazioni coerenti.)
+RE ≡ E
+F ∨ D
+~E · ~F",Incoerente,"Coerente. Valutazione coerente quando D, E e F sono vere",Coerente. Valutazione coerente quando D ed E sono vere e F è falsa,Coerente. Valutazione coerente quando D e F sono vere ed E è falsa,A
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Il ristorante serve torta o cheesecake o gelato per dessert.",P ∨ (C ∨ io),(P ∨ C) ∨ I,P ∨ C ∨ I,Opzioni A e B,D
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Se Beth va in bicicletta, arriva prima al lavoro.",B ⊃ W,W ⊃ B,B ≡ W,Sia a che B,A
+Seleziona la migliore traduzione nella logica dei predicati: o Taylor o Eric è un latte boy.,Lt ∨ Le,Lx ∨ Ly,tL ∨ eL,Tl ⊃ El,A
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+MI ⊃ FA
+SOL ⊃ ~F / ~SOL ∨ ~E",Valid,"Non valido. Controesempio quando E, F e G sono vere",Non valido. Controesempio quando E e G sono vere e F è falsa,Non valido. Controesempio quando F e G sono vere ed E è falsa,A
+"Usa tabelle di verità indirette per determinare se ogni insieme di proposizioni è coerente. Se il set è coerente, scegli un'opzione con una valutazione coerente. (Potrebbero esserci altre valutazioni coerenti.)
+LA ⊃ (~B ∨ C)
+DO ⊃ RE
+LA ∨ (B · ~D)
+LA ≡ (SI ⊃ RE)",Incoerente,Coerente. Valutazione coerente quando A e D sono vere e B e C sono false,"Coerente. Valutazione coerente quando A, B e D sono vere e C è falso",Coerente. Valutazione coerente quando C e D sono vere e A e B sono false,B
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+M∨N
+~M·O/N",Valid,Non valido. Controesempio quando M e O sono vere e N è falsa,Non valido. Controesempio quando M è vero e O e N sono falsi,Non valido. Controesempio quando O è vero e M e N sono falsi,A
+"Quale delle seguenti proposizioni è una conseguenza immediata (a un passo) in PL delle premesse date?
+U ⊃ W
+W ⊃ (X ≡ ~Y)
+(X ≡ ~Y) ⊃ Z
+~Z",U ⊃ Z,U ∨ W,~W,~(X ≡ ~Y),D
+"Identifica l'antecedente della seguente proposizione condizionale: se le api non vincono la loro prima partita, allora sia gli Aardvarks che i Chipmunks vincono la loro prima partita.",Gli Aardvarks vincono la loro prima partita.,I Bees non vincono la loro prima partita.,I Chipmunks vincono la loro prima partita.,Sia gli Aardvarks che i Chipmunks vincono le loro prime partite.,B
+Seleziona la migliore traduzione nella logica dei predicati. Holly ama Frances. (f: Frances; h: Holly; Lxy: x ama y),hLf,fLh,Lfh,Lhf,D
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+P ⊃ (Q ∨ R)
+(Q · S) ⊃ ~P
+~(~Q ∨ R) / ~P",Valid,"Non valido. Controesempio quando P, Q, R e S sono vere",Non valido. Controesempio quando P e Q sono vere e R e S sono false,"Non valido. Controesempio quando P, R e S sono vere e Q è falsa",C
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+T ∨ U
+W · T / U",Valid,Non valido. Controesempio quando T e W sono vere e U è falsa,Non valido. Controesempio quando T è vero e W e U sono false,Non valido. Controesempio quando W è vero e T e U sono false,B
+Identifica l'antecedente della seguente proposizione condizionale: l'università aumenta le tasse scolastiche se sia il governatore lo approva sia il consiglio di amministrazione lo raccomanda.,L'università alza le tasse.,Il governatore lo approva.,Lo raccomanda il consiglio di amministrazione.,Il governatore lo approva e il consiglio di amministrazione lo raccomanda.,D
+"Identifica l'antecedente della seguente proposizione condizionale: Il ristorante non ha piselli, quindi servono mais e patate.",Il ristorante ha i piselli.,Il ristorante non ha piselli.,Il ristorante serve mais.,Il ristorante serve patate.,B
+Seleziona la migliore traduzione nella logica dei predicati. Tutte le gelatine sono più dolci di tutta la frutta. (Fx: x è un frutto; Jx: x è una gelatina; Sxy: x è più dolce di y),(∀x)[Fx ⊃ (∀y)(Jy ⊃ Sxy)],(∀x)(∀y)[(Fx • Jy) • Sxy],(∀x)(∀y)[Sxy ⊃ (Fy • Jx)],(∀x)[Jx ⊃ (∀y)(Fy ⊃ Sxy)],D
+"Identifica la conclusione del seguente argomento. Che il mondo sia la mia idea è una verità valida per ogni essere vivente, sebbene solo l'uomo possa contemplarla. In tal modo, raggiunge la saggezza filosofica. Nessuna verità è più assolutamente certa di quella che tutto ciò che esiste per la conoscenza e quindi questo mondo è solo oggetto in relazione al soggetto, percezione di un percipiente. Il mondo è un'idea. (Arthur Schopenhauer, Il mondo come volontà e idea)",Il mondo è un'idea.,"Che il mondo sia la mia idea è una verità valida per ogni essere vivente, sebbene solo l'uomo possa contemplarla.","In tal modo, raggiunge la saggezza filosofica.","Nessuna verità è più assolutamente certa di quella che tutto ciò che esiste per la conoscenza e quindi questo mondo è solo oggetto in relazione al soggetto, percezione di un percipiente.",A
+Seleziona la migliore traduzione nella logica dei predicati. Leo è più alto di Cathy. (c: Cathy; l: Leo; Txy: x è più alto di y),Tlc,Tcl,lTc,cTl,A
+"Costruisci una tavola di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tavole di verità, determina se le affermazioni sono logicamente equivalenti o contraddittorie. In caso contrario, determinare se sono coerenti o incoerenti. Motiva le tue risposte.
+C ⊃ (D ∨ C) e C · ~D",Logicamente equivalente,Contraddittorio,"Né logicamente equivalente né contraddittorio, ma coerente",Incoerente,C
+"Costruisci una tavola di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tavole di verità, determina se le affermazioni sono logicamente equivalenti o contraddittorie. In caso contrario, determinare se sono coerenti o incoerenti. Motiva le tue risposte.
+~O ⊃ P e O ∨ P",Logicamente equivalente,Contraddittorio,"Né logicamente equivalente né contraddittorio, ma coerente",Incoerente,A
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+(T · ~U) ⊃ ~W
+~W ⊃ X
+~Z ⊃ W
+~(X · Z) / T ⊃ U",Valid,"Non valido. Controesempio quando T, X e Z sono vere e U e W sono false","Non valido. Controesempio quando T e X sono vere e U, W e Z sono false","Non valido. Controesempio quando T, W e Z sono vere e U e X sono false",A
+"Seleziona la migliore traduzione in logica dei predicati: Cecilia mi spezza il cuore se, e solo se, Maria o è un problema o è una ragazza.",Sic ≡ (Pm ∨ Solm),Sic ≡ (Pom • Solm),Sic ⊃ (Pm ∨ Solm),Cb ⊃ (Pm • SOLm),A
+"Seleziona la migliore traduzione nella logica dei predicati: se Delilah è a New York City, allora Juana è a Bogota o Layla è a San Juan.",Nd ⊃ (Bj • Sl),Dn ≡ (Bx • Ly),Nd ≡ (Bj • Sl),Nd ⊃ (Bj ∨ Sl),D
+"Usa la seguente chiave per tradurre la formula data di PL in frasi inglesi naturali.
+A: Marina legge un libro di Percy Jackson.
+B: Izzy gioca a Minecraft.
+C: Emily smette di lavorare.
+D: Russell prepara la cena.
+E: Ashleigh si ferma.
+~(LA ⊃ SI) • (SI ⊃ ~E)","Non è il caso che Marina stia leggendo un libro di Percy Jackson implichi che Izzy giochi a Minecraft, ma il fatto che Izzy giochi a Minecraft implica che Ashleigh non si fermi.","Se Marina non legge un libro di Percy Jackson, allora Izzy gioca a Minecraft, il che implica che Ashleigh non si fermi.","La lettura di un libro di Percy Jackson da parte di Marina non implica che Izzy giochi a Minecraft, ma Izzy gioca a Minecraft a condizione che Ashleigh non si fermi.","Non è vero che Marina legge un libro di Percy Jackson solo quando Izzy gioca a Minecraft, ma Izzy gioca a Minecraft solo quando passa Ashleigh.",A
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+(A ∨ B) ⊃ C
+DO ⊃ ~RE / RE ⊃ LA",Valid,"Non valido. Controesempio quando B, C e D sono vere e A è falsa",Non valido. Controesempio quando B e D sono vere e A e C sono false,"Non valido. Controesempio quando A, B e C sono falsi e D è vero",D
+"Seleziona la migliore interpretazione inglese degli argomenti dati nella logica dei predicati.
+RE ⊃ ~Pt
+(∀x)Px ∨ (∀x)Mx
+~Mb / ~Dh","Se il mio mal di testa è uno stato dualista, allora il tuo solletico è uno stato fisico. O tutto è fisico o tutto è mentale. Ma il mio dito rotto non è uno stato mentale. Quindi il mio mal di testa non è uno stato dualista.","Se il mio mal di testa è uno stato dualistico, allora il tuo solletico non è uno stato fisico. O tutto è fisico o tutto è mentale. Ma il mio dito rotto non è uno stato mentale. Quindi il mio mal di testa non è uno stato dualista.","Se il mio mal di testa è uno stato dualistico, allora il tuo solletico non è uno stato fisico. Se tutto è fisico allora tutto è mentale. Ma il mio dito rotto non è uno stato mentale. Quindi il mio mal di testa non è uno stato dualista.","Se il mio mal di testa è uno stato dualistico, allora il tuo solletico non è uno stato fisico. Tutto è fisico o mentale. Ma il mio dito rotto non è uno stato mentale. Quindi il mio mal di testa non è uno stato dualista.",B
+"Quale delle seguenti proposizioni è una conseguenza immediata (a un passo) in PL delle premesse date?
+LA ⊃ (SI • DO)
+~(Si • Do)
+LA ∨ (RE ∨ B)",A,~A,B,~B,B
+"Quale delle seguenti proposizioni è una conseguenza immediata (a un passo) in PL delle premesse date?
+(N ⊃ ~O) ⊃ (O ∨Q)
+P ⊃ (N ⊃ ~O)
+N ⊃ P",P,N ⊃ ~O,O ∨ Q,~P,A
+Seleziona la migliore traduzione nella logica dei predicati. La Terra non è più grande di Giove. (e: Terra; j: Giove; Bxy: x è più grande di y),~Bje,Bej,Bje~,~Bej,D
+Identifica l'antecedente della seguente proposizione condizionale: le api vincono la loro prima partita è necessario che gli Aardvarks o i Chipmunks non vincano la loro prima partita.,Gli Aardvark non vincono la loro prima partita.,Le api vincono la loro prima partita.,I Chipmunks non vincono la loro prima partita.,O gli Aardvarks o i Chipmunks non vincono la loro prima partita.,D
+Identifica l'antecedente della seguente proposizione condizionale: le api vincono la loro prima partita solo se gli oritteropi o gli scoiattoli non vincono la loro prima partita.,Gli Aardvark non vincono la loro prima partita.,Le api vincono la loro prima partita.,I Chipmunks non vincono la loro prima partita.,O gli Aardvarks o i Chipmunks non vincono le loro prime partite.,B
+Seleziona la migliore traduzione nella logica dei predicati: alcuni atleti non si infortunano.,~Ia,(∃x)(Ax • ~Ix),~Ai,(∃x)(Ix ∨ ~Ax),B
+"Costruisci una tavola di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tavole di verità, determina se le affermazioni sono logicamente equivalenti o contraddittorie. In caso contrario, determinare se sono coerenti o incoerenti. Motiva le tue risposte.
+io ≡ ~H e ~(~I ≡ H)",Logicamente equivalente,Contraddittorio,"Né logicamente equivalente né contraddittorio, ma coerente",Incoerente,B
+"Usa tabelle di verità indirette per determinare se ogni insieme di proposizioni è coerente. Se il set è coerente, scegli un'opzione con una valutazione coerente. (Potrebbero esserci altre valutazioni coerenti.)
+(T ⊃ U) ⊃ (W ⊃ U)
+T ⊃ ~(U ⊃ X)
+(T ⊃ ~X) ⊃ W",Incoerente,"Coerente. Valutazione coerente quando U, W e X sono vere e T è falso",Coerente. Valutazione coerente quando W e X sono vere e T e U sono false,Coerente. Valutazione coerente quando T e U sono vere e W e X sono false,B
+"Seleziona la migliore traduzione nella logica dei predicati: Caroline è dolce se, e solo se, Janet è fidanzata con Brad.",Cs ⊃ Ej,Sc ≡ Ej,sC ≡ eJ,Sx ≡ Jy,B
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+O l'importazione di carne bovina dall'Inghilterra è una condizione sufficiente per sovvenzionare l'agricoltura della Francia, oppure la Cina non promuove i diritti umani quando e solo quando il Sudafrica fornisce diamanti.",(E ⊃ FA) ∨ (~C ⊃ S),(F ⊃ E) ∨ (S ⊃ ~C,(E ⊃ F) ∨ ~(S ≡ C),(E ⊃ FA) ∨ (~C ≡ S),D
+"Usa la seguente chiave per tradurre la formula data di PL in frasi inglesi naturali.
+A: Marina legge un libro di Percy Jackson.
+B: Izzy gioca a Minecraft.
+C: Emily smette di lavorare.
+D: Russell prepara la cena.
+E: Ashleigh si ferma.
+(~A ∨ ~B) ⊃ C","Se né Marina legge un libro di Percy Jackson né Izzy gioca a Minecraft, allora Emily smette di lavorare.","Se non è che Marina legge un libro di Percy Jackson e Izzy gioca a Minecraft, allora Emily smette di lavorare.",O Marina che non legge un libro di Percy Jackson o Izzy che non gioca a Minecraft implica che Emily smetta di lavorare.,Emily che smette di lavorare è una condizione sufficiente perché Marina non legga un libro di Percy Jackson o Izzy non giochi a Minecraft.,C
+"Identifica la conclusione del seguente argomento. Ci sono quelli che usano le variabili predicato; i valori di queste variabili sono attributi. I predicati sono desiderati in tutte le frasi indipendentemente dal fatto che ci siano attributi a cui fare riferimento. Il predicato fittizio 'F' è generalmente ricercato per scopi espositivi. Se intendiamo quantificare gli attributi e fare riferimento ad essi, allora la chiarezza viene servita utilizzando variabili riconoscibili e nomi distintivi per gli scopi, e non mescolandoli con i predicati. (Quine, Filosofia della logica)",Ci sono quelli che usano le variabili predicato; i valori di queste variabili sono attributi.,I predicati sono desiderati in tutte le frasi indipendentemente dal fatto che ci siano attributi a cui fare riferimento.,Il predicato fittizio 'F' è generalmente ricercato per scopi espositivi.,"Se intendiamo quantificare gli attributi e fare riferimento ad essi, allora la chiarezza viene servita utilizzando variabili riconoscibili e nomi distintivi per gli scopi, e non mescolandoli con i predicati.",D
+"Usa la seguente chiave per tradurre la formula data di PL in frasi inglesi naturali.
+A: Marina legge un libro di Percy Jackson.
+B: Izzy gioca a Minecraft.
+C: Emily smette di lavorare.
+D: Russell prepara la cena.
+E: Ashleigh si ferma.
+~C ∨ D","Se Emily non smette di lavorare, Russell prepara la cena.",Emily smette di lavorare a meno che Russell non prepari la cena.,Emily smette di lavorare a meno che Russell non prepari la cena.,Emily non smette di lavorare a meno che Russell non prepari la cena.,D
+Seleziona la migliore traduzione nella logica dei predicati: Abdul e Cleopatra sono egiziani.,Ea • Ec,Ea • c,Ae ∨ Ce,Ex • Ey,A
+Seleziona la migliore traduzione nella logica dei predicati: Sheena è una punk rocker.,Sx,xS,sP,Ps,D
+Seleziona la migliore traduzione nella logica dei predicati. Kevin viene presentato a José da Wilma. (j: José; k: Kevin; w: Wilma; Ixyz: x introduce la y alla z),Iwjk,Ijkw,Ikjw,Iwkj,D
+"Seleziona la migliore traduzione nella logica dei predicati: se Eileen suona il violino, Sherri canta.",Fe ∨ Ss,eF ⊃ Ss,Fe ∨ Es,Fe ⊃ Ss,D
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~C ⊃ RE
+RE ⊃ DO / DO",Valid,Non valido. Controesempio quando C e D sono vere,Non valido. Controesempio quando C è vero e D è falso,Non valido. Controesempio quando D è vero e C è falso,A
+Seleziona la migliore traduzione nella logica dei predicati: Alcuni aironi blu migrano.,(∀x)[(Hx • Bx) • Mx],(∃x)[(Hx • Bx) ⊃ Mx],(∀x)[(Hx • Bx) ⊃ Mx],(∃x)[(Hx • Bx) • Mx],D
+"Seleziona la migliore interpretazione inglese degli argomenti dati nella logica dei predicati.
+(∃x)(Cx • Bue)
+(∀x)[(~Cx ⊃ ~Bx) ⊃ ~Og] / ~Og","Alcuni biscotti hanno farina d'avena. Se qualcosa non è un biscotto implica che non ha gocce di cioccolato, allora questo biscotto non ha farina d'avena. Quindi questo biscotto non ha farina d'avena.","Alcuni biscotti hanno farina d'avena. Se qualcosa non è un biscotto e non ha gocce di cioccolato, non ha farina d'avena. Quindi questo biscotto non ha farina d'avena.","Alcuni biscotti hanno farina d'avena. Se qualcosa non ha farina d'avena, allora non è un biscotto e non ha gocce di cioccolato. Quindi questo biscotto non ha farina d'avena.","Alcuni biscotti hanno farina d'avena. Se qualcosa non ha gocce di cioccolato implica che non è un biscotto, quindi non ha farina d'avena. Quindi questo biscotto non ha farina d'avena.",A
+"Identifica la conclusione del seguente argomento. Tutta la psicologia è rimasta bloccata nei pregiudizi morali e nelle paure. Nessuno si è avvicinato a comprenderlo come lo sviluppo della volontà di potenza. Tuttavia, se una persona comincia anche solo a considerare gli effetti dell'odio, dell'invidia, della cupidigia e della brama di governare come condizioni di vita e inoltre come fattori essenziali per l'economia generale della vita, comincerà ad avere il mal di mare. A questo punto, comincia a perdersi ea navigare oltre la moralità. Così, la psicologia diventa di nuovo la via ai problemi fondamentali. (Friedrich Nietzsche, Al di là del bene e del male)",Tutta la psicologia è rimasta bloccata nei pregiudizi morali e nelle paure.,Nessuno si è avvicinato a comprenderlo come lo sviluppo della volontà di potenza.,"Se una persona comincia anche solo a considerare gli effetti dell'odio, dell'invidia, della cupidigia e della brama di governare come condizioni di vita e inoltre come fattori essenziali per l'economia generale della vita, comincerà ad avere il mal di mare.",La psicologia ridiventa la via dei problemi fondamentali.,D
+"Usa tabelle di verità indirette per determinare se ogni insieme di proposizioni è coerente. Se il set è coerente, scegli un'opzione con una valutazione coerente. (Potrebbero esserci altre valutazioni coerenti.)
+~N ≡ (O · P)
+~O ⊃ Q
+N · ~D",Incoerente,"Coerente. Valutazione coerente quando N, O e P sono veri e Q è falso",Coerente. Valutazione coerente quando N e O sono vere e P e Q sono false,Coerente. Valutazione coerente quando N e P sono vere e O e Q sono false,C
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Si considera che una persona abbia vissuto con te per tutto l'anno in corso se la persona è nata o è morta nell'anno in corso e la tua casa è stata la casa di questa persona per tutto il tempo in cui questa persona è stata in vita.",[(B ∨ D) • H] ⊃ L,[L ⊃ (B ∨ D)] • H,L ⊃ [(B ∨ D) • H],(B ∨ D • H) ⊃ L,A
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+(O ≡ P) ∨ P / P ∨ ~O",Valid,Non valido. Controesempio quando O e P sono vere,Non valido. Controesempio quando O è vero e P è falso,Non valido. Controesempio quando P è vero e O è falso,A
+Seleziona la migliore traduzione nella logica dei predicati: Leroy è cattivo solo se DJ Khaled grida il suo nome.,Sk ≡ Bl,Bl ≡ Sk,Bx ⊃ Sy,Bl ⊃ Sk,D
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Se George si iscrive o Harry si iscrive, Ira non si iscrive.",(SOL ⊃ H) ∨ I,(SOL ∨ H) ⊃ I,(SOL ⊃ H) ∨ ~I,(SOL ∨ H) ⊃ ~I,D
+"Seleziona la migliore traduzione nella logica dei predicati: la signora Jackson mi ha prestato un po' di zucchero, ma né Janet né Latoya lo hanno fatto.",Lm ∨ ~(Jl ∨ Ll),Mim • ~(Lj • Rel),Lm • ~(Lj ∨ Ll),Lm ∨ ~(Lj • Ll),C
+Seleziona la migliore traduzione nella logica dei predicati. Alcuni animali sono trascurati da persone crudeli. (Ax: x è un animale; Cx: x è crudele; Px: x è una persona; Nxy: x trascura y),(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)],(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)],(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)],(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]},B
+"Usa tabelle di verità indirette per determinare se ogni insieme di proposizioni è coerente. Se il set è coerente, scegli un'opzione con una valutazione coerente. (Potrebbero esserci altre valutazioni coerenti.)
+(MI ⊃ FA) ⊃ SOL
+(~E ∨ F) ≡ (H ∨ I)
+io ⊃ (J ⊃ ~H)
+~SOL ⊃ ~J",Incoerente,"Coerente. Valutazione coerente quando E è vera e F, G, H, I e J sono false","Coerente. Valutazione coerente quando E e H sono vere e F, G, I e J sono false","Coerente. Valutazione coerente quando E e I sono vere e F, G, H e J sono false",B
+Seleziona la migliore traduzione nella logica dei predicati: alcuni studenti lavorano sodo.,(∃x)(Wx ∨ Sx),(∃x)(Sx ∨ Wx),(∃x)(Sx • Wx),(∃x)(Sx ⊃ Wx),C
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+O l'importazione di carne bovina dall'Inghilterra non è una condizione necessaria per sovvenzionare l'agricoltura della Francia, oppure la Cina promuove i diritti umani se il Sudafrica fornisce diamanti.",(~F ⊃ E) ∨ (C ≡ ~S),(~E ⊃ F) ∨ (C ⊃ S),(~ F ⊃ E) ∨ (C ≡ S),~(F ⊃ E) ∨ (S ⊃ C),D
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~A · ~B
+(A ∨ C) ∨ B / C",Valid,Non valido. Controesempio quando A e B sono vere e C è falsa,Non valido. Controesempio quando A è vero e B e C sono falsi,Non valido. Controesempio quando B è vero e A e C sono falsi,A
+Seleziona la migliore traduzione nella logica dei predicati. Tutti gli uccelli vivono in qualche nido. (Bx: x è un uccello; Nx: x è un nido; Lxy: x vive in y),(∀x)(∀y)[(Bx • Ny) ⊃ Lxy],(∀x)[Bx ⊃ (∃y)(Ny • Lxy)],(∀x)[(∃y)(Ny • Bx) ⊃ Lxy],(∀x)(∃y)[(Bx • Ny) ⊃ Lxy],B
+"Identifica la conclusione del seguente argomento. La teoria utilitaristica è imbarazzata dalla possibilità di mostri di utilità. Un mostro di utilità ottiene enormi guadagni di utilità, maggiori dell'utilità persa dai sacrifici degli altri. I sacrifici anche di un gran numero di altre persone sono controbilanciati dai guadagni del mostro dell'utilità. La teoria sembra richiedere che tutti noi veniamo sacrificati nelle fauci del mostro per aumentare l'utilità totale. (Robert Nozick, Anarchia, Stato e Utopia)",La teoria utilitaristica è imbarazzata dalla possibilità di mostri di utilità.,Un mostro di utilità ottiene enormi guadagni di utilità.,Un mostro di utilità ottiene guadagni di utilità maggiori dell'utilità persa dai sacrifici degli altri.,I sacrifici anche di un gran numero di altre persone sono controbilanciati dai guadagni del mostro dell'utilità.,A
+"Usa la seguente chiave per tradurre la formula data di PL in frasi inglesi naturali.
+A: Marina legge un libro di Percy Jackson.
+B: Izzy gioca a Minecraft.
+C: Emily smette di lavorare.
+D: Russell prepara la cena.
+E: Ashleigh si ferma.
+(LA ∨ ~E) ≡ (RE • ~B)",O Marina che legge un libro di Percy Jackson o Ashleigh che non si ferma è una condizione necessaria sia per Russell che prepara la cena che per Izzy che non gioca a Minecraft.,O Marina che legge un libro di Percy Jackson o Ashleigh che non si ferma è una condizione necessaria e sufficiente per Russell che prepara la cena e Izzy che gioca a Minecraft.,"Marina legge un libro di Percy Jackson a meno che Ashleigh non si fermi se, e solo se, sia Russell prepara la cena che Izzy non gioca a Minecraft.",O Marina legge un libro di Percy Jackson o Ashleigh non si ferma nel caso in cui Russell prepari la cena e Izzy non giochi a Minecraft.,D
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+A Brittany piacciono i pesci e le lucertole, ma non i gatti.",F • L • ~C,(FA • S) • ~C,(F • L) ∨ ~C,DO • (FA • SI),B
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Se Harry si iscrive o George non si iscrive, Jim si iscrive.",H ∨ (~ SOL ⊃ J),~(H ∨ SOL) ⊃ J,(H ∨ ~G) ⊃ J,(H ⊃ ~G) ∨ J,C
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~X ⊃ Y
+Y ⊃ Z
+~Z / ~X",Valid,"Non valido. Controesempio quando X, Y e Z sono vere",Non valido. Controesempio quando Y e Z sono vere e Z è falsa,Non valido. Controesempio quando X è vero e Y e Z sono false,D
+S Selezionare la migliore traduzione nella logica dei predicati. Alcune persone gentili aiutano alcune specie in via di estinzione. (Es: x è in pericolo; Kx: x è gentile; Px: x è una persona; Sx: x è una specie; Hxy: x aiuta y),(∃x){(Kx • Px) • (∃y)[(Ey • Sy) • Hxy]},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hxy},(∃x)(∃y){[(Kx • Sx) • (Ey • Py)] • Hyx},(∃x)(∃y){[(Kx • Px) • (Ey • Sy)] ⊃ Hxy},A
+"Seleziona la migliore interpretazione inglese della proposizione data, usando la seguente chiave di traduzione: Ax: x è un appartamento Hx: x è una casa Lx: x è grande Bxy: x è più grande di y (∀x)[Ax ⊃ (∃y )(Hy • Bxy)]",Ogni appartamento è più grande di una casa.,Ogni casa è più grande di tutti gli appartamenti.,Ogni casa è più grande di un appartamento.,Alcune case sono più grandi di ogni appartamento.,A
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+Q ≡ R
+~(S ∨ Q) / R",Valid,Non valido. Controesempio quando Q e S sono vere e R è falsa,Non valido. Controesempio quando Q è vero e S e R sono falsi,"Non valido. Controesempio quando Q, S e R sono false",D
+Identifica l'antecedente della seguente proposizione condizionale: l'università aumenta le tasse scolastiche solo se sia il governatore lo approva sia il consiglio di amministrazione lo raccomanda.,L'università alza le tasse.,Il governatore lo approva.,Lo raccomanda il consiglio di amministrazione.,Il governatore lo approva e il consiglio di amministrazione lo raccomanda.,A
+"Quale delle seguenti proposizioni è una conseguenza immediata (a un passo) in PL delle premesse date?
+(A ∨ B) ⊃ (C ∨ D)
+A ∨ B
+~C",~A ∨ ~B,~~C,C ∨ D,(A ∨ B) ⊃ D,C
+"Identifica l'antecedente della seguente proposizione condizionale: quando l'università aumenta le tasse scolastiche, o il governatore lo approva o il consiglio di amministrazione non lo impedisce.",L'università alza le tasse.,Il governatore lo approva.,Il consiglio di amministrazione lo impedisce.,Il consiglio di amministrazione non lo impedisce.,A
+Seleziona la migliore traduzione nella logica dei predicati. Marco non si sposta dalla Spagna all'Italia. (i: Italia; m: Marco; s: Spagna; Mxyz: x si sposta in y da z),~Mmsi,M~mis,~Mmis,M~msi,C
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~S ∨ T
+~S·U
+~T ∨ U / T · U",Valid,"Non valido. Controesempio quando S, T e U sono vere",Non valido. Controesempio quando S e U sono vere e T è falsa,Non valido. Controesempio quando U è vera e S e T sono false,D
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+I medici sono utili a meno che i loro pazienti non siano maleducati.",H ≡ R,H • R,H ∨ ~R,H ∨ R,D
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+L ⊃ [(M ∨ ~N) ⊃ O]
+(N ⊃ O) ⊃ (~ P ⊃ Q)
+R ⊃ ~Q / L ⊃ (R ⊃ P)",Valid,"Non valido. Controesempio quando L, M, O, Q e R sono vere e N e P sono false","Non valido. Controesempio quando L, N, O, Q e R sono vere e M e P sono false","Non valido. Controesempio quando L, N e R sono vere e M, O, P e Q sono false",D
+"Identifica la conclusione del seguente argomento. Si suppone che il senso di un termine ne determini il riferimento. Ma il riferimento può variare senza alcuna differenza di pensiero. Quindi, i sensi dei termini devono poter variare senza variazione nel pensiero. Quindi, i nostri pensieri non determinano i significati dei nostri termini; i significati non sono nella testa. (Hilary Putnam)",Si suppone che il senso di un termine ne determini il riferimento.,Ma il riferimento può variare senza alcuna differenza di pensiero.,Il riferimento può variare senza alcuna differenza di pensiero.,I nostri pensieri non determinano il significato dei nostri termini; i significati non sono nella testa.,D
+"Costruisci una tavola di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tavole di verità, determina se le affermazioni sono logicamente equivalenti o contraddittorie. In caso contrario, determinare se sono coerenti o incoerenti. Motiva le tue risposte.
+(SOL ∨ ~H) ⊃ SOL e ~SOL ≡ (~H · SOL)",Logicamente equivalente,Contraddittorio,"Né logicamente equivalente né contraddittorio, ma coerente",Incoerente,C
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+O l'importazione di carne bovina dall'Inghilterra è una condizione necessaria per sovvenzionare l'agricoltura della Francia o la promozione dei diritti umani da parte della Cina non è una condizione sufficiente per la fornitura di diamanti del Sud Africa.",(E ≡ F) ∨ ~(C ≡ S),(E ≡ F) ∨ (~C ⊃ S),(E ⊃ FA) ∨ ~(C ⊃ S),(F ⊃ E) ∨ ~(C ⊃ S),D
+"Seleziona la migliore interpretazione inglese degli argomenti dati nella logica dei predicati.
+Wn ∨ Wm
+(∀x)[Lx ⊃ (Dx ⊃ ~Wx)]
+Ln • Dn / ~(∀x)~Wx",O Nancy o Marvin sono al lavoro. Tutti gli avvocati non sono al lavoro se sono fuori a cena. Nancy è un avvocato ed è fuori a cena. Quindi non tutto non funziona.,O Nancy o Marvin sono al lavoro. Tutti gli avvocati sono fuori a cena se non sono al lavoro. Nancy è un avvocato ed è fuori a cena. Quindi non tutto non funziona.,O Nancy o Marvin sono al lavoro. Tutti gli avvocati sono fuori a cena se non sono al lavoro. Nancy è un avvocato ed è fuori a cena. Quindi non tutto funziona.,O Nancy o Marvin sono al lavoro. Tutti gli avvocati non sono al lavoro se sono fuori a cena. Nancy è un avvocato ed è fuori a cena. Quindi non tutto funziona.,A
+"Identifica la conclusione del seguente argomento. Ricorda di rimuovere qualsiasi indicatore di conclusione. È sbagliato per la società uccidere un assassino. Ciò segue perché se un assassino ha torto nell'uccidere la sua vittima, allora anche la società ha torto nell'uccidere l'assassino. E un assassino ha torto a uccidere la sua vittima.",È sbagliato per la società uccidere un assassino.,"Ciò segue perché se un assassino ha torto nell'uccidere la sua vittima, allora anche la società ha torto nell'uccidere l'assassino.","Se un assassino ha torto nell'uccidere la sua vittima, allora anche la società ha torto nell'uccidere l'assassino.",E un assassino ha torto a uccidere la sua vittima.,A
+"Quale delle seguenti proposizioni non è una conseguenza immediata (a un passo) in PL delle premesse date?
+io ⊃ (J ≡ K)
+(J ≡ K) ⊃ (L ∨ M)
+I⊃~L",~L,J ≡ K,io ⊃ (L ∨ M),~L ⊃ (J ≡ K),D
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+io ≡ ~J
+io ∨ J / io",Valid,Non valido. Controesempio quando I e J sono vere,Non valido. Controesempio quando I è vero e J è falso,Non valido. Controesempio quando J è vero e I è falso,D
+Seleziona la migliore traduzione nella logica dei predicati: alcune persone sono fortunate.,(∃x)(Fx • Lx),Fl,Lf,(∀x)(Fx • Lx),A
+Seleziona la migliore traduzione nella logica dei predicati. Alexis viene accolto da Ben. (a: Alexis; b: Ben; Gxy: x saluta y),Gab,~Gba,aGb,Gba,D
+Seleziona la migliore traduzione nella logica dei predicati: non tutte le aragoste sono rosse.,~(∀x)(Lx ⊃ Rx),~(∃x)(Lx ⊃ Rx),~(∃x)(Lx • Rx),~(∀x)(Lx • Rx),A
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+H ≡ (I · ~J)
+K ≡ ~ H
+~(K ⊃ J) / I ≡ J",Valid,"Non valido. Controesempio quando I, H e K sono veri e J è falso",Non valido. Controesempio quando I e H sono vere e J e K sono false,"Non valido. Controesempio quando K è vero e I, H e J sono falsi",A
+"Costruisci una tavola di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tavole di verità, determina se le affermazioni sono logicamente equivalenti o contraddittorie. In caso contrario, determinare se sono coerenti o incoerenti. Motiva le tue risposte.
+~(J ∨ K) · L e (L ⊃ J) · K",Logicamente equivalente,Contraddittorio,"Né logicamente equivalente né contraddittorio, ma coerente",Incoerente,D
+Seleziona la migliore traduzione in logica dei predicati: tutti gli studenti del primo anno fanno un test di nuoto.,(∀x)(Sx ⊃ Fx),(∀x)(Fx ⊃ Sx),(∀x)(Fx ∨ Sx),(∀x)(Fx ≡ Sx),B
+Seleziona la migliore traduzione nella logica dei predicati: Johnny è arrivato in ritardo.,jL,Lj,Cj ∨ Lj,Lx,B
+Seleziona la migliore traduzione nella logica dei predicati: nessun laureato senior senza una specializzazione.,(∀x)(Sx ⊃ ~Gx),~(∀x)(Sx ⊃ Gx),(∀x)( ~Sx ⊃ ~Gx),(∀x) ~(Sx ⊃ ~Gx),A
+"Identifica la conclusione del seguente argomento. Da un punto di vista storico, la genetica è una scienza giovane. I principi che governano i tratti ereditari sono stati descritti meno di 150 anni fa. Inoltre, verso la fine del XX secolo, furono riscoperte le leggi sull'eredità. Ma anche allora, l'importanza del DNA non fu veramente compresa fino agli anni '50.","Ma anche allora, l'importanza del DNA non fu veramente compresa fino agli anni '50.",L'importanza del DNA non è stata veramente compresa fino agli anni '50.,"Da un punto di vista storico, la genetica è una scienza giovane.",I principi che governano i tratti ereditari sono stati descritti meno di 150 anni fa.,C
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+O l'importazione di carne bovina dall'Inghilterra è una condizione necessaria per sovvenzionare l'agricoltura della Francia o la Cina promuove i diritti umani dato che il Sudafrica non fornisce diamanti.",(MI ⊃ FA) ∨ (DO ≡ ~S),(F ⊃ E) ∨ (~S ≡ C),(E ⊃ FA) ∨ (S ⊃~C),(FA ⊃ MI) ∨ (~S ⊃ DO),D
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+O l'importazione di carne bovina dall'Inghilterra è una condizione sufficiente per sovvenzionare l'agricoltura da parte della Francia o la promozione dei diritti umani da parte della Cina è una condizione necessaria per la fornitura di diamanti del Sud Africa.",(E ⊃ FA) ∨ (S ⊃ DO),(FA ⊃ MI) ∨ (DO ⊃ S),(MI ⊃ FA) ∨ (DO ⊃ S),(F ⊃ E) ∨ (S ⊃ C),A
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+A Dylan non piacciono né la matematica né la scienza.",M ∨ S,~(M • S),~(M ∨ S),~M ∨ ~S,C
+Seleziona la migliore traduzione nella logica dei predicati: tutti i robot sono artefatti.,(∀x)(Ax ∨ Rx),(∀x)(Ax • Rx),(∀x)(Rx ⊃ Ax),(∀x)(Rx • Ax),C
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+Poiché l'università ha aumentato le tasse scolastiche, il presidente l'ha approvato e il consiglio non l'ha impedito.",(P • ~B) ⊃ U,(U ⊃ P) • B,U ⊃ (P • ~B),U ⊃ (P ∨ ~B),C
+"Identifica la conclusione del seguente argomento. Non dovremmo abolire la pena capitale. Se lo facciamo, le carceri diventeranno più affollate. Se le carceri diventano più affollate, allora dovremo costruire più carceri. E non vogliamo costruire altre prigioni.",Non dovremmo abolire la pena capitale.,"Se lo facciamo, le carceri diventeranno più affollate.","Se le carceri diventano più affollate, allora dovremo costruire più carceri.",Dovremo costruire più prigioni.,A
+"Quale delle formule date di PL è la migliore simbolizzazione della seguente frase?
+O il fatto che l'Inghilterra non importi carne bovina è una condizione necessaria perché la Francia sovvenzioni l'agricoltura, oppure la Cina promuove i diritti umani se e solo se il Sudafrica non fornisce diamanti.",(F ⊃ ~E) ∨ (C ≡ ~S),(~E ⊃ FA) ∨ (DO ⊃ ~S),~(F ⊃ E) ∨ (~S ⊃ C),(F ⊃ E) ∨ (C ≡ ~S),A
+"Usa tabelle di verità indirette per determinare se il seguente argomento è valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+(K · L) ⊃ M
+N ⊃ ~M
+N ∨ K / L ⊃ K",Valid,"Non valido. Controesempio quando L, M e N sono vere e K è falsa",Non valido. Controesempio quando L e M sono vere e K e N sono false,Non valido. Controesempio quando L e N sono vere e K e M sono false,D
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+(SOL ≡ H) · ~I
+~ SOL ∨ (~ H ∨ I) / SOL",Valid,Non valido. Controesempio quando H e I sono vere e G è falsa,Non valido. Controesempio quando H è vero e I e G sono falsi,"Non valido. Controesempio quando H, I e G sono falsi",D
+"Costruisci una tavola di verità completa per il seguente argomento. Quindi, usando la tavola della verità, determina se l'argomento è valido o non valido. Se l'argomento non è valido, scegli un'opzione che presenti un controesempio. (Potrebbero esserci anche altri controesempi.)
+~(M ≡ ~N)
+M/N",Valid,Non valido. Controesempio quando M e N sono vere,Non valido. Controesempio quando M è vero e N è falso,Non valido. Controesempio quando N è vero e M è falso,A
+Seleziona la migliore traduzione nella logica dei predicati. Alcuni amministratori delegati sono più ricchi di tutti. (Cx: x è un CEO; Px: x è una persona; Wxy: x è più ricco di y),(∃x)[Cx • (∀y)(Py • Wxy)],(∃x)[Cx ⊃ (∀y)(Py ⊃ Wxy)],(∃x)[Cx • (∀y)(Py ⊃ Wxy)],(∀x)[Px ⊃ (∃y)(Cy ⊃ Wxy)],C
+Seleziona la migliore traduzione nella logica dei predicati. Tutti i bambini vanno in qualche scuola. (Cx: x è un bambino; ​​Sx: x è una scuola; Gxy: x va in y),(∀x)(∃y)[(Cx • Sy) • Gxy),(∀x)[Sx ⊃ (∃y)(Cy • Gxy)],(∀x)[Cx ⊃ (∃y)(Sy • Gxy)],(∀x)[Sx • (∃y)(Cy • Gxy)],C

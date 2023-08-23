@@ -1,0 +1,492 @@
+Quale delle seguenti è la definizione più appropriata di intervallo di confidenza al 99%?,"Il 99% delle volte in campioni ripetuti, l'intervallo conterrebbe il vero valore del parametro","Il 99% delle volte in campioni ripetuti, l'intervallo conterrebbe il valore stimato del parametro","Il 99% delle volte in campioni ripetuti, l'ipotesi nulla verrà respinta","Il 99% delle volte in campioni ripetuti, l'ipotesi nulla non verrà respinta quando era falsa",A
+Qual è la differenza principale tra gli approcci Dickey Fuller (DF) e Phillips-Perron (PP) al test della radice unitaria?,ADF è un approccio a equazione singola per il test della radice unitaria mentre PP è un approccio di sistema,I test PP invertono l'ipotesi DF nulla e alternativa in modo che vi sia stazionarietà sotto l'ipotesi nulla del test PP,Il test PP incorpora una correzione automatica per i residui autocorrelati nella regressione del test,I test PP hanno una buona potenza in piccoli campioni mentre i test DF no.,C
+"Se nella pratica ci fosse un effetto leva, quale sarebbe la forma della curva dell'impatto delle notizie come modello che tiene conto di tale leva?",Aumenterebbe più rapidamente per disturbi negativi che per quelli positivi della stessa entità,Sarebbe simmetrico rispetto allo zero,Aumenterebbe meno rapidamente per le perturbazioni negative che per quelle positive della stessa grandezza,Sarebbe zero per tutti i disturbi positivi,A
+Quale delle seguenti affermazioni è falsa riguardo al modello di probabilità lineare?,Non c'è nulla nel modello che garantisca che le probabilità stimate siano comprese tra zero e uno,"Anche se le probabilità sono troncate a zero e uno, ci saranno probabilmente molte osservazioni per le quali la probabilità è esattamente zero o esattamente uno",I termini di errore saranno eteroschedastici e non distribuiti normalmente,Il modello è molto più difficile da stimare rispetto a un modello di regressione standard con una variabile dipendente continua,D
+Quale delle seguenti affermazioni riguardanti la popolazione di regressione e il campione è FALSA?,La popolazione è la raccolta totale di tutti gli elementi di interesse,La popolazione può essere infinita,"In teoria, il campione potrebbe essere più grande della popolazione",Un campione casuale è quello in cui ogni singolo elemento della popolazione ha la stessa probabilità di essere estratto.,C
+Quale delle seguenti affermazioni è NON CORRETTA riguardo a un confronto tra le statistiche Box-Pierce Q e Ljung-Box Q* per la dipendenza lineare nelle serie temporali?,"Asintoticamente, i valori delle due statistiche di test saranno uguali",Il test Q ha migliori proprietà per piccoli campioni rispetto al test Q*,Il test Q a volte è sovradimensionato per piccoli campioni,"Poiché la dimensione del campione tende all'infinito, entrambi i test mostreranno una tendenza a rifiutare sempre l'ipotesi nulla di zero coefficienti di autocorrelazione.",B
+Un modello parsimonioso è quello che,Include troppe variabili,Include il minor numero di variabili possibile per spiegare i dati,È un modello ben specificato,È un modello specificato in modo errato,A
+Quale delle seguenti NON è una caratteristica dei rendimenti composti continuamente (cioè rendimenti logaritmici)?,Possono essere interpretati come variazioni continue dei prezzi,Possono essere aggiunti nel tempo per fornire rendimenti per periodi di tempo più lunghi,Possono essere aggiunti a un portafoglio di attività per ottenere rendimenti di portafoglio,Di solito hanno la coda grassa,C
+"Quale delle seguenti caratteristiche delle serie temporali dei rendimenti delle attività finanziarie potrebbe essere catturata utilizzando un modello GARCH(1,1) standard?
+
+i) Code larghe nella distribuzione dei rendimenti
+
+
+ii) Effetti leva
+
+
+iii) Raggruppamento della volatilità
+
+
+iv) Volatilità che influisce sui rendimenti",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",B
+"Si consideri la stima di un modello GARCH-M. Se i dati utilizzati fossero una serie temporale dei rendimenti percentuali giornalieri delle obbligazioni societarie, quale dei seguenti ti aspetteresti che sia il valore della stima del parametro GARCH-in-mean?",Meno di -1,Tra -1 e 0,Tra 0 e 1,Più grande di 1,C
+"In quale delle seguenti situazioni sarebbe preferibile il bootstrap alla pura simulazione?
+
+i) Se si desidera che le proprietà distributive dei dati nell'esperimento
+
+sono gli stessi di alcuni dati reali
+
+
+ii) Se si desidera che le proprietà distributive dei dati nell'esperimento
+
+sono noti esattamente
+
+
+iii) Se le proprietà distributive dei dati effettivi sono sconosciute
+
+
+iv) Se il campione di dati effettivi disponibili è molto piccolo",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iv) solo","(i), (ii), (iii) e (iv)",B
+"Quale delle seguenti può essere una conseguenza della violazione di uno o più presupposti del CLRM?
+
+i) Le stime dei coefficienti non sono ottimali
+
+
+ii) Le stime dell'errore standard non sono ottimali
+
+
+iii) Le distribuzioni ipotizzate per le statistiche test non sono appropriate
+
+
+iv) Conclusioni sulla solidità delle relazioni tra dipendenti
+
+e le variabili indipendenti potrebbero non essere valide.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",D
+Quale delle seguenti affermazioni è vera riguardo alla previsione in econometria?,Le previsioni possono essere fatte solo per dati di serie temporali,I modelli specificati in modo errato producono sicuramente previsioni imprecise,Le previsioni strutturali sono più semplici da produrre rispetto a quelle dei modelli di serie temporali,La capacità di previsione nel campione è un test scadente dell'adeguatezza del modello,D
+Il pacf è necessario per distinguere tra,Un modello AR e un modello MA,Un modello AR e un modello ARMA,Un modello MA e un modello ARMA,Diversi modelli all'interno della famiglia ARMA,B
+L'autocorrelazione residua negativa è indicata da quale delle seguenti?,Un andamento ciclico nei residui,Uno schema alternato nei residui,Una completa casualità nei residui,Residui che sono tutti prossimi allo zero,B
+"Quali delle seguenti affermazioni sono vere riguardo a un confronto tra i modelli ARCH(q) e GARCH(1,1)?
+
+i) Il modello ARCH(q) è probabilmente il più parsimonioso
+
+
+ii) È più probabile che il modello ARCH(q) violi i vincoli di non negatività
+
+
+iii) Il modello ARCH(q) può consentire un numero infinito di precedenti ritardi del quadrato
+
+ritorna per influenzare la varianza condizionale corrente
+
+
+iv) Il modello GARCH(1,1) sarà solitamente sufficiente per catturare tutta la dipendenza
+
+nella varianza condizionale",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+"Quale delle seguenti affermazioni è vera riguardo a un sistema triangolare o ricorsivo?
+
+i) I parametri possono essere validamente stimati utilizzando applicazioni separate di OLS to
+
+ciascuna equazione
+
+
+ii) Le variabili indipendenti possono essere correlate con i termini di errore in altri
+
+equazioni
+
+
+iii) Un'applicazione di 2SLS porterebbe a stime dei parametri imparziali ma inefficienti
+
+
+iv) Le variabili indipendenti possono essere correlate con i termini di errore nelle equazioni
+
+in cui appaiono come variabili indipendenti",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+Quale delle seguenti affermazioni descrive meglio la rappresentazione algebrica della retta di regressione adattata?,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t,\hat{y}_t = \hat{\alpha} + \hat{\beta}x_t + u_t,y_t = \hat{\alpha} + \hat{\beta}x_t + \hat{u}_t,B
+Quali sono le dimensioni di $\hat{u}^t \hat{u}?,T x k,T x 1,k x 1,1 x 1,D
+"Le radici caratteristiche del processo MA
+
+$y_t = -3u_{t-1} + u_{t-2} + u_t$
+
+Sono",1 and 2,1 and 0.5,2 and -0.5,1 and -3,B
+"Quale delle seguenti è un'espressione equivalente per dire che la variabile esplicativa è ""non stocastica""?",La variabile esplicativa è in parte casuale,La variabile esplicativa è fissata in campioni ripetuti,La variabile esplicativa è correlata agli errori,La variabile esplicativa ha sempre valore uno,B
+"Supponiamo che il test di Durbin Watson venga applicato a una regressione contenente due variabili esplicative più una costante con 50 punti dati. La statistica del test assume un valore di 1,53. Qual è la conclusione appropriata?",I residui sembrano essere positivamente autocorrelati,I residui sembrano essere negativamente autocorrelati,I residui sembrano non essere autocorrelati,Il risultato del test è inconcludente,D
+"Se OLS viene utilizzato in presenza di autocorrelazione, quali delle seguenti saranno probabili conseguenze?
+
+i) Le stime dei coefficienti possono essere fuorvianti
+
+
+ii) I test di ipotesi potrebbero giungere a conclusioni errate
+
+
+iii) Le previsioni fatte dal modello potrebbero essere distorte
+
+
+iv) Gli errori standard possono essere inappropriati",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+Quali saranno le proprietà dello stimatore OLS in presenza di multicollinearità?,"Sarà coerente, imparziale ed efficiente",Sarà coerente e imparziale ma non efficiente,Sarà coerente ma non imparziale,Non sarà coerente,A
+Quale delle seguenti NON sarebbe una conseguenza dell'utilizzo di dati non stazionari in forma di livelli?,La regressione $R^2$ potrebbe essere falsamente elevata,Le statistiche dei test potrebbero non seguire le distribuzioni standard,Le deduzioni statistiche potrebbero non essere valide,Le stime dei parametri possono essere distorte,D
+"Se una serie, y, segue una passeggiata aleatoria, qual è la previsione ottimale di un passo avanti di y?",Il valore corrente di y,Zero,One,Il valore medio di y nel periodo nel campione,A
+La condizione dell'ordine è,Condizione necessaria e sufficiente per l'identificazione,Condizione necessaria ma non sufficiente per l'identificazione,Condizione sufficiente ma non necessaria per l'identificazione,Una condizione che non è né necessaria né sufficiente per l'identificazione,B
+"Se si dice che uno stimatore ha varianza minima, quale delle seguenti affermazioni NON è implicita?",La probabilità che la stima sia molto lontana dal suo vero valore è ridotta al minimo,Lo stimatore è efficiente,"Tale stimatore sarebbe definito ""migliore""",Tale stimatore sarà sempre imparziale,D
+"Quali dei seguenti sono svantaggi dell'approccio Dickey-Fuller/Engle-Granger al test per la cointegrazione e la modellazione delle relazioni di cointegrazione?
+
+i) Si può stimare solo una relazione di cointegrazione
+
+ii) In particolare per piccoli campioni. C'è un'alta probabilità che i test suggeriscano che le variabili non sono cointegrate quando lo sono
+
+iii) Non è possibile fare inferenze sulla regressione di cointegrazione
+
+iv) La procedura obbliga il ricercatore a specificare quale sia la variabile dipendente e quali le variabili indipendenti.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",D
+Quale delle seguenti affermazioni è vera riguardo alla funzione di regressione della popolazione (PRF) e alla funzione di regressione del campione (SRF)?,Il PRF è il modello stimato,Il PRF viene utilizzato per dedurre i valori probabili del SRF,Se il modello è buono può essere determinato confrontando SRF e PRF,Il PRF è una descrizione del processo pensato per generare i dati.,D
+"Quale dei seguenti è uno svantaggio dell'approccio da generale a specifico o ""LSE"" (""Hendry"") alla costruzione di modelli econometrici, rispetto all'approccio da specifico a generale?",Alcune variabili possono essere escluse nella prima fase portando a distorsioni dei coefficienti,Il modello finale può mancare di interpretazione teorica,Il modello finale potrebbe essere statisticamente inadeguato,"Se il modello iniziale è specificato in modo errato, tutti i passaggi successivi non saranno validi.",B
+"Quale delle seguenti affermazioni è vera riguardo alla stima di massima verosimiglianza (ML) nel contesto dei modelli GARCH?
+
+i) La stima di massima verosimiglianza seleziona i valori dei parametri che massimizzano la
+
+probabilità che avremmo effettivamente osservato i valori della serie y che noi
+
+effettivamente fatto.
+
+
+ii) I modelli GARCH possono essere stimati solo da ML e non da OLS
+
+
+iii) Per la stima di un modello lineare standard (senza GARCH), OLS e ML
+
+le stime per i parametri della pendenza e dell'intercetta saranno identiche tranne lo stimatore
+
+poiché la varianza dei disturbi è leggermente diversa
+
+
+iv) La maggior parte dei pacchetti informatici utilizza procedure numeriche per stimare i modelli GARCH
+
+piuttosto che un insieme di formule analitiche",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",D
+Includere valori ritardati rilevanti della variabile dipendente sul lato destro di un'equazione di regressione potrebbe portare a quale dei seguenti?,Stime dei coefficienti distorte ma coerenti,Stime dei coefficienti distorte e incoerenti,Stime dei coefficienti imparziali ma incoerenti,Stime dei coefficienti imparziali e coerenti ma inefficienti.,A
+Quale dei seguenti fattori può portare a un grado relativamente elevato di accuratezza delle previsioni fuori campione?,Un modello basato sulla teoria finanziaria,Un modello che contiene molte variabili,Un modello la cui variabile dipendente ha recentemente mostrato un cambiamento strutturale,Un modello che è interamente di natura statistica senza spazio per la modifica giudicante delle previsioni,A
+"Quali dei seguenti sono approcci plausibili per trattare l'autocorrelazione residua?
+
+i) Prendere i logaritmi di ciascuna delle variabili
+
+ii) Aggiungere i valori ritardati delle variabili all'equazione di regressione
+
+iii) Utilizzare variabili fittizie per rimuovere le osservazioni periferiche
+
+iv) Provare un modello in prima forma differenziata piuttosto che in livelli.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+Per un processo autoregressivo da considerarsi stazionario,Le radici dell'equazione caratteristica devono trovarsi tutte all'interno della circonferenza unitaria,Le radici dell'equazione caratteristica devono trovarsi tutte sulla circonferenza unitaria,Le radici dell'equazione caratteristica devono trovarsi tutte al di fuori della circonferenza unitaria,Le radici dell'equazione caratteristica devono essere tutte minori di uno in valore assoluto,C
+"Quali delle seguenti affermazioni sono vere riguardo ai criteri di informazione?
+
+(i) R-quadrato corretto è un criterio informativo
+
+(ii) Se la somma dei quadrati residua diminuisce quando viene aggiunto un ulteriore termine, il valore del criterio informativo diminuirà
+
+(iii) Il criterio informativo di Akaike porta sempre a modelli di ordini che sono almeno grandi quanto quelli del criterio informativo di Schwarz
+
+(iv) Il criterio informativo di Akaike è coerente",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",B
+"La ""trasformazione interna"" implica",Prendendo i valori medi delle variabili,Sottraendo la media di ogni entità da ogni osservazione su quell'entità,Stima di un modello di dati panel utilizzando variabili fittizie dei minimi quadrati,Utilizzo di manichini temporali e manichini trasversali in un modello di pannello a effetti fissi,B
+"Lo scopo di ""aumentare"" la regressione del test Dickey-Fuller è quello di",Assicurarsi che non vi sia eteroschedasticità nei residui di regressione del test.,Assicurarsi che i residui della regressione del test siano distribuiti normalmente,Assicurarsi che non vi sia autocorrelazione nei residui di regressione del test,Assicurarsi che tutta la non stazionarietà sia presa in considerazione.,C
+"Se una serie, y, segue una passeggiata casuale con deriva b, qual è la previsione ottimale un passo avanti della variazione di y?",Il valore corrente di y,Zero,One,Il valore medio della variazione di y nel periodo nel campione,D
+"Quali dei seguenti sono approcci plausibili per trattare un modello che mostra eteroschedasticità?
+
+i) Prendere i logaritmi di ciascuna delle variabili
+
+ii) Utilizzare errori standard opportunamente modificati
+
+iii) Usare una procedura dei minimi quadrati generalizzata
+
+iv) Aggiungere i valori ritardati delle variabili all'equazione di regressione.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Quali delle seguenti affermazioni sono vere riguardo ai residui standardizzati (residui divisi per le rispettive deviazioni standard condizionali) da un modello GARCH stimato?
+
+i) Si assume che siano a distribuzione normale
+
+
+ii) I loro quadrati saranno correlati ai loro valori quadrati ritardati se il modello GARCH lo è
+
+adeguata
+
+
+iii) In pratica, è probabile che abbiano code grosse
+
+
+iv) Se il modello GARCH è adeguato, i residui standardizzati ei residui grezzi
+
+sarà identico",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",B
+Quale delle seguenti affermazioni è vera riguardo ai VAR?,Le stime dei coefficienti hanno interpretazioni teoriche intuitive,Le stime dei coefficienti di solito hanno lo stesso segno per tutti i ritardi di una data variabile in una data equazione,I VAR spesso producono previsioni migliori rispetto ai modelli strutturali a equazioni simultanee,Tutti i componenti di un VAR devono essere stazionari prima di poter essere utilizzati per le previsioni,C
+Quale delle seguenti affermazioni è NON CORRETTA riguardo al classico quadro di verifica delle ipotesi?,"Se l'ipotesi nulla è rifiutata, l'alternativa è accettata",L'ipotesi nulla è l'affermazione che viene testata mentre l'alternativa comprende i restanti risultati di interesse,Gli approcci del test di significatività e dell'intervallo di confidenza daranno sempre le stesse conclusioni,I test di ipotesi vengono utilizzati per fare inferenze sui parametri della popolazione.,A
+"Avrà un modello ARMA(p,q) (p, q sono numeri interi maggiori di zero).",Un acf e un pacf che declinano entrambi geometricamente,Un acf che declina geometricamente e un pacf che è zero dopo p ritardi,Un acf che declina geometricamente e un pacf che è zero dopo q ritardi,Un acf che è zero dopo p ritardi e un pacf che è zero dopo q ritardi,A
+"Supponiamo che la seguente regressione sia stimata utilizzando 27 osservazioni trimestrali:
+
+$y_t = \beta_1 + \beta_2 x_2 + \beta_3 x_{3t} + u_t$
+
+Qual è il valore critico appropriato per una dimensione del test del 5% su due lati di $H_0: \beta_3 = 1$?",1.64,1.71,2.06,1.96,C
+"Supponiamo che due ricercatori, utilizzando le stesse 3 variabili e le stesse 250 osservazioni su ciascuna variabile, stimino un VAR. Uno stima un VAR(6), mentre l'altro stima un VAR(4). Le determinanti delle matrici varianza-covarianza dei residui per ogni VAR sono rispettivamente 0,0036 e 0,0049. Quali sono i valori della statistica del test per eseguire un test per verificare se il VAR(6) può essere ristretto a un VAR(4)?",77.07,0.31,0.33,4.87,A
+Quale dei seguenti è uno SVANTAGGIO dell'utilizzo di modelli di serie storiche puri (rispetto ai modelli strutturali)?,Non sono teoricamente motivati,Non possono produrre facilmente previsioni,Non possono essere utilizzati per dati ad altissima frequenza,È difficile determinare le variabili esplicative appropriate da utilizzare nei modelli di serie temporali pure,A
+"Quali dei seguenti sono nomi alternativi per la variabile dipendente (solitamente indicata con y) nell'analisi di regressione lineare?
+
+(i) Il regressando
+
+(ii) Il regressore
+
+(iii) La variabile spiegata
+
+(iv) La variabile esplicativa",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",B
+"Quali dei seguenti sono vantaggi dell'approccio VAR alla modellazione della relazione tra variabili rispetto alla stima di modelli strutturali completi?
+
+i) I VAR ricevono una forte motivazione dalla teoria economica e finanziaria
+
+
+ii) I VAR nelle loro forme ridotte possono essere usati facilmente per produrre previsioni di serie storiche
+
+
+iii) I modelli VAR sono tipicamente molto parsimoniosi
+
+
+iv) OLS può essere applicato separatamente a ciascuna equazione in forma ridotta VAR",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+Quale delle seguenti affermazioni è VERA riguardo al modello di regressione standard?,y ha una distribuzione di probabilità,x ha una distribuzione di probabilità,Si presume che il termine di disturbo sia correlato con x,"Per un modello adeguato, il residuo (u-hat) sarà zero per tutti i punti dati del campione",A
+"Considera il seguente modello per $y_t$:
+
+$y_t = \mu + \lambda t + u_t$
+
+Quale delle seguenti definizioni descrive più accuratamente il processo per $y_t$?",Un processo root unitario,Un processo stazionario,Un processo di trend deterministico,Una passeggiata casuale con deriva,C
+Quale delle seguenti affermazioni è corretta riguardo ai modelli logit e probit?,Usano un metodo diverso per trasformare il modello in modo che le probabilità siano comprese tra zero e uno,Il modello logit può portare a troppe osservazioni che cadono esattamente a zero o esattamente a uno,"Per il modello logit, l'effetto marginale di un cambiamento in una delle variabili esplicative è semplicemente la stima del parametro associato a quella variabile, mentre questo non è il caso per il modello probit",Il modello probit si basa su una funzione logistica cumulativa,A
+Qual è lo svantaggio più importante dell'approccio VECH diagonale alla costruzione di modelli GARCH multivariati superato dalla formulazione BEKK?,Il modello VECH diagonale è difficile da interpretare intuitivamente,Il modello VECH diagonale contiene troppi parametri,Il modello VECH diagonale non garantisce una matrice di varianza-covarianza definita positiva,Il modello BEKK riduce il problema di dimensionalità che sorge quando un numero di serie viene modellato insieme.,C
+"Se una variabile rilevante viene omessa da un'equazione di regressione, le conseguenze sarebbero che:
+
+i) Gli errori standard sarebbero distorti
+
+
+ii) Se la variabile esclusa non è correlata con tutte le variabili incluse, tutte di
+
+i coefficienti di pendenza saranno incoerenti.
+
+
+iii) Se la variabile esclusa non è correlata con tutte le variabili incluse, il
+
+il coefficiente di intercettazione sarà incoerente.
+
+
+iv) Se la variabile esclusa non è correlata con tutte le variabili incluse, tutte di
+
+i coefficienti di pendenza e intercetta saranno coerenti e imparziali ma inefficienti.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Quali dei seguenti sono nomi alternativi per la variabile indipendente (solitamente indicata con x) nell'analisi di regressione lineare?
+
+(i) Il regressore
+
+(ii) Il regressando
+
+(iii) La variabile causale
+
+(iv) La variabile effetto",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",B
+"Considera lo stimatore OLS per l'errore standard del coefficiente di pendenza. Quale delle seguenti affermazioni è (sono) vera?
+
+(i) L'errore standard sarà positivamente correlato alla varianza residua
+
+(ii) L'errore standard sarà correlato negativamente alla dispersione delle osservazioni sulla variabile esplicativa rispetto al loro valore medio
+
+(iii) L'errore standard sarà correlato negativamente alla dimensione del campione
+
+(iv) L'errore standard fornisce una misura della precisione della stima del coefficiente.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",D
+"Qual è il significato del termine ""eteroschedasticità""?",La varianza degli errori non è costante,La varianza della variabile dipendente non è costante,Gli errori non sono linearmente indipendenti l'uno dall'altro,Gli errori hanno media diversa da zero,A
+"Se una statistica di Durbin Watson assume un valore vicino allo zero, quale sarà il valore del coefficiente di autocorrelazione del primo ordine?",Vicino allo zero,Vicino a più uno,Vicino a meno uno,Vicino a meno uno o più uno,C
+"Sotto l'ipotesi nulla di un test di Bera-Jarque, la distribuzione ha",Zero asimmetria e zero curtosi,Asimmetria zero e una curtosi di tre,Asimmetria di uno e zero curtosi,Asimmetria di uno e curtosi di tre.,B
+"Se si dice che uno stimatore è consistente, è implicito che lo sia","In media, i valori dei coefficienti stimati saranno uguali ai valori reali",Lo stimatore OLS è imparziale e nessun altro stimatore imparziale ha una varianza minore,Le stime convergeranno sui valori reali all'aumentare della dimensione del campione,Le stime dei coefficienti saranno il più vicino possibile ai loro valori reali per campioni piccoli e grandi.,C
+Quale delle seguenti è una caratteristica tipica delle serie temporali dei rendimenti delle attività finanziarie?,Le loro distribuzioni sono a coda sottile,Non sono debolmente stazionari,Sono altamente autocorrelati,Non hanno tendenza,D
+"Quale delle seguenti assunzioni è necessaria per dimostrare la coerenza, l'imparzialità e l'efficienza dello stimatore OLS?
+
+i) $E(u_t) = 0$
+
+
+ii) $\text{Var}(u_t) = \sigma^2$
+
+
+iii) $\text{Cov}(u_t, u_{t-j}) = 0 \forall j$
+
+
+iv) $u_t \sim N(0, \sigma^2)$",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+Quale dei seguenti è uno svantaggio dell'approccio a effetti fissi nella stima di un modello panel?,È probabile che il modello sia tecnico da stimare,L'approccio potrebbe non essere valido se il termine di errore composito è correlato con una o più delle variabili esplicative,"Il numero di parametri da stimare può essere elevato, con conseguente perdita di gradi di libertà",L'approccio a effetti fissi può catturare solo l'eterogeneità trasversale e non la variazione temporale nella variabile dipendente.,C
+"Si consideri una situazione identica a quella della domanda 21, tranne per il fatto che ora viene utilizzata un'alternativa bilaterale. Quale sarebbe ora la conclusione appropriata?",H0 viene rifiutato,H0 non viene rifiutato,H1 viene rifiutato,Le informazioni fornite nella domanda non sono sufficienti per giungere a una conclusione,A
+Il prezzo di una casa è meglio descritto come quale tipo di numero?,Discrete,Cardinal,Ordinal,Nominal,B
+"Se si applica un test di ""traccia"" di Johansen per un'ipotesi nulla di 2 vettori di cointegrazione a un sistema contenente 4 variabili, quali autovalori verrebbero utilizzati nel test?",Tutti loro,Il più grande 2,Il più piccolo 2,Il secondo più grande,C
+"Quale delle seguenti affermazioni è vera riguardo all'analisi della scomposizione della varianza dei VAR?
+
+i) Le scomposizioni della varianza misurano l'impatto di uno shock unitario su ciascuna delle variabili sul VAR
+
+ii) Le scomposizioni della varianza possono essere pensate come misure della proporzione della varianza dell'errore di previsione attribuibile a ciascuna variabile
+
+iii) L'ordinamento delle variabili è importante per calcolare le risposte all'impulso ma non le scomposizioni della varianza
+
+iv) È normale che la maggior parte della varianza dell'errore di previsione per una data variabile sia attribuibile a shock a quella variabile",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+Supponiamo di aver stimato un modello GARCH per i rendimenti azionari giornalieri e di essere interessati a produrre una previsione a 10 giorni della volatilità (misurata dalla deviazione standard dei rendimenti) da utilizzare in un modello di valore a rischio. Come potrebbe essere calcolata nel modo più valido una simile previsione?,"Produrre previsioni di varianza condizionale 1, 2, 3, ..., 10 passi avanti e sommarle","Produrre previsioni di varianza condizionale 1, 2, 3, ..., 10 passi avanti e sommarle e ricavare la radice quadrata","Produci 1, 2, 3, ..., 10 previsioni di varianza condizionale, prendi le radici quadrate di ognuna e sommale","Produci una previsione di varianza condizionale 1 passo avanti, prendi la sua radice quadrata e moltiplicala per la radice quadrata di 10",B
+"Supponiamo che il valore di $R^2$ per un modello di regressione stimato sia esattamente zero. Quale delle seguenti è vera?
+
+i) Tutte le stime dei coefficienti sulle pendenze saranno pari a zero
+
+ii) La linea adattata sarà orizzontale rispetto a tutte le variabili esplicative
+
+iii) La retta di regressione non ha spiegato alcuna variabilità di y rispetto al suo valore medio
+
+iv) La stima del coefficiente di intercetta deve essere zero.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Avrà un processo di rumore bianco
+
+(i) Una media nulla
+
+(ii) Una varianza costante
+
+(iii) Autocovarianze costanti
+
+(iv) Autocovarianze che sono zero tranne che al ritardo zero",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+"Quale delle seguenti affermazioni è vera riguardo all'approccio di Box-Jenkins ai test diagnostici per i modelli ARMA?
+
+(i) I test mostreranno se il modello identificato è troppo grande o troppo piccolo
+
+(ii) I test comportano il controllo dei residui del modello per autocorrelazione, eteroschedasticità e non normalità
+
+(iii) Se il modello suggerito in fase di identificazione è appropriato, l'acf e il pacf per i residui non dovrebbero mostrare alcuna struttura aggiuntiva
+
+(iv) Se il modello suggerito in fase di identificazione è appropriato, i coefficienti sulle variabili aggiuntive nell'ambito dell'approccio di overfitting saranno statisticamente non significativi",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+Quale delle seguenti sarebbe una risposta plausibile a un riscontro di non normalità residua?,Usa una forma funzionale logaritmica invece di una lineare,Aggiungi ritardi delle variabili sul lato destro del modello di regressione,Stimare il modello in prima forma differenziata,Rimuovere eventuali valori anomali di grandi dimensioni dai dati.,D
+Il modello del pannello degli effetti fissi è talvolta noto anche come,Un modello di regressione apparentemente non correlato,Si avvicinano le variabili fittizie dei minimi quadrati,Il modello a effetti casuali,Eteroschedasticità e autocorrelazione coerenti,B
+Quale delle seguenti affermazioni è VERA riguardo alla stima OLS?,OLS minimizza la somma delle distanze verticali dai punti alla linea,OLS minimizza la somma dei quadrati delle distanze verticali dai punti alla linea,OLS minimizza la somma delle distanze orizzontali dai punti alla linea,OLS minimizza la somma dei quadrati delle distanze orizzontali dai punti alla linea.,B
+"Se gli strumenti standard per l'analisi delle serie temporali, come la stima dell'acf, pacf e l'analisi spettrale, non trovano alcuna prova di struttura nei dati, ciò implica che i dati sono quali dei seguenti?",Normalmente distribuito,Non correlato,Indipendente,Fat-tailed,B
+"Se si dice che due variabili, $x_t$ e $y_t$ sono cointegrate, quale delle seguenti affermazioni è vera?
+
+i) $x_t$ e $y_t$ devono essere entrambi stazionari
+
+
+ii) Solo una combinazione lineare di $x_t$ e $y_t$ sarà stazionaria
+
+
+iii) L'equazione di cointegrazione per $x_t$ e $y_t$ descrive la relazione di breve periodo
+
+tra le due serie
+
+
+iv) I residui di una regressione di $y_t$ su $x_t$ devono essere stazionari",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",A
+Una variabile dipendente i cui valori non sono osservabili al di fuori di un certo intervallo ma in cui i valori corrispondenti delle variabili indipendenti sono ancora disponibili sarebbe descritta più accuratamente come quale tipo di variabile?,Censored,Truncated,Variabile multinomiale,Scelta discreta,A
+Verrebbe utilizzato un test di Hausman,Determinare se viene identificata un'equazione che fa parte di un sistema simultaneo,Determinare se è necessario un framework simultaneo per una particolare variabile,Determinare se 2SLS o ILS è ottimale,Determinare se le equazioni della forma strutturale possono essere ottenute tramite sostituzione dalle forme ridotte,B
+"Sotto la notazione matriciale per il classico modello di regressione lineare, $y = X \beta + u$, quali sono le dimensioni di $u$?",T x k,T x 1,k x 1,1 x 1,B
+"Quanti parametri dovranno essere stimati in totale per tutte le equazioni di una forma standard, illimitata, trivariata VAR(4), ignorando le intercettazioni?",12,4,3,36,D
+"Un ricercatore verifica la stabilità strutturale nel seguente modello di regressione:
+
+$y_t = \beta_1 + \beta_2 x_{2t} + \beta_3 x_{3t} + u_t$
+
+Il campione totale di 200 osservazioni è diviso esattamente a metà per le regressioni del sottocampione. Quale sarebbe la somma dei quadrati residua illimitata?",L'RSS per l'intero campione,L'RSS per il primo sottocampione,L'RSS per il secondo sottocampione,La somma dell'RSS per il primo e il secondo sottocampione,D
+"Supponiamo di essere interessati a verificare l'ipotesi nulla che un modello GARCH(2,2) possa essere ristretto a un processo con una varianza condizionale costante utilizzando l'approccio del test del rapporto di verosimiglianza. Quali delle seguenti frasi sono vere?",La statistica del test seguirà una distribuzione del chi quadrato con 2 gradi di libertà sotto l'ipotesi nulla,Il valore della funzione di probabilità logaritmica sarà quasi sempre maggiore per il modello ristretto che per il modello non ristretto,"Se i valori rilevanti delle funzioni di probabilità logaritmica sono -112,3 e -118,4, il valore della statistica del test è 12,2",Il test del rapporto di verosimiglianza confronta le pendenze della funzione di verosimiglianza al massimo e al valore del parametro ristretto.,C
+Quale dei seguenti NON è un rimedio plausibile per la quasi multicollinearità?,Utilizzare l'analisi delle componenti principali,Rilascia una delle variabili collineari,Utilizzare una serie di dati più lunga,Prendi i logaritmi di ciascuna delle variabili,D
+"Si consideri il seguente processo AR(2):
+
+yt = 1,5 yt-1 - 0,5 yt-2 + ut
+
+Questo è un",Processo stazionario,Processo radice unitaria,Processo esplosivo,Processo stazionario e radice unitaria,B
+Quale dei seguenti potrebbe essere utilizzato come test per l'autocorrelazione fino al terzo ordine?,Il test di Durbin Watson,Il test del bianco,Il test RESET,Il test di Breusch-Godfrey,D
+Il residuo di un modello di regressione standard è definito come,"La differenza tra il valore effettivo, y, e la media, y-bar","La differenza tra il valore adattato, y-hat, e la media, y-bar","La differenza tra il valore effettivo, y, e il valore adattato, y-hat","Il quadrato della differenza tra il valore adattato, y-hat, e la media, y-bar",C
+"Se OLS viene applicato separatamente a ciascuna equazione che fa parte di un sistema simultaneo, le stime risultanti saranno",Imparziale e coerente,Di parte ma coerente,Di parte e incoerente,È impossibile applicare OLS a equazioni che fanno parte di un sistema simultaneo,C
+Quale dei seguenti NON è un esempio di errata specificazione della forma funzionale?,Usando una specificazione lineare quando y scala in funzione dei quadrati di x,Usare una specifica lineare quando un modello doppio logaritmico sarebbe più appropriato,Modellare y come una funzione di x quando in realtà si ridimensiona in funzione di 1/x,Esclusione di una variabile rilevante da un modello di regressione lineare,D
+Supponiamo di voler valutare i fattori che influenzano la probabilità che un investitore scelga un fondo azionario piuttosto che un fondo obbligazionario o un investimento in liquidità. Quale classe di modello sarebbe più appropriata?,Un modello logit,Un logit multinomiale,Un modello tobia,Un modello logit ordinato,B
+"Quale delle seguenti affermazioni sarà vera se il numero di repliche utilizzate in uno studio Monte Carlo è piccolo?
+
+i) La statistica di interesse può essere stimata in modo impreciso
+
+
+ii) I risultati possono essere influenzati da combinazioni non rappresentative di estrazioni casuali
+
+
+iii) Gli errori standard sulle quantità stimate possono essere inaccettabilmente grandi
+
+
+iv) Le tecniche di riduzione della varianza possono essere utilizzate per ridurre gli errori standard",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iv) solo","(i), (ii), (iii) e (iv)",D
+Quale dei seguenti è uno svantaggio dell'approccio a effetti casuali per la stima di un modello panel?,L'approccio potrebbe non essere valido se il termine di errore composito è correlato con una o più delle variabili esplicative,"Il numero di parametri da stimare può essere elevato, con conseguente perdita di gradi di libertà",L'approccio degli effetti casuali può catturare solo l'eterogeneità trasversale e non la variazione temporale nella variabile dipendente.,Tutti da (a) a (c) sono potenziali svantaggi dell'approccio degli effetti casuali.,A
+"Quale dei seguenti potrebbe risultare in residui autocorrelati?
+
+i) Lentezza di risposta della variabile dipendente al variare dei valori delle variabili indipendenti
+
+ii) Reazioni eccessive della variabile dipendente ai cambiamenti nelle variabili indipendenti
+
+iii) Omissione di rilevanti variabili esplicative autocorrelate
+
+iv) Valori anomali nei dati",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Quali delle seguenti affermazioni sono vere riguardo a acf e pacf?
+
+(i) L'acf e il pacf sono spesso difficili da interpretare nella pratica
+
+(ii) L'acf e il pacf possono essere difficili da calcolare per alcuni set di dati
+
+(iii) I criteri informativi rappresentano un approccio alternativo alla determinazione dell'ordine del modello
+
+(iv) Se applicati correttamente, acf e pacf forniranno sempre selezioni di modelli univoci",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Quali delle seguenti condizioni sono necessarie affinché una serie sia classificabile come un processo debolmente stazionario?
+
+(i) Deve avere una media costante
+
+(ii) Deve avere una varianza costante
+
+(iii) Deve avere autocovarianze costanti per determinati ritardi
+
+(iv) Deve avere una distribuzione di probabilità costante",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Considera la seguente equazione e determina la classe di modello che meglio rappresenta
+
+$y_{it} = \alpha + \beta_{it} + \mu_i + \nu_{it}$",Un modello a effetti fissi di entità,Un modello a effetti fissi nel tempo,Un modello a effetti casuali,Un puro modello di serie temporali,A
+"Si noti che le tabelle statistiche non sono necessarie per rispondere a questa domanda. Per un campione di 1000 osservazioni, i valori statistici del test Dickey-Fuller sono",Più negativo di (cioè più grande in valore assoluto di) quelli nella coda sinistra di una distribuzione normale,Meno negativi di (cioè più piccoli in valore assoluto di) quelli nella coda sinistra di una distribuzione normale,Ottenuto da una formula analitica per la densità della distribuzione di Dickey-Fuller,Più negativo (cioè maggiore in valore assoluto) per una dimensione del test del 10% rispetto a un test del 5%.,A
+"Supponiamo che venga condotto un test di ipotesi utilizzando un livello di significatività del 5%. Quale delle seguenti affermazioni è corretta?
+
+(i) Il livello di significatività è uguale alla dimensione del test
+
+(ii) Il livello di significatività è pari alla potenza del test
+
+(iii) il 2,5% della distribuzione totale sarà in ciascuna regione di rigetto della coda per un test a 2 lati
+
+(iv) Il 5% della distribuzione totale sarà in ciascuna regione di rigetto della coda per un test a 2 lati.",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",B
+Quale delle seguenti critiche all'approccio Dickey-Fuller/Engle-Granger per trattare le variabili cointegrate è superata dalla procedura Engle-Yoo (EY)?,"Nel contesto di piccoli campioni, i test Dickey Fuller tendono a concludere che esiste una radice unitaria in una serie quando non c'è",L'approccio Engle-Granger (EG) può rilevare solo fino a una relazione di cointegrazione anche se potrebbe essercene più di una,Le variabili sono trattate in modo asimmetrico nei test di cointegrazione,Non è possibile eseguire test sulla relazione di cointegrazione,D
+"Considera una serie che segue un MA(1) con media zero e un coefficiente di media mobile di 0,4. Qual è il valore dell'autocovarianza al ritardo 1?",0.4,1,0.34,Non è possibile determinare il valore delle autocovarianze senza conoscere la varianza del disturbo.,D
+"Quali delle seguenti tecniche di stima sono disponibili per la stima di sistemi sovraidentificati di equazioni simultanee?
+
+i) OLS
+
+ii) IL
+
+iii) 2SL
+
+iv) iv",(iii) only,(iii) e (iv) solo,"(ii), (iii) e (iv) solo","(i), (ii), (iii) e (iv)",B
+Quale delle seguenti affermazioni descrive meglio un errore di tipo II?,È la probabilità di rifiutare erroneamente l'ipotesi nulla,È equivalente alla potenza del test,È equivalente alla dimensione del test,È la probabilità di non riuscire a rifiutare un'ipotesi nulla che era sbagliata,D
+Quale dei seguenti sarebbe il più appropriato come intervallo di confidenza al 95% (a due code) per il termine di intercetta del modello fornito nella domanda 21?,"(-4.79,2.19)","(-4.16,4.16)","(-1.98,1.98)","(-5.46,2.86)",D
+"Quali delle seguenti sono caratteristiche di un processo stazionario?
+
+i) Incrocia frequentemente il suo valore medio
+
+
+ii) Ha media e varianza costanti
+
+
+iii) Non contiene componenti di tendenza
+
+
+iv) Sarà stazionario in prima differenza",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",D
+Si consideri nuovamente il modello VAR dell'equazione 16. Quale delle seguenti condizioni deve valere per affermare che esiste un feedback bidirezionale?,I coefficienti b e d sono significativi ei coefficienti a e c non significativi,I coefficienti a e c sono significativi ei coefficienti b e d non significativi,I coefficienti a e c sono significativi,I coefficienti b e d sono significativi,D
+"Considera le seguenti stime di autocorrelazione campione ottenute utilizzando 250 punti dati:
+
+1) Ritardo 1 2 3
+
+2) Coefficiente 0,2 -0,15 -0,1
+
+3) Supponendo che i coefficienti siano approssimativamente distribuiti normalmente, quali dei coefficienti sono statisticamente significativi al livello del 5%?",1 only,1 e 2 solo,"Solo 1, 2 e 3",Non è possibile determinare la significatività statistica poiché non sono stati forniti errori standard,B
+Quale delle seguenti viene esaminata osservando una statistica sulla bontà di adattamento?,Quanto bene la funzione di regressione della popolazione si adatta ai dati,Quanto bene la funzione di regressione campionaria si adatta alla funzione di regressione della popolazione,Quanto bene la funzione di regressione campionaria si adatta ai dati,Quanto bene la funzione di regressione della popolazione si adatta alla funzione di regressione del campione.,C
+"Quale delle seguenti affermazioni è corretta riguardo all'uso di variabili antitetiche come parte di un esperimento Monte Carlo?
+
+i) Le variabili antitetiche funzionano riducendo il numero di repliche richieste per coprire l'intero spazio di probabilità
+
+ii) Le variabili antitetiche comportano l'impiego di una variabile simile a quella utilizzata nella simulazione, ma le cui proprietà sono note analiticamente
+
+iii) Le variabili antitetiche comportano l'utilizzo del negativo di ciascuna delle estrazioni casuali e la ripetizione dell'esperimento utilizzando quei valori come estrazioni
+
+iv) Le variabili antitetiche comportano l'assunzione di una su ciascuna delle estrazioni casuali e la ripetizione dell'esperimento utilizzando quei valori come estrazioni",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iv) solo","(i), (ii), (iii) e (iv)",B
+Quale delle seguenti affermazioni è vera riguardo a misure alternative di accuratezza della previsione?,L'errore quadratico medio è solitamente altamente correlato alla redditività delle regole di trading,L'errore assoluto medio fornisce una funzione di perdita quadratica,L'errore percentuale assoluto medio è una misura utile per valutare le previsioni di rendimento degli asset,L'errore quadratico medio penalizza i grandi errori di previsione in modo sproporzionato rispetto ai piccoli errori di previsione,D
+"Quale delle seguenti critiche ai modelli GARCH standard (""plain vanilla"") può essere superata dai modelli EGARCH?
+
+i) I valori dei coefficienti stimati dai modelli GARCH possono essere negativi
+
+ii) I modelli GARCH non possono tenere conto degli effetti leva
+
+iii) La reattività della volatilità futura agli shock positivi e negativi è simmetrica sotto una formulazione GARCH
+
+iv) I modelli GARCH non possono consentire un feedback dalla volatilità ai rendimenti",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C
+"Supponiamo che 100 aziende separate siano state testate per determinare quante di esse ""hanno battuto il mercato"" utilizzando una regressione di tipo Jensen, e si scopre che 3 gestori di fondi lo fanno in modo significativo. Questo suggerisce prove prima facie dell'inefficienza del mercato azionario?",Yes,No,"Per rispondere a questa domanda, dovresti testare ogni gestore di fondi che opera in quel mercato",Le informazioni fornite nella domanda non sono sufficienti per trarre una conclusione sull'efficienza del mercato.,B
+"Quali dei seguenti sono vantaggi dell'uso di dati panel rispetto alla pura modellazione trasversale o alla pura serie temporale?
+
+(i) L'uso di dati panel può aumentare il numero di gradi di libertà e quindi la potenza dei test
+
+(ii) L'uso di dati panel consente al valore medio della variabile dipendente di variare trasversalmente o nel tempo o entrambi
+
+(iii) L'uso di dati panel consente al ricercatore di consentire alla relazione stimata tra le variabili indipendenti e dipendenti di variare in modo trasversale o nel tempo o entrambi",(i) only,(i) e (ii) solo,(ii) only,"(i), (ii) e (iii)",B
+"Se il test di Engle-Granger viene applicato ai residui di una regressione potenzialmente cointegrante, quale sarebbe l'interpretazione dell'ipotesi nulla?",Le variabili sono cointegrate,Le variabili non sono cointegrate,Entrambe le variabili sono stazionarie,Entrambe le variabili sono non stazionarie,B
+"Quali delle seguenti affermazioni sono vere riguardo alla funzione di autocorrelazione (acf) e alla funzione di autocorrelazione parziale (pacf)?
+
+i) L'acf e il pacf saranno sempre identici in ritardo uno qualunque sia il modello
+
+ii) Il pacf per un modello MA(q) sarà in generale diverso da zero oltre il ritardo q
+
+iii) Il pacf per un modello AR(p) sarà zero oltre il lag p
+
+iv) Acf e pacf saranno gli stessi al ritardo due per un modello MA(1).",(ii) e (iv) solo,(i) e (iii) solo,"(i), (ii) e (iii).","(i), (ii), (iii) e (iv)",C

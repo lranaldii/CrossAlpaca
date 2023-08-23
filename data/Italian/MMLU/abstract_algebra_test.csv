@@ -1,0 +1,100 @@
+"Trova il grado per la data estensione del campo Q(sqrt(2), sqrt(3), sqrt(18)) su Q.",0,4,2,6,B
+"Sia p = (1, 2, 5, 4)(2, 3) in S_5 . Trova l'indice di <p> ​​in S_5.",8,2,24,120,C
+Trova tutti gli zeri nel campo finito indicato del dato polinomio con coefficienti in quel campo. x^5 + 3x^3 + x^2 + 2x in Z_5,0,1,"0,1","0,4",D
+"Dichiarazione 1 | Un gruppo di fattori di un gruppo non abeliano è non abeliano. Dichiarazione 2 | Se K è un sottogruppo normale di H e H è un sottogruppo normale di G, allora K è un sottogruppo normale di G.","True, True","Falso, Falso",Vero falso,Falsa verità,B
+"Trova il prodotto dei polinomi dati nell'anello polinomiale dato. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 in Z_8[x].",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,B
+"Dichiarazione 1 | Se un gruppo ha un elemento di ordine 15 deve avere almeno 8 elementi di ordine 15. Enunciato 2 | Se un gruppo ha più di 8 elementi di ordine 15, deve avere almeno 16 elementi di ordine 15.","True, True","Falso, Falso",Vero falso,Falsa verità,A
+Dichiarazione 1 | Ogni immagine omomorfa di un gruppo G è isomorfa a un fattore gruppo di G. Enunciato 2 | Le immagini omomorfe di un gruppo G sono le stesse (fino all'isomorfismo) dei gruppi di fattori di G.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+Dichiarazione 1 | Un omomorfismo dell'anello è uno a uno se e solo se il kernel è {0}. Dichiarazione 2 | Q è un ideale in R.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Trova il grado per la data estensione del campo Q(sqrt(2) + sqrt(3)) su Q.,0,4,2,6,B
+Trova tutti gli zeri nel campo finito indicato del dato polinomio con coefficienti in quel campo. x^3 + 2x + 2 in Z_7,1,2,"2,3",6,C
+"Dichiarazione 1 | Se H è un sottogruppo di G e a appartiene a G allora |aH| = |Ha|. Dichiarazione 2 | Se H è un sottogruppo di G e aeb appartengono a G, allora aH e Hb sono identici o disgiunti.","True, True","Falso, Falso",Vero falso,Falsa verità,C
+"Se A = {1, 2, 3} allora la relazione S = {(1, 1), (2, 2)} è",solo simmetrico,solo antisimmetrico,sia simmetrico che antisimmetrico,una relazione di equivalenza,C
+"Trova l'ordine del gruppo di fattori (Z_11 x Z_15)/(<1, 1>)",1,2,5,11,A
+Il polinomio x^3 + 2x^2 + 2x + 1 può essere scomposto in fattori lineari in Z_7[x]. Trova questa fattorizzazione.,(x - 2) (x + 2) (x - 1),(x+1)(x+4)(x-2),(x+1)(x-4)(x-2),(x-1)(x-4)(x-2),C
+Trova il massimo ordine possibile per un elemento di S_n per n = 10.,6,12,30,105,C
+Dichiarazione 1 | R è un campo di divisione di un polinomio su Q. Enunciato 2 | C'è un campo con 60 elementi.,"True, True","Falso, Falso",Vero falso,Falsa verità,B
+"L'inverso di -i nel gruppo moltiplicativo, {1, -1, i , -i} è",1,-1,i,-i,C
+"Calcolare il prodotto nell'anello dato. (2,3)(3,5) in Z_5 x Z_9","(1,1)","(3,1)","(1,6)","(3,6)",C
+L'insieme di tutti i numeri reali sotto la consueta operazione di moltiplicazione non è un gruppo da allora,la moltiplicazione non è un'operazione binaria,la moltiplicazione non è associativa,l'elemento di identità non esiste,zero non ha inversa,D
+Affermazione 1| Ogni gruppo di ordine p^2 ​​dove p è primo è abeliano. Dichiarazione 2 | Per un p primo fisso un sottogruppo p di Sylow di un gruppo G è un sottogruppo normale di G se e solo se è l'unico sottogruppo p di Sylow di G.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Dichiarazione 1 | Per gruppi finiti G e H, |G + H| = |G||H|. (G + H è il prodotto diretto interno.) Enunciato 2 | Se r divide m e s divide n allora Z_m + Z_n ha un sottogruppo isomorfo a Z_r + Z_s.","True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Trova la somma dei polinomi dati nell'anello polinomiale dato. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 in Z_8[x].",2x^2 + 5,6x^2 + 4x + 6,0,x^2 + 1,A
+"Dichiarazione 1 | Qualsiasi insieme di due vettori in R^2 è linearmente indipendente. Dichiarazione 2 | Se V = span(v1, ... , vk) e {v1, ... , vk} sono linearmente indipendenti, allora dim(V) = k.","True, True","Falso, Falso",Vero falso,Falsa verità,D
+L'insieme di tutte le ennesime radici dell'unità sotto la moltiplicazione di numeri complessi forma a/an,semigruppo con identità,semigruppi commutativi con identità,group,gruppo abeliano,D
+"Dichiarazione 1 | Ogni ideale massimale è un ideale primo. Dichiarazione 2 | Se I è un ideale massimale di un anello commutativo R, allora R/I è campo.","True, True","Falso, Falso",Vero falso,Falsa verità,B
+Sia G l'insieme di tutte le matrici n x n non singolari con numeri razionali come voci. Allora sotto la moltiplicazione G è a/an,subgroup,gruppo abeliano finito,"gruppo infinito, non abeliano","infinito, abeliano",C
+Dichiarazione 1 | Ogni gruppo di ordine 42 ha un sottogruppo normale di ordine 7. Enunciato 2 | Ogni gruppo di ordine 42 ha un normale sottogruppo di ordine 8.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+Determina se il polinomio in Z[x] soddisfa un criterio di Eisenstein per l'irriducibilità su Q. 8x^3 + 6x^2 - 9x + 24,"Sì, con p=2.","Sì, con p=3.","Sì, con p=5.",No.,B
+Dichiarazione 1 | L'immagine di un gruppo di 6 elementi sotto un omomorfismo può avere 12 elementi. Dichiarazione 2 | C'è un omomorfismo di un gruppo di 6 elementi in un gruppo di 12 elementi.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | L'immagine omomorfa di un gruppo ciclico è ciclica. Dichiarazione 2 | L'immagine omomorfa di un gruppo abeliano è abeliana.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Dichiarazione 1 | Se H è un sottogruppo di un gruppo G e a appartiene a G, allora aH = Ha. Dichiarazione 2 | Se H è normale a G e a appartiene a G, allora ah = ha per ogni h in H.","True, True","Falso, Falso",Vero falso,Falsa verità,B
+"Se (G, .) è un gruppo tale che (ab)^-1 = a^-1b^-1, per ogni a, b in G, allora G è a/an",semigruppo commutativo,gruppo abeliano,gruppo non abeliano,Nessuna di queste,B
+"Dichiarazione 1 | In uno spazio vettoriale di dimensione finita ogni insieme di vettori linearmente indipendente è contenuto in una base. Dichiarazione 2 | Se B_1 e B_2 sono basi per lo stesso spazio vettoriale, allora |B_1| = |B_2|.","True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Alcuni gruppi (G, 0) sono noti per essere abeliani. Allora quale delle seguenti è VERA per G?",g = g^-1 per ogni g in G,g = g^2 per ogni g in G,"(g o h)^2 = g^2 o h^2 per ogni g,h in G",G è di ordine finito,C
+"Dichiarazione 1 | Se T: V -> W è una trasformazione lineare e dim(V ) < dim(W) < 1, allora T deve essere iniettiva. Dichiarazione 2 | Sia dim(V) = n e supponiamo che T: V -> V sia lineare. Se T è iniettiva, allora è una biiezione.","True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Trovare il grado per la data estensione del campo Q(sqrt(2), sqrt(3)) su Q.",0,4,2,6,B
+Calcolare il prodotto nell'anello dato. (20)(-8) in Z_26,0,1,11,22,D
+Determina se il polinomio in Z[x] soddisfa un criterio di Eisenstein per l'irriducibilità su Q. x^2 - 12,"Sì, con p=2.","Sì, con p=3.","Sì, con p=5.",No.,B
+Trova il generatore per il campo finito Z_7.,1,2,3,4,C
+Dichiarazione 1 | Ogni permutazione è un ciclo. Dichiarazione 2 | Ogni ciclo è una permutazione.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+"L'insieme di numeri interi Z con l'operazione binaria ""*"" definita come a*b =a +b+ 1 per a, b in Z, è un gruppo. L'elemento identitario di questo gruppo è",0,1,-1,12,C
+Trova la caratteristica dell'anello Z_3 x 3Z.,0,3,12,30,A
+Dichiarazione 1 | Qualche gruppo abeliano di ordine 45 ha un sottogruppo di ordine 10. Enunciato 2 | Un sottogruppo H di un gruppo G è un sottogruppo normale se e solo se il numero di cosette sinistre di H è uguale al numero di cosete destre di H.,"True, True","Falso, Falso",Vero falso,Falsa verità,B
+Dichiarazione 1 | Ogni dominio integrale con caratteristica 0 è infinito. Dichiarazione 2 | Ogni dominio integrale con caratteristica prima è finito.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+"Siano A e B insiemi, f: A -> B e g: B -> A funzioni tali che per ogni a \in A, g(f(a)) = a. Dichiarazione 1 | La funzione f deve essere necessariamente iniettiva. Dichiarazione 2 | La funzione f deve necessariamente essere suriettiva.","True, True","Falso, Falso",Vero falso,Falsa verità,C
+Dichiarazione 1 | Per ogni coppia di gruppi G e G' esiste un omomorfismo di G in G'. Dichiarazione 2 | Ogni omomorfismo è una mappa uno a uno.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+Dichiarazione 1 | Un omomorfismo può avere un kernel vuoto. Dichiarazione 2 | Non è possibile avere un omomorfismo non banale di un gruppo finito in un gruppo infinito.,"True, True","Falso, Falso",Vero falso,Falsa verità,B
+Trova tutti i c in Z_3 tali che Z_3[x]/(x^3 + x^2 + c) sia un campo.,0,2,1,3,B
+"Dichiarazione 1 | Se a R è un dominio integrale, allora R[x] è un dominio integrale. Dichiarazione 2 | Se R è un anello e f(x) e g(x) sono in R[x], allora deg (f(x)g(x)) = deg f(x) + deg g(x).","True, True","Falso, Falso",Vero falso,Falsa verità,C
+Trova il massimo ordine possibile per qualche elemento di Z_8 x Z_10 x Z_24.,8,120,240,24,B
+Dichiarazione 1 | Ogni gruppo risolvibile è di ordine di prima potenza. Dichiarazione 2 | Ogni gruppo di ordine di prima potenza è risolvibile.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Trova tutti i c in Z_3 tali che Z_3[x]/(x^3 + cx^2 + 1) sia un campo.,0,2,1,3,B
+"Nel gruppo G = {2, 4, 6, 8) sotto moltiplicazione modulo 10, l'elemento identità è",6,8,4,2,A
+"Dichiarazione 1 | Se G, H e K sono gruppi di ordine 4, almeno due di essi sono isomorfi. Dichiarazione 2 | Se Z_r + Z_s è isomorfo a un sottogruppo Z_m + Z_n, allora r divide m e s divide n.","True, True","Falso, Falso",Vero falso,Falsa verità,C
+Trovare il grado per la data estensione del campo Q(sqrt(2)) su Q.,0,2,1,3,B
+Dichiarazione 1 | Ogni gruppo abeliano libero è privo di torsione. Dichiarazione 2 | Ogni gruppo abeliano privo di torsione finito è un gruppo abeliano libero.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+Dichiarazione 1 | 4x - 2 è irriducibile su Z. Enunciato 2 | 4x - 2 è irriducibile su Q.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Trova il generatore per il campo finito Z_11.,1,2,3,4,B
+Dichiarazione 1 | Ogni gruppo di ordine 159 è ciclico. Dichiarazione 2 | Ogni gruppo di ordine 102 ha un sottogruppo normale proprio non banale.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Dichiarazione 1 | Se H e K sono sottogruppi di G e uno di H o K è un sottogruppo normale di G, allora HK è un sottogruppo di G. Enunciato 2 | Tutti i gruppi di ordine p^2 ​​dove p è primo sono abeliani.","True, True","Falso, Falso",Vero falso,Falsa verità,A
+Dichiarazione 1 | L'unità di un sottoanello deve essere uguale all'unità dell'anello. Dichiarazione 2 | Ogni campo è un dominio integrale.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | L'insieme di matrici 2 x 2 con elementi interi e determinante diverso da zero è un gruppo sotto la moltiplicazione di matrici. Dichiarazione 2 | L'insieme di matrici 2 x 2 con elementi interi e determinante 1 è un gruppo sotto la moltiplicazione di matrici.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | Ogni anello quoziente di ogni anello commutativo è di nuovo un anello commutativo. Dichiarazione 2 | Un ideale N in un anello R con unità 1 è tutto R se e solo se 1 in N.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+"Se A = (1, 2, 3, 4). Sia ~= {(1, 2), (1, 3), (4, 2)}. Allora ~ lo è",non antisimmetrico,transitive,reflexive,symmetric,B
+Quanti omomorfismi ci sono di Z in Z_2?,1,2,infinitamente molti,0,B
+Dichiarazione 1 | Ogni campo è anche un anello. Dichiarazione 2 | Ogni anello ha un'identità moltiplicativa.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+"Dichiarazione 1 | Se R è un anello e f(x) e g(x) sono in R[x], allora deg (f(x)+g(x)) = massimo (deg f(x), deg g(x)) . Dichiarazione 2 | Se F è un campo allora ogni ideale di F[x] è principale.","True, True","Falso, Falso",Vero falso,Falsa verità,D
+"Un sottoinsieme H di un gruppo (G,*) è un gruppo if","a,b in H=> a * b in H",a in H => a^-1 in H,"a,b in H=> a * b^-1 in H",H contiene l'elemento identità,C
+Il polinomio x^4 + 4 può essere scomposto in fattori lineari in Z_5[x]. Trova questa fattorizzazione.,(x - 2) (x + 2) (x - 1) (x + 1),(x+1)^4,(x-1)(x+1)^3,(x-1)^3(x+1),A
+Dichiarazione 1 | Esiste un gruppo abeliano libero di ogni rango intero positivo. Dichiarazione 2 | Un gruppo abeliano finitamente generato è abeliano libero se il suo numero di Betti è uguale al numero di elementi in un insieme di generazione.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+"(Z,*) è un gruppo con a*b = a+b+1 per ogni a, b in Z. L'inverso di a è",0,-2,a-2,(2+a)*-1,D
+Trovare il grado per l'estensione del campo data Q(sqrt(2)*sqrt(3)) su Q.,0,4,2,6,C
+"Usando il teorema di Fermat, trova il resto di 3^47 diviso per 23.",1,2,3,4,D
+Trova la caratteristica dell'anello Z_3 x Z_3.,0,3,12,30,B
+"Dichiarazione 1 | Se a e b sono elementi di un gruppo e a non è uguale a b, allora a^2 non è uguale a b^2. Dichiarazione 2 | L'insieme delle rotazioni in un gruppo diedro forma un sottogruppo ciclico.","True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | In un gruppo (ab)^{-2} = b^{-2}a^{-2}. Dichiarazione 2 | In un gruppo (ab)^n = a^nb^n.,"True, True","Falso, Falso",Vero falso,Falsa verità,B
+"Dichiarazione 1 | S_n è non abeliano per ogni n >= 3. Enunciato 2 | Se a è una permutazione che è un m-ciclo e b è una permutazione che è un n-ciclo, allora |ab| = mcm(m,n).","True, True","Falso, Falso",Vero falso,Falsa verità,C
+Trova la caratteristica dell'anello Z x Z.,0,3,12,30,A
+"Dichiarazione 1 | Per n > 1, l'insieme {1,2, ..., n-1} è un gruppo sotto la moltiplicazione modulo n. Dichiarazione 2 | Esiste un intero x tale che 63x mod 100 = 1.","True, True","Falso, Falso",Vero falso,Falsa verità,D
+"Dichiarazione 1 | Se K è un sottogruppo diverso da zero di un gruppo abeliano libero finito, allora K è abeliano libero. Dichiarazione 2 | Se K è un sottogruppo diverso da zero di un gruppo abeliano libero finito, allora G / K è abeliano libero.","True, True","Falso, Falso",Vero falso,Falsa verità,C
+Dichiarazione 1 | Il prodotto diretto esterno di gruppi ciclici è ciclico. Dichiarazione 2 | Il prodotto diretto esterno di D_3 e D_4 è isomorfo a D_12.,"True, True","Falso, Falso",Vero falso,Falsa verità,B
+Dichiarazione 1 | Ogni gruppo abeliano libero diverso da zero ha un numero infinito di basi. Dichiarazione 2 | Ogni gruppo abeliano libero di rango almeno 2 ha un numero infinito di basi.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | Per ogni intero positivo n esiste un gruppo ciclico di ordine n. Dichiarazione 2 | Ogni gruppo ciclico finito contiene un elemento di ogni ordine che divide l'ordine del gruppo.,"True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Dichiarazione 1 | Se un gruppo ha un elemento di ordine 10, allora ha elementi di ordine 1, 2 e 5. Enunciato 2 | Se un gruppo ha un elemento di ordine 2 e un elemento di ordine 3, allora ha un elemento di ordine 6.","True, True","Falso, Falso",Vero falso,Falsa verità,C
+"Siano A e B insiemi, f: A -> B e g: B -> A funzioni tali che per ogni a \in A, g(f(a)) = a. Dichiarazione 1 | La funzione g deve necessariamente essere iniettiva. Dichiarazione 2 | La funzione g deve necessariamente essere suriettiva.","True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | Un omomorfismo è uno a uno se e solo se il kernel è costituito dal solo elemento identità. Dichiarazione 2 | L'immagine di un gruppo di 6 elementi sotto qualche omomorfismo può avere 4 elementi.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+"Dichiarazione 1 | Se H e K sono sottogruppi di un gruppo G, allora |HK| = |H||K|/|H intersezione K|. Dichiarazione 2 | Un gruppo di ordine 2p dove p è un numero primo dispari è ciclico o isomorfo a D_p.","True, True","Falso, Falso",Vero falso,Falsa verità,A
+"Per T: Z x Z -> Z dove T(1, 0) = 3 e T(0, 1) = -5, trovare T(-3,2).",-19,-10,19,10,A
+Calcolare il prodotto nell'anello dato. (12)(16) in Z_24,0,1,4,6,A
+Dichiarazione 1 | Ogni permutazione è una funzione uno a uno. Dichiarazione 2 | Ogni funzione è una permutazione se e solo se è uno a uno.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+Dichiarazione 1 | Se un gruppo finito ha ordine n allora il gruppo contiene un sottogruppo di ordine d per ogni divisore positivo d di n. Dichiarazione 2 | Se a appartiene a un gruppo finito allora |a| divide |G|.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Trova tutti i cosetti del sottogruppo 4Z di 2Z.,4Z,"4Z, 2 + 4Z",2Z,Z,B
+Quale delle seguenti affermazioni è vera?,Ogni relazione di equivalenza è una relazione di ordinamento parziale.,"Il numero di relazioni da A = {x, y, z} a B= (1, 2), è 64.",La relazione vuota _ è riflessiva,Le proprietà di una relazione simmetrica e non simmetrica sono negative l'una rispetto all'altra.,B
+Trova il massimo ordine possibile per un elemento di S_n per n = 6.,6,12,30,105,A
+Dichiarazione 1 | Q è un campo di estensione di Z_2. Dichiarazione 2 | Ogni polinomio non costante su un campo ha uno zero in qualche campo di estensione.,"True, True","Falso, Falso",Vero falso,Falsa verità,D
+Dichiarazione 1 | Se H è un sottogruppo di G e a appartiene a G allora aH è un sottogruppo di G se e solo se a è in H. Enunciato 2 | Se H è un sottogruppo di G e a e b appartengono a G allora aH = bH se e solo se ab è in H.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
+Trova tutti gli zeri nel campo finito indicato del dato polinomio con coefficienti in quel campo. x^2 + 1 in Z_2,0,1,"0,1",2,B
+Trova il numero di elementi nel gruppo ciclico indicato: Il sottogruppo ciclico di Z_30 generato da 25.,25,5,6,30,C
+"L'elemento (4, 2) di Z_12 x Z_8 ha ordine",4,8,12,6,C
+Dichiarazione 1 | Ogni ideale in un anello è un sottoanello dell'anello. Dichiarazione 2 | Ogni sottoanello di ogni anello è un ideale dell'anello.,"True, True","Falso, Falso",Vero falso,Falsa verità,C
