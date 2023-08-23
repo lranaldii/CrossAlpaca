@@ -2,4 +2,4 @@
  
  
  
-This repository contains data for benchmarking Alpacas in six different languages.
+This repository is in the making, soon the final version will be uploaded.
