@@ -1,0 +1,1963 @@
+input,target
+"Oggi è la vigilia di Natale del 1937. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 11/12/1937
+(B) 25/12/1937
+(C) 01/04/1938
+(D) 04/12/1937
+(E) 25/12/2006
+(F) 25/07/1937",(B)
+"Nel Regno Unito, le persone di solito mettono il giorno prima del mese quando si formatta la data. Pertanto, oggi è il 02/01/1987 per loro. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 12/02/1986
+(B) 12/01/1986
+(C) 03/02/1986
+(D) 12/02/2032
+(E) 12/02/2062
+(F) 02/06/1987",(A)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro quinto anniversario. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 16/01/1961
+(B) 01/09/1961
+(C) 01/09/1963
+(D) 03/09/1960
+(E) 07/09/1960
+(F) 28/02/1961",(B)
+"Jane ha programmato 3 appuntamenti con 5 persone per domani (martedì, 7/9/1972). Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 07/09/1972
+(B) 01/12/1972
+(C) 07/01/2008
+(D) 13/05/1972
+(E) 07/01/1972
+(F) 08/12/1972",(E)
+"La riunione di oggi è spostata alle 11 di domani, 16/10/1924. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 22/10/1944
+(B) 22/10/1924
+(C) 10/07/1924
+(D) 21/10/1924
+(E) 22/08/1925
+(F) 21/11/1924",(B)
+"Jane visita la libreria il 16 di ogni mese a partire da ottobre 2009. Oggi è la sua quinta visita in libreria. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 16/08/2009
+(B) 16/02/2009
+(C) 16/02/2004
+(D) 13/03/2009
+(E) 26/01/2009
+(F) 15/02/2009",(B)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 19/06/2017
+(B) 17/07/2017
+(C) 20/06/2017
+(D) 18/06/2017
+(E) 15/06/2017
+(F) 07/10/2017",(A)
+"Domani è il 12/11/2019. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 11/10/2076
+(B) 11/10/2019
+(C) 09/10/2019
+(D) 11/06/2019
+(E) 11/11/2019
+(F) 17/11/2019",(B)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Jane ha ragione. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 17/06/2063
+(B) 18/05/2019
+(C) 20/05/2019
+(D) 17/06/2019
+(E) 13/05/2019
+(F) 06/08/2019",(D)
+"Il primo giorno del 2019 è un martedì e oggi è il primo lunedì del 2019. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/08/2018
+(B) 01/07/2018
+(C) 01/02/2018
+(D) 01/12/2018
+(E) 05/07/2017
+(F) 29/10/2017",(B)
+"Ieri era il 31/12/1929. Oggi non potrebbe essere il 32/12/1929 perché dicembre ha solo 31 giorni. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/08/1930
+(B) 01/06/1930
+(C) 01/01/1930
+(D) 31/12/1929
+(E) 10/01/1930
+(F) 27/02/1930",(C)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 13/05/1985
+(B) 04/03/1985
+(C) 03/10/1986
+(D) 04/01/1985
+(E) 13/04/1985
+(F) 04/12/1986",(B)
+"Jane ha licenziato il suo lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 20/09/2019
+(B) 10/01/2019
+(C) 24/10/2019
+(D) 09/12/1970
+(I) 09/12/2019",(E)
+"Oggi è il giorno palindromo del 2020, perché il formato MMGGAAAA della data è lo stesso all'indietro e in avanti. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 01/01/2020
+(B) 01/02/2020
+(C) 10/02/2019
+(D) 11/05/2019
+(E) 01/02/1931
+(F) 01/03/2020",(B)
+"Domani è il 12/11/2019. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 21/08/2019
+(B) 18/11/2019
+(C) 18/11/2025
+(D) 18/11/2011
+(E) 18/02/2020
+(F) 11/04/2019",(B)
+"Jane ha programmato 3 appuntamenti con 5 persone per domani (martedì, 7/9/1972). Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 07/09/1923
+(B) 08/05/1972
+(C) 09/01/1972
+(D) 07/09/1972
+(E) 07/09/2007
+(F) 09/04/1972",(D)
+"Il 6 maggio 1992 è come ieri per Jane, ma in realtà sono dieci anni fa. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/06/2095
+(B) 05/06/1935
+(C) 05/06/1912
+(D) 08/06/2002
+(E) 05/06/2002
+(F) 05/06/1964",(E)
+"Jane ha licenziato il suo lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 13/09/2020
+(B) 14/08/2020
+(C) 13/09/2057
+(D) 26/07/2020
+(I) 10/04/2020
+(F) 13/09/2084",(A)
+"Oggi è il 9 settembre 1909. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 29/08/1909
+(B) 30/08/1967
+(C) 30/08/1909
+(D) 30/08/1977
+(E) 08/02/1909
+(F) 16/08/1909",(C)
+"L'ora locale attuale è 15:02 del 5/4/2004. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 14/06/2003
+(B) 05/03/2003
+(C) 12/04/2002
+(D) 06/02/2003
+(E) 05/04/2003",(E)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 12/06/2010
+(B) 15/01/2011
+(C) 17/01/2011
+(D) 15/03/2011
+(E) 24/12/2010",(B)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 18/01/2011
+(B) 01/12/2011
+(C) 01/12/2069
+(D) 13/01/2011
+(E) 05/12/2010
+(F) 08/12/2010",(B)
+"Jane sta festeggiando l'ultimo giorno di gennaio 2012. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 29/01/2012
+(B) 30/09/2011
+(C) 02/06/2012
+(D) 30/01/2012
+(E) 30/01/1925",(D)
+"Il 2015 arriverà tra 36 ore. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 22/12/2040
+(B) 23/12/2014
+(C) 22/12/2014
+(D) 01/05/2015
+(E) 22/12/2086
+(F) 02/06/2015",(C)
+"Nel Regno Unito, le persone di solito mettono il giorno prima del mese quando si formatta la data. Pertanto, oggi è il 02/01/1987 per loro. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 01/01/1987
+(B) 19/10/1986
+(C) 01/08/1987
+(D) 01/01/2015
+(E) 01/01/1934
+(F) 29/12/1986",(A)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 08/03/2002
+(B) 22/10/2002
+(C) 06/03/2002
+(D) 08/04/2002
+(E) 08/04/1930
+(F) 07/04/2003",(D)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 23/05/2020
+(B) 13/04/2021
+(C) 24/05/2021
+(D) 23/05/2054
+(E) 23/05/1940
+(F) 23/05/2021",(F)
+"Jane ha licenziato il suo lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 02/05/2021
+(B) 09/05/2020
+(C) 15/08/2020
+(D) 09/06/2020
+(I) 09/04/2020",(B)
+"Ieri era il 30 aprile 2021. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 15/05/2021
+(B) 23/04/2021
+(C) 15/04/2021
+(D) 06/05/2021
+(E) 19/04/2021
+(F) 24/04/2021",(F)
+"Jane visita la libreria il 16 di ogni mese a partire da ottobre 2009. Oggi è la sua quinta visita in libreria. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 02/06/2010
+(B) 21/12/2009
+(C) 16/02/1933
+(D) 16/02/2010
+(E) 30/11/2009
+(F) 24/05/2010",(D)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 25/06/1964
+(B) 25/05/2018
+(C) 24/06/2017
+(D) 25/06/2063
+(E) 25/06/2017
+(F) 25/07/2017",(E)
+"Jane ha programmato 3 appuntamenti con 5 persone per domani (martedì, 7/9/1972). Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 07/03/1972
+(B) 28/10/1971
+(C) 28/06/1972
+(D) 14/06/1972
+(E) 28/09/1972
+(F) 23/06/1972",(C)
+"Nel Regno Unito, le persone di solito mettono il giorno prima del mese quando si formatta la data. Pertanto, oggi è il 02/01/1987 per loro. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 12/06/1986
+(B) 01/03/1987
+(C) 01/04/1987
+(D) 01/09/1987
+(E) 01/03/2035
+(F) 02/03/1986",(B)
+"Oggi è il secondo giorno del terzo mese del 1966. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 26/02/1966
+(B) 13/01/1966
+(C) 02/02/1966
+(D) 23/10/1966
+(E) 23/02/1968
+(F) 23/02/1966",(F)
+"Il primo giorno del 2019 è un martedì e oggi è il primo lunedì del 2019. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 01/08/1960
+(B) 01/01/2019
+(C) 02/08/2018
+(D) 01/08/2019
+(E) 22/10/2018
+(F) 01/08/2043",(D)
+"Questo è l'ultimo giorno del 1899. Qual è la data a una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 02/07/1900
+(B) 22/02/1900
+(C) 13/01/1900
+(D) 01/07/1900
+(E) 10/07/1900
+(F) 01/07/1828",(D)
+"Jane ha licenziato il suo lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 19/09/2020
+(B) 13/09/2020
+(C) 13/06/2021
+(D) 10/05/2020
+(E) 13/12/2020
+(F) 13/09/1991",(B)
+"Nel Regno Unito, le persone di solito mettono il giorno prima del mese quando si formatta la data. Pertanto, oggi è il 02/01/1987 per loro. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/09/1986
+(B) 01/02/1986
+(C) 12/05/1985
+(D) 11/10/1985
+(E) 20/12/1985
+(F) 22/10/1985",(B)
+"Ieri era il 31/12/1929. Oggi non potrebbe essere il 32/12/1929 perché dicembre ha solo 31 giorni. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 04/01/1930
+(B) 01/12/1929
+(C) 12/01/1973
+(D) 02/12/1929
+(E) 12/11/1929
+(F) 04/12/1929",(B)
+"Oggi è il 19/04/1969. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 26/04/1969
+(B) 04/05/1969
+(C) 05/11/1969
+(D) 27/04/1969
+(E) 14/05/1969
+(F) 25/04/1969",(A)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 25/03/2017
+(B) 03/01/2017
+(C) 03/01/2116
+(D) 20/02/2017
+(E) 17/03/2017
+(F) 03/01/2076",(B)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 19/06/2019
+(B) 24/06/2019
+(C) 26/08/2019
+(D) 25/06/2019
+(E) 26/06/2019
+(F) 07/03/2019",(E)
+"Il 6 maggio 1992 è come ieri per Jane, ma in realtà sono dieci anni fa. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 16/04/2002
+(B) 04/07/2003
+(C) 05/07/2036
+(D) 28/05/2002
+(E) 05/07/2002",(E)
+"Jane ha lasciato il lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/12/2020
+(B) 12/11/2020
+(C) 12/12/2020
+(D) 09/12/1961
+(E) 17/09/2020",(A)
+"Oggi, 8/3/1997, è un giorno che non dimenticheremo mai. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 10/07/1996
+(B) 08/03/2035
+(C) 05/03/1997
+(D) 08/03/1996
+(E) 08/04/1996",(D)
+"Il concerto era previsto per il 06/01/1943, ma è stato posticipato di un giorno ad oggi. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 27/05/1943
+(B) 06/04/1943
+(C) 06/01/2005
+(D) 20/03/1943
+(E) 24/05/1943
+(F) 06/01/1943",(F)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 05/04/2017
+(B) 03/01/1919
+(C) 03/01/2017
+(D) 03/01/2005
+(E) 15/02/2017
+(F) 06/02/2017",(C)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 29/03/2008
+(B) 17/12/2007
+(C) 23/08/2007
+(D) 22/12/2007
+(E) 23/12/2007",(E)
+"Oggi è il giorno palindromo del 2020, perché il formato MMGGAAAA della data è lo stesso all'indietro e in avanti. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 01/03/2020
+(B) 02/04/2020
+(C) 04/03/2020
+(D) 11/03/2020
+(E) 02/03/1964
+(F) 02/03/2020",(F)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 31/12/2007
+(B) 01/01/2008
+(C) 02/03/2008
+(D) 01/02/2008
+(E) 27/12/2007",(B)
+"Jane ha programmato 3 appuntamenti con 5 persone per domani (martedì, 7/9/1972). Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 06/08/2059
+(B) 22/06/1972
+(C) 12/08/1971
+(D) 06/08/2034
+(E) 06/08/1972
+(F) 06/07/1972",(E)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 09/08/1916
+(B) 13/09/2003
+(C) 18/08/2003
+(D) 09/08/2003
+(E) 15/09/2003
+(F) 09/01/2003",(D)
+"Jane ha ottenuto il lavoro nel 2016. Oggi è il suo anniversario di lavoro di 3 anni. Ricorda ancora che il 2 dicembre, il suo secondo giorno di lavoro, ha versato il caffè sul suo laptop. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 08/02/2020
+(B) 12/02/1950
+(C) 18/11/2019
+(D) 12/02/2019
+(I) 01/02/2020
+(F) 12/01/2019",(D)
+"Ieri era il 30 aprile 2021. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 15/05/2020
+(B) 05/01/2020
+(C) 05/08/2020
+(D) 04/01/2020
+(E) 05/01/1971",(B)
+"Oggi è la vigilia di Natale del 1937. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 24/12/1937
+(B) 30/12/1937
+(C) 27/12/1937
+(D) 17/12/1937
+(E) 31/12/1937
+(F) 24/05/1938",(A)
+"Il primo giorno del 2019 è un martedì e oggi è il primo lunedì del 2019. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 01/06/1960
+(B) 27/12/2018
+(C) 01/06/2019
+(D) 01/07/2019
+(E) 01/06/2058
+(F) 10/06/2019",(C)
+"Questo è l'ultimo giorno del 1899. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 01/01/1900
+(B) 22/01/1900
+(C) 01/01/1899
+(D) 02/06/1900
+(E) 01/08/1900
+(F) 01/01/1827",(A)
+"Jane è nata l'ultimo giorno di febbraio del 2000. Oggi è il suo compleanno di 16 anni. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 28/02/2015
+(B) 03/10/2015
+(C) 03/08/2015
+(D) 28/04/2015
+(E) 21/02/2015
+(F) 28/03/2015",(A)
+"Jane pensava che oggi fosse il 3/11/2002, ma in realtà oggi è il 12 marzo, ovvero 1 giorno dopo. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 16/03/2002
+(B) 23/02/2002
+(C) 03/02/2001
+(D) 03/02/2003
+(E) 25/11/2001
+(F) 03/02/2002",(F)
+"Oggi è la vigilia di Natale del 1937. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 24/12/1862
+(B) 01/10/1937
+(C) 24/10/1936
+(D) 24/12/1936
+(E) 24/03/1936
+(F) 29/12/1936",(D)
+"Oggi è il 19/04/1969. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 21/06/1969
+(B) 18/01/1969
+(C) 16/04/1969
+(D) 18/05/1969
+(E) 20/04/1969
+(F) 05/11/1969",(E)
+"L'altro ieri era il 23/11/1933. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 25/11/1933
+(B) 26/11/1933
+(C) 26/07/1934
+(D) 23/08/1933
+(E) 26/11/1976
+(F) 12/06/1933",(B)
+"L'altro ieri era il 23/11/1933. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 29/08/1933
+(B) 01/04/1934
+(C) 25/11/1967
+(D) 25/11/1933
+(E) 04/11/1933
+(F) 12/09/1933",(D)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 29/07/2001
+(B) 24/04/2002
+(C) 30/07/2002
+(D) 28/07/2002
+(E) 29/07/2002
+(F) 29/07/1947",(E)
+"Jane è nata l'ultimo giorno di febbraio del 2000. Oggi è il suo compleanno di 16 anni. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 03/02/2016
+(B) 03/01/1968
+(C) 20/02/2016
+(D) 03/01/2016
+(E) 03/01/2104
+(F) 03/01/2048",(D)
+"Oggi è il 19/04/1969. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 28/03/1969
+(B) 04/12/1969
+(C) 04/02/1969
+(D) 03/04/1969
+(E) 02/12/1970
+(F) 13/04/1969",(B)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 02/05/1973
+(B) 03/08/1983
+(C) 01/02/1973
+(D) 03/05/2007
+(E) 03/05/1973
+(F) 04/05/1973",(A)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/02/2021
+(B) 09/07/2021
+(C) 09/01/2021
+(D) 09/01/2098
+(I) 09/01/2020
+(F) 12/06/2021",(C)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 29/04/2021
+(B) 21/05/2021
+(C) 04/06/2021
+(D) 24/06/2021
+(E) 20/05/2021",(E)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 28/08/2017
+(B) 22/02/2017
+(C) 03/01/2017
+(D) 28/01/2018
+(E) 02/07/2017
+(F) 28/02/2017",(F)
+"Oggi, 8/3/1997, è un giorno che non dimenticheremo mai. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 08/04/1997
+(B) 08/04/1978
+(C) 08/04/2043
+(D) 08/07/1997
+(E) 08/04/1935
+(F) 05/01/1997",(A)
+"Il 6 maggio 1992 è come ieri per Jane, ma in realtà sono dieci anni fa. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 26/05/2002
+(B) 05/05/2001
+(C) 05/05/1902
+(D) 05/05/2084
+(E) 05/01/2002
+(F) 05/05/2002",(F)
+"Negli Stati Uniti, il Ringraziamento cade il quarto giovedì di novembre. Oggi è il Giorno del Ringraziamento degli Stati Uniti del 2001. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 22/11/2001
+(B) 21/10/2002
+(C) 21/07/2002
+(D) 22/10/1923
+(E) 15/10/2002
+(F) 22/10/2002",(F)
+"Jane festeggia l'ultimo giorno di gennaio 2012. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 16/03/2012
+(B) 02/01/2012
+(C) 31/01/2012
+(D) 02/06/2012
+(E) 02/07/2014
+(F) 02/07/2012",(D)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 12/07/2002
+(B) 24/08/2002
+(C) 09/07/2002
+(D) 09/07/1918
+(I) 09/08/2002
+(F) 28/09/2002",(C)
+"Oggi è l'ultimo giorno del primo trimestre del 2008. Qual è la data a una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 15/04/2008
+(B) 10/07/2008
+(C) 09/07/2008
+(D) 24/03/2008
+(I) 04/07/2008
+(F) 04/06/2008",(E)
+"Jane ha ottenuto il lavoro nel 2016. Oggi è il suo anniversario di lavoro di 3 anni. Ricorda ancora che il 2 dicembre, il suo secondo giorno di lavoro, ha versato il caffè sul suo laptop. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 01/11/2019
+(B) 11/02/2019
+(C) 09/06/2019
+(D) 01/11/1933
+(E) 01/11/2089
+(F) 08/04/2019",(A)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 27/06/2002
+(B) 21/06/2002
+(C) 28/10/2001
+(D) 28/10/2002
+(E) 28/06/2002
+(F) 25/08/2002",(E)
+"Jane festeggia l'ultimo giorno di gennaio 2012. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 31/01/2012
+(B) 02/01/2016
+(C) 02/01/2079
+(D) 11/10/2011
+(E) 01/04/2012
+(F) 02/01/2012",(F)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 27/07/2002
+(B) 28/07/2002
+(C) 27/12/2001
+(D) 27/07/1921
+(E) 27/12/2002",(A)
+"Negli Stati Uniti, il Ringraziamento cade il quarto giovedì di novembre. Oggi è il Giorno del Ringraziamento degli Stati Uniti del 2001. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 12/01/2002
+(B) 24/11/2002
+(C) 23/06/2003
+(D) 23/05/2002
+(E) 23/11/2002",(E)
+"Oggi è il 9 settembre 1909. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 08/11/1909
+(B) 24/07/1909
+(C) 09/09/1909
+(D) 09/08/1962
+(E) 09/08/1909
+(F) 15/09/1909",(E)
+"Oggi è il 9 settembre 1909. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/09/1920
+(B) 09/09/1908
+(C) 07/05/1908
+(D) 09/09/1870
+(E) 09/04/1908
+(F) 13/09/1908",(B)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 18/07/2017
+(B) 17/06/2017
+(C) 17/06/2111
+(D) 13/07/2017
+(E) 26/06/2017
+(F) 25/06/2017",(B)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 20/06/2019
+(B) 22/06/2019
+(C) 29/06/2019
+(D) 21/06/2019
+(E) 20/06/2028
+(F) 20/06/1921",(A)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 30/01/2011
+(B) 04/10/2011
+(C) 29/01/2011
+(D) 28/01/2011
+(E) 29/06/2010",(C)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 13/04/1985
+(B) 04/10/1985
+(C) 01/02/2071
+(D) 04/07/1985
+(I) 04/11/1985
+(F) 03/10/1986",(E)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 03/06/1973
+(B) 03/02/1973
+(C) 03/08/1983
+(D) 04/05/1973
+(E) 03/05/1972
+(F) 01/02/1973",(A)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 08/05/2017
+(B) 19/06/2017
+(C) 25/06/2017
+(D) 13/06/2017
+(E) 21/06/2017
+(F) 18/06/2017",(B)
+"Il concerto era previsto per il 06/01/1943, ma è stato posticipato di un giorno ad oggi. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 06/03/1943
+(B) 15/03/1943
+(C) 08/03/1942
+(D) 06/02/1943
+(E) 07/04/1943
+(F) 05/06/1943",(A)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 28/08/1959
+(B) 29/08/2003
+(C) 28/08/2003
+(D) 14/06/2003
+(E) 28/03/2003
+(F) 28/08/2043",(C)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 03/10/1986
+(B) 04/07/1985
+(C) 13/05/1985
+(D) 04/10/1984
+(I) 04/12/1986
+(F) 04/10/1985",(D)
+"Oggi è il 9 settembre 1909. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/02/1832
+(B) 05/02/1909
+(C) 09/02/1864
+(D) 09/02/1906
+(E) 09/02/1909
+(F) 19/08/1909",(E)
+"Oggi, 8/3/1997, è un giorno che non dimenticheremo mai. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 27/03/1998
+(B) 09/02/1997
+(C) 27/07/1997
+(D) 29/06/1997
+(E) 27/07/1973
+(F) 27/12/1997",(C)
+"Oggi è il secondo giorno del terzo mese del 1966. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 03/04/1966
+(B) 04/03/1966
+(C) 03/03/1965
+(D) 03/03/2021
+(E) 03/02/1966
+(F) 03/03/1966",(F)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 03/05/1972
+(B) 01/02/1973
+(C) 04/05/1973
+(D) 03/08/1983
+(E) 26/02/1973
+(F) 03/02/1973",(E)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 06/08/1933
+(B) 06/06/2017
+(C) 15/05/2017
+(D) 14/06/2017
+(I) 06/08/2017
+(F) 22/06/2017",(E)
+"Domani è il 12/11/2019. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 12/11/2019
+(B) 11/11/2042
+(C) 11/11/2020
+(D) 11/01/2019
+(E) 11/11/2019
+(F) 25/11/2019",(E)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 28/02/2017
+(B) 18/02/2017
+(C) 18/03/2017
+(D) 13/02/2017
+(E) 25/02/2017
+(F) 03/04/2017",(B)
+"Ieri era il 30 aprile 2021. Qual è la data a una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/10/2021
+(B) 13/03/2021
+(C) 04/10/2021
+(D) 27/04/2021
+(I) 05/09/2021
+(F) 05/08/2021",(F)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 03/08/2017
+(B) 03/07/2058
+(C) 03/07/2017
+(D) 03/07/2018
+(E) 03/07/1992
+(F) 15/03/2017",(C)
+"Jane pensava che oggi fosse il 3/11/2002, ma in realtà oggi è il 12 marzo, ovvero 1 giorno dopo. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 14/03/2002
+(B) 13/12/2001
+(C) 03/10/2002
+(D) 13/03/2002
+(E) 13/08/2001
+(F) 27/02/2002",(D)
+"Negli Stati Uniti, il Ringraziamento cade il quarto giovedì di novembre. Oggi è il Giorno del Ringraziamento degli Stati Uniti del 2001. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 11/09/2002
+(B) 12/07/2002
+(C) 23/11/2002
+(D) 23/06/2002
+(E) 15/10/2002
+(F) 29/08/2002",(C)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 26/12/2007
+(B) 26/12/1951
+(C) 26/05/2007
+(D) 12/05/2007
+(E) 26/09/2008
+(F) 26/12/2099",(A)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 13/04/1985
+(B) 04/07/1985
+(C) 13/05/1985
+(D) 04/10/1986
+(I) 03/10/1986
+(F) 31/03/1985",(F)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 18/06/2030
+(B) 18/09/2016
+(C) 18/06/2016
+(D) 18/07/2015
+(E) 22/06/2016
+(F) 25/06/2016",(C)
+"Il primo giorno del 2019 è un martedì e oggi è il primo lunedì del 2019. Qual è la data a una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 13/01/2019
+(B) 02/11/2019
+(C) 02/04/2019
+(D) 14/01/2019
+(E) 16/01/2019
+(F) 31/12/2018",(D)
+"Oggi è il 9 settembre 1909. Qual è la data a una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 16/09/1952
+(B) 16/09/1909
+(C) 16/09/1876
+(D) 22/08/1909
+(E) 16/12/1909
+(F) 14/10/1909",(B)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 14/08/2003
+(B) 08/10/2003
+(C) 08/08/2003
+(D) 06/01/2003
+(E) 04/07/2003
+(F) 08/07/2003",(F)
+"L'ora locale attuale è 15:02 del 5/4/2004. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 05/05/1915
+(B) 05/06/2004
+(C) 05/05/2004
+(D) 01/05/2005
+(E) 15/02/2004
+(F) 05/04/2004",(C)
+"Oggi è il giorno palindromo del 2020, perché il formato MMGGAAAA della data è lo stesso all'indietro e in avanti. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 22/01/2020
+(B) 23/01/2020
+(C) 23/03/2020
+(D) 23/01/2078
+(E) 23/01/2011",(B)
+"Oggi è la vigilia di Natale del 1937. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 17/08/1937
+(B) 18/09/1937
+(C) 18/12/1937
+(D) 17/12/1937
+(E) 16/12/1937",(D)
+"L'ora locale attuale è 15:02 del 5/4/2004. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/05/2004
+(B) 05/04/2005
+(C) 28/04/2004
+(D) 05/04/2004
+(I) 05/03/2004
+(F) 05/11/2004",(D)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/07/2020
+(B) 31/08/2020
+(C) 07/08/2020
+(D) 09/08/2049
+(E) 18/08/2020
+(F) 09/08/2020",(F)
+"Ieri era il 30 aprile 2021. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 04/01/2094
+(B) 22/03/2021
+(C) 18/03/2021
+(D) 31/03/2021
+(I) 04/01/2021
+(F) 21/02/2021",(E)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 03/08/1983
+(B) 03/06/1973
+(C) 03/02/1973
+(D) 04/05/1973
+(I) 03/05/2007
+(F) 01/02/1973",(B)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 24/07/2001
+(B) 28/09/2001
+(C) 28/07/2001
+(D) 10/10/2001
+(E) 28/01/2002
+(F) 28/07/2095",(C)
+"Negli Stati Uniti, il Ringraziamento cade il quarto giovedì di novembre. Oggi è il Giorno del Ringraziamento degli Stati Uniti del 2001. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 09/12/2002
+(B) 30/11/2002
+(C) 21/11/2002
+(D) 21/11/2076
+(E) 11/07/2002
+(F) 15/11/2002",(C)
+"Jane ha ottenuto il lavoro nel 2016. Oggi è il suo anniversario di lavoro di 3 anni. Ricorda ancora che il 2 dicembre, il suo secondo giorno di lavoro, ha versato il caffè sul suo laptop. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 29/02/2020
+(B) 30/11/2065
+(C) 18/02/2020
+(D) 21/09/2019
+(E) 29/11/2019
+(F) 30/11/2019",(F)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 04/05/1973
+(B) 03/02/1973
+(C) 22/01/2007
+(D) 01/02/1973
+(E) 03/05/1973
+(F) 03/08/1983",(E)
+"La riunione di oggi è spostata alle 11 di domani, 16/10/1924. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 16/10/1924
+(B) 16/07/1925
+(C) 17/10/1924
+(D) 15/10/1924
+(E) 16/10/1922
+(F) 16/10/2010",(A)
+"Jane visita la libreria il 16 di ogni mese a partire da ottobre 2009. Oggi è la sua quinta visita in libreria. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 22/02/2010
+(B) 23/02/2010
+(C) 03/01/2010
+(D) 26/01/2010
+(E) 19/02/2010
+(F) 24/02/2010",(B)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro quinto anniversario. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 01/01/2003
+(B) 01/11/1960
+(C) 02/01/1961
+(D) 01/01/1958
+(E) 01/01/1961
+(F) 04/09/1961",(E)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 03/03/2017
+(B) 27/04/2017
+(C) 21/03/2017
+(D) 21/02/1961
+(E) 21/02/2017",(E)
+"Oggi è il primo giorno del 2007. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/01/2007
+(B) 01/01/2007
+(C) 01/01/1951
+(D) 01/01/2096
+(E) 22/01/2007
+(F) 18/12/2006",(B)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 09/05/2021
+(B) 08/08/2021
+(C) 25/09/2021
+(D) 08/09/2021
+(E) 10/04/2021
+(F) 25/07/2021",(B)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 03/10/1986
+(B) 04/10/1985
+(C) 04/09/1985
+(D) 04/07/1985
+(I) 04/11/1986
+(F) 13/05/1985",(C)
+"Oggi è il secondo giorno del terzo mese del 1966. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 02/01/1966
+(B) 17/12/1965
+(C) 02/02/1966
+(D) 18/03/1966
+(E) 02/03/1966",(C)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 18/02/2019
+(B) 18/06/2066
+(C) 18/06/2019
+(D) 18/06/1933
+(E) 28/05/2019
+(F) 18/11/2019",(C)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 31/05/1966
+(B) 06/02/2021
+(C) 18/08/2021
+(D) 31/05/1941
+(E) 16/06/2021
+(F) 31/05/2021",(F)
+"Oggi, 8/3/1997, è un giorno che non dimenticheremo mai. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 06/12/1997
+(B) 07/03/1997
+(C) 08/03/1996
+(D) 07/02/1997
+(E) 22/09/1997
+(F) 07/12/1997",(B)
+"Oggi è il secondo giorno del terzo mese del 1966. Qual è la data a una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 12/09/1965
+(B) 03/02/1966
+(C) 28/03/1966
+(D) 26/03/1966
+(E) 03/09/1966
+(F) 22/02/1966",(E)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 06/12/2022
+(B) 06/12/2019
+(C) 06/11/2019
+(D) 13/06/2019
+(E) 25/08/2019
+(F) 24/03/2019",(B)
+"L'altro ieri era il 23/11/1933. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 25/11/1933
+(B) 12/02/1974
+(C) 16/12/1933
+(D) 11/11/1933
+(E) 23/12/1933
+(F) 12/02/1933",(F)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 28/02/2015
+(B) 31/03/2016
+(C) 28/02/2016
+(D) 28/02/1992
+(E) 27/03/2016
+(F) 03/06/2016",(C)
+"Jane è nata l'ultimo giorno di febbraio del 2000. Oggi è il suo compleanno di 16 anni. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 21/02/2016
+(B) 28/02/2016
+(C) 13/03/2016
+(D) 28/04/2016
+(I) 06/01/2016
+(F) 28/11/2015",(B)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 01/06/2008
+(B) 07/03/2007
+(C) 01/02/2008
+(D) 01/11/2008
+(E) 17/01/2008
+(F) 01/03/2008",(F)
+"La riunione di oggi è spostata alle 11 di domani, 16/10/1924. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 15/10/1924
+(B) 15/10/1835
+(C) 14/10/1924
+(D) 29/10/1924
+(E) 17/09/1924",(A)
+"Il 2015 arriverà tra 36 ore. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 03/07/2015
+(B) 28/11/2014
+(C) 23/11/2014
+(D) 20/12/2014
+(E) 12/05/2014
+(F) 29/11/2014",(F)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 05/09/2021
+(B) 05/01/2021
+(C) 08/03/2021
+(D) 19/02/2021
+(E) 30/04/2021
+(F) 07/06/2021",(E)
+"Jane festeggia l'ultimo giorno di gennaio 2012. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 02/06/2012
+(B) 24/08/2011
+(C) 22/01/2012
+(D) 24/01/2012
+(E) 24/01/1923
+(F) 24/01/1947",(D)
+"Jane sta festeggiando l'ultimo giorno di gennaio 2012. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 31/01/2012
+(B) 29/01/2012
+(C) 02/10/2012
+(D) 22/03/2012
+(E) 30/01/2012
+(F) 21/01/2012",(A)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 15/10/2020
+(B) 13/10/2021
+(C) 09/05/2021
+(D) 09/09/2021
+(E) 15/09/2021
+(F) 22/09/2021",(E)
+"Ieri era il 30 aprile 2021. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 29/04/2021
+(B) 05/02/2021
+(C) 04/11/2021
+(D) 05/01/2021
+(E) 14/03/2021
+(F) 05/02/1960",(B)
+"Oggi è il 19/04/1969. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 19/03/1969
+(B) 04/08/1969
+(C) 24/03/1969
+(D) 04/04/1969
+(E) 04/10/1969
+(F) 04/09/1969",(F)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro quinto anniversario. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/02/1894
+(B) 01/02/1961
+(C) 23/12/1960
+(D) 01/02/1960
+(E) 01/03/1961
+(F) 01/02/1990",(B)
+"Il 2015 arriverà tra 36 ore. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 30/01/2014
+(B) 30/10/2015
+(C) 30/12/1933
+(D) 31/12/2014
+(E) 30/12/2014
+(F) 29/12/2014",(E)
+"L'altro ieri era il 23/11/1933. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 25/10/1921
+(B) 25/10/1989
+(C) 26/10/1933
+(D) 25/10/1933
+(E) 22/11/1933",(D)
+"Jane ha ottenuto il lavoro nel 2016. Oggi è il suo anniversario di lavoro di 3 anni. Ricorda ancora che il 2 dicembre, il suo secondo giorno di lavoro, ha versato il caffè sul suo laptop. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 23/11/2019
+(B) 24/06/2019
+(C) 24/03/2019
+(D) 24/11/2019
+(E) 29/02/2020",(D)
+"Questo è l'ultimo giorno del 1899. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 12/11/1899
+(B) 21/12/1887
+(C) 24/12/1899
+(D) 21/12/1899
+(E) 22/03/1900",(D)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 19/06/2018
+(B) 22/05/2018
+(C) 19/06/1934
+(D) 19/06/1956
+(E) 24/06/2018
+(F) 18/06/2018",(A)
+"Jane ha licenziato il suo lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 09/11/2094
+(B) 09/11/2020
+(C) 09/10/2020
+(D) 14/08/2020
+(E) 10/09/2020
+(F) 17/09/2020",(B)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 09/06/2003
+(B) 21/09/2003
+(C) 09/05/2003
+(D) 23/10/2003
+(E) 09/06/2102",(A)
+"Oggi è l'ultimo giorno del primo trimestre del 2008. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 29/02/2008
+(B) 02/08/2008
+(C) 26/12/2007
+(D) 28/02/2008
+(I) 02/01/2008
+(F) 29/08/2008",(A)
+"Jane ha programmato 3 appuntamenti con 5 persone per domani (martedì, 7/9/1972). Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 24/06/1972
+(B) 16/07/1972
+(C) 15/07/1972
+(D) 18/06/1972
+(E) 29/07/1972
+(F) 15/07/2037",(C)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 04/12/1986
+(B) 04/07/1985
+(C) 03/10/1986
+(D) 04/10/1985
+(E) 13/04/1985
+(F) 13/05/1985",(D)
+"L'ora locale attuale è 15:02 del 5/4/2004. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 27/04/2004
+(B) 18/05/2004
+(C) 28/04/2004
+(D) 27/05/2004
+(E) 27/04/2003
+(F) 24/04/2004",(A)
+"Negli Stati Uniti, il Ringraziamento cade il quarto giovedì di novembre. Oggi è il Giorno del Ringraziamento degli Stati Uniti del 2001. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 16/01/2003
+(B) 21/11/2002
+(C) 09/04/2002
+(D) 22/11/2002
+(E) 24/08/2002
+(F) 23/11/2002",(D)
+"Jane pensava che oggi fosse il 3/11/2002, ma in realtà oggi è il 12 marzo, ovvero 1 giorno dopo. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/12/2001
+(B) 03/12/2002
+(C) 31/01/2002
+(D) 14/03/2002
+(E) 04/02/2002
+(F) 03/12/1908",(B)
+"Ieri era il 31/12/1929. Oggi non potrebbe essere il 32/12/1929 perché dicembre ha solo 31 giorni. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 22/12/1929
+(B) 31/10/1929
+(C) 19/11/1929
+(D) 22/12/1973
+(E) 22/09/1929",(A)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 10/09/2002
+(B) 18/08/2002
+(C) 16/07/2002
+(D) 28/07/2002
+(E) 28/11/2002
+(F) 09/11/2002",(D)
+"Jane ha ottenuto il lavoro nel 2016. Oggi è il suo anniversario di lavoro di 3 anni. Ricorda ancora che il 2 dicembre, il suo secondo giorno di lavoro, ha versato il caffè sul suo laptop. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 21/11/2019
+(B) 20/11/2019
+(C) 21/03/2020
+(D) 21/11/2080
+(E) 21/02/2020
+(F) 22/11/2019",(A)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 04/11/1985
+(B) 13/04/1985
+(C) 04/12/1987
+(D) 04/07/1975
+(I) 04/12/1986
+(F) 04/10/1985",(A)
+"Il 2015 arriverà tra 36 ore. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 01/09/2015
+(B) 30/12/2059
+(C) 30/12/2014
+(D) 01/01/2015
+(I) 01/04/2015
+(F) 31/12/2014",(C)
+"Il 2015 arriverà tra 36 ore. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 01/02/2015
+(B) 23/12/2014
+(C) 19/12/2014
+(D) 18/12/2014
+(E) 21/11/2014
+(F) 20/12/2014",(C)
+"Ieri era il 31/12/1929. Oggi non potrebbe essere il 32/12/1929 perché dicembre ha solo 31 giorni. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 01/02/1930
+(B) 08/02/1930
+(C) 01/02/1884
+(D) 11/06/1929
+(E) 30/03/1930
+(F) 01/02/1877",(A)
+"Ieri era il 31/12/1929. Oggi non potrebbe essere il 32/12/1929 perché dicembre ha solo 31 giorni. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/01/1898
+(B) 01/01/1994
+(C) 08/01/1929
+(D) 01/08/1929
+(E) 01/01/1891
+(F) 01/01/1929",(F)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/05/2003
+(B) 30/08/2003
+(C) 31.08.2074
+(D) 31/08/2003
+(E) 30/06/2004",(D)
+"Jane sta festeggiando l'ultimo giorno di gennaio 2012. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 02/02/2012
+(B) 15/02/2012
+(C) 25/01/2012
+(D) 22/04/2012
+(E) 02/01/2012
+(F) 02/11/2012",(E)
+"Il 6 maggio 1992 è come ieri per Jane, ma in realtà sono dieci anni fa. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 29/04/2002
+(B) 24/04/2002
+(C) 19/04/2002
+(D) 28/04/2002
+(E) 13/02/2002
+(F) 20/05/2002",(A)
+"Jane pensava che oggi fosse il 3/11/2002, ma in realtà oggi è il 12 marzo, ovvero 1 giorno dopo. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 13/05/2002
+(B) 20/03/2002
+(C) 19/03/2002
+(D) 19/11/2002
+(E) 26/03/2002",(C)
+"Oggi è il secondo giorno del terzo mese del 1966. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 03/01/1966
+(B) 01/11/1966
+(C) 03/04/1966
+(D) 10/01/1966
+(E) 03/02/1966
+(F) 03/01/1871",(A)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 17/06/2017
+(B) 16/07/2017
+(C) 18/06/2017
+(D) 18/06/2016
+(E) 18/06/2054
+(F) 18/12/2016",(C)
+"Jane visita la libreria il 16 di ogni mese a partire da ottobre 2009. Oggi è la sua quinta visita in libreria. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 16/01/2010
+(B) 19/12/2009
+(C) 15/01/2010
+(D) 02/11/2010
+(E) 17/01/2010
+(F) 10/09/2009",(A)
+"Oggi è il 9 settembre 1909. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 09/10/1909
+(B) 24/09/1909
+(C) 07/03/1909
+(D) 12/10/1909
+(E) 13/08/1909
+(F) 09/10/1892",(A)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 24/03/2007
+(B) 01/02/2007
+(C) 04/05/2007
+(D) 01/02/2037
+(I) 01/01/2007
+(F) 01/02/1957",(B)
+"L'ora locale attuale è 15:02 del 5/4/2004. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/10/2004
+(B) 05/11/2004
+(C) 04/12/2004
+(D) 05/05/2004
+(E) 21/05/2004
+(F) 25/05/2004",(B)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 23/02/1973
+(B) 01/02/1973
+(C) 24/02/1973
+(D) 03/08/1983
+(E) 04/05/1973
+(F) 03/02/1973",(A)
+"Oggi è il 9 settembre 1909. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 12/10/1908
+(B) 14/12/1909
+(C) 09/09/1909
+(D) 07/03/1909
+(E) 09/10/1909
+(F) 09/11/1909",(E)
+"Oggi è l'ultimo giorno del primo trimestre del 2008. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 04/01/2008
+(B) 17/01/2008
+(C) 31/03/2008
+(D) 04/01/2007
+(E) 04/01/2063
+(F) 22/03/2008",(A)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro quinto anniversario. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 12/02/2000
+(B) 12/02/2055
+(C) 12/01/1960
+(D) 12/02/1960
+(E) 05/02/1961
+(F) 18/11/1960",(D)
+"Jane festeggia l'ultimo giorno di gennaio 2012. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 31/10/2011
+(B) 31/01/2011
+(C) 30/06/2011
+(D) 02/01/2011
+(I) 02/08/2011
+(F) 20/04/2011",(B)
+"Oggi è la vigilia di Natale del 1937. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 23/09/1938
+(B) 23/12/1896
+(C) 24/12/1937
+(D) 01/06/1938
+(E) 31/12/1937
+(F) 23/12/1937",(F)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 04/05/1973
+(B) 03/02/1973
+(C) 03/05/1972
+(D) 01/02/1973
+(I) 03/08/1983
+(F) 03/12/1973",(F)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro quinto anniversario. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/09/1961
+(B) 01/02/1961
+(C) 10/01/1960
+(D) 26/12/1960
+(E) 26/07/1960
+(F) 26/12/1936",(D)
+"Il 2015 arriverà tra 36 ore. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 13/02/2015
+(B) 29/12/2014
+(C) 26/10/2014
+(D) 28/12/2014
+(E) 11/07/2014
+(F) 10/03/2014",(D)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 12/11/2016
+(B) 21/01/2017
+(C) 14/01/2017
+(D) 28/01/2017
+(I) 02/03/2017",(D)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 09/06/2002
+(B) 18/10/2001
+(C) 07/08/2002
+(D) 08/08/2002
+(E) 18/07/2002
+(F) 10/08/2002",(E)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 06/12/2021
+(B) 06/05/2021
+(C) 29/07/2021
+(D) 22/05/2021
+(E) 17/06/2021
+(F) 29/05/2021",(F)
+"Il concerto era previsto per il 06/01/1943, ma è stato posticipato di un giorno ad oggi. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 21/05/1943
+(B) 23/10/1942
+(C) 07/01/1943
+(D) 24/05/1943
+(E) 23/05/1943",(E)
+"Domani è il 12/11/2019. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 02/12/2020
+(B) 12/11/2019
+(C) 22/10/2019
+(D) 14/11/2019
+(E) 12/10/2019",(B)
+"Jane visita la libreria il 16 di ogni mese a partire da ottobre 2009. Oggi è la sua quinta visita in libreria. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 14/02/2010
+(B) 17/02/2096
+(C) 17/02/2010
+(D) 17/11/2009
+(E) 16/02/2010
+(F) 26/02/2010",(C)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 02/08/2011
+(B) 22/12/2010
+(C) 22/06/2010
+(D) 12/01/2010
+(I) 01/05/2011
+(F) 21/12/2010",(B)
+"Ieri era il 30 aprile 2021. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 05/02/2020
+(B) 05/02/2000
+(C) 05/02/2021
+(D) 05/03/2021
+(I) 05/02/2022
+(F) 04/04/2021",(C)
+"Jane pensava che oggi fosse il 3/11/2002, ma in realtà oggi è il 12 marzo, ovvero 1 giorno dopo. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 04/12/2001
+(B) 02/11/2002
+(C) 02/12/2002
+(D) 02/08/2002
+(E) 22/05/2002
+(F) 18/02/2002",(C)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 01/12/2011
+(B) 01/08/2011
+(C) 22/01/1990
+(D) 22/01/2011
+(E) 22/01/2086
+(F) 23/01/2011",(D)
+"Oggi è l'ultimo giorno del primo trimestre del 2008. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 23/12/2007
+(B) 05/05/2008
+(C) 24/03/2047
+(D) 14/04/2008
+(E) 24/03/2043
+(F) 24/03/2008",(F)
+"Oggi è il 3/5, ed è la seconda volta che Jane nell'anno 1973 vede una pioggia di meteoriti. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 04/05/1973
+(B) 03/04/1973
+(C) 01/02/1973
+(D) 03/05/1973
+(E) 03/04/2007
+(F) 03/05/1983",(B)
+"Oggi è il 9 settembre 1909. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 08/09/1909
+(B) 08/10/1909
+(C) 05/09/1910
+(D) 08/08/1909
+(E) 08/09/1820
+(F) 19/08/1909",(A)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 12/05/2003
+(B) 08/08/2003
+(C) 07/07/2003
+(D) 09/07/2003
+(E) 20/11/2003
+(F) 09/06/2003",(D)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 21/01/2070
+(B) 20/01/2011
+(C) 26/01/2011
+(D) 28/01/2011
+(E) 21/01/2011
+(F) 21/06/2011",(E)
+"Oggi è il 7/9. Jane sta guardando NFL 2003. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 09/08/2003
+(B) 09/10/2003
+(C) 09/08/1917
+(D) 09/07/2003
+(E) 29/08/2003",(A)
+"Negli Stati Uniti, il Ringraziamento cade il quarto giovedì di novembre. Oggi è il Giorno del Ringraziamento degli Stati Uniti del 2001. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 29/11/2002
+(B) 15/11/2002
+(C) 30/11/2002
+(D) 27/12/2002
+(E) 12/11/2002
+(F) 29/11/2078",(A)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 06/08/2019
+(B) 08/09/2018
+(C) 06/09/2019
+(D) 19/05/2019
+(E) 06/09/2044
+(F) 15/06/2019",(C)
+"Oggi è il 9 settembre 1909. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 09/09/1909
+(B) 30/09/1909
+(C) 19/11/1909
+(D) 09/09/1939
+(E) 09/09/1886
+(F) 12/11/1909",(A)
+"Jane ha licenziato il suo lavoro il 20 marzo 2020. Da allora sono trascorsi 176 giorni. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 08/12/2020
+(B) 29/07/2020
+(C) 09/06/2020
+(D) 20/08/2020
+(E) 08/12/2045
+(F) 08/12/2093",(A)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Giovanni ha ragione. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 20/02/2019
+(B) 06/10/2019
+(C) 20/06/2019
+(D) 25/06/2019
+(E) 20/12/2018",(C)
+"Oggi, 8/3/1997, è un giorno che non dimenticheremo mai. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 08/04/1997
+(B) 08/05/1997
+(C) 17/08/1997
+(D) 08/03/2097
+(I) 08/03/1997
+(F) 08/02/1997",(E)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 09/09/2021
+(B) 09/08/2021
+(C) 19/08/2021
+(D) 09/09/1934
+(E) 02/09/2021
+(F) 13/09/2021",(A)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 03/09/2022
+(B) 09/10/2021
+(C) 31/08/2021
+(D) 09/09/2021
+(I) 09/02/2021
+(F) 17/09/2021",(D)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/09/2020
+(B) 30/05/2020
+(C) 30/05/1948
+(D) 30/10/2019
+(E) 20/05/2020
+(F) 06/02/2020",(B)
+"Il 2015 arriverà tra 36 ore. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 12/09/2013
+(B) 19/01/2014
+(C) 28/12/2013
+(D) 29/07/2013
+(E) 29/12/2013
+(F) 28/02/2014",(E)
+"Il 9 maggio 2017 Jane ha acquistato 40 uova. Ne mangiava uno al giorno. Oggi ha finito le uova. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 05/04/2017
+(B) 19/05/2017
+(C) 24/06/2017
+(D) 05/11/2017
+(E) 18/10/2017
+(F) 18/05/2017",(F)
+"Il concerto era previsto per il 06/01/1943, ma è stato posticipato di un giorno ad oggi. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 06/04/1943
+(B) 03/09/1943
+(C) 06/03/1943
+(D) 04/11/1943
+(E) 09/03/1943
+(F) 08/03/1942",(C)
+"Jane ha programmato 3 appuntamenti con 5 persone per domani (martedì, 7/9/1972). Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 07/08/1910
+(B) 07/08/1971
+(C) 07/09/1971
+(D) 15/07/1971
+(E) 07/01/1971
+(F) 07/07/1971",(B)
+"Il 6 maggio 1992 è come ieri per Jane, ma in realtà sono dieci anni fa. Qual è la data 24 ore dopo in MM/GG/AAAA?
+Opzioni:
+(A) 15/05/2002
+(B) 05/04/2002
+(C) 17/05/2002
+(D) 05/07/1982
+(E) 09/07/2001
+(F) 05/07/2002",(F)
+"Era il 1 settembre 2021 di una settimana fa. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 25/05/2021
+(B) 29/08/1925
+(C) 30/08/2021
+(D) 29/08/2021
+(E) 28/08/2021
+(F) 19/09/2021",(D)
+"Il primo giorno del 2019 è un martedì e oggi è il primo lunedì del 2019. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 28/10/2019
+(B) 24/12/2018
+(C) 14/12/2018
+(D) 28/12/2018
+(I) 01/01/2019
+(F) 28/06/2019",(D)
+"Oggi è il giorno palindromo del 2020, perché il formato MMGGAAAA della data è lo stesso all'indietro e in avanti. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 05/02/2019
+(B) 11/08/2019
+(C) 19/01/2020
+(D) 02/02/2020
+(I) 02/01/2020
+(F) 23/01/2020",(D)
+"La scadenza è il 1° giugno 2021, ovvero tra 2 giorni. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 31/05/1993
+(B) 17/05/2021
+(C) 07/07/2021
+(D) 31/05/2021
+(I) 06/01/2021
+(F) 30/05/2021",(D)
+"Jane ha prenotato un volo per domani, 29 luglio 2002. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 18/08/2002
+(B) 21/10/2002
+(C) 20/07/2002
+(D) 17/10/2002
+(E) 21/07/2002
+(F) 21/11/2001",(E)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Jane ha ragione. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 18/05/2019
+(B) 31/03/2019
+(C) 18/03/2019
+(D) 05/10/2019
+(E) 18/05/1989
+(F) 17/05/2019",(A)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 12/02/2007
+(B) 12/03/2007
+(C) 01/02/2007
+(D) 18/11/2007
+(E) 11/04/2007
+(F) 12/02/1928",(A)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Jane ha ragione. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 07/08/2019
+(B) 06/09/2019
+(C) 06/08/2021
+(D) 06/01/2019
+(I) 06/07/2019
+(F) 06/08/2019",(F)
+"Oggi è l'ultimo giorno del primo trimestre del 2008. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 04/09/2008
+(B) 09/01/2008
+(C) 14/03/2008
+(D) 31/03/2008
+(E) 04/01/2058
+(F) 04/01/2008",(F)
+"La riunione di oggi è spostata alle 11 di domani, 16/10/1924. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 08/08/1925
+(B) 10/08/2019
+(C) 11/06/1924
+(D) 04/08/1925
+(E) 10/08/1924
+(F) 10/07/1924",(E)
+"Domani è il 12/11/2019. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 01/11/2048
+(B) 01/11/2019
+(C) 11/02/2019
+(D) 27/10/2019
+(E) 23/10/2019",(B)
+"Nel Regno Unito, le persone di solito mettono il giorno prima del mese quando si formatta la data. Pertanto, oggi è il 02/01/1987 per loro. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 23/01/1987
+(B) 01/09/2023
+(C) 01/09/1948
+(D) 01/08/1987
+(E) 17/03/1987
+(F) 01/09/1987",(F)
+"Oggi è il 10 aprile 1985. L'appuntamento di Jane sarà 3 giorni dopo. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 04/10/1985
+(B) 05/10/1975
+(C) 03/10/1986
+(D) 17/04/1985
+(I) 04/12/1986
+(F) 04/07/1985",(D)
+"Jane è nata l'ultimo giorno di febbraio del 2000. Oggi è il suo compleanno di 16 anni. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 03/07/2016
+(B) 23/02/2016
+(C) 03/07/2070
+(D) 03/06/2016
+(I) 03/08/2016",(A)
+"Il 6 maggio 1992 è come ieri per Jane, ma in realtà sono dieci anni fa. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 07/07/2001
+(B) 05/05/2001
+(C) 02/11/2001
+(D) 05/06/2001
+(E) 08/06/2000",(D)
+"Domani è il 12/11/2019. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 10/11/2019
+(B) 10/11/1974
+(C) 10/11/2018
+(D) 10/12/2019
+(E) 16/10/2019
+(F) 10/10/2019",(A)
+"Jane festeggia l'ultimo giorno di gennaio 2012. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 21/12/2011
+(B) 31/12/2011
+(C) 30/12/2011
+(D) 31/12/2074
+(E) 31/12/2108
+(F) 29/03/2012",(B)
+"Oggi è il primo giorno del 2007. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 23/12/2006
+(B) 31/01/2007
+(C) 22/12/1961
+(D) 21/12/2006
+(E) 24/02/2007
+(F) 22/12/2006",(F)
+"Oggi è il giorno palindromo del 2020, perché il formato MMGGAAAA della data è lo stesso all'indietro e in avanti. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 23/02/2020
+(B) 13/02/2020
+(C) 02/09/2095
+(D) 12/09/2020
+(I) 02/09/2020
+(F) 27/02/2020",(E)
+"Oggi è il 19/04/1969. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 04/06/1969
+(B) 23/03/1969
+(C) 20/04/1969
+(D) 18/04/1969
+(E) 20/04/2035
+(F) 21/04/1969",(C)
+"Oggi è il primo giorno del 2007. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 24/12/2006
+(B) 25/06/2006
+(C) 03/05/2007
+(D) 25/12/2016
+(E) 25/12/2006
+(F) 25/12/1945",(E)
+"Jane pensa che oggi sia il 18/06/2019, ma John pensa che oggi sia il 19/06/2019. Jane ha ragione. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 06/11/2019
+(B) 06/02/2019
+(C) 06/11/1942
+(D) 06/12/2019
+(E) 29/07/2019
+(F) 28/05/2019",(A)
+"Jane è nata l'ultimo giorno di febbraio del 2001. Oggi è il suo compleanno di 16 anni. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 27/02/1955
+(B) 27/12/2016
+(C) 27/02/2017
+(D) 18/02/2017
+(E) 26/02/2017
+(F) 12/05/2016",(C)
+"Ieri era il 31/12/1929. Oggi non potrebbe essere il 32/12/1929 perché dicembre ha solo 31 giorni. Qual è la data di una settimana fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 25/12/1929
+(B) 20/09/1929
+(C) 16/12/1929
+(D) 28/12/1929
+(E) 22/01/1930
+(F) 25/12/2006",(A)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro anniversario di nozze d'oro. Qual è la data di oggi in MM/GG/AAAA?
+Opzioni:
+(A) 30/01/2008
+(B) 01/02/2085
+(C) 01/02/2008
+(D) 12/04/2007
+(I) 01/11/2008
+(F) 08/02/2008",(C)
+"Oggi è il 19/04/1969. Qual è la data di ieri in MM/GG/AAAA?
+Opzioni:
+(A) 18/04/1969
+(B) 18/04/1961
+(C) 21/03/1969
+(D) 19/04/1969
+(E) 27/04/1969",(A)
+"Oggi è il secondo giorno del terzo mese del 1966. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 03/03/1966
+(B) 24/03/1966
+(C) 03/04/1966
+(D) 28/02/1966
+(E) 03/02/1966",(A)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di domani in MM/GG/AAAA?
+Opzioni:
+(A) 13/02/2011
+(B) 22/01/2011
+(C) 24/01/2011
+(D) 23/01/2011
+(E) 31/12/2010
+(F) 26/12/2010",(D)
+"Jane e John si sono sposati il ​​2 gennaio 1958. Oggi è il loro quinto anniversario. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 06/02/1960
+(B) 01/02/1960
+(C) 01/02/1967
+(D) 19/12/1959
+(E) 26/12/1959
+(F) 01/02/2016",(B)
+"Oggi è l'ultimo giorno del primo trimestre del 2008. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 21/03/2104
+(B) 21/10/2008
+(C) 22/03/2008
+(D) 21/03/2008
+(E) 24/06/2008
+(F) 06/04/2008",(D)
+"Oggi, 8/3/1997, è un giorno che non dimenticheremo mai. Qual è la data di 10 giorni fa in MM/GG/AAAA?
+Opzioni:
+(A) 21/08/1997
+(B) 24/10/1997
+(C) 23/07/1997
+(D) 24/07/1997
+(E) 14/08/1997
+(F) 06/11/1997",(D)
+"Oggi è la vigilia di Natale del 1937. Qual è la data tra una settimana da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 28/12/1937
+(B) 31/12/1937
+(C) 31/12/1938
+(D) 27/12/1937
+(E) 12/03/1937",(B)
+"Ieri, 21 gennaio 2011, Jane ha mangiato 2 pizze e 5 ali. Qual è la data di un anno fa da oggi in MM/GG/AAAA?
+Opzioni:
+(A) 21/01/2010
+(B) 01/08/2010
+(C) 29/10/2009
+(D) 02/05/2010
+(E) 23/01/2010
+(F) 22/01/2010",(F)
+"Jane è nata l'ultimo giorno di febbraio del 2000. Oggi è il suo compleanno di 16 anni. Qual è la data di un mese fa in MM/GG/AAAA?
+Opzioni:
+(A) 05/04/2016
+(B) 29/07/2015
+(C) 02/02/2016
+(D) 11/08/2015
+(E) 30/01/2016
+(F) 29/01/2016",(F)

@@ -1,0 +1,1001 @@
+input,target
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo indietro. Fai 9 passi a sinistra. Fai 2 passi indietro. Fai 6 passi avanti. Fai 4 passi avanti. Fai 4 passi indietro. Fai 3 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi a sinistra. Fai 10 passi avanti. Fai 7 passi avanti. Fai 2 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 10 passi. Fai 4 passi. Fai 1 passo. Fai 10 passi. Girare a destra. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo a destra. Fai 3 passi a sinistra. Fai 2 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi indietro. Fai 7 passi indietro. Fai 8 passi a destra. Fai 6 passi a destra. Fai 3 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Girarsi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a destra. Fai 1 passo avanti. Fai 10 passi a sinistra. Fai 8 passi avanti. Fai 9 passi indietro. Fai 4 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi avanti. Fai 7 passi indietro. Fai 7 passi indietro. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 4 passi. Fai 3 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi indietro. Fai 9 passi avanti. Fai 4 passi avanti. Fai 2 passi a sinistra. Fai 4 passi avanti. Fai 6 passi avanti. Fai 10 passi indietro. Fai 8 passi a destra. Fai 1 passo a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Fai 5 passi. Fai 5 passi. Fai 10 passi. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 6 passi. Fai 8 passi. Fai 5 passi. Fai 6 passi. Fai 2 passi. Fai 1 passo. Fai 2 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Girarsi. Fai 3 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi indietro. Fai 2 passi a sinistra. Fai 5 passi a destra. Fai 3 passi a sinistra. Fai 5 passi indietro. Fai 10 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 3 passi a sinistra. Fai 10 passi giusti. Fai 7 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a destra. Girarsi. Girare a sinistra. Fai 4 passi. Girare a sinistra. Girarsi. Fai 3 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi avanti. Fai 1 passo indietro. Fai 4 passi indietro. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Girarsi. Fai 5 passi. Girare a destra. Girare a destra. Fai 1 passo. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 6 passi. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Girare a sinistra. Fai 9 passi. Fai 7 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi indietro. Fai 6 passi avanti. Fai 6 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 4 passi. Fai 2 passi. Girarsi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo avanti. Fai 10 passi a sinistra. Fai 4 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Girare a destra. Girare a destra. Fai 6 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi indietro. Fai 8 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 9 passi. Fai 6 passi. Fai 9 passi. Fai 6 passi. Fai 2 passi. Girare a sinistra. Fai 6 passi. Girarsi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girarsi. Fai 4 passi. Fai 6 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi avanti. Fai 5 passi indietro. Fai 5 passi a sinistra. Fai 5 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 5 passi. Girarsi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi avanti. Fai 7 passi indietro. Fai 10 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 7 passi. Fai 10 passi. Fai 1 passo. Girare a sinistra. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi avanti. Fai 5 passi a destra. Fai 7 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girare a sinistra. Girare a sinistra. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 5 passi. Fai 8 passi. Girare a destra. Girare a destra. Fai 5 passi. Girarsi. Fai 2 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 8 passi. Girare a destra. Girare a destra. Fai 1 passo. Fai 7 passi. Fai 6 passi. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi avanti. Fai 4 passi indietro. Fai 4 passi indietro. Fai 5 passi avanti. Fai 7 passi avanti. Fai 10 passi indietro. Fai 1 passo indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi avanti. Fai 7 passi a sinistra. Fai 5 passi indietro. Fai 4 passi a destra. Fai 3 passi a destra. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a destra. Fai 5 passi a destra. Fai 7 passi a sinistra. Fai 3 passi a sinistra. Fai 7 passi a sinistra. Fai 6 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 5 passi. Girarsi. Girarsi. Girarsi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi avanti. Fai 2 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a sinistra. Fai 6 passi a destra. Fai 10 passi giusti. Fai 2 passi a sinistra. Fai 5 passi a sinistra. Fai 1 passo a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Fai 10 passi. Fai 10 passi. Fai 1 passo. Fai 7 passi. Fai 5 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi a sinistra. Fai 2 passi indietro. Fai 7 passi indietro. Fai 7 passi indietro. Fai 3 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Fai 8 passi. Fai 7 passi. Girarsi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi avanti. Fai 7 passi indietro. Fai 10 passi indietro. Fai 10 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 9 passi. Girarsi. Fai 9 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 9 passi. Fai 10 passi. Girare a sinistra. Fai 10 passi. Girare a destra. Girarsi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girarsi. Fai 1 passo. Fai 10 passi. Girarsi. Fai 7 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi a destra. Fai 4 passi a destra. Fai 6 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi a destra. Fai 1 passo avanti. Fai 3 passi a sinistra. Fai 2 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Fai 7 passi. Girarsi. Fai 8 passi. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi a destra. Fai 2 passi a destra. Fai 4 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a sinistra. Fai 7 passi avanti. Fai 8 passi a sinistra. Fai 7 passi a sinistra. Fai 6 passi avanti. Fai 1 passo avanti. Fai 4 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 9 passi. Fai 5 passi. Fai 2 passi. Fai 10 passi. Girare a destra. Fai 10 passi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 3 passi. Girarsi. Fai 3 passi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a sinistra. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 9 passi. Girare a sinistra. Girare a sinistra. Fai 5 passi. Fai 4 passi. Girare a sinistra. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 4 passi. Fai 2 passi. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Fai 1 passo. Fai 8 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a sinistra. Fai 5 passi a sinistra. Fai 10 passi giusti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Fai 2 passi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi avanti. Fai 10 passi giusti. Fai 10 passi indietro. Fai 3 passi avanti. Fai 7 passi avanti. Fai 9 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi a sinistra. Fai 8 passi a sinistra. Fai 1 passo a sinistra. Fai 9 passi a sinistra. Fai 10 passi avanti. Fai 5 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo a destra. Fai 9 passi a sinistra. Fai 9 passi a destra. Fai 1 passo indietro. Fai 3 passi a destra. Fai 6 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 4 passi. Girarsi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi avanti. Fai 3 passi indietro. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Girarsi. Fai 10 passi. Girare a destra. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo a destra. Fai 4 passi a destra. Fai 5 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Girare a sinistra. Girare a sinistra. Girarsi. Fai 5 passi. Girarsi. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi avanti. Fai 4 passi indietro. Fai 6 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi indietro. Fai 2 passi indietro. Fai 10 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi avanti. Fai 2 passi indietro. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 5 passi. Fai 2 passi. Girarsi. Fai 8 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi avanti. Fai 2 passi indietro. Fai 10 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a sinistra. Fai 7 passi avanti. Fai 9 passi a destra. Fai 7 passi a sinistra. Fai 7 passi indietro. Fai 8 passi a destra. Fai 10 passi a sinistra. Fai 1 passo indietro. Fai 1 passo avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi indietro. Fai 2 passi avanti. Fai 1 passo indietro. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 5 passi. Fai 1 passo. Fai 6 passi. Girare a sinistra. Fai 7 passi. Fai 2 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo indietro. Fai 5 passi a destra. Fai 3 passi a sinistra. Fai 1 passo indietro. Fai 5 passi indietro. Fai 4 passi avanti. Fai 3 passi avanti. Fai 2 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a destra. Fai 8 passi indietro. Fai 1 passo a destra. Fai 7 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi avanti. Fai 4 passi avanti. Fai 7 passi indietro. Fai 7 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Girare a sinistra. Fai 1 passo. Fai 2 passi. Girarsi. Girarsi. Girarsi. Fai 3 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi avanti. Fai 9 passi a destra. Fai 2 passi avanti. Fai 10 passi indietro. Fai 9 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Fai 1 passo. Girare a sinistra. Girare a sinistra. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Girarsi. Girare a destra. Girare a sinistra. Fai 2 passi. Girarsi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo indietro. Fai 5 passi avanti. Fai 10 passi indietro. Fai 9 passi avanti. Fai 7 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo avanti. Fai 10 passi avanti. Fai 6 passi indietro. Fai 7 passi indietro. Fai 1 passo a sinistra. Fai 10 passi giusti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi a sinistra. Fai 4 passi avanti. Fai 1 passo a sinistra. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 3 passi a destra. Fai 5 passi a destra. Fai 2 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a destra. Fai 8 passi. Fai 4 passi. Girare a destra. Girare a destra. Fai 10 passi. Fai 1 passo. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Girarsi. Fai 7 passi. Fai 6 passi. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi avanti. Fai 8 passi a destra. Fai 8 passi a destra. Fai 9 passi a sinistra. Fai 6 passi a destra. Fai 2 passi avanti. Fai 9 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 9 passi. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a sinistra. Fai 3 passi indietro. Fai 3 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Girarsi. Fai 10 passi. Fai 2 passi. Girarsi. Fai 5 passi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a sinistra. Fai 10 passi. Fai 6 passi. Girare a sinistra. Fai 3 passi. Fai 3 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 8 passi. Fai 8 passi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Girare a destra. Girare a destra. Fai 7 passi. Girarsi. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a destra. Fai 6 passi a destra. Fai 10 passi indietro. Fai 9 passi a sinistra. Fai 4 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 6 passi. Fai 6 passi. Girare a sinistra. Fai 8 passi. Fai 1 passo. Fai 3 passi. Fai 7 passi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi indietro. Fai 2 passi indietro. Fai 1 passo avanti. Fai 6 passi avanti. Fai 3 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Girarsi. Fai 7 passi. Girare a sinistra. Girarsi. Girarsi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Girare a destra. Fai 7 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi a destra. Fai 7 passi a destra. Fai 1 passo a sinistra. Fai 4 passi a sinistra. Fai 6 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 7 passi. Girare a sinistra. Girare a sinistra. Fai 9 passi. Fai 2 passi. Girare a sinistra. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Girare a sinistra. Fai 4 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Girare a sinistra. Fai 6 passi. Girarsi. Fai 2 passi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 2 passi. Girarsi. Fai 4 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a destra. Fai 7 passi a sinistra. Fai 8 passi a destra. Fai 6 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 8 passi. Fai 2 passi. Girare a destra. Fai 8 passi. Girare a sinistra. Fai 6 passi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Fai 8 passi. Girare a sinistra. Fai 3 passi. Fai 1 passo. Fai 6 passi. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Girare a sinistra. Fai 6 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a sinistra. Fai 4 passi a sinistra. Fai 1 passo a sinistra. Fai 2 passi a sinistra. Fai 2 passi a destra. Fai 3 passi a sinistra. Fai 5 passi avanti. Fai 3 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Fai 9 passi. Girarsi. Fai 5 passi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi a sinistra. Fai 10 passi giusti. Fai 7 passi indietro. Fai 7 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi a sinistra. Fai 7 passi a destra. Fai 4 passi a destra. Fai 1 passo a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Fai 2 passi. Girare a destra. Girare a destra. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi indietro. Fai 6 passi avanti. Fai 6 passi indietro. Fai 7 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Girare a sinistra. Girare a sinistra. Fai 1 passo. Fai 5 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi indietro. Fai 8 passi avanti. Fai 10 passi indietro. Fai 2 passi avanti. Fai 4 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 3 passi avanti. Fai 3 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 6 passi. Fai 5 passi. Girarsi. Fai 5 passi. Fai 3 passi. Fai 4 passi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi a destra. Fai 5 passi a destra. Fai 9 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a sinistra. Girarsi. Fai 1 passo. Fai 6 passi. Girare a sinistra. Girare a sinistra. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Fai 5 passi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a destra. Fai 10 passi a sinistra. Fai 10 passi indietro. Fai 3 passi indietro. Fai 5 passi indietro. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 2 passi. Fai 8 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi indietro. Fai 8 passi a sinistra. Fai 3 passi a destra. Fai 7 passi avanti. Fai 3 passi a destra. Fai 9 passi a destra. Fai 1 passo indietro. Fai 7 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 5 passi. Fai 9 passi. Fai 7 passi. Girarsi. Fai 1 passo. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi indietro. Fai 1 passo avanti. Fai 1 passo indietro. Fai 5 passi avanti. Fai 6 passi indietro. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a destra. Fai 5 passi avanti. Fai 10 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Fai 2 passi. Fai 3 passi. Girarsi. Fai 4 passi. Girarsi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo a destra. Fai 2 passi avanti. Fai 2 passi a destra. Fai 4 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi avanti. Fai 2 passi indietro. Fai 4 passi a destra. Fai 7 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 4 passi. Girarsi. Fai 10 passi. Fai 8 passi. Girarsi. Fai 2 passi. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi avanti. Fai 3 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a sinistra. Fai 4 passi avanti. Fai 2 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi a sinistra. Fai 4 passi indietro. Fai 10 passi giusti. Fai 2 passi a sinistra. Fai 3 passi a sinistra. Fai 7 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Girare a destra. Fai 6 passi. Fai 10 passi. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo a destra. Fai 4 passi avanti. Fai 8 passi avanti. Fai 6 passi indietro. Fai 1 passo a sinistra. Fai 6 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a sinistra. Fai 5 passi a destra. Fai 2 passi a sinistra. Fai 2 passi a destra. Fai 6 passi avanti. Fai 10 passi indietro. Fai 1 passo avanti. Fai 6 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a sinistra. Fai 8 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 10 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a sinistra. Fai 7 passi a sinistra. Fai 2 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 5 passi. Fai 10 passi. Fai 4 passi. Fai 4 passi. Fai 1 passo. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a destra. Fai 5 passi. Fai 4 passi. Girarsi. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Girarsi. Girare a sinistra. Fai 7 passi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Girarsi. Fai 2 passi. Fai 6 passi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a sinistra. Fai 9 passi a destra. Fai 1 passo a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 5 passi. Fai 1 passo. Girare a sinistra. Girare a sinistra. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Girarsi. Fai 9 passi. Fai 7 passi. Fai 6 passi. Girare a sinistra. Fai 2 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 8 passi. Fai 10 passi. Girarsi. Girarsi. Fai 5 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 9 passi. Girare a sinistra. Girare a sinistra. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 3 passi avanti. Fai 9 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi avanti. Fai 7 passi indietro. Fai 4 passi a destra. Fai 10 passi indietro. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi giusti. Fai 3 passi avanti. Fai 8 passi a destra. Fai 2 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a destra. Fai 8 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo indietro. Fai 4 passi a sinistra. Fai 4 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi avanti. Fai 8 passi indietro. Fai 4 passi avanti. Fai 4 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Girarsi. Fai 4 passi. Fai 1 passo. Girare a sinistra. Girarsi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girarsi. Fai 1 passo. Fai 9 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Girarsi. Fai 7 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi indietro. Fai 8 passi avanti. Fai 7 passi avanti. Fai 5 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo avanti. Fai 4 passi a sinistra. Fai 6 passi a sinistra. Fai 10 passi giusti. Fai 7 passi indietro. Fai 5 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 7 passi. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a sinistra. Fai 6 passi. Fai 3 passi. Girarsi. Fai 1 passo. Fai 3 passi. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girarsi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 1 passo. Fai 8 passi. Fai 4 passi. Girare a destra. Girare a destra. Fai 4 passi. Girare a sinistra. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 4 passi. Fai 5 passi. Fai 9 passi. Fai 3 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 1 passo. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a sinistra. Fai 2 passi a destra. Fai 6 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 10 passi. Girarsi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi giusti. Fai 8 passi indietro. Fai 1 passo indietro. Fai 8 passi indietro. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi indietro. Fai 4 passi a sinistra. Fai 7 passi a sinistra. Fai 7 passi a destra. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girare a sinistra. Girarsi. Fai 9 passi. Fai 8 passi. Girare a destra. Girarsi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 2 passi. Girare a destra. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 10 passi. Girarsi. Fai 6 passi. Girare a sinistra. Girare a destra. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 4 passi. Fai 3 passi. Fai 10 passi. Girare a sinistra. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi indietro. Fai 8 passi avanti. Fai 10 passi avanti. Fai 8 passi indietro. Fai 8 passi a destra. Fai 6 passi indietro. Fai 7 passi avanti. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girarsi. Fai 4 passi. Fai 5 passi. Girare a sinistra. Fai 3 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Fai 2 passi. Fai 2 passi. Girare a sinistra. Fai 5 passi. Fai 8 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi a sinistra. Fai 7 passi a destra. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Fai 4 passi. Fai 7 passi. Fai 1 passo. Fai 2 passi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi avanti. Fai 10 passi giusti. Fai 8 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Girarsi. Fai 7 passi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi avanti. Fai 5 passi a sinistra. Fai 6 passi avanti. Fai 8 passi indietro. Fai 5 passi indietro. Fai 1 passo indietro. Fai 1 passo indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 3 passi. Girarsi. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 10 passi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 9 passi. Fai 2 passi. Fai 5 passi. Girare a destra. Girare a destra. Fai 5 passi. Fai 10 passi. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 5 passi. Fai 6 passi. Fai 4 passi. Fai 1 passo. Girarsi. Fai 6 passi. Fai 10 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 8 passi a sinistra. Fai 9 passi a sinistra. Fai 8 passi a destra. Fai 8 passi a sinistra. Fai 3 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi indietro. Fai 9 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 2 passi. Fai 3 passi. Girarsi. Fai 4 passi. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi indietro. Fai 9 passi indietro. Fai 9 passi indietro. Fai 9 passi a sinistra. Fai 10 passi giusti. Fai 3 passi a destra. Fai 3 passi avanti. Fai 9 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Girare a destra. Girare a sinistra. Fai 5 passi. Fai 10 passi. Fai 7 passi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi a sinistra. Fai 10 passi giusti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 8 passi. Girarsi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi avanti. Fai 8 passi a sinistra. Fai 3 passi indietro. Fai 7 passi a destra. Fai 2 passi avanti. Fai 4 passi avanti. Fai 10 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi avanti. Fai 9 passi a destra. Fai 6 passi a destra. Fai 8 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 5 passi. Girarsi. Fai 3 passi. Fai 5 passi. Girare a destra. Girare a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi indietro. Fai 5 passi indietro. Fai 5 passi a destra. Fai 9 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a sinistra. Fai 10 passi avanti. Fai 9 passi a destra. Fai 10 passi indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 4 passi. Girarsi. Fai 4 passi. Girarsi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Fai 4 passi. Girarsi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 1 passo. Fai 7 passi. Girare a sinistra. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girare a sinistra. Girare a sinistra. Fai 9 passi. Fai 3 passi. Fai 3 passi. Girarsi. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Girare a destra. Fai 7 passi. Girarsi. Fai 7 passi. Girare a destra. Girare a sinistra. Girare a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 8 passi. Fai 9 passi. Girare a destra. Girare a destra. Fai 8 passi. Fai 9 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 6 passi. Girarsi. Fai 8 passi. Fai 2 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo a sinistra. Fai 4 passi avanti. Fai 6 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 9 passi. Girarsi. Fai 2 passi. Fai 7 passi. Fai 3 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 1 passo indietro. Fai 1 passo indietro. Fai 1 passo indietro. Fai 3 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi indietro. Fai 8 passi a destra. Fai 1 passo indietro. Fai 5 passi a sinistra. Fai 2 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 9 passi a sinistra. Fai 10 passi a sinistra. Fai 3 passi a sinistra. Fai 1 passo a sinistra. Fai 3 passi indietro. Fai 6 passi a sinistra. Fai 3 passi avanti. Fai 4 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi a sinistra. Fai 3 passi avanti. Fai 1 passo a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 3 passi a destra. Fai 1 passo indietro. Fai 6 passi a sinistra. Fai 1 passo avanti. Fai 3 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Girare a destra. Girarsi. Girare a sinistra. Fai 4 passi. Fai 10 passi. Fai 8 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girarsi. Fai 9 passi. Fai 10 passi. Girarsi. Fai 3 passi. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Fai 9 passi. Girarsi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Fai 1 passo. Fai 2 passi. Fai 9 passi. Fai 7 passi. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 1 passo. Fai 7 passi. Fai 1 passo. Fai 5 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 1 passo. Fai 1 passo. Fai 3 passi. Girare a sinistra. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 3 passi. Fai 2 passi. Girarsi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 7 passi. Girarsi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi a sinistra. Fai 2 passi a destra. Fai 5 passi indietro. Fai 8 passi a sinistra. Fai 7 passi avanti. Fai 7 passi a destra. Fai 9 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi indietro. Fai 9 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Fai 4 passi. Girarsi. Fai 4 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a sinistra. Fai 6 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Girare a destra. Fai 5 passi. Girarsi. Fai 5 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi indietro. Fai 3 passi indietro. Fai 3 passi indietro. Fai 8 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 3 passi. Fai 10 passi. Fai 4 passi. Fai 1 passo.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 9 passi. Girarsi. Fai 9 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi giusti. Fai 7 passi indietro. Fai 3 passi a sinistra. Fai 8 passi indietro. Fai 3 passi indietro. Fai 8 passi a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Fai 7 passi. Girarsi. Girarsi. Girarsi. Fai 1 passo. Fai 6 passi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi indietro. Fai 4 passi indietro. Fai 9 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a sinistra. Fai 1 passo indietro. Fai 4 passi a destra. Fai 1 passo indietro. Fai 8 passi a sinistra. Fai 6 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 3 passi avanti. Fai 3 passi indietro. Fai 3 passi indietro. Fai 7 passi a sinistra. Fai 7 passi a destra. Fai 8 passi indietro. Fai 4 passi indietro.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girarsi. Fai 2 passi. Fai 8 passi. Girarsi. Fai 10 passi. Girarsi.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi avanti. Fai 4 passi avanti. Fai 9 passi indietro. Fai 1 passo indietro.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 5 passi. Fai 5 passi. Fai 7 passi. Fai 10 passi.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi indietro. Fai 7 passi a sinistra. Fai 4 passi indietro. Fai 8 passi indietro. Fai 3 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 2 passi indietro. Fai 4 passi indietro. Fai 6 passi avanti.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Fai 10 passi. Girarsi. Girare a destra. Girare a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi a sinistra. Fai 8 passi a destra. Fai 10 passi indietro. Fai 4 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 5 passi a destra. Fai 4 passi indietro. Fai 8 passi a sinistra. Fai 5 passi a sinistra. Fai 6 passi indietro. Fai 9 passi avanti. Fai 5 passi a destra. Fai 1 passo avanti. Fai 3 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a destra. Fai 1 passo avanti. Fai 4 passi a destra. Fai 4 passi a sinistra. Fai 8 passi a sinistra. Fai 2 passi avanti. Fai 9 passi avanti. Fai 3 passi a sinistra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Girare a sinistra. Fai 9 passi. Fai 3 passi. Girare a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 6 passi a destra. Fai 9 passi a sinistra. Fai 5 passi a sinistra. Fai 8 passi a destra.
+Opzioni:
+- SÌ
+- NO",Yes
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 4 passi a sinistra. Fai 5 passi indietro. Fai 2 passi avanti.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 10 passi indietro. Fai 8 passi indietro. Fai 10 passi avanti. Fai 7 passi indietro. Fai 1 passo avanti. Fai 7 passi a destra. Fai 1 passo a sinistra. Fai 1 passo a destra.
+Opzioni:
+- SÌ
+- NO",No
+"Se segui queste istruzioni, torni al punto di partenza? Sempre rivolto in avanti. Fai 7 passi indietro. Fai 10 passi giusti. Fai 4 passi avanti. Fai 1 passo a sinistra.
+Opzioni:
+- SÌ
+- NO",No

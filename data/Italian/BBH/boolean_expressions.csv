@@ -1,0 +1,251 @@
+input,target
+not ( True ) e ( True ) is,False
+Vero e non non (non falso) lo è,True
+non vero o falso o (falso) lo è,False
+Falso o no (Vero) e Falso è,False
+Vero o non Falso e Vero e Falso è,True
+Falso o no non Falso e Vero è,True
+non è vero e (falso o vero) lo è,False
+Vero e non Falso o (Vero) è,True
+non vero o (falso e vero) lo è,False
+non vero o ( vero o falso ) lo è,True
+Falso o ( Falso ) e non Falso è,False
+non Falso o Vero e Falso e Falso è,True
+non Vero o Falso o non non Vero è,True
+Vero e Vero e Falso e non Vero è,False
+non non vero e non vero o vero è,True
+non non non ( vero e falso ) lo è,True
+non non Falso e non non non Falso è,False
+( Vero e non vero e falso ) lo è,False
+Falso e Falso e Falso o non Falso è,True
+Falso o (falso e non falso) è,False
+Vero e Falso o (non Vero) è,False
+non non (Vero) e non Falso è,True
+non Falso o (Vero) e Vero è,True
+non (Vero) o Falso o Vero è,True
+( Vero e non non non vero ) lo è,False
+( Falso o non Falso o Falso ) lo è,True
+Falso e Falso o Vero e non Falso è,True
+non non falso o non falso o vero è,True
+Vero e non Vero o Falso o Vero è,True
+non Falso o Vero e Falso o Falso lo è,True
+Falso e ( non Falso ) o Falso è,False
+non non non non (non falso) lo è,True
+( Vero ) e Vero o non Vero è,True
+non Vero o Falso e Falso e Falso è,False
+non non non non non non non Falso è,True
+non Vero o non Falso e non Falso è,True
+Falso o Vero o Falso e non Falso è,True
+not ( True o True ) e False is,False
+non non non non Vero e non Vero è,False
+( Falso ) o Falso e non Vero è,False
+( Falso e vero o non falso ) lo è,True
+non non non (falso e vero) lo è,True
+non non vero e non falso o vero è,True
+non falso o vero e non non vero è,True
+Vero o Vero o non Falso o Falso è,True
+(non Falso e Falso e Falso) lo è,False
+( ( non vero ) o vero ) lo è,True
+non non (non falso o vero) lo è,True
+non vero o falso o ( vero ) lo è,True
+Falso o (non Falso) e Vero è,True
+non Falso o Falso o ( Falso ) lo è,True
+non non Falso o Falso e non Vero è,False
+Vero o ( ( non Vero ) ) è,True
+non Falso e non Falso e non Falso lo è,True
+( Falso ) e non Falso e Vero è,False
+( Vero ) e Falso o non Falso è,True
+(non falso e (vero)) lo è,True
+Falso o no ( Falso ) o Vero è,True
+Vero e non Falso e non non Vero è,True
+non Vero e Vero e Vero o Falso è,False
+non non (falso e non vero) lo è,False
+Vero o no ( ( Falso ) ) è,True
+Falso o non Vero o Falso o Falso è,False
+Falso o non falso Vero o non falso è,True
+non ( vero o vero o falso ) lo è,False
+Falso o no non non non non Falso è,True
+non (falso) o non non è vero,True
+Vero e non Falso o Falso e Falso è,True
+Vero o (non (vero)) è,True
+( Falso o Vero e non Vero ) lo è,False
+Falso o non Vero e Vero o Vero è,True
+non non non non non non non Vero è,False
+(non Falso) e Falso o Vero è,True
+Falso e falso o no (vero) è,False
+(non falso o vero) e vero è,True
+non (falso) e (falso) è,False
+Falso o Vero e non non non Falso è,True
+( Vero ) e Vero e non Vero è,False
+(non vero) e vero e falso è,False
+(non non vero e non falso) lo è,True
+Vero e ( Falso ) o non Falso è,True
+non non non falso o falso e falso è,True
+non non non falso e vero o falso è,True
+Vero o (vero o non falso) è,True
+non Falso o ( ( Falso ) ) lo è,True
+non non (falso e non falso) lo è,False
+non non non non Vero o non Vero è,True
+Falso e non (falso o falso) lo è,False
+Vero e Vero e Vero o non Falso è,True
+Falso o non Falso o Vero e Vero è,True
+non Falso e Falso e Falso o Falso lo è,False
+( Falso ) o non Falso o Vero è,True
+(non falso) o (vero) lo è,True
+non non (falso o non vero) lo è,False
+Falso o non Falso o Falso o Falso è,True
+Falso o non Falso e ( Falso ) lo è,False
+Falso o ( Falso ) o non Vero è,False
+non Vero o Falso e Vero e Vero è,False
+Vero o (vero o non vero) è,True
+Vero e non Falso e Vero o Vero è,True
+Falso o non Falso o non non Vero è,True
+( Vero o non Falso ) o Falso è,True
+Falso o no (Vero) e Vero è,False
+non Falso e non Vero e non Falso è,False
+Falso e (vero e non falso) lo è,False
+non Falso o ( Falso ) o Vero è,True
+Falso e non (falso e vero) lo è,False
+( Vero o no non non falso ) lo è,True
+Falso e ( Falso o non Falso ) lo è,False
+Falso o non Vero o Vero e Falso è,False
+Vero e non Vero o Vero e Vero è,True
+(non falso o (vero)) lo è,True
+( (non (vero))) lo è,False
+Falso e Falso e non ( Falso ) lo è,False
+non vero e non vero e non vero è,False
+non (Vero o Falso) o Vero è,True
+Falso o (Vero) o non Vero è,True
+Falso o Falso e Falso o non Vero è,False
+Vero o Falso o non Vero o Falso è,True
+non è vero e ( vero e vero ) lo è,False
+non è Vero e Vero o Vero e Falso,False
+non falso o ( vero o vero ) lo è,True
+non (falso o (falso)) lo è,True
+not ( True o True ) e True is,False
+Falso o non Falso o Vero o Vero è,True
+Falso o Falso e non non Falso è,False
+non ( vero o falso o vero ) lo è,False
+( Falso ) o non Vero e Falso è,False
+Vero e Vero e non non non Falso è,True
+( Vero ) o Vero e non Vero è,True
+Falso e Falso e non Vero e Falso è,False
+( Vero ) e non Vero o Vero è,True
+non non non Vero e Falso e Falso è,False
+Falso e Falso e non non non Vero è,False
+Falso e Falso o Falso o non Vero è,False
+Falso o (non (falso)) lo è,True
+non Vero e Vero e non non Falso è,False
+( Falso ) e ( non Falso ) lo è,False
+( non vero ) e vero o vero è,True
+Falso e Vero e (non Falso) lo è,False
+( ( True ) ) o no False è,True
+non Vero e Falso o Falso o Vero è,True
+Vero e non Vero e Vero e Vero è,False
+( Vero o vero o non falso ) lo è,True
+Vero o non Falso e Vero o Vero è,True
+( not ( False ) o False ) lo è,True
+Vero e non (vero o falso) è,False
+non ( Falso e Vero ) e Vero è,True
+non ( vero e vero ) o falso è,False
+Falso o non Vero e non Falso è,False
+non è Vero e Falso o Falso e Falso,False
+non Vero o Vero e Falso o Falso lo è,False
+( not ( False ) e False ) lo è,False
+Falso o (vero e non vero) è,False
+non Falso e non Vero o non Vero è,False
+( Falso o non non non falso ) è,True
+(non Falso) o Vero e Falso è,True
+( non non vero ) o non falso è,True
+Vero o no ( ( Vero ) ) è,True
+( Falso ) e Falso o non Falso è,True
+non falso e vero o ( vero ) lo è,True
+Vero o no (non falso) lo è,True
+Falso e non vero e falso e vero è,False
+non non vero e vero e non vero è,False
+non falso o no (non falso) lo è,True
+not not ( True ) o not True is,True
+( Vero e non vero e vero ) lo è,False
+Vero o Falso o non Vero o Vero è,True
+non Vero o Vero e Falso e Falso è,False
+Vero e non non non non non Vero è,False
+non Vero e ( Falso ) e Falso è,False
+Falso e Falso o non Vero e Falso è,False
+Vero o Falso e non Vero e Falso è,True
+non (falso o falso o vero) lo è,False
+non è Falso o Vero o Vero e Falso,True
+non Falso e Falso o Falso o Falso lo è,False
+( non vero ) e ( falso ) lo è,False
+Vero e non Falso e non Falso è,False
+not ( not not False ) e True is,True
+non (non falso) e non falso è,False
+Falso o Vero e non Falso o Vero è,True
+(non non non vero e vero) lo è,False
+Falso e non (Vero) o Vero è,True
+(non vero e falso o vero) lo è,True
+not ( not not True ) o False è,False
+( non falso ) o ( falso ) lo è,True
+non non non Falso e Vero e Falso è,False
+Vero o non Vero o non non Vero è,True
+non Falso o non non Falso e Falso è,True
+non Falso e ( Falso o Falso ) lo è,False
+Falso e Vero o (non Falso) lo è,True
+Falso e non Falso e ( Falso ) lo è,False
+non ( ( Falso e Vero ) ) lo è,True
+Falso o (non Falso) e Falso è,False
+Falso e non Falso o Falso e Vero è,False
+non Falso e non non Vero e Vero è,True
+Vero e Vero o Falso e non Vero è,True
+non Vero o Falso e Vero o Falso lo è,False
+Vero o Falso o non Vero e Vero è,True
+Falso o Falso o non Vero o Falso è,False
+Falso o Falso o Vero e non Falso è,True
+(non (Vero o Falso)) lo è,False
+non è Falso e Falso o Vero e Vero,True
+Vero e Falso o (non Falso) lo è,True
+non Falso o non non non non Vero è,True
+Vero e (non (vero)) è,False
+Vero e Falso e non Vero o Falso è,False
+( ( non falso ) ) e Vero è,True
+not ( True ) e ( False ) is,False
+Vero o no Falso e Falso e Falso è,True
+Vero e non (falso o falso) è,True
+non è Vero e Falso o Falso e Vero,False
+non Vero o non Falso e non Vero è,False
+non Vero o Falso o Vero e Vero è,True
+non Vero e Vero e Falso e Vero è,False
+Falso e Falso o non Vero e Vero è,False
+(non falso o falso e vero) lo è,True
+( Vero o Falso ) o non Vero è,True
+not not not ( False ) e False is,False
+non è Falso e Falso e Falso e Vero,False
+Falso e non Vero e Vero o Falso è,False
+( Falso o non Falso e Falso ) lo è,False
+Falso o (falso o non falso) è,True
+non è Falso o Vero o Falso e Falso,True
+Vero o ( non Falso ) o Vero è,True
+non è Falso e Falso o Vero o Falso,True
+Falso e non (non non falso) lo è,False
+not not ( not True ) o False is,False
+Falso e non vero e vero e falso è,False
+Vero o Falso e non (Vero) è,True
+non ( Falso ) e ( Vero ) è,True
+Falso e non ( (vero)) lo è,False
+non falso o (non non falso) lo è,True
+( ( non False ) e False ) lo è,False
+Vero o Falso e non Falso e Vero è,True
+( (non vero e vero)) lo è,False
+non (falso) o non non falso è,True
+non (falso o falso e falso) lo è,True
+Falso e non (non non vero) lo è,False
+Falso e falso e non (vero) lo è,False
+Falso o (non Falso e Falso) lo è,False
+Falso o (non non non vero) lo è,False
+( non falso ) o non non falso è,True
+non è Falso e Falso e Vero o Falso,False
+Vero o non falso e (falso) è,True
+( not ( False ) ) o False is,True
+Vero e non Vero o Falso e Vero è,False
+not ( not not not not False ) lo è,True
+Vero e (non Vero o Falso) lo è,False
+(non non non falso o vero) lo è,True

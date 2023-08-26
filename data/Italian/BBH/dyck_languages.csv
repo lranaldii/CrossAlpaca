@@ -1,0 +1,251 @@
+input,target
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: [ [",] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ [",] ] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: { < { { [ ] } } { < [ { { < > } } [ ( ) ( ) ] [ [ [ [ ( { < ( < ( [ ] ) > ) > } ) ] ] ] ] ] ( ) ( [ ] { } ) > } > [ { ( ( ) ) } ]",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ ] { < ( ) > } [ ] ( { }",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ( ( < > ) ) ( { { } [ { } ] [ ] < ( ) > } ) )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( [ [ [ { } ] ] { < [ < [ { } ] > ] > }",] )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { { } }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ( ( [ { } ] )",) ) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < > ] [ [ < > ]",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ] ( [ [ { < { { ( < > [ ] ) } } < > > } ] ] { }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ ] ( ) ( ( { { } } ) ) < { < > } > [ ] > ] < ( ) > ( ( ( ) ) ) ( < >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ { < ( ) > }",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ < [ ( ( ( ) < ( ) > ( { { } } [ [ [ < ( [ ] ) ( ) > ] ] ] { { { { { { } } } { { } { < [ [ ] ] > } } { } } } ) ) ] >",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: < ( ( [ < > { [ { ( ) } ] < { < { } > [ ( < > ) ] } > } [ < > ] ] ) { { ( { ( ( [ ( [ [ ] ) ] < { } > ) ) { { ( [ [ ] ] ) } [ ( ) ] { { [ ] } } } } ) } ( { } ) }",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ] { ( ( < { ( ( ( { < > ( ) } ) ) [ { } ] { { ( ) } } ) } < > >",) ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { < > } { (",) } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ [ < < { } >",> ] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: < ( ( )",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( ) ) [ { ( < > ) }",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < < > > < ( < < < [ [ [ [ [ ] ] ] ] > > > ) [ < < [ ] > > ] { [ < > ] < > [ ( ) ] } { [ ]",} > ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( < [ < > ]",> ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( [ ] )",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( < > ) } ( ( [ ] ) < [ ( [ [ ] ] [ { } ] { } [ < { [ ] } > ] ( ) ) ]",> )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { < [ [ [ ( { } ) ] ]",> } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( [ [ ] ( ) ]",) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ < { [ ] } >",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( < >",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < { ( < ( ) > ) }",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ [ < [ [ ] ] > ] ] { } { ( { ( ( ) ) ( ) { { [ [ ( { < { [ { [ ( < ( ( < < < [ ( ) ] [ ] > > > ) ) > < [ < { < ( ) > } > ] > ) ] } ] } > ( ( ) ) } ) [ ( ) ] ] ( < > ) ] } } } ) } [",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { } ( ( ) )",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ { { < ( ) > { < { } > ( < ( ) > { < [ ( { { ( < [ ] > ) } } { ( ( [ [ { } [ ] ] ] ) ) } ) ] > } ) } }",} ] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < [ ( )",] > )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ ( [ < > ] { < > } [ [ ] ] ) ]",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ( [ ( [ ] ) ] ) )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ ]",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ { ( { } ) } < < ( ) { { < [ { [ ( ) ] } ] > } } > >",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( { }",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ [ [ [ < { ( ) } ( ) > { ( ) } ] { ( ) }",] ] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { } < { } < > (",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( [ < < > [ < { } > ] { < [ ] > ( ( [ [ { < > } ] ) ) ) ( < < > > ) } > ]",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < { } > { (",) } }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( [ [ { < > { } { } < < < < { { } > > ( < ( ( ) ) [ ( [ ] ) ] > ) > > { } } [ < < > > ] < ( ) > ] ]",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < <",> > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { { } }",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { } [ [ ( ( < { < { [ ] } > } > ) )",] ] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: < { ( ( )",) } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ ( < { [ ( ) ] } >",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( ( { < { < { < > } > } > } ) ( ) ( { [ ( < ( < < { ( { < > } ) } > > ) > ) { ( { < ( { [ ] } ( ) ) > } < { < { { ( ) } } } > { < [ { ( ) } ] > } } > ) } [ [ ( ) ] ] ]",} ) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ] < { < { [ ( ) ] } > }",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ ] > ] [ { [ ] }",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < > ( [ ( )",] ) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < { ( ) { } } ( < > ) >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < ( < >",) > >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { } ( ( < > )",) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( < { < { } > { { ( [ ( { } ) ( ( [ [ ( { [ { } ] } ) ] ) ] ) ) [ < [ [ [ [ [ [ < > ] [ { [ [ { ( ( < [ ] > ) [ ( [ ] ) ] < { [ ] } > ) } ] ] } ] { < ( < > ) > } ] ] ] ] > ] ] ) } } } >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < < < >",> > )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: < < [ ( ) ] >",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < > {",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( [ [ [ [ [ ( ) ] ] { } ] ] )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ < > ]",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ [ [ [ [ ( ) ] ] ] ]",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < { ( { [ ] } ) } > { } ( [ { { { ( [ < > ] ) } } } ] ) { { ( { } ) } }",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( < [ { { } } ] > { } ) ( < > ) [ ( < > ) ] <",> )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < < { } > < > > ( )",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ < ( < < > [ ] ( ) >",) > ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: { [ < [ { < ( ) > } ] >",] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ { < > < [ ] > [ < { } > ] [ ( { } ) ] [ ] [ ( ) ] ( ) < { { < { { { { { ( { } ) } ( { < > } ) } } } } > } }",> } ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ [ < [ ( [ < [ ] > ] ) ] > ] ( { }",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: ( [ ( )",] )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( { { < { < > } > } < { } > < < < [ < [ ] > ] > > >",} ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ < [ < { < { } > } > ( ( < { [ ] } > { { } } ) { } ) ] > ]",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( < { [ [ { [ [ [ ( [ < < > > ( ( [ ( ) ( { ( < [ ] > ) } ) ] ) ] ) ] ( ) ] } { [ [ ] ] } ] ] } > [ { < > } ]",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { [ { < { } > } ( ) ]",} }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: < [ ] > ( ( ( { { { { ( ( { { } } ) ) } ( { } ) } } { { { [ { ( ) } ( ) ( ( { [ < < > > ] < < > > } ) ) ] ( { } { } ) } } } )",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: { < [ < ( < [ ] > ) < > < { } > { < > { } { { < [ < < { } [ { } ] < > > > ] < > > } < [ [ ] ] > } } > ] [ ( ) ] > } [ { ( < ( ( ( [ { } ] ) ) ) > ) } ] [ < ( ) ( ( { ( ) [ { { ( { } ) } } ] } ) ) >",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < [ < ( ) > [ { [ { ( ) } ] } ] ] > [ { } ] ( < { < [ { } ] > } > ) ) ( ( < ( ) > [ ] [ < { ( ) } > ] [ { } ] [",] ) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: ( { } < > { < { ( < > ) } >",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < [ ] > ( < > ) <",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: < [ { { [ { [ { ( ( ) ) } ] } ( < < ( < > ) > { } [ [ [ ( < { } > ) ] ] ] { } > ) ( { } ) { } ] }",} ] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ ( [ ( ) [ < [ < > ] < > [ ] > ] < < ( ) ( ) > < { } > > [ < > ] ]",) ] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ { { < > [ ( ) ] ( ( ) ) } } ] > ] { { { ( < > )",} } }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < < > ( [ < { { { } } ( ) > ] ) [ ( ) ] [ ] [ { } ] >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { ( { } ) < > }",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < [ ]",> }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: ( { } ) < { < { } >",} >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ( { < > } )",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: ( ( ( ) )",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ [ < < { [ ] ( [ [ ( [ [ [ { [ ] } ] ] ) ( ) ] ] ) ( ) [ ] < [ ( ( ( ) ) ) ] < < < > [ ( ) ] > [ ] > > [ < > ] } > >",] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: { { { < { } < ( ( < > ) ) > > } } { [ [ { } ] ] [ ] < < { } > [ ( ) { ( { } ) } ] > ( [ < [ ( ( { } ( ) < > < [ < < { { { ( [ { } ] ) } } { } { } > > ] > ( ) ) ) < > ] > ] )",} }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ [ { { < ( ) > } } ]",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < ( [ ( ( [ < { ( { } ) } < < > > > ] ) ) ] ) >",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { ( { [ [ { < [ ] > } ] ] } ) [ ( < { < > } > ) ]",} }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ [ < [ ] > ] ] <",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < > [ [ < [ ] > ]",] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( { < > ( ) [ { < ( < > < ( ( ) ( [ { } ] ) ) > { { } { ( ) } } ) [ ] > } ] { { } } }",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( ( ( [ < [ < [ ( [ { < ( < ( ( ) ) { } [ ] > ) > } ] ) { < > } ] [ < [ { ( < < { { [ < { [ [ < > [ ] ] ] } > ] { { } } } } > > ) } ] > { < > { } } ] > ( [ ] ) ] > ] ) ( )",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: < < { } >",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { ( )",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( ( ( [ [ < [ { { [ ] } } ] > ] ] ( ) ) )",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < ( ( [ ] )",) > >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( { } )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < < { < < > > } > < < { < ( < > ) < > [ [ [ < ( ( ) ) > [ ] [ ] ] ] ] < ( ) > ( ) [ ( [ [ ] ] ) ] > } { } { < [ < { ( { } ) } > ] > } { { } } > >",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { [ ] }",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( [ { < ( [ ] < > ) > } ]",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { < [ < > ] > }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ( [ ( [ < ( ) > [ < { } { [ ] } [ ] [ ] > { ( < { < > } > ) } ] ] ) ] )",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: { < ( [ ] ) >",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { < ( )",> } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( < ( ) ( < [ ] > ( ) < [ [ { } { < > } < > ] ] > ) [ ] > [ ( < { [ ] } [ ] ( { [ < > ] < < > > ( ( < { } > ) ) } ) [ [ [ < < < ( ( ) ) > > > ] < < { [ ] } > > ( [ < > ] ) ] ] > ) ] < >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( [ [ ] ]",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( ( ) ) { < > { ( [ [ { } ] [ ( ) ] ] ) } [ { { { ( < [ ] > ) } { < > } } }",] } }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: <(<>) {<{{(() {{<> {}} [<>] ()}} (())) <[{{(<>))}} [{<{}>}] ()]> {[]}> []}> ([]) [((())",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ( { } )",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { < { ( ) } > } { ( { [ ] } ) }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ [ ] [ ]",] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < [ < ( [ ( ) ] < > < ( { } ) > ) < [ ] > > ] ( ) < [ < > ] >",> )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < < > > [ [ [ { { < { } ( { } ) > } } < { { { } } } < > > ] ] ( )",] )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { ( ( { } ) ) } ( ) ) < { (",) } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( { [ { } ] } [ ] [ ] )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { [ ( [ { ( { ( [ ( [ ] ) { ( < < [ ] > [ [ ] ] > } ] ) [ ] } ) } ] ) ] } { < [ ] > } (",) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ < [ ] > ] } { ( ) [ < > ] [ [ [ ] ]",] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ < [ { ( < ( ( [ < < { } > < < [ ( { < < > > } ) ] > > > ] { } ) ) > ) } ] [ < < { } > ( < < ( ) < ( [ ] ) > > ( ( ) ) > ) > ] > ] < < {",} > >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ ]",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { [ < > ] } < [ ( [ { } ] ) ] > < [ < > { } ] < ( [ ] ) > <",> > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( { [ ( ) ] } { { [ ] } } { } < > ) } [ < [ ( ) ]",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: { ( < { < ( ) > } >",) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { < { ( ( { } ) ( ) ) } { } < { } > < > > } { } ( { ( { { } } ) [ ( ) ] } ) ) [ ( [ ]",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: < ( )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ { < ( )",> } ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( [ < [ ] > { { [ [ ] ] } } ]",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < ( ) > { < > } ( < > ) < ( ) > [ ] < < < < ( ( ) ) < ( ) > > > > > {",} }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < > ( [ ]",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( < > ) > { } < { [ < > ]",} >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ < [ ] > [",] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < { < ( ( < { } { < < { { { { } } } > < < < > [ ] > { } ( < { { ( [ ( ) ] ) } } > ) > > } > ) ) > } >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( ( [ { } ] )",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ { { } } ] ( < { < [ ( ( ) ) ] > } >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < ( < < < [ < [ [ ] ( ( ) ) ] > < > ] > > > )",> }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: { ( [ ] ) } [ ] ( { < > } ( { } ( { { } } ) ) ( [ ] ) ( ) ( < ( { { ( < { [ ( ) ] } > ) } } } [ < [ ( [ { } ] [ < > < < > > ] ) ] > ] { < { } > } < > ) > )",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( [ < < > [ [ < > ] ] > ] ( < < < ( [ [ ] ] ) [ ( ( [ { { } } ] ) ) ] > >",> ) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: ( ) ( (",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < [ ] > ( { [ ] } <",> ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < ( ) >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( ( ) ( { ( < ( ) > ) }",) ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ [ < > ] ] < ( ) > [ { } ] < [ [ ] ] > ( ) < { < [ ] < < [ [ { [ ] } ] ] > > ( [ ( ( ( ) ) ] ) > } > [ { { < > } } ] > < ( < { } { [ { [ ] } ] } >",) > ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < < < ( < < > > ) > > >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < >",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { ( ) { [ ] { ( ( { < > } ) ) ( < < > < > > < ( ( ) ) > ) } < ( < < < { } > > > ) > } }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ) ( < < { }",> > )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < ( [ ] ) > {",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < { } [ ] >",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < > } ( ) [ ] {",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ { { [ [ [ [ < ( < [ ] { [ ( [ ] ) ] [ ] < > } > ) > ] ( [ ] ) ] ] } }",] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { [ ] } > ( ) < [ [ { [ [ [ ] ] } ] ] ( ) [ < ( [ { } ] ) > ( ( ) ) ]",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { < { [ < { ( [ ] ) } > { ( { } ) } ( ) ] } > } [ < < > > ] { } [ ] < { }",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { [ [ { } ] ] }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( < { [ { } ] } > ) ) < {",} >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: < < < [ ( ) ] >",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ ] { { } { < ( { } ) > } } > ] ( {",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < < > ( [ [ { ( ( [ ] < > ) ) } ] { [ [ ] { } { [ { < > } ] } ( { { { { } } } } ) ] } ] ) (",) > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( (",) ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ( ( { < ( { } ) > } )",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( [ < < { } > > ]",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: ( ) { <",> }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( [ { ( < [ { ( ) { } } ] > ) < > } ]",) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < < { ( < > ) }",> > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { [ [ ] { { < > [ ( ) ( [ ] ) [ ] { < > } ] } } [ { [ ] } ] { ( ) }",] } }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { {",} }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( [ { ( < > ) } ] ) > { ( [",] ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ { [ { ( < < < < > { } > { [ { } ] } > > ) } ] [ ] } ] [ < { { { } } [ [ ( ( ) ) ] ] > ] [ ( ( [ ] )",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { < ( ) ( ( < > < ( ( < < > > ) ) { ( ) } > ) ) { { } }",> } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ { [ < [ < { } > ] [ ] >",] } ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < [ ( < [ ( { [ ( ) ] [ ( ( { [ ] } ) ) ] } ) ] > ) ] <",> > >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: < { { } } ( < [ ] [ { } ] > ) ( { { } { { ( ) } } } } ) { < { { [ ] } [ ( ) ] } ( < { [ < > ] } > ) < ( [ ] { ( < < [ ] > > ) [ { [ [ ( ( ) ) ] ] } ] } { } ) > ( { { [ [ ( ) ] ] } } )",> } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ( ) { [ ] } [ ] [ ] { < { ( ( { } ) ) { [ { } ] } } > [ ] }",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( { ( < < > > )",} ) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( < >",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ] { ( { < > } ) } [ ( ) ] { } [ { { ( < > ) } <",> } ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ { { ( ) }",} ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: { [ { [ ] } ] } [ [ { { } } [ < >",] ] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ { ( < [ [ ] ] > )",} ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( ( [ ] ) )",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < < > > < > [ ] [",] )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: < [ ( { { ( ( ( ) ) } } ) [ ( [ { } ] ) ] < { { < < < > [ < [ < ( [ ( { ( ( < < < < > > > { ( { { < ( ) > ( ) } } ) } > { } ) ) } ) ] ) > ] > ] > < { } > > } ( ) < { ( ) } > } > ] [ < ( ) > ]",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ { { { { } } }",] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ [ ( { { ( { } ) } < < ( [ [ { } < [ { < [ { ( ) ( [ { } ] ) } ] < > > } ] ( < { ( [ ] ) } > ) > ] ( [ < ( ) > ] ) ] ) > > }",) ] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: [ (",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( {",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ ( < [ [ { [ < [ < ( [ ] ) > ] < > > ( < [ < [ < ( [ ( [ ] ) < ( ) > ] [ ( { ( ) } [ < { { { ( [ ] ) } } } > ] ) ] ) > ] > ] > ) ] } ] ] > ) ( { { { } } }",) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ [ < > ] (",) ] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ) ( { { [ ] } }",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: < < ( [ ] ) > < >",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: ([",] )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < [ [ ( ) ( ( { < { < { { { } } > } > } ) ) ] ] > ( ) { ( ) }",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < > [ { [ [ ( [ ] ) [ < ( < > ) { [ ( { ( [ ( ( < ( ( < [ ] { < > } > [ ] ) ) > ) [ { } ] ) ] ) } ) ] } > ] ] ] } [ ] ] ) < [",] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( {",} ) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ( [",] ) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: { { < { < > } > } [ ( < < > > ) [ { < ( ) > } ] ] [ ] } < ( { [ < [ { [ ( ) ] } ] > < { ( [ [ [ { } < > { ( < { [ ] } > ( ) } ] ] ] ) } > ] } )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( [ [ [ ( { ( ( < [ { < > } ] > { { [ ] } } ) ) } ( [ [ < > ] ] ) ) ] ] ] ) ( < > < [ ( ) ] > (",) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( ) ( [ [ ] ] ) ( { [ { < { ( ) < [ [ < > { [ ( < ( < [ { < < ( [ ( ) ] [ ( < ( { [ ] } ) > ) ] [ < > ] ) > [ { ( < > ) } ] > } ] > ) > ) ] } ] ] > { } [ [ ] ] { } } > ( ( < > ) ) } ] }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( { ( ( { } ) ) ( ( [ ] ) ) } )",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ < < > >",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ [ { } ] ]",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: ( ) [ ( [ < { { ( { } ) } } >",] ) ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < > ] [ { < { } > { [ ( [ ( ) ] ) ]",} } ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( < ( [ < < [ ] > > ] )",> )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ] { [ [ [ < { { { { } } } > ] ] < [ { }",] > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: ( [ ( { } ) { < ( ( [ ] ) ) >",} ] )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { { { { { < < ( { ( { { < < [ < [ [ ] ] > ] [ ] > [ [ ] ] > ( < [ { < > < [ ] > } ] > ) } } ) } ) > > } } }",} } )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < ( [ ] ) > ] { [ { }",] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { [ { }",] } )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( { [ { [ ] { [ [ ] ] } { ( ) } } { [ [ ( [ ] ) ] ] } ] } { < ( ) { [ [ ( ) { [ { { } } ] < > { < ( < { ( < ( [ ] ) > ) } > ) { [ ( < ( ) > ) ] } [ ] { } > } ( ) } ] [ ( ( { < > } ) ) ] ] } >",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ( ( < > < [ [ ] ] > ) { } )",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ { { { { < > } }",} ] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { { < > } } < > < { { ( ( ) } } > { } } { < ( { [ < > ] [ ( ) < ( ) > { < ( ( ( ( ) ) ) > [ ] } ] < > ( < { } > ) }",) > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ < > { < [ ] >",} ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ [ <",> ] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { }",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { [ [ < ( < { } > ) > ] ] [ [ ] ]",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < {",} >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < > } [ ( { ( { [ < > ] } ) ( ) } ) ] { [ < > ] } [ [ ( [ ]",) ] ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < { { { { < [ ( < > { ( ) } ) ] > } } }",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < < ( )",> > }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ( ) <",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ { ( { [ < ( < [ ( ) ] > ) > ] } ) } ] [ ] [ ( { ( ) } ) ] < { ( ( ( ( ( < > ) ) ) ) ) [ < [ ( < > ) ] > [ [ ] ( ( { } { [ { < [ ] > } ] } < { } > < [ < > ] > [ ] ) ) ] ] } > { [ { ( )",} ] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < { < [ ( < > ) ( ( [ [ ] ] ) ) ( ( { } ) ) { [ ] } < ( < > ) > ] > }",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: ( { < { { [ ] } < > [ ] } [ [ [ < [ [ ] ] > ] ] ] > } [ ] { { { { [ { } ] } ( < [ [ [ ] ] ] > ) < < ( { ( [ ] ) [ { { } } ] { [ ] } } ) [ { [ [ { ( { } ) [ ( ) { } ] { } } ] ] < > } ] ] > > }",} } )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Ingresso: < (",) >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: { [ < { < ( ( ) ) > } >",] }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ ] [ ( [ [ ( ) ] ] ) < < [ ] > > < < >",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( { } ) { ( [ { ( ) } ] ( [ ] ) )",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < > { { { } } { } } ] < { } [ { [ ] }",] >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < > { { ( { } ) } { { ( ( ) ) } } }",}
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { { ( [ ] ) { ( )",} } }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: < ( < { [ { } < ( { ( < < < { [ ( [ ( [ { { < [ { } < ( ) > ] > } } ] ) ] ) ] } > < > > ( ( < { } > ) ) > ) } ) > ] } > )",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { [ < > ] ( ( ( ( { { } } ) ) )",) } >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Input: [ < < [ [ ] ( ) { < > ( [ { } { < > } { } ] ) } [ [ [ ( [ ( ) [ [ { < [ { { { } } < { { < ( ) > } } > ] > } ] ] ] ) ] < < [ [ [ ( < < ( ) > > ) ] ] > > [ ] ] ] ] < ( [ ] ) > { ( ( < { } > ) ) } > >",]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < { [ < > ]",} >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < [ { ( ( < ( ( ) ) > ) ) } ]",>
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < ( ) < > > { < > } { ( ) ( < ( ) > ) } < < { [ ] }",> >
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ ] [ { } ] ( ( )",)
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immettere: [ ] < { < > } > { (",) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < > < { { { [ ( ) ] } } } > ( { [ { ( [ ] { } ) } ]",} )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( <",> ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { ( { { { < ( < ( [ < < > > ] < > ) > ) > } [ ] }",} ) }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: { < { { { } } > } < { } > { < { { [ < [ [ ] ] > ] } } > } ( ) { { [ { [ { } ] } ] ( [ { } ] )",} }
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: ( ( < < < ( ( ) ) ( [ ] ) > > { [ ] }",> ) )
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: [ < { { } }",> ]
+"Completa il resto della sequenza, assicurandoti che le parentesi siano chiuse correttamente. Immissione: < < < > >",>

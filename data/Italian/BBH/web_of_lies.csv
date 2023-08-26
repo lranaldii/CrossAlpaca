@@ -1,0 +1,251 @@
+input,target
+Domanda: Sherrie dice la verità. Vernell dice che Sherrie dice la verità. Alexis dice che Vernell mente. Michaela dice che Alexis dice la verità. Elanor dice che Michaela dice la verità. Elanor dice la verità?,No
+Domanda: Kristian mente. Sherrie dice che Kristian mente. Delbert dice che Sherrie mente. Jerry dice che Delbert dice la verità. Shalonda dice che Jerry dice la verità. Shalonda dice la verità?,No
+Domanda: Vina dice la verità. Helene dice che Vina mente. Kandi dice che Helene dice la verità. Jamey dice che Kandi mente. Ka dice che Jamey mente. Ka dice la verità?,No
+Domanda: Christie dice la verità. Ka dice che Christie dice la verità. Delbert dice che Ka mente. Leda dice che Delbert dice la verità. Lorine dice che Leda dice la verità. Lorine dice la verità?,No
+Domanda: Tamika mente. Raymond dice che Tamika dice la verità. Willian dice che Raymond dice la verità. Shaunda dice che Willian mente. Elanor dice che Shaunda dice la verità. Elanor dice la verità?,Yes
+Domanda: Vernell dice la verità. Kandi dice che Vernell dice la verità. Alexis dice che Kandi dice la verità. Sima dice che Alexis mente. Phoebe dice che Sima dice la verità. Phoebe dice la verità?,No
+Domanda: Shalonda mente. Teressa dice che Shalonda dice la verità. Tamika dice che Teressa mente. Lorine dice che Tamika dice la verità. Jaymie dice che Lorine mente. Jaymie dice la verità?,No
+Domanda: Jim mente. Crista dice che Jim mente. Vernell dice che Crista dice la verità. Bernita dice che Vernell dice la verità. Millicent dice che Bernita dice la verità. Millicent dice la verità?,Yes
+Domanda: Fletcher dice la verità. Conception dice che Fletcher dice la verità. Bernita dice che Conception dice la verità. Jamey dice che Bernita dice la verità. Teressa dice che Jamey mente. Teressa dice la verità?,No
+Domanda: Rashida dice la verità. Jim dice che Rashida mente. Alejandro dice che Jim mente. Tamika dice che Alejandro dice la verità. Fidel dice che Tamika mente. Fidel dice la verità?,No
+Domanda: Jerry mente. Millicent dice che Jerry dice la verità. Sal dice che Millicent dice la verità. Amberly dice che Sal dice la verità. Shenna dice che Amberly mente. Shenna dice la verità?,Yes
+Domanda: Audrie mente. Conception dice che Audrie mente. Teressa dice che Conception dice la verità. Delfina dice che Teressa mente. Helene dice che Delfina dice la verità. Helene dice la verità?,No
+Domanda: Millie dice la verità. Millicent dice che Millie mente. Phoebe dice che Millicent dice la verità. Sherrie dice che Phoebe mente. Raymond dice che Sherrie dice la verità. Raimondo dice la verità?,Yes
+Domanda: Inga dice la verità. Shenna dice che Inga mente. Rashida dice che Shenna dice la verità. Ka dice che Rashida dice la verità. Shalonda dice che Ka dice la verità. Shalonda dice la verità?,No
+Domanda: Amberly mente. Shenna dice che Amberly dice la verità. Willian dice che Shenna dice la verità. Raymond dice che Willian mente. Sal dice che Raymond mente. Sal dice la verità?,No
+Domanda: Willian mente. Inga dice che Willian dice la verità. Fidel dice che Inga mente. Gwenn dice che Fidel dice la verità. Crista dice che Gwenn dice la verità. Crista dice la verità?,Yes
+Domanda: Ka mente. Christie dice che Ka dice la verità. Jerry dice che Christie mente. Crista dice che Jerry mente. Yoland dice che Crista dice la verità. Yoland dice la verità?,No
+Domanda: Ka mente. Andree dice che Ka dice la verità. Audrie dice che Andree mente. Antwan dice che Audrie dice la verità. Millie dice che Antwan dice la verità. Millie dice la verità?,Yes
+Domanda: Shalonda dice la verità. Alexis dice che Shalonda dice la verità. Christie dice che Alexis mente. Inga dice che Christie dice la verità. Crista dice che Inga dice la verità. Crista dice la verità?,No
+Domanda: Fidel mente. Sal dice che Fidel dice la verità. Osvaldo dice che Sal mente. Alexis dice che Osvaldo mente. Millie dice che Alexis dice la verità. Millie dice la verità?,No
+Domanda: Raymond dice la verità. Sal dice che Raymond mente. Alexis dice che Sal mente. Helene dice che Alexis mente. Elanor dice che Helene mente. Elanor dice la verità?,Yes
+Domanda: Ryan dice la verità. Sal dice che Ryan dice la verità. Leda dice che Sal dice la verità. Rashida dice che Leda dice la verità. Alejandro dice che Rashida dice la verità. Alejandro dice la verità?,Yes
+Domanda: Sima mente. Millie dice che Sima dice la verità. Jerry dice che Millie dice la verità. Vina dice che Jerry mente. Maybelle dice che Vina dice la verità. Maybelle dice la verità?,Yes
+Domanda: Phoebe dice la verità. Christie dice che Phoebe dice la verità. Fletcher dice che Christie dice la verità. Amberly dice che Fletcher mente. Raymond dice che Amberly dice la verità. Raimondo dice la verità?,No
+Domanda: Delfina dice la verità. Fletcher dice che Delfina mente. Amberly dice che Fletcher mente. Audrie dice che Amberly dice la verità. Lorine dice che Audrie dice la verità. Lorine dice la verità?,Yes
+Domanda: Amberly dice la verità. Jamey dice che Amberly dice la verità. Shalonda dice che Jamey mente. Antwan dice che Shalonda dice la verità. Alejandro dice che Antwan mente. Alejandro dice la verità?,Yes
+Domanda: Leda dice la verità. Alexis dice che Leda mente. Sal dice che Alexis mente. Phoebe dice che Sal dice la verità. Gwenn dice che Phoebe dice la verità. Gwenn dice la verità?,Yes
+Domanda: Fletcher mente. Phoebe dice che Fletcher dice la verità. Vina dice che Phoebe dice la verità. Andree dice che Vina dice la verità. Willian dice che Andree dice la verità. Willian dice la verità?,No
+Domanda: Ryan mente. Kristian dice che Ryan mente. Teressa dice che Kristian dice la verità. Amberly dice che Teressa dice la verità. Jamey dice che Amberly dice la verità. Jamey dice la verità?,Yes
+Domanda: Shalonda mente. Jaymie dice che Shalonda dice la verità. Raymond dice che Jaymie mente. Audrie dice che Raymond mente. Sherrie dice che Audrie mente. Sherrie dice la verità?,Yes
+Domanda: Kandi dice la verità. Michaela dice che Kandi mente. Vernell dice che Michaela mente. Antwan dice che Vernell dice la verità. Sal dice che Antwan mente. Sal dice la verità?,No
+Domanda: Audrie mente. Sherrie dice che Audrie mente. Willian dice che Sherrie dice la verità. Conception dice che Willian dice la verità. Gwenn dice che Conception mente. Gwenn dice la verità?,No
+Domanda: Delfina dice la verità. Willian dice che Delfina dice la verità. Crista dice che Willian mente. Shalonda dice che Crista mente. Shenna dice che Shalonda dice la verità. Shenna dice la verità?,Yes
+Domanda: Jerry mente. Helene dice che Jerry mente. Alexis dice che Helene dice la verità. Sherrie dice che Alexis dice la verità. Michael dice che Sherrie dice la verità. Michael dice la verità?,Yes
+Domanda: Fidel dice la verità. Tamika dice che Fidel mente. Shenna dice che Tamika mente. Audrie dice che Shenna mente. Jim dice che Audrie dice la verità. Jim dice la verità?,No
+Domanda: Andree dice la verità. Audrie dice che Andree dice la verità. Jerry dice che Audrie mente. Helene dice che Jerry mente. Bernita dice che Helene dice la verità. Bernita dice la verità?,Yes
+Domanda: Fidel mente. Fletcher dice che Fidel dice la verità. Yoland dice che Fletcher mente. Raymond dice che Yoland mente. Leda dice che Raymond mente. Leda dice la verità?,Yes
+Domanda: Tamika dice la verità. Ka dice che Tamika dice la verità. Fidel dice che Ka dice la verità. Elanor dice che Fidel dice la verità. Amberly dice che Elanor dice la verità. Amberly dice la verità?,Yes
+Domanda: Maybelle mente. Jamey dice che Maybelle dice la verità. Phoebe dice che Jamey mente. Willian dice che Phoebe mente. Shalonda dice che Willian mente. Shalonda dice la verità?,Yes
+Domanda: Jamey mente. Vernell dice che Jamey dice la verità. Millicent dice che Vernell mente. Rashida dice che Millicent dice la verità. Vina dice che Rashida dice la verità. Vina dice la verità?,Yes
+Domanda: Alejandro mente. Amberly dice che Alejandro dice la verità. Osvaldo dice che Amberly mente. Vernell dice che Osvaldo mente. Shenna dice che Vernell mente. Shenna dice la verità?,Yes
+Domanda: Fidel dice la verità. Kandi dice che Fidel mente. Christie dice che Kandi dice la verità. Leda dice che Christie mente. Sima dice che Leda mente. Sima dice la verità?,No
+Domanda: Jaymie dice la verità. Millicent dice che Jaymie mente. Millie dice che Millicent dice la verità. Vina dice che Millie mente. Leda dice che Vina dice la verità. Leda dice la verità?,Yes
+Domanda: Fletcher dice la verità. Helene dice che Fletcher mente. Elanor dice che Helene dice la verità. Yoland dice che Elanor dice la verità. Audrie dice che Yoland mente. Audrie dice la verità?,Yes
+Domanda: Millicent bugie. Alexis dice che Millicent mente. Inga dice che Alexis dice la verità. Christie dice che Inga mente. Gwenn dice che Christie mente. Gwenn dice la verità?,Yes
+Domanda: Sima dice la verità. Yoland dice che Sima mente. Amberly dice che Yoland dice la verità. Inga dice che Amberly mente. Alexis dice che Inga dice la verità. Alexis dice la verità?,Yes
+Domanda: Millie dice la verità. Millicent dice che Millie dice la verità. Raymond dice che Millicent dice la verità. Crista dice che Raymond mente. Ka dice che Crista dice la verità. Ka dice la verità?,No
+Domanda: Michaela mente. Millicent dice che Michaela mente. Delbert dice che Millicent mente. Bernita dice che Delbert mente. Teressa dice che Bernita dice la verità. Teressa dice la verità?,Yes
+Domanda: Audrie dice la verità. Yoland dice che Audrie mente. Shaunda dice che Yoland dice la verità. Raymond dice che Shaunda mente. Maybelle dice che Raymond mente. Maybelle dice la verità?,No
+Domanda: Fletcher mente. Teressa dice che Fletcher mente. Vernell dice che Teressa mente. Dallas dice che Vernell mente. Millicent dice che Dallas dice la verità. Millicent dice la verità?,Yes
+Domanda: Rashida dice la verità. Willian dice che Rashida mente. Christie dice che Willian mente. Ryan dice che Christie mente. Shaunda dice che Ryan mente. Shaunda dice la verità?,Yes
+Domanda: Elanor dice la verità. Ka dice che Elanor mente. Delbert dice che Ka dice la verità. Michaela dice che Delbert mente. Sherrie dice che Michaela mente. Sherrie dice la verità?,No
+Domanda: Andree mente. Amberly dice che Andree dice la verità. Gwenn dice che Amberly dice la verità. Willian dice che Gwenn mente. Alexis dice che Willian dice la verità. Alexis dice la verità?,Yes
+Domanda: Bernita dice la verità. Michael dice che Bernita dice la verità. Fidel dice che Michael mente. Dallas dice che Fidel dice la verità. Millicent dice che Dallas mente. Millicent dice la verità?,Yes
+Domanda: Fletcher dice la verità. Ka dice che Fletcher dice la verità. Elanor dice che Ka mente. Vernell dice che Elanor mente. Delfina dice che Vernell dice la verità. Delfina dice la verità?,Yes
+Domanda: Kandi dice la verità. Alejandro dice che Kandi dice la verità. Millicent dice che Alejandro mente. Shalonda dice che Millicent mente. Conception dice che Shalonda mente. La concezione dice la verità?,No
+Domanda: Millicent dice la verità. Millie dice che Millicent dice la verità. Michael dice che Millie dice la verità. Antwan dice che Michael mente. Alexis dice che Antwan dice la verità. Alexis dice la verità?,No
+Domanda: Jerry mente. Helene dice che Jerry mente. Kandi dice che Helene dice la verità. Jaymie dice che Kandi mente. Shalonda dice che Jaymie mente. Shalonda dice la verità?,Yes
+Domanda: Tamika dice la verità. Sima dice che Tamika dice la verità. Rashida dice che Sima mente. Delfina dice che Rashida mente. Jerry dice che Delfina mente. Jerry dice la verità?,No
+Domanda: Ka dice la verità. Fletcher dice che Ka dice la verità. Maybelle dice che Fletcher mente. Lorine dice che Maybelle mente. Crista dice che Lorine dice la verità. Crista dice la verità?,Yes
+Domanda: Delbert dice la verità. Delfina dice che Delbert mente. Antwan dice che Delfina dice la verità. Helene dice che Antwan mente. Sima dice che Helene mente. Sima dice la verità?,No
+Domanda: Maybelle dice la verità. Bernita dice che Maybelle dice la verità. Inga dice che Bernita dice la verità. Tamika dice che Inga mente. Helene dice che Tamika dice la verità. Helene dice la verità?,No
+Domanda: Delfina mente. Leda dice che Delfina mente. Fidel dice che Leda mente. Sal dice che Fidel dice la verità. Andree dice che Sal mente. Andree dice la verità?,Yes
+Domanda: Jerry dice la verità. Elanor dice che Jerry dice la verità. Gwenn dice che Elanor dice la verità. Kandi dice che Gwenn dice la verità. Dallas dice che Kandi dice la verità. Dallas dice la verità?,Yes
+Domanda: Crista mente. Michael dice che Crista dice la verità. Audrie dice che Michael mente. Sherrie dice che Audrie mente. Michaela dice che Sherrie dice la verità. Michaela dice la verità?,No
+Domanda: Jim mente. Ka dice che Jim mente. Jerry dice che Ka dice la verità. Fletcher dice che Jerry dice la verità. Kandi dice che Fletcher mente. Kandi dice la verità?,No
+Domanda: Sima dice la verità. Michaela dice che Sima mente. Leda dice che Michaela dice la verità. Fletcher dice che Leda mente. Vina dice che Fletcher dice la verità. Vina dice la verità?,Yes
+Domanda: Vernell mente. Gwenn dice che Vernell mente. Teressa dice che Gwenn mente. Bernita dice che Teressa dice la verità. Christie dice che Bernita mente. Christie dice la verità?,Yes
+Domanda: Fidel mente. Michael dice che Fidel mente. Fletcher dice che Michael mente. Inga dice che Fletcher dice la verità. Andree dice che Inga mente. Andree dice la verità?,Yes
+Domanda: Phoebe dice la verità. Jamey dice che Phoebe mente. Audrie dice che Jamey dice la verità. Michaela dice che Audrie mente. Vina dice che Michaela mente. Vina dice la verità?,No
+Domanda: Kandi mente. Phoebe dice che Kandi dice la verità. Yolanda dice che Phoebe dice la verità. Fletcher dice che Yolanda mente. Lorine dice che Fletcher dice la verità. Lorine dice la verità?,Yes
+Domanda: Kandi dice la verità. Crista dice che Kandi mente. Ryan dice che Crista dice la verità. Gwenn dice che Ryan dice la verità. Delfina dice che Gwenn dice la verità. Delfina dice la verità?,No
+Domanda: Millicent bugie. Shenna dice che Millicent mente. Willian dice che Shenna dice la verità. Kandi dice che Willian mente. Vernell dice che Kandi mente. Vernell dice la verità?,Yes
+Domanda: Jamey dice la verità. Raymond dice che Jamey mente. Audrie dice che Raymond mente. Michaela dice che Audrie mente. Rashida dice che Michaela mente. Rashida dice la verità?,Yes
+Domanda: Osvaldo dice la verità. Andree dice che Osvaldo dice la verità. Willian dice che Andree mente. Vina dice che Willian dice la verità. Jaymie dice che Vina dice la verità. Jaymie dice la verità?,No
+Domanda: Leda dice la verità. Shalonda dice che Leda mente. Shenna dice che Shalonda dice la verità. Christie dice che Shenna mente. Crista dice che Christie dice la verità. Crista dice la verità?,Yes
+Domanda: Il concepimento dice la verità. Teressa dice che Conception mente. Sal dice che Teressa dice la verità. Fidel dice che Sal dice la verità. Shenna dice che Fidel mente. Shenna dice la verità?,Yes
+Domanda: Ryan dice la verità. Helene dice che Ryan dice la verità. Kandi dice che Helene dice la verità. Inga dice che Kandi dice la verità. Delbert dice che Inga mente. Delbert dice la verità?,No
+Domanda: Ryan mente. Christie dice che Ryan mente. Amberly dice che Christie dice la verità. Shenna dice che Amberly dice la verità. Jamey dice che Shenna mente. Jamey dice la verità?,No
+Domanda: Kristian dice la verità. Dallas dice che Kristian dice la verità. Osvaldo dice che Dallas mente. Millie dice che Osvaldo dice la verità. Vina dice che Millie dice la verità. Vina dice la verità?,No
+Domanda: Christie dice la verità. Jamey dice che Christie dice la verità. Michael dice che Jamey mente. Rashida dice che Michael dice la verità. Teressa dice che Rashida dice la verità. Teressa dice la verità?,No
+Domanda: Rashida mente. Ryan dice che Rashida dice la verità. Vernell dice che Ryan dice la verità. Shaunda dice che Vernell mente. Amberly dice che Shaunda mente. Amberly dice la verità?,No
+Domanda: Elanor mente. Tamika dice che Elanor mente. Ka dice che Tamika dice la verità. Shaunda dice che Ka mente. Conception dice che Shaunda mente. La concezione dice la verità?,Yes
+Domanda: Teressa mente. Willian dice che Teressa mente. Jamey dice che Willian mente. Ryan dice che Jamey mente. Kandi dice che Ryan mente. Kandi dice la verità?,No
+Domanda: Audrie mente. Jaymie dice che Audrie dice la verità. Phoebe dice che Jaymie mente. Conception dice che Phoebe dice la verità. Michael dice che Conception mente. Michael dice la verità?,No
+Domanda: Bernita dice la verità. Audrie dice che Bernita mente. Delfina dice che Audrie dice la verità. Vina dice che Delfina mente. Sal dice che Vina dice la verità. Sal dice la verità?,Yes
+Domanda: Jamey mente. Raymond dice che Jamey mente. Ka dice che Raymond mente. Bernita dice che Ka dice la verità. Teressa dice che Bernita mente. Teressa dice la verità?,Yes
+Domanda: Teressa mente. Kristian dice che Teressa mente. Sal dice che Kristian dice la verità. Audrie dice che Sal mente. Leda dice che Audrie mente. Leda dice la verità?,Yes
+Domanda: Helene dice la verità. Lorine dice che Helene mente. Raymond dice che Lorine dice la verità. Ka dice che Raymond dice la verità. Christie dice che Ka dice la verità. Christie dice la verità?,No
+Domanda: Ryan mente. Kandi dice che Ryan mente. Lorine dice che Kandi mente. Christie dice che Lorine dice la verità. Fletcher dice che Christie mente. Fletcher dice la verità?,Yes
+Domanda: Jamey mente. Gwenn dice che Jamey dice la verità. Yoland dice che Gwenn dice la verità. Kandi dice che Yoland dice la verità. Osvaldo dice che Kandi dice la verità. Osvaldo dice la verità?,No
+Domanda: Antwan dice la verità. Helene dice che Antwan dice la verità. Gwenn dice che Helene dice la verità. Sal dice che Gwenn dice la verità. Shaunda dice che Sal mente. Shaunda dice la verità?,No
+Domanda: Jim dice la verità. Tamika dice che Jim dice la verità. Helene dice che Tamika dice la verità. Jaymie dice che Helene dice la verità. Conception dice che Jaymie dice la verità. La concezione dice la verità?,Yes
+Domanda: Sima dice la verità. Jim dice che Sima mente. Gwenn dice che Jim dice la verità. Phoebe dice che Gwenn dice la verità. Rashida dice che Phoebe mente. Rashida dice la verità?,Yes
+Domanda: Jamey dice la verità. Delfina dice che Jamey mente. Vina dice che Delfina dice la verità. Teressa dice che Vina dice la verità. Conception dice che Teressa mente. La concezione dice la verità?,Yes
+Domanda: Phoebe dice la verità. Helene dice che Phoebe mente. Sima dice che Helene mente. Alejandro dice che Sima dice la verità. Michaela dice che Alejandro mente. Michaela dice la verità?,No
+Domanda: Sima dice la verità. Teressa dice che Sima dice la verità. Vina dice che Teressa mente. Crista dice che Vina mente. Phoebe dice che Crista dice la verità. Phoebe dice la verità?,Yes
+Domanda: Jamey mente. Michaela dice che Jamey dice la verità. Millicent dice che Michaela mente. Elanor dice che Millicent dice la verità. Rashida dice che Elanor mente. Rashida dice la verità?,No
+Domanda: Millicent dice la verità. Alexis dice che Millicent mente. Jaymie dice che Alexis mente. Willian dice che Jaymie dice la verità. Leda dice che Willian mente. Leda dice la verità?,No
+Domanda: Jaymie mente. Christie dice che Jaymie dice la verità. Alejandro dice che Christie mente. Gwenn dice che Alejandro dice la verità. Sal dice che Gwenn mente. Sal dice la verità?,No
+Domanda: Michael mente. Leda dice che Michael mente. Delbert dice che Leda dice la verità. Tamika dice che Delbert dice la verità. Fidel dice che Tamika mente. Fidel dice la verità?,No
+Domanda: Leda dice la verità. Vina dice che Leda mente. Delfina dice che Vina dice la verità. Alejandro dice che Delfina mente. Shaunda dice che Alejandro dice la verità. Shaunda dice la verità?,Yes
+Domanda: Andree mente. Delfina dice che Andree mente. Jim dice che Delfina dice la verità. Gwenn dice che Jim mente. Delbert dice che Gwenn mente. Delbert dice la verità?,Yes
+Domanda: Andree mente. Jamey dice che Andree mente. Shaunda dice che Jamey mente. Delfina dice che Shaunda mente. Christie dice che Delfina mente. Christie dice la verità?,No
+Domanda: Crista dice la verità. Shalonda dice che Crista mente. Millicent dice che Shalonda mente. Vernell dice che Millicent mente. Inga dice che Vernell dice la verità. Inga dice la verità?,No
+Domanda: Il concepimento dice la verità. Elanor dice che Conception dice la verità. Alexis dice che Elanor dice la verità. Fidel dice che Alexis dice la verità. Delbert dice che Fidel mente. Delbert dice la verità?,No
+Domanda: Elanor dice la verità. Leda dice che Elanor mente. Osvaldo dice che Leda dice la verità. Jim dice che Osvaldo mente. Gwenn dice che Jim mente. Gwenn dice la verità?,No
+Domanda: Ryan dice la verità. Shaunda dice che Ryan dice la verità. Leda dice che Shaunda mente. Teressa dice che Leda mente. Christie dice che Teressa dice la verità. Christie dice la verità?,Yes
+Domanda: Shaunda mente. Ryan dice che Shaunda dice la verità. Shalonda dice che Ryan mente. Bernita dice che Shalonda mente. Michaela dice che Bernita dice la verità. Michaela dice la verità?,No
+Domanda: Alexis dice la verità. Shenna dice che Alexis dice la verità. Yoland dice che Shenna dice la verità. Ka dice che Yoland dice la verità. Inga dice che Ka dice la verità. Inga dice la verità?,Yes
+Domanda: Delfina mente. Jerry dice che Delfina dice la verità. Maybelle dice che Jerry dice la verità. Dallas dice che Maybelle mente. Kristian dice che Dallas dice la verità. Kristian dice la verità?,Yes
+Domanda: Gwenn dice la verità. Andree dice che Gwenn dice la verità. Yoland dice che Andree mente. Sal dice che Yoland mente. Crista dice che Sal mente. Crista dice la verità?,No
+Domanda: Crista dice la verità. Jim dice che Crista mente. Delfina dice che Jim mente. Phoebe dice che Delfina mente. Bernita dice che Phoebe dice la verità. Bernita dice la verità?,No
+Domanda: Jim dice la verità. Alejandro dice che Jim mente. Phoebe dice che Alejandro mente. Shaunda dice che Phoebe dice la verità. Kandi dice che Shaunda mente. Kandi dice la verità?,No
+Domanda: Osvaldo mente. Ryan dice che Osvaldo mente. Andree dice che Ryan dice la verità. Rashida dice che Andree dice la verità. Millie dice che Rashida dice la verità. Millie dice la verità?,Yes
+Domanda: Yoland dice la verità. Michaela dice che Yoland dice la verità. Sima dice che Michaela dice la verità. Shaunda dice che Sima dice la verità. Osvaldo dice che Shaunda mente. Osvaldo dice la verità?,No
+Domanda: Il concepimento mente. Rashida dice che Conception dice la verità. Alejandro dice che Rashida dice la verità. Sherrie dice che Alejandro mente. Amberly dice che Sherrie dice la verità. Amberly dice la verità?,Yes
+Domanda: Teressa dice la verità. Vernell dice che Teressa mente. Sherrie dice che Vernell dice la verità. Tamika dice che Sherrie mente. Millicent dice che Tamika dice la verità. Millicent dice la verità?,Yes
+Domanda: Vernell mente. Michael dice che Vernell mente. Dallas dice che Michael mente. Shalonda dice che Dallas dice la verità. Jamey dice che Shalonda mente. Jamey dice la verità?,Yes
+Domanda: Jim dice la verità. Ryan dice che Jim dice la verità. Millicent dice che Ryan dice la verità. Audrie dice che Millicent dice la verità. Elanor dice che Audrie dice la verità. Elanor dice la verità?,Yes
+Domanda: Elanor mente. Dallas dice che Elanor dice la verità. Fletcher dice che Dallas mente. Jamey dice che Fletcher dice la verità. Delfina dice che Jamey mente. Delfina dice la verità?,No
+Domanda: Alejandro dice la verità. Shenna dice che Alejandro dice la verità. Christie dice che Shenna dice la verità. Shalonda dice che Christie mente. Jerry dice che Shalonda mente. Jerry dice la verità?,Yes
+Domanda: Osvaldo mente. Phoebe dice che Osvaldo mente. Kandi dice che Phoebe dice la verità. Crista dice che Kandi dice la verità. Delbert dice che Crista mente. Delbert dice la verità?,No
+Domanda: Bernita mente. Jerry dice che Bernita dice la verità. Delbert dice che Jerry mente. Jamey dice che Delbert dice la verità. Shenna dice che Jamey mente. Shenna dice la verità?,No
+Domanda: Willian dice la verità. Phoebe dice che Willian mente. Alejandro dice che Phoebe mente. Lorine dice che Alejandro dice la verità. Christie dice che Lorine dice la verità. Christie dice la verità?,Yes
+Domanda: Millicent dice la verità. Vernell dice che Millicent mente. Tamika dice che Vernell dice la verità. Osvaldo dice che Tamika dice la verità. Shenna dice che Osvaldo mente. Shenna dice la verità?,Yes
+Domanda: Amberly mente. Shalonda dice che Amberly dice la verità. Helene dice che Shalonda dice la verità. Sima dice che Helene dice la verità. Christie dice che Sima dice la verità. Christie dice la verità?,No
+Domanda: Christie mente. Jaymie dice che Christie mente. Lorine dice che Jaymie dice la verità. Bernita dice che Lorine dice la verità. Delfina dice che Bernita mente. Delfina dice la verità?,No
+Domanda: Helene dice la verità. Teressa dice che Helene dice la verità. Jamey dice che Teressa mente. Alexis dice che Jamey mente. Osvaldo dice che Alexis dice la verità. Osvaldo dice la verità?,Yes
+Domanda: Willian dice la verità. Michaela dice che Willian mente. Conception dice che Michaela mente. Inga dice che Conception dice la verità. Sal dice che Inga mente. Sal dice la verità?,No
+Domanda: Lorine mente. Osvaldo dice che Lorine mente. Alejandro dice che Osvaldo mente. Gwenn dice che Alejandro dice la verità. Dallas dice che Gwenn mente. Dallas dice la verità?,Yes
+Domanda: Christie dice la verità. Elanor dice che Christie mente. Jaymie dice che Elanor dice la verità. Jamey dice che Jaymie mente. Alexis dice che Jamey dice la verità. Alexis dice la verità?,Yes
+Domanda: Maybelle dice la verità. Osvaldo dice che Maybelle mente. Kandi dice che Osvaldo mente. Jerry dice che Kandi mente. Alejandro dice che Jerry mente. Alejandro dice la verità?,Yes
+Domanda: Alejandro mente. Vina dice che Alejandro mente. Vernell dice che Vina dice la verità. Fidel dice che Vernell mente. Inga dice che Fidel dice la verità. Inga dice la verità?,No
+Domanda: Millicent dice la verità. Willian dice che Millicent mente. Crista dice che Willian mente. Teressa dice che Crista dice la verità. Rashida dice che Teressa dice la verità. Rashida dice la verità?,Yes
+Domanda: Osvaldo mente. Gwenn dice che Osvaldo mente. Michael dice che Gwenn mente. Elanor dice che Michael mente. Sal dice che Elanor dice la verità. Sal dice la verità?,Yes
+Domanda: Ka mente. Lorine dice che Ka dice la verità. Sal dice che Lorine mente. Amberly dice che Sal mente. Conception dice che Amberly mente. La concezione dice la verità?,Yes
+Domanda: Jerry dice la verità. Raymond dice che Jerry dice la verità. Yoland dice che Raymond dice la verità. Elanor dice che Yoland dice la verità. Jamey dice che Elanor mente. Jamey dice la verità?,No
+Domanda: Helene dice la verità. Raymond dice che Helene mente. Andree dice che Raymond dice la verità. Michael dice che Andree dice la verità. Amberly dice che Michael dice la verità. Amberly dice la verità?,No
+Domanda: Willian dice la verità. Crista dice che Willian dice la verità. Vina dice che Crista mente. Fidel dice che Vina mente. Fletcher dice che Fidel mente. Fletcher dice la verità?,No
+Domanda: Lorine dice la verità. Michaela dice che Lorine mente. Millicent dice che Michaela dice la verità. Fletcher dice che Millicent dice la verità. Shaunda dice che Fletcher dice la verità. Shaunda dice la verità?,No
+Domanda: Jerry mente. Gwenn dice che Jerry mente. Fidel dice che Gwenn mente. Millicent dice che Fidel dice la verità. Lorine dice che Millicent dice la verità. Lorine dice la verità?,No
+Domanda: Millie mente. Jaymie dice che Millie dice la verità. Jamey dice che Jaymie dice la verità. Sal dice che Jamey mente. Christie dice che Sal mente. Christie dice la verità?,No
+Domanda: Shalonda mente. Crista dice che Shalonda dice la verità. Yoland dice che Crista dice la verità. Ka dice che Yoland dice la verità. Michaela dice che Ka mente. Michaela dice la verità?,Yes
+Domanda: Maybelle dice la verità. Antwan dice che Maybelle dice la verità. Audrie dice che Antwan dice la verità. Ryan dice che Audrie mente. Delfina dice che Ryan mente. Delfina dice la verità?,Yes
+Domanda: Bernita dice la verità. Ka dice che Bernita mente. Yoland dice che Ka mente. Gwenn dice che Yoland mente. Fidel dice che Gwenn mente. Fidel dice la verità?,Yes
+Domanda: Audrie dice la verità. Ryan dice che Audrie mente. Rashida dice che Ryan mente. Fletcher dice che Rashida dice la verità. Shaunda dice che Fletcher dice la verità. Shaunda dice la verità?,Yes
+Domanda: Delfina mente. Teressa dice che Delfina mente. Amberly dice che Teressa dice la verità. Ryan dice che Amberly mente. Millie dice che Ryan mente. Millie dice la verità?,Yes
+Domanda: Willian dice la verità. Michaela dice che Willian dice la verità. Sima dice che Michaela mente. Inga dice che Sima dice la verità. Audrie dice che Inga mente. Audrie dice la verità?,Yes
+Domanda: Teressa dice la verità. Lorine dice che Teressa mente. Antwan dice che Lorine dice la verità. Fidel dice che Antwan dice la verità. Phoebe dice che Fidel mente. Phoebe dice la verità?,Yes
+Domanda: Elanor dice la verità. Crista dice che Elanor mente. Vernell dice che Crista mente. Shalonda dice che Vernell mente. Teressa dice che Shalonda mente. Teressa dice la verità?,Yes
+Domanda: Yoland dice la verità. Gwenn dice che Yoland dice la verità. Michaela dice che Gwenn mente. Jamey dice che Michaela dice la verità. Amberly dice che Jamey mente. Amberly dice la verità?,Yes
+Domanda: Gwenn dice la verità. Millicent dice che Gwenn mente. Antwan dice che Millicent dice la verità. Teressa dice che Antwan mente. Shenna dice che Teressa mente. Shenna dice la verità?,No
+Domanda: Helene dice la verità. Leda dice che Helene mente. Antwan dice che Leda dice la verità. Andree dice che Antwan mente. Shaunda dice che Andree mente. Shaunda dice la verità?,No
+Domanda: Sherrie dice la verità. Kandi dice che Sherrie dice la verità. Conception dice che Kandi dice la verità. Michael dice che Conception dice la verità. Christie dice che Michael dice la verità. Christie dice la verità?,Yes
+Domanda: Delbert dice la verità. Gwenn dice che Delbert mente. Audrie dice che Gwenn mente. Christie dice che Audrie mente. Alexis dice che Christie mente. Alexis dice la verità?,Yes
+Domanda: Antwan dice la verità. Jaymie dice che Antwan dice la verità. Maybelle dice che Jaymie dice la verità. Alexis dice che Maybelle mente. Millicent dice che Alexis mente. Millicent dice la verità?,Yes
+Domanda: Delfina dice la verità. Fidel dice che Delfina dice la verità. Helene dice che Fidel mente. Crista dice che Helene mente. Ka dice che Crista mente. Ka dice la verità?,No
+Domanda: Jim mente. Yoland dice che Jim mente. Willian dice che Yoland dice la verità. Delbert dice che Willian mente. Shalonda dice che Delbert dice la verità. Shalonda dice la verità?,No
+Domanda: Elanor mente. Millicent dice che Elanor dice la verità. Millie dice che Millicent mente. Michaela dice che Millie dice la verità. Kandi dice che Michaela mente. Kandi dice la verità?,No
+Domanda: Jerry dice la verità. Yoland dice che Jerry mente. Tamika dice che Yoland dice la verità. Alexis dice che Tamika dice la verità. Ryan dice che Alexis dice la verità. Ryan dice la verità?,No
+Domanda: Sima dice la verità. Jerry dice che Sima dice la verità. Sal dice che Jerry mente. Inga dice che Sal mente. Willian dice che Inga mente. Willian dice la verità?,No
+Domanda: Willian dice la verità. Shalonda dice che Willian dice la verità. Helene dice che Shalonda dice la verità. Millicent dice che Helene mente. Andree dice che Millicent mente. Andree dice la verità?,Yes
+Domanda: Ryan dice la verità. Amberly dice che Ryan dice la verità. Kristian dice che Amberly mente. Bernita dice che Kristian mente. Alejandro dice che Bernita dice la verità. Alejandro dice la verità?,Yes
+Domanda: Vernell dice la verità. Rashida dice che Vernell mente. Christie dice che Rashida dice la verità. Sherrie dice che Christie dice la verità. Jim dice che Sherrie mente. Jim dice la verità?,Yes
+Domanda: Shaunda mente. Elanor dice che Shaunda mente. Fidel dice che Elanor dice la verità. Lorine dice che Fidel dice la verità. Raymond dice che Lorine mente. Raimondo dice la verità?,No
+Domanda: Gwenn dice la verità. Lorine dice che Gwenn mente. Antwan dice che Lorine dice la verità. Elanor dice che Antwan dice la verità. Delfina dice che Elanor dice la verità. Delfina dice la verità?,No
+Domanda: Shenna dice la verità. Antwan dice che Shenna mente. Tamika dice che Antwan mente. Elanor dice che Tamika mente. Rashida dice che Elanor dice la verità. Rashida dice la verità?,No
+Domanda: Andree mente. Rashida dice che Andree dice la verità. Amberly dice che Rashida mente. Tamika dice che Amberly mente. Leda dice che Tamika mente. Leda dice la verità?,Yes
+Domanda: Ryan mente. Jaymie dice che Ryan mente. Michael dice che Jaymie dice la verità. Ka dice che Michael mente. Millicent dice che Ka dice la verità. Millicent dice la verità?,No
+Domanda: Alejandro mente. Bernita dice che Alejandro mente. Andree dice che Bernita dice la verità. Sima dice che Andree dice la verità. Inga dice che Sima dice la verità. Inga dice la verità?,Yes
+Domanda: Shenna mente. Crista dice che Shenna mente. Andree dice che Crista dice la verità. Sherrie dice che Andree mente. Ka dice che Sherrie mente. Ka dice la verità?,Yes
+Domanda: Antwan mente. Jerry dice che Antwan dice la verità. Delfina dice che Jerry mente. Conception dice che Delfina mente. Bernita dice che Conception dice la verità. Bernita dice la verità?,No
+Domanda: Audrie mente. Jerry dice che Audrie dice la verità. Alejandro dice che Jerry mente. Jaymie dice che Alejandro mente. Lorine dice che Jaymie dice la verità. Lorine dice la verità?,No
+Domanda: Willian mente. Fidel dice che Willian dice la verità. Crista dice che Fidel dice la verità. Inga dice che Crista dice la verità. Dallas dice che Inga mente. Dallas dice la verità?,Yes
+Domanda: Sherrie mente. Gwenn dice che Sherrie mente. Sima dice che Gwenn mente. Tamika dice che Sima dice la verità. Millicent dice che Tamika dice la verità. Millicent dice la verità?,No
+Domanda: Vernell dice la verità. Fidel dice che Vernell dice la verità. Amberly dice che Fidel mente. Lorine dice che Amberly mente. Elanor dice che Lorine mente. Elanor dice la verità?,No
+Domanda: Millicent bugie. Lorine dice che Millicent mente. Rashida dice che Lorine mente. Sima dice che Rashida mente. Phoebe dice che Sima dice la verità. Phoebe dice la verità?,Yes
+Domanda: Vina dice la verità. Alejandro dice che Vina mente. Maybelle dice che Alejandro dice la verità. Millicent dice che Maybelle mente. Elanor dice che Millicent dice la verità. Elanor dice la verità?,Yes
+Domanda: Shaunda dice la verità. Conception dice che Shaunda mente. Shenna dice che Conception mente. Delbert dice che Shenna mente. Jerry dice che Delbert dice la verità. Jerry dice la verità?,No
+Domanda: Jerry dice la verità. Jaymie dice che Jerry dice la verità. Elanor dice che Jaymie dice la verità. Helene dice che Elanor dice la verità. Sherrie dice che Helene dice la verità. Sherrie dice la verità?,Yes
+Domanda: Millicent dice la verità. Ka dice che Millicent dice la verità. La concezione dice che Ka mente. Sal dice che Conception mente. Tamika dice che Sal mente. Tamika dice la verità?,No
+Domanda: Shaunda mente. Fletcher dice che Shaunda mente. Jaymie dice che Fletcher mente. Millie dice che Jaymie mente. Gwenn dice che Millie dice la verità. Gwenn dice la verità?,Yes
+Domanda: Christie mente. Amberly dice che Christie dice la verità. Bernita dice che Amberly dice la verità. Kristian dice che Bernita mente. Delfina dice che Kristian mente. Delfina dice la verità?,No
+Domanda: Leda mente. Fidel dice che Leda mente. Crista dice che Fidel dice la verità. Ka dice che Crista mente. Jim dice che Ka dice la verità. Jim dice la verità?,No
+Domanda: Leda mente. Millicent dice che Leda dice la verità. Rashida dice che Millicent mente. Maybelle dice che Rashida dice la verità. Shaunda dice che Maybelle mente. Shaunda dice la verità?,No
+Domanda: Rashida mente. Osvaldo dice che Rashida dice la verità. Sherrie dice che Osvaldo dice la verità. Gwenn dice che Sherrie dice la verità. Jerry dice che Gwenn mente. Jerry dice la verità?,Yes
+Domanda: Bernita dice la verità. Audrie dice che Bernita mente. Millie dice che Audrie dice la verità. Kandi dice che Millie mente. Fletcher dice che Kandi dice la verità. Fletcher dice la verità?,Yes
+Domanda: Rashida dice la verità. Jim dice che Rashida mente. Tamika dice che Jim dice la verità. Lorine dice che Tamika dice la verità. Vina dice che Lorine dice la verità. Vina dice la verità?,No
+Domanda: Delbert mente. Shalonda dice che Delbert dice la verità. Tamika dice che Shalonda mente. Sal dice che Tamika mente. Helene dice che Sal mente. Helene dice la verità?,Yes
+Domanda: Phoebe mente. Lorine dice che Phoebe dice la verità. Dallas dice che Lorine mente. Alexis dice che Dallas mente. Jim dice che Alexis dice la verità. Jim dice la verità?,No
+Domanda: Audrie mente. Rashida dice che Audrie dice la verità. Maybelle dice che Rashida mente. Ka dice che Maybelle mente. Shaunda dice che Ka dice la verità. Shaunda dice la verità?,No
+Domanda: Osvaldo mente. Fletcher dice che Osvaldo dice la verità. Michael dice che Fletcher dice la verità. Dallas dice che Michael dice la verità. Teressa dice che Dallas dice la verità. Teressa dice la verità?,No
+Domanda: Alexis dice la verità. Raymond dice che Alexis dice la verità. Michaela dice che Raymond dice la verità. Shalonda dice che Michaela dice la verità. Amberly dice che Shalonda dice la verità. Amberly dice la verità?,Yes
+Domanda: Raymond mente. Fletcher dice che Raymond mente. Amberly dice che Fletcher mente. Shenna dice che Amberly dice la verità. Dallas dice che Shenna dice la verità. Dallas dice la verità?,No
+Domanda: Shalonda dice la verità. Sal dice che Shalonda dice la verità. Helene dice che Sal dice la verità. Kandi dice che Helene mente. Lorine dice che Kandi dice la verità. Lorine dice la verità?,No
+Domanda: Sal dice la verità. Alejandro dice che Sal dice la verità. Raymond dice che Alejandro mente. Conception dice che Raymond mente. Elanor dice che Conception mente. Elanor dice la verità?,No
+Domanda: Shaunda dice la verità. Fidel dice che Shaunda dice la verità. Delbert dice che Fidel dice la verità. Bernita dice che Delbert dice la verità. Lorine dice che Bernita mente. Lorine dice la verità?,No
+Domanda: Fletcher mente. Jerry dice che Fletcher mente. Raymond dice che Jerry mente. Conception dice che Raymond mente. Amberly dice che Conception dice la verità. Amberly dice la verità?,Yes
+Domanda: Kristian mente. Millie dice che Kristian mente. Amberly dice che Millie mente. Osvaldo dice che Amberly dice la verità. Kandi dice che Osvaldo dice la verità. Kandi dice la verità?,No
+Domanda: Willian mente. Raymond dice che Willian dice la verità. Rashida dice che Raymond mente. Gwenn dice che Rashida mente. Ka dice che Gwenn mente. Ka dice la verità?,Yes
+Domanda: Jamey dice la verità. Michael dice che Jamey mente. Sherrie dice che Michael mente. Bernita dice che Sherrie mente. Amberly dice che Bernita dice la verità. Amberly dice la verità?,No
+Domanda: Shaunda dice la verità. Jim dice che Shaunda mente. Alexis dice che Jim mente. Phoebe dice che Alexis dice la verità. Sherrie dice che Phoebe dice la verità. Sherrie dice la verità?,Yes
+Domanda: Millicent bugie. Ka dice che Millicent mente. Sima dice che Ka dice la verità. Dallas dice che Sima dice la verità. Jamey dice che Dallas mente. Jamey dice la verità?,No
+Domanda: Christie dice la verità. Fidel dice che Christie mente. Jerry dice che Fidel dice la verità. Maybelle dice che Jerry mente. Delfina dice che Maybelle dice la verità. Delfina dice la verità?,Yes
+Domanda: Sima mente. Maybelle dice che Sima dice la verità. Audrie dice che Maybelle mente. Leda dice che Audrie dice la verità. Shaunda dice che Leda mente. Shaunda dice la verità?,No
+Domanda: Vernell mente. Conception dice che Vernell mente. Kandi dice che Conception mente. Michael dice che Kandi dice la verità. Osvaldo dice che Michael dice la verità. Osvaldo dice la verità?,No
+Domanda: Shaunda dice la verità. Delbert dice che Shaunda dice la verità. Bernita dice che Delbert mente. Yoland dice che Bernita dice la verità. Christie dice che Yoland dice la verità. Christie dice la verità?,No
+Domanda: Inga dice la verità. Shalonda dice che Inga dice la verità. Phoebe dice che Shalonda dice la verità. Crista dice che Phoebe mente. Alejandro dice che Crista mente. Alejandro dice la verità?,Yes
+Domanda: Fidel mente. Millicent dice che Fidel dice la verità. Crista dice che Millicent mente. Leda dice che Crista mente. Tamika dice che Leda dice la verità. Tamika dice la verità?,No
+Domanda: Andree dice la verità. Christie dice che Andree dice la verità. Fidel dice che Christie mente. Antwan dice che Fidel dice la verità. Alejandro dice che Antwan mente. Alejandro dice la verità?,Yes
+Domanda: Fletcher dice la verità. Willian dice che Fletcher dice la verità. Jamey dice che Willian mente. Leda dice che Jamey mente. Jaymie dice che Leda dice la verità. Jaymie dice la verità?,Yes
+Domanda: Tamika mente. Jerry dice che Tamika dice la verità. Delbert dice che Jerry dice la verità. Leda dice che Delbert dice la verità. Willian dice che Leda mente. Willian dice la verità?,Yes
+Domanda: Teressa mente. Sal dice che Teressa dice la verità. Delbert dice che Sal dice la verità. Tamika dice che Delbert dice la verità. Gwenn dice che Tamika dice la verità. Gwenn dice la verità?,No
+Domanda: Jim mente. Delfina dice che Jim dice la verità. Shaunda dice che Delfina mente. Fidel dice che Shaunda mente. Sal dice che Fidel dice la verità. Sal dice la verità?,No
+Domanda: Millie mente. Michael dice che Millie dice la verità. Vina dice che Michael mente. Conception dice che Vina dice la verità. Sima dice che Conception dice la verità. Sima dice la verità?,Yes
+Domanda: Kandi mente. Millie dice che Kandi dice la verità. Lorine dice che Millie dice la verità. Michaela dice che Lorine dice la verità. Amberly dice che Michaela mente. Amberly dice la verità?,Yes
+Domanda: Michael mente. Jerry dice che Michael dice la verità. Delbert dice che Jerry dice la verità. Sima dice che Delbert mente. Alexis dice che Sima mente. Alexis dice la verità?,No
+Domanda: Sal mente. Kristian dice che Sal mente. Helene dice che Kristian mente. Inga dice che Helene dice la verità. Michael dice che Inga dice la verità. Michael dice la verità?,No
+Domanda: Maybelle mente. Crista dice che Maybelle dice la verità. Bernita dice che Crista mente. Kandi dice che Bernita dice la verità. Delbert dice che Kandi dice la verità. Delbert dice la verità?,Yes
+Domanda: Ka mente. Rashida dice che Ka dice la verità. Sherrie dice che Rashida dice la verità. Tamika dice che Sherrie dice la verità. Elanor dice che Tamika dice la verità. Elanor dice la verità?,No
+Domanda: Antwan dice la verità. Audrie dice che Antwan dice la verità. Inga dice che Audrie mente. Shenna dice che Inga dice la verità. Christie dice che Shenna mente. Christie dice la verità?,Yes
+Domanda: Teressa mente. Michael dice che Teressa dice la verità. Fidel dice che Michael dice la verità. Leda dice che Fidel mente. Lorine dice che Leda mente. Lorine dice la verità?,No
+Domanda: Antwan dice la verità. Elanor dice che Antwan dice la verità. Bernita dice che Elanor dice la verità. Osvaldo dice che Bernita mente. Christie dice che Osvaldo dice la verità. Christie dice la verità?,No
+Domanda: Inga dice la verità. Elanor dice che Inga mente. Millicent dice che Elanor dice la verità. Willian dice che Millicent dice la verità. Alejandro dice che Willian dice la verità. Alejandro dice la verità?,No
+Domanda: Sherrie mente. Elanor dice che Sherrie dice la verità. Michael dice che Elanor dice la verità. Sima dice che Michael dice la verità. Shaunda dice che Sima mente. Shaunda dice la verità?,Yes
+Domanda: Tamika mente. Conception dice che Tamika dice la verità. Kristian dice che Conception mente. Alejandro dice che Kristian dice la verità. Shaunda dice che Alejandro mente. Shaunda dice la verità?,No
+Domanda: Helene mente. Delfina dice che Helene mente. Christie dice che Delfina dice la verità. Jerry dice che Christie mente. Tamika dice che Jerry dice la verità. Tamika dice la verità?,No
+Domanda: Il concepimento mente. Shenna dice che Conception dice la verità. Maybelle dice che Shenna dice la verità. Michael dice che Maybelle mente. Amberly dice che Michael mente. Amberly dice la verità?,No
+Domanda: Kristian dice la verità. Jamey dice che Kristian dice la verità. Millicent dice che Jamey mente. Fidel dice che Millicent mente. Tamika dice che Fidel mente. Tamika dice la verità?,No
+Domanda: Jamey mente. Sal dice che Jamey dice la verità. Teressa dice che Sal mente. Maybelle dice che Teressa dice la verità. Ka dice che Maybelle mente. Ka dice la verità?,No
+Domanda: Lorine mente. Amberly dice che Lorine mente. Fletcher dice che Amberly mente. Millie dice che Fletcher dice la verità. Antwan dice che Millie mente. Antwan dice la verità?,Yes
+Domanda: Alexis dice la verità. Elanor dice che Alexis dice la verità. Sherrie dice che Elanor mente. Audrie dice che Sherrie dice la verità. Inga dice che Audrie dice la verità. Inga dice la verità?,No
+Domanda: Fidel dice la verità. Teressa dice che Fidel dice la verità. Willian dice che Teressa dice la verità. Conception dice che Willian dice la verità. Bernita dice che Conception mente. Bernita dice la verità?,No
+Domanda: Jerry dice la verità. Lorine dice che Jerry mente. Shenna dice che Lorine mente. Gwenn dice che Shenna mente. Shaunda dice che Gwenn mente. Shaunda dice la verità?,Yes
+Domanda: Inga mente. Audrie dice che Inga mente. Rashida dice che Audrie mente. Willian dice che Rashida dice la verità. Amberly dice che Willian mente. Amberly dice la verità?,Yes
+Domanda: Ka dice la verità. Inga dice che Ka mente. Bernita dice che Inga mente. Osvaldo dice che Bernita dice la verità. Michaela dice che Osvaldo mente. Michaela dice la verità?,No
+Domanda: Jaymie mente. Jamey dice che Jaymie dice la verità. Sal dice che Jamey mente. Amberly dice che Sal mente. Jerry dice che Amberly dice la verità. Jerry dice la verità?,No
+Domanda: Millie mente. Andree dice che Millie mente. Michaela dice che Andree mente. Leda dice che Michaela dice la verità. Shenna dice che Leda mente. Shenna dice la verità?,Yes
+Domanda: Shaunda dice la verità. Maybelle dice che Shaunda dice la verità. Lorine dice che Maybelle mente. Millie dice che Lorine dice la verità. Vina dice che Millie dice la verità. Vina dice la verità?,No
+Domanda: Fletcher mente. Tamika dice che Fletcher dice la verità. Ka dice che Tamika mente. Sima dice che Ka dice la verità. Ryan dice che Sima dice la verità. Ryan dice la verità?,Yes
+Domanda: Shaunda mente. Andree dice che Shaunda dice la verità. Jaymie dice che Andree mente. Inga dice che Jaymie mente. Millicent dice che Inga dice la verità. Millicent dice la verità?,No
+Domanda: Rashida mente. Fletcher dice che Rashida mente. Antwan dice che Fletcher mente. Willian dice che Antwan dice la verità. Vina dice che Willian dice la verità. Vina dice la verità?,No
+Domanda: Jerry mente. Kandi dice che Jerry mente. Fletcher dice che Kandi mente. Ryan dice che Fletcher mente. Delfina dice che Ryan mente. Delfina dice la verità?,No
+Domanda: Shaunda dice la verità. Phoebe dice che Shaunda dice la verità. Ryan dice che Phoebe dice la verità. Christie dice che Ryan dice la verità. Vina dice che Christie dice la verità. Vina dice la verità?,Yes
+Domanda: Alexis dice la verità. Amberly dice che Alexis dice la verità. Andree dice che Amberly dice la verità. Vina dice che Andree dice la verità. Helene dice che Vina dice la verità. Helene dice la verità?,Yes
+Domanda: Gwenn mente. Maybelle dice che Gwenn dice la verità. Raymond dice che Maybelle dice la verità. Jamey dice che Raymond dice la verità. Andree dice che Jamey mente. Andree dice la verità?,Yes
+Domanda: Kandi dice la verità. Ryan dice che Kandi mente. Michaela dice che Ryan dice la verità. Sima dice che Michaela mente. Andree dice che Sima dice la verità. Andree dice la verità?,Yes
+Domanda: Fletcher dice la verità. Alexis dice che Fletcher mente. Jerry dice che Alexis mente. Elanor dice che Jerry dice la verità. Jim dice che Elanor mente. Jim dice la verità?,No
+Domanda: Sherrie dice la verità. Ryan dice che Sherrie mente. Bernita dice che Ryan dice la verità. Tamika dice che Bernita mente. Jerry dice che Tamika mente. Jerry dice la verità?,No

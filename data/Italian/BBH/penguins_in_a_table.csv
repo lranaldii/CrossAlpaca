@@ -1,0 +1,1403 @@
+input,target
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il pinguino più vecchio?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il nome dell'ultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti animali hanno più di 5 anni?
+Opzioni:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più vecchio di Gwen?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata delle giraffe?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Come si chiama il pinguino alto 70 cm?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultima giraffa in ordine alfabetico?
+Opzioni:
+(A) Giody
+(B) Gladys
+(C) Mariano
+(D) Donna
+(E) Luisa",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini ci sono nel tavolo?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino ha il nome di un famoso jazzista?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quante giraffe hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno meno di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quante giraffe ci sono nei tavoli?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti animali sono elencati nella tabella?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 5 anni e pesano più di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quante giraffe hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini ci sono nel tavolo?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è l'altezza media dei pinguini?
+Opzioni:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(I) 80",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il pinguino più giovane?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno meno di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è il peso cumulato dei pinguini?
+Opzioni:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno più di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno più di 5 anni e pesano più di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è l'età di Bernardo?
+Opzioni:
+(A) 7
+(B) 5
+(C) 9
+(D) 8
+(E) 12",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno meno di 10 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Come si chiama l'ultimo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 5 anni e pesano più di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Come si chiama il pinguino alto 60 cm?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Come si chiama l'ultima giraffa?
+Opzioni:
+(A) Giody
+(B) Gladys
+(C) Mariano
+(D) Donna
+(E) Luisa",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultimo animale?
+Opzioni:
+(A) Bernardo
+(B) Donna
+(C) Gladys
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultima giraffa in ordine alfabetico?
+Opzioni:
+(A) Giody
+(B) Gladys
+(C) Mariano
+(D) Donna
+(E) Luisa",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Come si chiama l'ultimo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Come si chiama l'ultima giraffa?
+Opzioni:
+(A) Giody
+(B) Gladys
+(C) Mariano
+(D) Donna
+(E) Luisa",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quante specie sono elencate nella tabella?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti animali sono elencati nella tabella?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il pinguino più vecchio?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini ci sono nel tavolo?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quante giraffe ci sono nei tavoli?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Come si chiama il pinguino alto 0,6 m?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno meno di 8 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti animali sono elencati nella tabella?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti animali hanno più di 5 anni?
+Opzioni:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno più di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è il nome del primo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è la giraffa più vecchia?
+Opzioni:
+(A) Giody
+(B) Gladys
+(C) Mariano
+(D) Donna
+(E) Luisa",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti pinguini ci sono nei tavoli?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è l'età cumulata dei pinguini?
+Opzioni:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(I) 48",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino ha un nome gallese?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Come si chiama il pinguino alto 70 cm?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il pinguino più basso?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino ha meno di 7 anni?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Come si chiama il primo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Come si chiama l'ultimo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quante colonne ci sono nella tabella?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è l'altezza di Gwen?
+Opzioni:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(I) 90",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. qual è il numero della colonna con i nomi (1, 2, 3 o 4)?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Come si chiama il pinguino che ha 9 anni?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il peso di Louis?
+Opzioni:
+(A) 11
+(B) 13
+(C) 15
+(D) 12",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Come si chiama l'ultimo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è l'età cumulata dei pinguini?
+Opzioni:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(I) 48",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. qual è il numero della colonna con i pesi (1, 2, 3 o 4)?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno meno di 10 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata degli animali?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è l'altezza media dei pinguini?
+Opzioni:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(I) 80",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il nome del primo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno meno di 8 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il nome del penultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti animali sono elencati nella tabella?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più giovane di Vincent e più vecchio di Louis?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il secondo pinguino più giovane?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino ha il nome più corto?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quante specie sono elencate nelle tabelle?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti animali sono elencati nelle tabelle?
+Opzioni:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno meno di 8 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti animali sono elencati nelle tabelle?
+Opzioni:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è l'età cumulata dei pinguini?
+Opzioni:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(I) 48",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultimo animale?
+Opzioni:
+(A) Bernardo
+(B) Donna
+(C) Gladys
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il nome del primo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il peso cumulato dei pinguini?
+Opzioni:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 5 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata dei pinguini e delle giraffe?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Come si chiama il pinguino alto 60 cm?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Come si chiama l'ultimo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultimo animale in ordine alfabetico?
+Opzioni:
+(A) Giody
+(B) Luigi
+(C) Luisa
+(D) Mariano
+(E) Vincenzo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino ha due anni meno di Vincent?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno meno di 10 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno meno di 8 anni e pesano più di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Come si chiama l'ultimo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il nome dell'ultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini ci sono nel tavolo?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata dei pinguini?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il secondo pinguino più pesante?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il pinguino più vecchio?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Come si chiama il pinguino alto 60 cm?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno più di 5 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è l'altezza minima?
+Opzioni:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(I) 90",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il peso cumulato dei pinguini?
+Opzioni:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il pinguino più alto?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quante specie sono elencate nelle tabelle?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino condivide il nome con un famoso pittore?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il pinguino più vecchio?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno più di 5 anni e pesano più di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno più di 5 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più vecchio degli altri?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è l'altezza media dei pinguini?
+Opzioni:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(I) 80",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più alto degli altri?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è l'altezza minima?
+Opzioni:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(I) 90",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultimo animale in ordine alfabetico?
+Opzioni:
+(A) Giody
+(B) Luigi
+(C) Luisa
+(D) Mariano
+(E) Vincenzo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti pinguini hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Come si chiama il secondo pinguino?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più giovane di Louis?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti pinguini hanno più di 5 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quanti pinguini hanno meno di 8 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è il pinguino più vecchio?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno meno di 8 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più vecchio di Bernard e più giovane di Gwen?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata dei pinguini?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è il nome dell'ultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quali animali sono elencati nella tabella?
+Opzioni:
+(A) orsi
+(B) coccodrilli
+(C) elefanti
+(D) giraffe
+(E) pinguini",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è la giraffa più vecchia?
+Opzioni:
+(A) Giody
+(B) Gladys
+(C) Mariano
+(D) Donna
+(E) Luisa",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno più di 5 anni e pesano meno di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quanti pinguini hanno meno di 8 anni e pesano più di 12 kg?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è il nome dell'ultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è il pinguino più alto?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Quanti pinguini hanno meno di 10 anni?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il peso cumulato dei pinguini?
+Opzioni:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata delle giraffe?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Qual è l'età cumulata degli animali?
+Opzioni:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(I) 67",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è l'altezza massima?
+Opzioni:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(I) 90",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è il pinguino più basso?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(A)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino ha un anno meno di Vincent?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il pinguino più vecchio?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il pinguino più pesante?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quindi eliminiamo dalla tabella il pinguino di nome Bernard.
+Qual è l'età cumulata dei pinguini?
+Opzioni:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(I) 48",(C)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è più giovane ma più alto di Gwen?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Ed ecco una tabella simile, ma che elenca le giraffe:
+nome, età, altezza (cm), peso (kg)
+Giody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Donna, 9, 440, 650
+Quanti pinguini ci sono nei tavoli?
+Opzioni:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Qual è il nome del primo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(B)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Quale pinguino è una femmina?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(D)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Quale pinguino è più alto degli altri?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(E)
+"Ecco una tabella in cui la prima riga è un'intestazione e ogni riga successiva è un pinguino: nome, età, altezza (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Ad esempio: l'età di Louis è 7, il peso di Gwen è 15 kg, l'altezza di Bernard è 80 cm. Ora aggiungiamo un pinguino alla tabella:
+Giacomo, 12, 90, 12
+Qual è il nome dell'ultimo pinguino in ordine alfabetico?
+Opzioni:
+(A) Luigi
+(B) Bernardo
+(C) Vincenzo
+(D) Gwen
+(E) Giacomo",(C)

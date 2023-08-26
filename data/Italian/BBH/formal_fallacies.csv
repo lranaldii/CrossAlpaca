@@ -1,0 +1,1251 @@
+input,target
+"""Ecco un argomento perfettamente valido: prima di tutto, chi è compagno di scuola di Sondra non è sorellastra di Pricilla. Di conseguenza, chi non è sorellastra di Pricilla è compagno di scuola di Sondra.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, essere cugino di Chris è sufficiente per non essere figlio di Kermit. Possiamo concludere che chiunque non sia figlio di Kermit è cugino di Chris.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: in primo luogo, la vitamina A è un ingrediente di LIQUID EYELINER. In secondo luogo, ogni ingrediente di BC Eye Cream 15 ml non è un ingrediente di Mango Lip Butter o non è un ingrediente di LIQUID EYELINER. Pertanto, la vitamina A non è un ingrediente di BC Eye Cream 15 ml.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: in primo luogo, nessun devoto dell'FK Partizan è un esperto del Southampton FC. In secondo luogo, nessun critico dell'FC Spartak Moskva è un esperto del Southampton FC. Qarabağ FK è un esperto del Southampton FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi precisamente? Il seguente argomento riguarda questa domanda: Prima premessa: essere un esperto dell'Aberdeen FC è sufficiente per non essere un seguace del Club Atlético de Madrid. maar.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima premessa: nessun figlio di Alexander che è un antenato di Ahmed è un bisnonno di Ronny. Ne consegue che nessun bisnonno di Ronny è un antenato di Ahmed o un figlio di Alexander.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: ogni ingrediente di Sahara Saphire è sia un ingrediente di Pink Lotion Soap che un ingrediente di Brushless Mascara. La cocamide è un ingrediente di Pink Lotion Soap. Pertanto, Cocamide è un ingrediente di Sahara Saphire"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: essere un ingrediente di Peach Paint è sufficiente per essere un ingrediente di AUTOGRAPH EYELINER. Ogni ingrediente di AUTOGRAPH EYELINER è un ingrediente di Brow Filler Blonde o un ingrediente di Calming Shampoo. Da questo segue: Ogni ingrediente di Peach Paint è un ingrediente di Calming Shampoo o un ingrediente di Brow Filler Blonde.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: prima di tutto, non essere un avversario dell'FC Utrecht è sufficiente per non essere un ammiratore del St Johnstone FC. Tutto ciò implica che chiunque sia un ammiratore del St Johnstone FC sia anche un avversario dell'FC Utrecht"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: per cominciare, chiunque sia nipote di Dominic è anche un compagno di lavoro di James. Inoltre, chiunque non sia né un figlio di Cody né un figlio di Ivan è un nipote di Dominic. Possiamo concludere: chiunque non sia niente di tutto questo: un figlio di Cody o figlio di Ivan, è un compagno di lavoro di James"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. La seguente argomentazione cerca di chiarire alcune di queste relazioni: prima di tutto, nessun membro della Juventus è un esperto del Getafe CF. Poi, qualcuno è un seguace del West Ham United FC e un esperto del Getafe CF. Quindi, necessariamente, non tutti i seguaci del West Ham United FC sono membri della Juventus"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un'argomentazione perfettamente valida: in primo luogo, essere un raro consumatore di sapone Nubian Heritage è necessario per essere proprietario di un sapone Lever. In secondo luogo, essere un raro utilizzatore di shampoo American Crew è sufficiente per essere un raro consumatore di sapone Nubian Heritage. Di conseguenza, ogni utilizzatore occasionale di shampoo American Crew è proprietario di un sapone Lever"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: ogni ingrediente di SILKY EYE PENCIL 13 è un ingrediente di Eye Restore o un ingrediente di 03 Bronzing Powder. Nessun ingrediente di SILKY EYE PENCIL 13 è un ingrediente di 03 Bronzing Powder. Possiamo concludere: essere un ingrediente di SILKY EYE PENCIL 13 è sufficiente per essere un ingrediente di Eye Restore"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, essere un antenato di Jonathan è sufficiente per non essere un nipote di Carmelo. In secondo luogo, chiunque sia un antenato di Jonathan non è un compagno di scuola di Reyes. In terzo luogo, ogni nipote di Carmelo che è un compagno di scuola di Reyes è anche un caro amico di Clifford. Possiamo concludere: essere un antenato di Jonathan è sufficiente per essere un caro amico di Clifford"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: in primo luogo, ogni avversario dell'FC Mariupol è un ex tifoso dell'Hertha BSC Berlin o un ex tifoso del Bayer 04 Leverkusen. In secondo luogo, ogni tifoso dell'FC Utrecht non è un ex tifoso dell'Hertha BSC Berlin o non è un ex tifoso del Bayer 04 Leverkusen. Quindi, necessariamente, essere un avversario dell'FC Mariupol è sufficiente per non essere un tifoso dell'FC Utrecht"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: prima di tutto, un sostenitore del BSC Young Boys è un critico del Trabzonspor AŞ ed un esperto del Bayer 04 Leverkusen. Inoltre, essere un ex tifoso dell'NK Maribor è sufficiente per essere un critico del Trabzonspor AŞ. Inoltre, essere un esperto del Bayer 04 Leverkusen è necessario per essere un ex -fan dell'NK Maribor. Quindi, necessariamente, c'è qualcuno che è un sostenitore del BSC Young Boys e un ex fan dell'NK Maribor"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, chiunque sia un esperto del BSC Young Boys non è un ex tifoso del Real Betis Balompié. Ora, chiunque sia un amico dell'FC Dynamo Kyiv non è un esperto del BSC Young Boys. Quindi, nessun amico dell'FC Dynamo Kyiv è un ex tifoso del Real Betis Balompié"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un'argomentazione perfettamente valida: prima premessa: chiunque sia un devoto del Legia Warszawa è anche un seguace dell'FK Kukësi. Seconda premessa: nessun seguace dell'FK Kukësi è amico dell'Olympique de Marseille. Pertanto, chiunque sia un devoto del Legia Warszawa non è un amico dell'Olympique de Marseille"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, essere un ingrediente di Hope Moisture Mask è sufficiente per essere un ingrediente di Miracle Concealer. In secondo luogo, niente è né un ingrediente di All Day Body Wash né un ingrediente di Hope Moisture Mask. Possiamo concludere: essere un ingrediente di All Day Body Wash è sufficiente per non essere un ingrediente di Miracle Concealer"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: prima di tutto, chiunque sia un caro amico di Glenna è anche un caro amico di Tamara. Poi, chi non è né una sorellastra di Deborah né un compagno di lavoro di Nila è un caro amico di Glenna. Quindi, chiunque non sia niente di tutto questo: una sorellastra di Deborah o un compagno di lavoro di Nila, è un caro amico di Tamara.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: ogni tifoso del Tottenham Hotspur non è un esperto del Trabzonspor AŞ e non è un sostenitore dell'US Sassuolo Calcio. un devoto dell'FC Zenit. Di conseguenza, chiunque non sia un esperto del Trabzonspor AŞ e un sostenitore dell'US Sassuolo Calcio è un devoto dell'FC Zenit"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: primo, Cecil è un compagno di scuola di Tyler. Secondo, nessuno è né un compagno di scuola di Tyler né un nipote di Owen. Quindi, necessariamente, Cecil non è un nipote di Owen"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: prima di tutto, uno zio di Dominic è un compagno di scuola di Earl. Poi, tutti coloro che sono sia zio di Reyes che zio di Corey non sono compagni di scuola di Earl. Tutto ciò implica che uno zio di Dominic non è uno zio di Reyes o non uno zio di Corey"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: Prima premessa: Tutto ciò che non è un ingrediente di Shimmer Veil è un ingrediente di Snowcastle. Seconda premessa: Ogni ingrediente di Liquid Eye liner non è un ingrediente di Love Boat o non è un ingrediente di Shimmer Veil. Terza premessa: Essere un ingrediente di Snowcastle è necessario per non essere un ingrediente di Love Boat. Possiamo concludere che tutto ciò che è un ingrediente di Liquid Eye liner è anche un ingrediente di Snowcastle .""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utilizzatori di alcuni prodotti tendano a consumarne anche altri o meno. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: per cominciare, nessuno è né un consumatore assiduo di sapone Bath & Body Works né un acquirente occasionale di sapone Clearly Natural. Inoltre, nessuno è né un consumatore raro di shampoo Nioxin né un acquirente occasionale di sapone Clearly Natural. l'acquirente occasionale del sapone Clearly Natural è necessario per essere un acquirente occasionale del sapone di Kirk.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Prima premessa: Nessuno è né un compagno di lavoro di Calvin né un compagno di scuola di Barton. Possiamo concludere: essere un compagno di lavoro di Calvin è necessario per non essere un compagno di scuola di Barton.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, Jose è un ammiratore dell'AEK Athens FC. Inoltre, ogni ammiratore dell'AEK Athens FC è un esperto del Feyenoord. Tutto ciò implica che Jose è un esperto del Feyenoord"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: ogni compagno di scuola di Jeffery è nipote di Todd. Chiunque sia compagno di scuola di Jeffery è almeno uno di questi: un nipote di Todd, un fratello di Kenneth o uno zio di Lavern. Ogni compagno di scuola di Jeffery è uno zio di Lavern. Possiamo concludere: chiunque sia un compagno di scuola di Jeffery è anche un fratello di Kenneth"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: per cominciare, essere un ingrediente di Aquablush è sufficiente per essere un ingrediente di NARS Duo Eyeshadow. Inoltre, qualunque cosa non sia né un ingrediente di Stop and Stare né un ingrediente di A.D LIPSTICK CHIC è un ingrediente di Lash Tinsel Mascara o un ingrediente di Aquablush. Infine, tutto ciò che è un ingrediente di Lash Tinsel Mascara è un ingrediente di NARS Duo Anche l'ombretto. Pertanto, qualunque cosa non sia un ingrediente di NARS Duo Eyeshadow è comunque un ingrediente di Stop and Stare o un ingrediente di A.D LIPSTICK CHIC.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, chiunque sia un fedele acquirente del sapone Bentley Organic non è un utente abituale del sapone Paul Mitchell. Ora, chiunque sia il proprietario di un sapone Lush e un utente occasionale del sapone Proactiv non è un fedele acquirente del sapone Bentley Organic. Possiamo concludere: ogni proprietario di un sapone Lush che è un utente occasionale del sapone Proactiv è anche un utente regolare del sapone Paul Mitchell"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, ogni avversario dell'FC Dnipro è un avversario del West Ham United FC o un esperto di SCR Altach. Ora, essere un sostenitore del Chelsea FC è necessario per non essere un esperto di SCR Altach. Inoltre, nessuno è né un avversario del West Ham United FC né un sostenitore del Chelsea FC. Tutto ciò implica che essere un sostenitore del Chelsea FC è necessario per essere un avversario dell'FC Dnipro"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, nessun fratellastro di Bryan è sia nipote di Wilburn che figlio di Howard. Ora, chiunque non sia figlio di Howard è figlio di Adrian. Inoltre, nessuno è né nipote di Wilburn né figlio di Adrian. Quindi, chiunque sia fratellastro di Bryan è anche figlio di Adrian"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: in primo luogo, chiunque sia sia un avversario della Real Sociedad de Fútbol sia un ex tifoso del Beşiktaş JK è anche un seguace del Liverpool FC. In secondo luogo, essere un ammiratore dell'HŠK Zrinjski è sufficiente per non essere un avversario della Real Sociedad de Fútbol. Terzo, chiunque sia un ammiratore dell'HŠK Zrinjski non è un ex tifoso del Beşiktaş JK. Di conseguenza, ogni ammiratore dell'HŠK Zrinjski è un tifoso del Liverpool FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, qualsiasi ingrediente di Vertica Rush e un ingrediente di Liqua Versa Gel non è un ingrediente di Eyeshadow Quad. Ne consegue che ogni ingrediente di Eyeshadow Quad non è un ingrediente di Liqua Versa Gel o non è un ingrediente di Vertica Rush.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, se qualcuno non è un tifoso del Feyenoord, allora quella persona non è un tifoso dell'FC Augsburg o non è un tifoso dell'AS Monaco FC. Inoltre, essere un tifoso dell'AS Monaco FC è necessario per non essere un membro dell'AC Milan. un membro dell'AC Milan né un tifoso del Feyenoord"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. Il seguente argomento riguarda questa domanda: Prima premessa: essere un compagno di lavoro di Monte è necessario per non essere un antenato di Patrick. Seconda premessa: non essere un antenato di Nathan è sufficiente per non essere un compagno di lavoro di Monte. Ne consegue che essere un antenato di Nathan è necessario per non essere un antenato di Patrick.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: in primo luogo, chiunque non sia un consumatore raro di sapone Lever è un utente raro di shampoo TRESemmé. In secondo luogo, esiste un utente raro di shampoo TRESemmé che non è un acquirente occasionale del sapone Paul Mitchell o non è un acquirente occasionale del sapone Zest. Di conseguenza, qualche raro consumatore di sapone Lever non è sia un acquirente occasionale del sapone Paul Mitchell che un acquirente occasionale del sapone Zest"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. La seguente argomentazione riguarda questa domanda: primo, chiunque sia zio di Owen non è nipote di Gene. Secondo, chiunque sia sia nipote di Ignacio che fratello di David è compagno di scuola di Steve o zio di Owen. uff di Gene.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: in primo luogo, essere un antenato di Christy è necessario per essere una figlia di Denise. In secondo luogo, non essere un cugino di Maryann è sufficiente per non essere un antenato di Christy. Possiamo concludere che chiunque non sia una figlia di Denise è un cugino di Maryann.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomento seguente cerca di chiarire alcuni di questi rapporti: Prima premessa: essere nipote di Henry è necessario per essere fratello di Edward. Seconda premessa: un antenato di Carlos è un compagno di lavoro di Efrain e nipote di Henry. Carlos e un fratello di Edward.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? Il seguente argomento riguarda questa domanda: per cominciare, ogni critico dell'FC Ufa è un sostenitore dell'İstanbul Başakşehir. Ora, ogni critico dell'FC Ufa è un sostenitore dell'İstanbul Başakşehir o un critico del PFC CSKA Moskva o un esperto del Randers FC. Pertanto, ogni critico dell'FC Ufa è un critico di PFC CSKA Moskva o un esperto di Randers FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: per cominciare, chiunque sia compagno di scuola di Mildred è anche figlia di Jeanette. Ora, essere figlia di Jeanette è sufficiente per non essere cugino di Cristi. Pertanto, nessun compagno di scuola di Mildred è cugino di Cristi"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: Prima premessa: ogni ingrediente di Moisturizing Bar non è né un ingrediente di 31 EYE COLOR né un ingrediente di VITAMIN E BB CREAM. Quindi, necessariamente, qualunque cosa non sia niente di tutto questo: un ingrediente di VITAMIN E BB CREAM o un ingrediente di 31 EYE COLOUR, è un ingrediente di Moisturizing Bar.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: nessun membro dell'ŠK Slovan Bratislava è un seguace dell'OGC Nice. tee del Royal Antwerp FC o un sostenitore dell'FC Zenit o un sostenitore dell'OGC Nice. Pertanto, essere un sostenitore dell'FC Zenit è necessario per essere un membro dell'ŠK Slovan Bratislava"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, qualunque cosa sia un ingrediente di Immense Mascara e un ingrediente di I Adore You è un ingrediente di Crawford's Wine o un ingrediente di Bioglitz Color 9N. Inoltre, essere un ingrediente di lip2cheek è necessario per essere un ingrediente di Bioglitz Color 9N. un ingrediente di I Adore You è anche un ingrediente di lip2cheek"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: Prima premessa: non essere un amico intimo di Williams è sufficiente per non essere un nipote di Rolando. Tutto ciò comporta che ogni nipote di Rolando sia un amico intimo di Williams"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, nessuna sorellastra di Nelda è un'amica intima di Terrie o una cugina di Amanda. Ora, è falso che Gretchen sia un'amica intima di Terrie. Inoltre, è falso che Gretchen sia una cugina di Amanda. Possiamo concludere: non è vero che Gretchen è una sorellastra di Nelda.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: prima di tutto, ogni amico intimo di Myra non è né un cugino di Sue né una figlia di Tommy. Possiamo concludere che nessun cugino di Sue e nessuna figlia di Tommy è un amico intimo di Myra.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, Carmen è una figlia di Hattie. Inoltre, essere una nipote di Shona è sufficiente per non essere una figlia di Hattie. Da ciò segue: Carmen non è una nipote di Shona.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, nessun ex tifoso del Getafe CF è un critico del Kilmarnock FC. In secondo luogo, chiunque sia amico dell'R. Charleroi SC è anche un critico del Kilmarnock FC. Pertanto, chiunque non sia amico dell'R. Charleroi SC è un ex tifoso del Getafe CF"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, ogni zia di Rosa che è sorella di Amanda è anche una bisnonna di Hellen. Ora, non è vero che Amy è una zia di Rosa. Inoltre, Amy è una sorella di Amanda. Quindi, Amy non è una bisnonna di Hellen.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: è falso che Colleen sia un'antenata di Cheryle. Chiunque sia una sorellastra di Esther non è un antenato di Cheryle. Ne consegue che è falso che Colleen sia una sorellastra di Esther.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Prima premessa: chi è un acquirente occasionale di shampoo Suave non è un utilizzatore abituale di sapone Ivory. Possiamo concludere che essere un utente abituale di sapone Ivory è sufficiente per non essere un acquirente occasionale di shampoo Suave.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Tanto per cominciare, nessuna bisnonna di Doreen è una sorellastra di Kathy. Inoltre, ogni bisnonna di Doreen è una compagna di lavoro di Inocencia o un'antenata di Wanda o una sorellastra di Kathy. Infine, essere una bisnonna di Dore en è sufficiente per non essere una compagna di lavoro di Inocencia. Quindi, necessariamente, ogni bisnonna di Doreen è un'antenata di Wanda.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: per cominciare, non è vero che Homer è un compagno di classe di Frank. Ora, essere un compagno di classe di Edward è necessario per essere un compagno di classe di Frank. Quindi, necessariamente, non è vero che Homer è un compagno di classe di Edward"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: prima di tutto, essere un consumatore abituale di shampoo KMS è necessario per essere un consumatore abituale del sapone Yardley London. Successivamente, chiunque sia un utente abituale dello shampoo Joico non è un consumatore assiduo dello shampoo KMS. Tutto ciò implica che nessun consumatore abituale del sapone Yardley London è un utente abituale dello shampoo Joico"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un'argomentazione perfettamente valida: primo, chiunque sia fratellastro di Ronny o compagno di classe di Sal non è figlio di Ronald. Secondo, è falso che Santo sia figlio di Ronald. Quindi, necessariamente, Santo è fratellastro di Ronny o compagno di classe di Sal"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, essere un ingrediente di Eye Definer Twig è necessario per essere un ingrediente di FACIAL SCRUB. Ora, non essere un ingrediente di NARS Pressed Powder è sufficiente per non essere un ingrediente di Eye Definer Twig. Pertanto, essere un ingrediente di NARS Pressed Powder è necessario per essere un ingrediente di FACIAL SCRUB.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: Prima premessa: ogni avversario dell'AS Roma è un sostenitore dell'Hertha BSC Berlino o un tifoso dell'AC Sparta Praha o non è un tifoso dell'FCSB. Seconda premessa: nessun tifoso dell'FCSB è un esperto dell'FK Sūduva. Terza premessa: ogni tifoso dell'AC Sparta Praha ha è un esperto dell'FK Sūduva. Quarta premessa: essere un esperto dell'FK Sūduva è necessario per essere un sostenitore dell'Hertha BSC Berlino. Quindi, essere un esperto dell'FK Sūduva è necessario per essere un avversario dell'AS Roma"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, ogni fedele acquirente del sapone Tocca è un acquirente occasionale del sapone Bentley Organic. Successivamente, essere un fedele acquirente del sapone Tocca è sufficiente per essere un consumatore abituale dello shampoo L'Oreal. Inoltre, un utente abituale del sapone Lever non è un acquirente occasionale del sapone Bentley Organic o non un consumatore frequente dello shampoo L'Oreal. Possiamo concludere che non tutti gli utenti regolari del sapone Lever sono un fedele acquirente del sapone Tocca"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: in primo luogo, ogni esperto del PFC Ludogorets 1945 è un ex tifoso del KF Skënderbeu. In secondo luogo, ogni esperto del PFC Ludogorets 1945 è un avversario dell'OGC Nice. tifoso del Burnley FC è un esperto del PFC Ludogorets 1945"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: ogni zio di Harvey non è un antenato di Adrian e non un nipote di Ward. Di conseguenza, nessun nipote di Ward e nessun antenato di Adrian è zio di Harvey.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri o meno. La seguente argomentazione cerca di chiarire alcune di queste relazioni: per cominciare, un consumatore abituale di shampoo AX non è un acquirente occasionale di shampoo Sexy Hair. Inoltre, chiunque utilizzi regolarmente il sapone Nubian Heritage è anche un acquirente occasionale di shampoo Sexy Hair. Da ciò segue: qualcuno è un consumatore abituale di shampoo AX e non un utente abituale del sapone Nubian Heritage"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utilizzatori di alcuni prodotti tendano a consumarne anche altri, oppure no. La seguente argomentazione cerca di chiarire alcune di queste relazioni: in primo luogo, Nick è un consumatore assiduo del sapone Colgate-Palmolive. In secondo luogo, essere un consumatore assiduo del sapone Burt's Bees o non essere un consumatore assiduo del sapone Colgate-Palmolive è sufficiente per essere un acquirente occasionale dello shampoo Redken. Tutto ciò implica che Nick non è un acquirente occasionale dello shampoo Redken"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni tifoso dell'FC Lugano non è né un devoto del PFC CSKA Moskva né un ex tifoso dell'SV Zulte Waregem. Possiamo concludere: chiunque non sia niente di tutto questo: un devoto del PFC CSKA Moskva o un ex tifoso dell'SV Zulte Waregem, è un tifoso dell'FC Lugano"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: Prima premessa: non è il caso che l'ossido di propilene sia un ingrediente di Nobility. Seconda premessa: è falso che l'ossido di propilene sia un ingrediente di Cover Pink, Core. Terza premessa: ogni ingrediente di Charged Up Cherry non è né un ingrediente di Cover Pink, Core né un ingrediente di Nobility. Ne consegue che l'ossido di propilene non è un ingrediente di Charged Up Cherry"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: in primo luogo, non è vero che l'estratto di chicchi di caffè è un ingrediente di Go 365 Shampoo.
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: per cominciare, nessuno è né un antenato di Alvin né un compagno di lavoro di Tony. Inoltre, chiunque sia un compagno di scuola di Keith non è un antenato di Alvin. Pertanto, chiunque sia un compagno di scuola di Keith è anche un compagno di lavoro di Tony.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: ogni esperto dell'AS Saint-Étienne è un ammiratore dell'FC Krasnodar. Ogni ex tifoso dell'FC Sion non è un esperto dell'AS Saint-Étienne o non è un ex tifoso dell'Osmanlıspor. Essere un ammiratore dell'FC Krasnodar è necessario per essere un ex tifoso dell'Osmanlıspor. Possiamo concludere: Essere un ex tifoso dell'Osmanlıspor L'FC Sion è sufficiente per essere un ammiratore dell'FC Krasnodar"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: essere un fratellastro di Benjamin è necessario per essere un nipote di Alan. Ogni fratellastro di Melvin è un fratellastro di Benjamin. Domenico"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: Prima premessa: Terry è nipote di Ward. Seconda premessa: ogni nipote di Paul è zio di Earl e nipote di Ward. Possiamo concludere che Terry è nipote di Paul"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: William è un devoto del Milan. Ogni devoto del Milan e ogni esperto di Yeni Malatyaspor è un ex tifoso del Fenerbahçe SK. Di conseguenza, William è un ex tifoso del Fenerbahçe SK"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomento seguente cerca di chiarire alcuni di questi rapporti: per cominciare, essere un cugino di Lawrence è sufficiente per essere un compagno di scuola di Kenneth. Inoltre, qualcuno è un caro amico di Philip e non un compagno di scuola di Kenneth. Tutto ciò implica che non tutti gli amici intimi di Philip sono cugini di Lawrence"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: prima di tutto, essere un ex tifoso del Villarreal CF è necessario per essere un membro dell'SK Rapid Wien. Poi, qualche tifoso dell'Östersunds FK non è un ex tifoso del Villarreal CF. Ne consegue che qualcuno è un tifoso dell'Östersunds FK e non un membro dell'SK Rapid Wien"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: ogni ingrediente di Hawaiian Punch non è un ingrediente di Ice Queen Nobody?
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, se qualcosa non è un ingrediente di Skin Tint FX, allora quella cosa non è un ingrediente di NYC Nail Glossies o non è un ingrediente di Eyebrow Kit. Ora, essere un ingrediente di Eyebrow Kit è necessario per non essere un ingrediente di EYE SHADOW No 101. Inoltre, qualunque cosa non sia un ingrediente di EYE SHADOW No 101 è un ingrediente di NYC Nail Glossies. Quindi, necessariamente, niente è nemmeno un ingrediente di EYE SHADO W No 101 né un ingrediente di Skin Tint FX.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: Prima premessa: Chi non è un consumatore abituale di shampoo Pantene non è un consumatore raro di sapone del Sud della Francia o un consumatore raro del sapone Kiss My Face. Seconda premessa: Essere un consumatore raro di sapone del Sud della Francia è necessario per non essere un consumatore assiduo del sapone Proactiv. di sapone Proactiv è un consumatore abituale di shampoo Pantene.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomento seguente cerca di chiarire alcune di queste relazioni: per cominciare, Darwin è un nipote di Dewayne. Ora, chiunque non sia fratellastro di Alvin e nipote di Dewayne è un antenato di Leslie. Ne consegue che è falso che Darwin sia un antenato di Leslie"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: chi non è cugino di Andres è un compagno di lavoro di Isaac. Nessuno è né nipote di Reyes né compagno di lavoro di Isaac. Nessun fratellastro di Phillip è sia nipote di Reyes che cugino di Andres. Pertanto, essere un compagno di lavoro di Isaac è necessario per essere fratellastro di Phillip.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri, oppure no. La seguente argomentazione cerca di chiarire alcune di queste relazioni: Prima premessa: Oliver non è un utente abituale dello shampoo Organix Hair. Seconda premessa: Chiunque non sia sia un utente abituale dello shampoo Organix Hair sia un raro consumatore di sapone Purpose è comunque un acquirente fedele del sapone Kiss My Face. Possiamo concludere che Oliver è un acquirente fedele del sapone Kiss My Face"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomento seguente cerca di chiarire alcune di queste relazioni: Chi non è un compagno di lavoro di Hilda è una sorellastra di Heather. Ogni compagno di lavoro di Hilda è o una sorellastra di Heather o una zia di Clara, o entrambi. Possiamo concludere: essere una zia di Clara è necessario per essere un compagno di lavoro di Hilda.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: per cominciare, ogni ex tifoso dell'FC Bayern München è un seguace dei Rangers FC. Inoltre, essere un seguace dei Rangers FC è necessario per essere amico dello Sporting Clube de Portugal. Infine, chiunque non sia né un membro dell'FC Mariupol né un esperto dello Stade Re nnais FC è un ex tifoso dell'FC Bayern München o un amico dello Sporting Clube de Portugal. Quindi, necessariamente, non essere un seguace dei Rangers FC è sufficiente per essere un membro dell'FC Mariupol o non essere un esperto dello Stade Rennais FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Prima premessa: chi è bisnonna di Dawn e sorella di Nancy non è bisnonna di Jaime. Possiamo concludere che chiunque non sia bisnonna di Jaime è comunque bisnonna di Dawn e sorella di Nancy"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: in primo luogo, Jonathan è un consumatore abituale di sapone all'eucalipto. In secondo luogo, essere proprietario di un sapone Lever o non essere un consumatore abituale del sapone all'eucalipto è sufficiente per essere un consumatore abituale dello shampoo Herbal Essences. Possiamo concludere che Jonathan non è un consumatore frequente dello shampoo Herbal Essences"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. L'argomento seguente cerca di chiarire alcune di queste relazioni: per cominciare, non essere un ingrediente di Pink Smoothie è sufficiente per non essere un ingrediente di A.D LIPSTICK CHIC. Ora, tutto ciò che è un ingrediente di ILLUMINIZING POWDER è anche un ingrediente di A.D LIPSTICK CHIC. Tutto ciò implica che ogni ingrediente di ILLUMINIZING LA POLVERE è un ingrediente di Pink Smoothie.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è legato a chi - e in questi modi. La seguente argomentazione riguarda questa domanda: per cominciare, tutti coloro che non sono né un cugino di Valerie né un compagno di classe di Mitzi è un caro amico di Kathryn o un compagno di lavoro. Mate of Mitzi, è un compagno di lavoro di Anita. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri o meno. L'argomento seguente cerca di chiarire alcune di queste relazioni: per cominciare, ogni raro consumatore di sapone Pre De Provence è un consumatore frequente di shampoo Sexy Hair. Ora, essere un raro consumatore di sapone Camay è necessario per essere un raro consumatore di sapone Pre De Provence. nt utilizzatore di shampoo Organix Hair e non raro consumatore di sapone Pre De Provence.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: prima di tutto, ogni proprietario di uno shampoo Finesse è un consumatore abituale di shampoo TIGI o un acquirente fedele del sapone Paul Mitchell, o entrambi. Successivamente, ogni raro consumatore di shampoo Alterna Haircare non è un consumatore abituale di shampoo TIGI o non è un acquirente fedele del sapone Paul Mitchell. Possiamo concludere: chiunque sia proprietario di uno shampoo Finesse non è un consumatore raro di shampoo Alterna Haircare"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. La seguente argomentazione riguarda questa domanda: in primo luogo, una compagna di classe di Sherry non è sia sorellastra di Peggy che bisnonna di Sophie. In secondo luogo, essere una compagna di scuola di Leonor è sufficiente per essere una sorellastra di Peggy. compagna di Leonor.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, Justin non è uno zio di Roberto o non è un compagno di lavoro di Glenn. Ora, ogni bisnonno di Reyes è uno zio di Roberto e un compagno di lavoro di Glenn. Possiamo concludere: non è vero che Justin è un bisnonno di Reyes"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, essere un ingrediente di Lacquer Aquadelic è necessario per essere un ingrediente di Fashion Week Chic. Inoltre, nessun ingrediente di Most Wanted che sia un ingrediente di Juicy Kitten è un ingrediente di Lacquer Aquadelic. Da questo segue: Qualunque cosa non sia né un ingrediente di Juicy Kitten né un ingrediente di Most Wanted è un ingrediente di Fashion Week Chic"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: Prima premessa: Oliver non è un avversario dell'FC Vaduz. Seconda premessa: Oliver non è un tifoso dell'FC Viitorul. Terza premessa: Ogni tifoso dell'SK Rapid Vienna non è né un tifoso dell'FC Viitorul né un avversario dell'FC Vaduz. Tutto ciò implica che è falso che Oliver sia un tifoso dell'SK Rapid Wien"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Prima premessa: nessuno è né un acquirente occasionale del sapone Yardley London né un acquirente occasionale del sapone Paul Mitchell. Seconda premessa: nessun proprietario di uno shampoo Aveeno che è un utente occasionale del sapone Zest è un acquirente occasionale del sapone Paul Mitchell. Quindi, necessariamente, chiunque sia proprietario di uno shampoo Aveeno e un utente occasionale del sapone Zest è anche un acquirente occasionale del sapone Yardley London.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: prima premessa: essere un amico del Kilmarnock FC è sufficiente per non essere un ammiratore del New Saints FC. Seconda premessa: è falso che Maximo sia un ammiratore del New Saints FC. Possiamo concludere che è falso che Maximo sia un amico del Kilmarnock FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: prima di tutto, ogni consumatore raro di shampoo KMS che possiede uno shampoo Aveeno è un consumatore raro di sapone Colgate-Palmolive o un utilizzatore abituale di shampoo Sunsilk. Inoltre, nessun consumatore raro di sapone Colgate-Palmolive è sia un consumatore raro di shampoo KMS che proprietario di uno shampoo Aveeno. Pertanto, ogni consumatore raro di shampoo KMS che possiede uno shampoo Aveeno è anche un consumatore abituale utilizzatore dello shampoo Sunsilk.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: per cominciare, essere un'amica intima di Catherine è necessario per non essere una compagna di classe di Leslie. Ora, essere una nipote di Courtney è necessario per non essere una compagna di classe di Leslie. mai non è un compagno di classe di Leslie è un compagno di classe di Mary.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, essere un ingrediente di Gorgeous è necessario per non essere un ingrediente di Baked Eyeshadow. Successivamente, qualcosa non è un ingrediente di Gorgeous e, inoltre, non è un ingrediente di Coverage Duo o non è un ingrediente di Deternined. Quindi, c'è qualcosa che è un ingrediente di Baked Eyeshadow e non sia un ingrediente di Coverage Duo che un ingrediente di Deternined"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utilizzatori di alcuni prodotti tendano a consumarne anche altri, oppure no. L'argomentazione che segue cerca di chiarire alcune di queste relazioni: Prima premessa: essere un consumatore abituale del sapone Kiss My Face è necessario per essere un utente abituale del sapone Nag Champa. Il consumatore del sapone della signora Meyer è un consumatore abituale del sapone Kiss My Face. Pertanto, chiunque sia un consumatore raro dello shampoo John Frieda non è un consumatore abituale del sapone Kiss My Face o un utente abituale dello shampoo René Furterer.
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, Andres è un membro del Paris Saint-Germain. In secondo luogo, è falso che Andres sia un seguace dell'FC Mariupol. Terzo, chiunque sia un seguace dell'FC Mariupol e un membro del Paris Saint-Germain è anche un devoto dell'FC Arouca. Pertanto, Andres non è un devoto dell'FC Arouca"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, chiunque sia un raro consumatore di shampoo Pantene e un acquirente occasionale di shampoo Herbal Essences è un consumatore frequente del sapone Tom's of Maine o un utente abituale del sapone Mysore. Ora, ogni consumatore frequente di sapone Tom's of Maine non è né un consumatore raro di shampoo Pantene né un acquirente occasionale di shampoo Herbal Essences. Possiamo concludere che chiunque non sia un consumatore raro di shampoo Pantene e un acquirente occasionale di shampoo Herbal Essences è comunque un utente normale del sapone di Mysore.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: per cominciare, essere proprietario di un sapone Nag Champa è sufficiente per essere un raro consumatore di shampoo KMS. Inoltre, ogni raro consumatore di shampoo KMS non è un fedele acquirente di shampoo Schwarzkopf o non è proprietario di un sapone Lush. Ne consegue che ogni proprietario di un sapone Nag Champa è proprietario di un sapone Lush e un fedele acquirente di shampoo Schwarzkopf"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: Prima premessa: qualche consumatore abituale del sapone Kiss My Face non è un utilizzatore occasionale dello shampoo AX. Seconda premessa: Essere un consumatore frequente del sapone Kiss My Face è necessario per essere un utente abituale dello shampoo Sexy Hair. Quindi, non tutti gli utilizzatori occasionali dello shampoo AX sono un utente abituale dello shampoo Sexy Hair.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. La seguente argomentazione riguarda questa domanda: prima di tutto, chiunque sia figlio di Andres è anche figlio di Bruce. Inoltre, Jeffrey non è figlio di Bruce. Di conseguenza, è falso che Jeffrey sia figlio di Andres"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. Il seguente argomento cerca di chiarire alcune di queste relazioni: prima di tutto, chi non è un compagno di classe di Shanika è una figlia di Candace. Pertanto, essere un compagno di classe di Shanika è necessario per non essere una figlia di Candace"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è legato a chi - e in questi modi. La seguente argomentazione riguarda questa domanda: prima di tutto, ogni fratellastro di Mathew è un antenato di Derrick. Successivamente, esiste un antenato di Martin che non è un antenato di Derrick o non è un antesore o non è un antesore di mateo. Mathew. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: per cominciare, essere un cugino di Sara è sufficiente per non essere un compagno di lavoro di Kimberly. Inoltre, ogni cugino di Sara è un compagno di lavoro di Kimberly o, altrimenti, né un compagno di lavoro di Kimberly né una figlia di Valerie. Pertanto, nessun cugino di Sara è una figlia di Valerie"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, essere un fratellastro di Jordon è sufficiente per non essere un antenato di Ignacio. Ora, Sydney non è un fratellastro di Jordon. Pertanto, è falso che Sydney sia un antenato di Ignacio.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni figlio di Hugh non è un bisnonno di Vernon e non un nipote di Forrest. Pertanto, nessun nipote di Forrest e nessun bisnonno di Vernon è figlio di Hugh.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: Prima premessa: Essere antenata di Ana è sufficiente per essere sorella di Margie. Seconda premessa: Ogni compagna di scuola di Guadalupe è antenata di Ana o zia di Peggy o cugina di Diane. Terza premessa: Chiunque sia zia di Peggy è anche sorella di Margie. Quindi, essere sorella di Margie o cugina di Diane è necessario per essere compagna di scuola di Guadalupe.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: prima di tutto, non è vero che Santo è nipote di Lance. Inoltre, essere nipote di Ned o cugino di Tony è sufficiente per essere nipote di Lance. Quindi, non è vero che Santo è nipote di Ned o cugino di Tony"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, nessun acquirente occasionale di shampoo Alterna Haircare e nessun consumatore abituale di sapone Neutrogena è un consumatore abituale di sapone Natural Bar. In secondo luogo, non è vero che Krista è un consumatore assiduo di sapone Natural Bar. Quindi, necessariamente, Krista è un consumatore assiduo di sapone Neutrogena o un acquirente occasionale di shampoo Alterna Haircare"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: Prima premessa: essere un ingrediente di The Wuss Bubble Bar o non essere un ingrediente di 6 Colour Eyeshadow è sufficiente per essere un ingrediente di PERFECTION PRIMER. Seconda premessa: la fenacemide è un ingrediente di 6 Colour Eyeshadow. Ne consegue che la fenacemide non è un ingrediente di PERFECTION PRIMER.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: prima di tutto, essere un ingrediente di OPULENCE (IMPERIAL) è sufficiente per essere un ingrediente di Misty Morning. Successivamente, essere un ingrediente di OPULENCE (IMPERIAL) è necessario per non essere un ingrediente di Moon Spell. Quindi, necessariamente, qualunque cosa non sia un ingrediente di Moon Spell è un ingrediente di Misty Morning.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: Prima premessa: tutto ciò che non è un ingrediente di SILKY LIP PENCIL 52 è un ingrediente di Ultacover. Da questo segue: Niente è né un ingrediente di Ultacover né un ingrediente di SILKY LIP PENCIL 52.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, qualcuno è un ex tifoso dell'FC Basel 1893 e un devoto dell'AS Trenčín. Ora, nessun ex tifoso del Paris Saint-Germain è un devoto dell'AS Trenčín. Di conseguenza, non tutti gli ex tifosi dell'FC Basel 1893 sono ex tifosi del Paris Saint-Germain .""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia dell'ammirazione e dell'antipatia reciproca. La seguente argomentazione cerca di chiarire alcune di queste relazioni: Tanto per cominciare, Garry è un avversario del Sevilla FC. Ora, ogni ammiratore dell'FC Pyunik non è né un avversario del Sevilla FC né un sostenitore dell'RC Celta de Vigo. Di conseguenza, Garry non è un ammiratore dell'FC Pyunik"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. Il seguente argomento riguarda questa domanda: per cominciare, ogni utente occasionale del sapone Proactiv è sia un consumatore abituale del sapone Softsoap sia un acquirente fedele dello shampoo Pureology. Ora, non è il caso che Jasper sia un consumatore abituale del sapone Softsoap. Di conseguenza, non è il caso che Jasper sia un utente occasionale del sapone Proactiv"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"“La ricerca sui consumatori mira a capire se gli utilizzatori di alcuni prodotti tendano a consumarne anche altri, oppure no. La seguente argomentazione cerca di chiarire alcune di queste relazioni: per cominciare, essere un consumatore assiduo del sapone Dove è sufficiente per essere possessori di uno shampoo Bumble and bumble. Quindi, necessariamente, chiunque possieda uno shampoo Bumble and bumble è anche un consumatore assiduo del sapone Dove”.
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. L'argomento seguente cerca di chiarire alcune di queste relazioni: in primo luogo, ogni ingrediente di Golden Slumbers è un ingrediente di Cupid's Love Soap. In secondo luogo, essere un ingrediente di Chachabalm è necessario per essere un ingrediente di Cupid's Love Soap. Ne consegue che essere un ingrediente di Chachabalm è necessario per essere un ingrediente di Golden Slumbers"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: prima di tutto, essere un ingrediente di MENS NULL Face Wash è sufficiente per non essere un ingrediente di Flex Foundation. Successivamente, essere un ingrediente di Eye Shadow (Shell) è sufficiente per non essere un ingrediente di Flex Foundation. Inoltre, ogni ingrediente di LIP BUTTER è un ingrediente di MENS NULL Face Wash o un ingrediente di Eye Shadow (Shell). Tutto ciò implica che sia sufficiente essere un ingrediente di LIP BUTTER. per non essere un ingrediente di Flex Foundation.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Prima premessa: essere un ingrediente di Totally Concealed è sufficiente per non essere un ingrediente di Venus di Violet. Tutto ciò implica che qualunque sia un ingrediente di Venus di Violet non sia un ingrediente di Totally Concealed"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un'argomentazione perfettamente valida: prima di tutto, chiunque sia un fedele acquirente dello shampoo Herbal Essences è anche un utilizzatore occasionale del sapone Caswell-Massey e un fedele acquirente dello shampoo Matrix. Successivamente, Christian non è un utilizzatore occasionale del sapone Caswell-Massey o non è un acquirente fedele dello shampoo Matrix. Quindi, necessariamente, Christian non è un acquirente fedele dello shampoo Herbal Essences"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, chi non è nipote di Rene è un bisnonno di Andy. Quindi, nessun bisnonno di Andy è nipote di Rene.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: non è vero che Manuel è un fratellastro di Chester. Chiunque sia un antenato di Jeremy non è un fratellastro di Chester. Quindi, è falso che Manuel sia un antenato di Jeremy"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: Prima premessa: Qualunque sia un ingrediente di Growth Activator non è un ingrediente di Roller Lash (Black). Seconda premessa: Ogni ingrediente di Growth Activator è un ingrediente di Roller Lash (Black) o un ingrediente di Illusion o un ingrediente di Plum-tini. Possiamo concludere che ogni ingrediente di Growth Activator è un ingrediente di Illusion o un ingrediente di Plum-tini.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri, oppure no. La seguente argomentazione cerca di chiarire alcune di queste relazioni: per cominciare, chiunque non sia proprietario di un sapone Eucalyptus né proprietario di un sapone Kirk's è un utente abituale di shampoo Pureology o un consumatore abituale di shampoo CHI. Ora, ogni utente regolare di shampoo Pureology è proprietario di un sapone Kirk's o proprietario di un sapone Eucalyptus. un sapone all'eucalipto o proprietario di un sapone di Kirk, è un consumatore abituale di shampoo CHI.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni amico intimo di Krista non è una nipote di Gwendolyn o non è un antenato di Terrie. In secondo luogo, tutti coloro che sono cugini di Laurie sono anche amici intimi di Krista. Possiamo concludere che nessun cugino di Laurie è sia un antenato di Terrie che una nipote di Gwendolyn"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, non essere un amico del Manchester United FC è sufficiente per non essere un ex tifoso dell'FC Zenit. Di conseguenza, essere un amico del Manchester United FC è necessario per essere un ex tifoso dell'FC Zenit"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, non è vero che il retinolo è un ingrediente di Hello Merlot. In secondo luogo, tutto ciò che è un ingrediente di Neon Pink è anche un ingrediente di Hello Merlot e un ingrediente di Baked Alaska. Tutto ciò implica che è falso che il retinolo sia un ingrediente di Neon Pink"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: per cominciare, essere un compagno di lavoro di Bryan è necessario per essere uno zio di Alexander. Ora, nessun amico intimo di Freddy è un compagno di lavoro di Bryan. Possiamo concludere che nessuno zio di Alexander è un amico intimo di Freddy"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, ogni ex tifoso del Villarreal CF è un tifoso dell'Everton FC e un amico dell'SK Rapid Vienna. Inoltre, Kirk non è entrambi: un tifoso dell'Everton FC e un amico dell'SK Rapid Vienna. Quindi, necessariamente, Kirk non è un ex tifoso del Villarreal CF"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: Prima premessa: tutto ciò che è sia un ingrediente di Collagen Filler Eye sia un ingrediente di Pinky Lip Smacker non è un ingrediente di NARS Lipstick. Da ciò segue: non essere un ingrediente di NARS Lipstick è sufficiente per essere un ingrediente di Collagen Filler Eye e un ingrediente di Pinky Lip Smacker.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, qualcosa è un ingrediente di C-Note Green e non un ingrediente di perle sciolte. Ora, ogni ingrediente di Blue Taffy Acrylic è un ingrediente di perle sciolte. Possiamo concludere: non tutti gli ingredienti di C-Note Green sono un ingrediente di Blue Taffy Acrylic.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: prima di tutto, ogni acquirente occasionale di shampoo Matrix è un acquirente occasionale di shampoo Organix Hair. Successivamente, Linda è un acquirente occasionale di shampoo Organix Hair. Ne consegue che Linda è un acquirente occasionale di shampoo Matrix"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Sophie è un'utilizzatrice poco frequente dello shampoo Nioxin. Ogni proprietario di uno shampoo Nexxus e ogni utilizzatore occasionale dello shampoo Nioxin è un consumatore abituale dello shampoo Schwarzkopf. Di conseguenza, Sophie è una consumatrice assidua dello shampoo Schwarzkopf.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"“Ecco un argomento perfettamente valido: per cominciare, essere un ingrediente di Spoiled è necessario per essere un ingrediente di SILK EYE PENCIL 08. Inoltre, tutto ciò che è un ingrediente di Careless Whisper è anche un ingrediente di Spoiled. Spoilt o un ingrediente di Blush Rush (Bare) è necessario per essere un ingrediente di Just To Clarify.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un'argomentazione perfettamente valida: tanto per cominciare, una sorella di Doreen è figlia di Melinda. Ora, chiunque non sia figlia di Melinda è cugina di Leslie. Da ciò segue: una cugina di Leslie non è sorella di Doreen.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, c'è qualcuno che è fratellastro di Felipe e fratello di Harvey. Poi, nessun collega di lavoro di Gary che sia nipote di Perry è fratello di Harvey. Quindi, un fratellastro di Felipe non è nipote di Perry o non è un compagno di lavoro di Gary.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, essere un ex tifoso del Vitória SC è necessario per essere un avversario del SønderjyskE. Inoltre, chi non è né un sostenitore del PAOK FC né un ex tifoso del Lyngby BK è un sostenitore dell'Everton FC o un avversario del SønderjyskE. Infine, ogni sostenitore dell'Everton FC è un ex tifoso del Vitória SC. tória SC è comunque un sostenitore del PAOK FC o un ex sostenitore del Lyngby BK"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. Il seguente argomento riguarda questa domanda: Prima premessa: ogni fedele acquirente del sapone Dawn non è né un utilizzatore occasionale dello shampoo Redken né un consumatore abituale del sapone Proactiv. Pertanto, chiunque non sia niente di tutto questo: un consumatore abituale del sapone Proactiv o un utilizzatore occasionale dello shampoo Redken, è un acquirente fedele del sapone Dawn"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: per cominciare, nessuno zio di Arturo è fratellastro di Edwin o amico intimo di Jonathan. Ora, ogni compagno di scuola di Jason è fratellastro di Edwin o amico intimo di Jonathan, o entrambi. Di conseguenza, essere un compagno di scuola di Jason è sufficiente per non essere zio di Arturo.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, tutto ciò che è sia un ingrediente di DAGGER TATTOO LINER che un ingrediente di AMANDE MILK VEIL non è un ingrediente di All Wrapped Up. In secondo luogo, essere un ingrediente di All Wrapped Up è necessario per essere un ingrediente di Gloss cuivre nacre. Quindi, qualunque cosa non sia un ingrediente di DAGGER TATTOO LINER e non sia un ingrediente di AMANDE MILK VEIL è comunque un ingrediente di Gloss cuivre nacre.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: per cominciare, nessun ingrediente di Rock Star è sia un ingrediente di White Tea Lotion che un ingrediente di VANILLA BLISS SOAP. Inoltre, ogni ingrediente di White Tea Lotion che è un ingrediente di VANILLA BLISS SOAP è un ingrediente di Rock Star o un ingrediente di Lip Gloss (BCMK). Da ciò segue: Ogni ingrediente di White Tea Lotion che è un ingrediente di VANILLA BLISS SOAP Il sapone è anche un ingrediente di Lip Gloss (BCMK).""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: per cominciare, Merle è una cugina di Annie. Ora, chi non è sia una compagna di classe di Hazel che una cugina di Annie è una bisnonna di Doria. Possiamo concludere che è falso che Merle sia una bisnonna di Doria.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: ogni esperto di Yeni Malatyaspor non è un amico del Wolverhampton Wanderers FC o non è un fan dell'FC Arouca. Essere un amico del Fenerbahçe SK è necessario per non essere amico del Wolverhamptoners FC. Nessuno è né Wanderers un fan di FC Arouca né amico del Fenerbahçe SK. Da ciò segue: essere amico del Fenerbahçe SK è necessario per essere un esperto dello Yeni Malatyaspor"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni seguace dell'Inverness Caledonian Thistle FC non è né un ammiratore dell'SCR Altach né un sostenitore del Qarabağ FK. Possiamo concludere: nessun ammiratore dell'SCR Altach e nessun sostenitore del Qarabağ FK è un seguace dell'Inverness Caledonian Thistle FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: prima di tutto, Thomas non è né nipote di Tony né fratellastro di Andy. Inoltre, chiunque non sia né nipote di Tony né fratellastro di Andy è un compagno di lavoro di Joseph. Quindi, Thomas è un compagno di lavoro di Joseph"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, nessuno è né il proprietario di un sapone The Body Shop né un consumatore frequente di sapone Lush. Quindi, necessariamente, nessuno è né un consumatore frequente di sapone Lush né un proprietario di un sapone The Body Shop.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: in primo luogo, essere un utilizzatore occasionale di shampoo Aveda è necessario per non essere proprietario di uno shampoo Bio Ionic. In secondo luogo, ogni fedele acquirente di shampoo American Crew è un consumatore frequente di sapone Celtic Sea Salt e proprietario di uno shampoo Bio Ionic. utilizzatore di shampoo Aveda.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: per cominciare, un ingrediente di The Eraser è un ingrediente di Matita labbra. Ora, tutto ciò che non è sia un ingrediente di Full-On Lipstick sia un ingrediente di Lollibalm è comunque un ingrediente di Matita labbra. Possiamo concludere: Qualche ingrediente di The Eraser non è sia un ingrediente di Full-On Lipstick sia un ingrediente di Lolli balsamo"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: per cominciare, ogni ex tifoso del KKS Lech Poznań non è un avversario dell'FC Arouca o non è un ammiratore dell'FC Dinamo Minsk. Inoltre, chiunque sia un seguace del Tottenham Hotspur è un ex tifoso del KKS Lech Poz nań. Ne consegue che nessun tifoso del Tottenham Hotspur è un ammiratore dell'FC Dinamo Minsk o un avversario dell'FC Arouca"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un fan di Liverpool? I sostenitori del Real Madrid sono devoti di PSG? Nel calcio europeo, a volte è difficile tenere traccia dell'ammirazione reciproca e dell'antipatia. La seguente argomentazione cerca di chiarire alcune relazioni di questi, per cominciare, per cominciare, non c'è un esperto di manchester che non è un esperto di manchester. e. Quindi, necessariamente, nessun esperto del Manchester United FC è un seguace dell'FC Barcelona. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: Prima premessa: ogni ingrediente di Go for the Glow che è un ingrediente di LIP TINTS non è un ingrediente di LOTION APRES-RASAGE. Possiamo concludere: nessun ingrediente di LOTION APRES-RASAGE è un ingrediente di LIP TINTS e, allo stesso tempo, un ingrediente di Go for the Glow.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, nessun devoto dell'FC Pyunik è un critico dell'AZ Alkmaar o un devoto del Fehérvár FC. Ora, chiunque sia un critico dell'AZ Alkmaar non è un ammiratore dell'FC Augsburg. Inoltre, chiunque sia un devoto del Fehérvár FC non è un ammiratore dell'FC Augsburg. sburg.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: Prima premessa: Chi è zio di Andrew e fratello di Derrick è anche nipote di Jon. seconda premessa: Ogni cugino di Chad è zio di Andrew. Jon"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utilizzatori di alcuni prodotti tendano a consumarne anche altri oppure no. La seguente argomentazione cerca di chiarire alcune di queste relazioni: prima di tutto, essere un affezionato acquirente dello shampoo Clairol è necessario per essere un affezionato acquirente dello shampoo Bed Head. Poi, essere un affezionato acquirente dello shampoo Bed Head è sufficiente per essere un acquirente occasionale dello shampoo Infusium. Inoltre, chi è un affezionato acquirente dello shampoo Bed Head è almeno uno di questi: un acquirente occasionale dello shampoo Infusium, un affezionato acquirente del sapone Cetaphil o un affezionato acquirente del sapone Cetaphil acquirente dello shampoo Clairol. Tutto ciò implica che chiunque sia un fedele acquirente dello shampoo Bed Head sia anche un fedele acquirente del sapone Cetaphil.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Prima premessa: chi non è sorellastra di Perla e non è compagna di scuola di Gina non è nemmeno nipote di Deidre. Seconda premessa: c'è qualcuno che è bisnonna di Margret e nipote di Deidre. Quindi, necessariamente, c'è qualcuno che è bisnonna di Margret e, inoltre, non sorellastra di Perla o non compagna di scuola di Gina.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, ogni ingrediente di Brightening Veil è un ingrediente di Clear mascara o un ingrediente di Lip Gloss SPF 15. Inoltre, nessun ingrediente di Reel Him In è un ingrediente di Lip Gloss SPF 15 o un ingrediente di Clear mascara. Quindi, qualunque sia un ingrediente di Brightening Veil non è un ingrediente di Reel Him In.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, ogni caro amico di Francine è un cugino di Samantha o un antenato di Janice o un caro amico di Shanika. Inoltre, ogni caro amico di Francine è un cugino di Samantha. Infine, essere un caro amico di Shanika è necessario per essere un caro amico di Francine. Possiamo concludere: essere un antenato di Janice è necessario per essere un caro amico di Francine.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: nessuno è né nipote di Florinda né figlia di Michelle. Nessuno è né compagno di lavoro di Dorothy né nipote di Florinda. Da ciò segue: ogni compagno di lavoro di Dorothy è figlia di Michelle.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, essere un compagno di classe di Williams è necessario per non essere un compagno di lavoro di Leslie. Successivamente, essere un compagno di classe di Williams è necessario per non essere un bisnonno di Joseph. Inoltre, ogni cugino di Tony è un compagno di lavoro di Leslie e un bisnonno di Joseph. Pertanto, chiunque sia cugino di Tony è anche un compagno di classe di Williams"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, ogni esperto dell'SV Zulte Waregem è un sostenitore del Real Betis Balompié o un sostenitore dell'FC Zenit. Inoltre, ogni critico del Manchester City FC non è né un sostenitore del Real Betis Balompié né un sostenitore dell'FC Zenit. Quindi, necessariamente, nessun esperto dell'SV Zulte Waregem è un critico del Manchester City FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: Prima premessa: è falso che Cortney sia un consumatore abituale dello shampoo Pantene. Seconda premessa: chiunque sia un consumatore abituale del sapone di Kirk o un consumatore abituale dello shampoo Pantene è un consumatore abituale dello shampoo Revlon. Da ciò segue: è falso che Cortney sia un consumatore abituale dello shampoo Revlon"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri, oppure no. L'argomento seguente cerca di chiarire alcune di queste relazioni: per cominciare, ogni fedele acquirente di sapone Paul Mitchell è un fedele acquirente di sapone Natural Bar o, altrimenti, né un fedele acquirente di sapone Natural Bar né un acquirente occasionale di sapone Cetaphil. Ora, essere un acquirente occasionale di sapone Cetaphil è necessario per essere un fedele acquirente di sapone Paul Mitchell. .""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: Prima premessa: c'è qualcosa che è un ingrediente di Tiki Tiki Langa e un ingrediente di Liquid Lip Colour. Seconda premessa: essere un ingrediente di Pale Almond Powder è necessario per non essere un ingrediente di Liquid Lip Colour. Pertanto, alcuni ingredienti di Pale Almond Powder non sono un ingrediente di Tiki Tiki Langa.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: tutto ciò che è sia un ingrediente di HONEY LIPS che un ingrediente di Renewal Cream è un ingrediente di Take A Bow o un ingrediente di LashGrip Clear. Ogni ingrediente di Take A Bow non è un ingrediente di Renewal Cream e non è un ingrediente di HONEY LIPS. Da ciò segue: tutto ciò che non è sia un ingrediente di HONEY LIPS sia un ingrediente di Renewal Cream è un ingrediente di LashGrip Clear.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Prima premessa: Qualunque sia l'ingrediente di Concealer è almeno uno di questi: un ingrediente di HEART SHAPED BALM, un ingrediente di Goth Fairy o un ingrediente di Love Me Like A Wimp. Seconda premessa: Essere un ingrediente di Clarifying Mask è necessario per essere un ingrediente di Goth Fairy. Terza premessa: Essere un ingrediente di HEART SHAPED BALM è sufficiente per essere un ingrediente di Clarifying Mask. fying Mask. Quindi, necessariamente, essere un ingrediente di Concealer è sufficiente per essere un ingrediente di Clarifying Mask.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: Prima premessa: essere una bisnonna di Elizabeth è sufficiente per non essere una sorella di Gillian. Seconda premessa: ogni bisnonna di Elizabeth è una sorella di Gillian o un'antenata di Helen o una bisnonna di Heather. Terza premessa: essere una bisnonna di Elizabeth è sufficiente per non essere una bisnonna di Heather. Ne consegue che chiunque è una bisnonna di Elisabetta ed è anche un'antenata di Elena.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: nessun acquirente occasionale di sapone Purpose è un raro consumatore di shampoo Bumble and bumble o un acquirente occasionale di sapone Fiji biologico. Quindi, nessun acquirente occasionale di sapone Fiji biologico e nessun consumatore raro di shampoo Bumble and bumble è un acquirente occasionale di sapone Purpose. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, nessuno è né un raro consumatore di shampoo L'Oreal né un fedele acquirente di sapone Dial. Ora, chiunque non sia un fedele acquirente di shampoo Matrix non è sia un fedele acquirente di sapone Dial che un raro consumatore di sapone Softsoap. Inoltre, essere un raro consumatore di sapone Softsoap è necessario per non essere un raro consumatore di shampoo L'Oreal. Ne consegue che nessuno è né un raro consumatore di shampoo L'Oreal né un fedele acquirente di shampoo Matrix"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. Il seguente argomento riguarda questa domanda: essere un cugino di Jana è necessario per essere un collega di lavoro di Leonor. Ogni cugino di Jana è una figlia di Tracy o una sorella di Sara. Quindi, necessariamente, ogni collega di lavoro di Leonor è una sorella di Sara o una figlia di Tracy.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: essere un ingrediente di Plumeria Milk Bath o un ingrediente di Hot Rod Red è necessario per essere un ingrediente di Trugel Vivid. Ogni ingrediente di Bioglitz Color 6G non è un ingrediente di Plumeria Milk Bath o non è un ingrediente di Hot Rod Red. Tutto ciò implica che essere un ingrediente di Trugel Vivid è sufficiente per non essere un ingrediente di Bioglitz Color 6G.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: prima di tutto, chiunque non sia fratellastro di Steven è bisnonno di Craig. Poi c'è qualcuno che è bisnonno di Craig e, inoltre, non è un antenato di Jordon o non è fratellastro di Gustavo. Ne consegue che non tutti i fratellastri di Steven sono entrambi un antenato di Jordon e un fratellastro di Gustavo.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, essere un ingrediente di Hair and Body Wash è sufficiente per essere un ingrediente di Fungus Treatment. Successivamente, ogni ingrediente di Lip Gloss (BCMK) che è un ingrediente di Fungus Treatment è anche un ingrediente di Eye Shadow (Bronze). Inoltre, tutto ciò che è un ingrediente di Hair and Body Wash è anche un ingrediente di Lip Gloss (BCMK). Possiamo concludere che essere un ingrediente di Hair and Body Wash è sufficiente per essere un ingrediente di Eye Shadow (Bronze).""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomento seguente cerca di chiarire alcune di queste relazioni: Ogni zia di Amanda è una sorellastra di Nicole. Ogni sorellastra di Nicole è o una sorellastra di Kerstin o una compagna di classe di Tanisha, o entrambe. Possiamo concludere che per essere una sorellastra di Kerstin o una compagna di classe di Tanisha è necessario per essere una zia di Amanda"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: prima di tutto, ogni consumatore abituale di shampoo Bumble and bumble è un raro consumatore di sapone alla vaselina. Successivamente, chiunque non sia un acquirente occasionale di sapone Fiji biologico è un consumatore abituale di shampoo Bumble and bumble. Da ciò segue: essere un raro consumatore di sapone alla vaselina è necessario per non essere un acquirente occasionale di sapone Fiji biologico"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: Prima premessa: c'è qualcuno che è un devoto dell'FC Krasnodar e non un sostenitore dell'SCR Altach. avversario dell'FC Augsburg"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: ogni cugino di Nichole non è zia di Susan o non è zia di Zenaida. Ogni figlia di Wanda è cugina di Nichole. Possiamo concludere che nessuna figlia di Wanda è zia di Susan o zia di Zenaida"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: prima di tutto, nessuno è né un utilizzatore occasionale dello shampoo Head & Shoulders né un utilizzatore abituale del sapone Neutrogena. Successivamente, per essere un utilizzatore occasionale dello shampoo Head & Shoulders è necessario essere un utilizzatore abituale del sapone Neutrogena o dello shampoo Nexxus. Possiamo concludere: ogni utilizzatore occasionale dello shampoo Head & Shoulders è un utilizzatore regolare dello shampoo Nexxus"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: per cominciare, chiunque sia un utilizzatore occasionale di sapone Proactiv è anche un consumatore frequente di shampoo CHI. Inoltre, chiunque sia un consumatore abituale di sapone Neutrogena e un acquirente occasionale di sapone Bee & Flower non è un consumatore frequente di shampoo CHI. Di conseguenza, chiunque non sia un consumatore abituale di sapone Neutrogena e non un acquirente occasionale di sapone Bee & Flower è comunque un utente occasionale di Proactiv sapone"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, essere un caro amico di Samuel è sufficiente per non essere un fratello di Jeff. Di conseguenza, nessun fratello di Jeff è un caro amico di Samuel.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""L'ossido di titanio è un ingrediente del mio potere detergente? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: Prima premessa: nessun ingrediente di Lip Liner (Peach) è un ingrediente di THE LIPSTICK 14 o un ingrediente di Eye Design Palette. ).""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: Prima premessa: chiunque non sia bisnonna di Lily non è sia sorella di Tamara che antenata di Beverly. Seconda premessa: nessuno è né un compagno di lavoro di Nellie né un antenato di Beverly. Terza premessa: nessuno è né un compagno di lavoro di Nellie né una sorella di Tamara. madre di Lily"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utilizzatori di alcuni prodotti tendano a consumarne anche altri, oppure no. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: per cominciare, è falso che Loren sia un utilizzatore poco frequente del sapone Olay. Inoltre, Loren non è un consumatore abituale dello shampoo Garnier. sapone"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, è falso che l'acetato di retinile sia un ingrediente di Spider Hero Tattoo. Inoltre, ogni ingrediente di Peach Whip è un ingrediente di Spider Hero Tattoo. Ne consegue che è falso che l'acetato di retinile sia un ingrediente di Peach Whip.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: prima di tutto, chiunque sia un caro amico di Andy o uno zio di Reyes è anche un compagno di classe di Marvin. Successivamente, Johnnie è un caro amico di Andy. Tutto ciò implica che Johnnie è un compagno di classe di Marvin.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. La seguente argomentazione cerca di chiarire alcune di queste relazioni: in primo luogo, qualunque cosa non sia né un ingrediente di Drop Dead Gorgeous né un ingrediente di LE MARC LIP CREME è un ingrediente di Peaches N Cream. In secondo luogo, il bisfenolo A (BPA) non è né un ingrediente di Drop Dead Gorgeous né un ingrediente di LE MARC LIP CREME. ingrediente di Peaches N Cream.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: Tanto per cominciare, nessun membro dell'FK Partizan è un critico del SønderjyskE. Ora, chiunque sia un membro dell'FK Partizan non è un ex tifoso del Borussia Dortmund. Inoltre, ogni ex tifoso del Borussia Dortmund che è un critico del Sønderj yskE è anche un sostenitore del VfL Borussia Mönchengladbach. Tutto ciò implica che ogni membro dell'FK Partizan è un sostenitore del VfL Borussia Mönchengladbach"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: qualche compagno di classe di Terri è un compagno di lavoro di Dolores. Chi non è un compagno di lavoro di Dolores è un antenato di Cheryl. Quindi, necessariamente, qualche antenato di Cheryl non è un compagno di classe di Terri.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Prima premessa: ogni esperto del Real Madrid CF è un fan dell'F91 Dudelange. Seconda premessa: essere un sostenitore dell'SCR Altach è sufficiente per essere un esperto del Real Madrid CF. Quindi, necessariamente, ogni sostenitore dell'SCR Altach è un fan dell'F91 Dudelange"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: essere fratellastro di Guadalupe è necessario per essere fratellastro di Ronald. Essere zio di Tom è sufficiente per essere fratellastro di Guadalupe. Essere fratellastro di Ronald o zio di Tom è necessario per essere antenato di Francesco. Quindi, necessariamente, ogni antenato stor di Francesco è un fratellastro di Guadalupe.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: Prima premessa: chiunque non sia né un antenato di Andy né un nipote di Donald è comunque un cugino di Ralph. Seconda premessa: Dale non è né un nipote di Donald né un antenato di Andy. Possiamo concludere: Dale è un cugino di Ralph. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni ingrediente di LIP SYNC non è un ingrediente di UV SHIELD SPF40 e non è un ingrediente di 070 FRUITY LIPSTICK. Pertanto, qualunque cosa non sia niente di tutto questo: un ingrediente di 070 FRUITY LIPSTICK o un ingrediente di UV SHIELD SPF40, è un ingrediente di LIP SYNC.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: per cominciare, nessun ammiratore del Racing Club de Strasbourg Alsace è un devoto del CS Marítimo o un fan dell'SK Rapid Wien. Inoltre, Byron è un devoto del CS Marítimo. Possiamo concludere: Byron non è un fan del Racing Club de Strasbourg Alsazia.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: in primo luogo, essere un avversario del Molde FK è sufficiente per essere un critico della SS Lazio. In secondo luogo, Rene è un avversario del Molde FK. Quindi, Rene è un critico della SS Lazio"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: primo, nessuno è né un compagno di lavoro di Candida né un compagno di classe di Zenaida. Quindi, necessariamente, nessuno è né un compagno di classe di Zenaida né un compagno di lavoro di Candida"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, nessuno è né un esperto dell'FC Shakhtar Donetsk né un avversario del PFC CSKA Moskva. Inoltre, qualche avversario del PFC CSKA Moskva non è sia un amico della Real Sociedad de Fútbol che un esperto dell'FC Pyunik. Quindi, c'è qualcuno che è un amico della Real Sociedad de Fútbol, ​​un esperto dell'FC Pyunik e un esperto dell'FC Shakhtar Donetsk.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, ogni ingrediente di Bare Beige è un ingrediente di Diamond Extreme Eye. Inoltre, qualunque ingrediente di Lip Liner 01, 03-05 e un ingrediente di Anti-Aging Eye Lift è anche un ingrediente di Bare Beige. Ne consegue che ogni ingrediente di Anti-Aging Eye Lift che è un ingrediente di Lip Liner 01, 03-05 è anche un ingrediente di Diamond Extreme Eye.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: in primo luogo, essere una figlia di Marjorie è sufficiente per non essere una cugina di Carole. In secondo luogo, non tutte le zie di Tracey sono cugine di Carole. Pertanto, qualche zia di Tracey è una figlia di Marjorie.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, essere un sostenitore dell'Olympique de Marseille è sufficiente per non essere un devoto della SS Lazio. Inoltre, ogni tifoso della SS Lazio è un sostenitore dell'Olympique de Marseille o, altrimenti, né un sostenitore dell'Olympique de Marseille né un ammiratore dell'AS Saint-Étienne. Quindi, necessariamente, essere un ammiratore dell'AS Saint-Étienne è necessario per essere un devoto della SS Lazio"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi sta consumando quali prodotti. La seguente argomentazione riguarda questa domanda: in primo luogo, ogni consumatore abituale di sapone Pears che è un utilizzatore occasionale di sapone Mysore non è un consumatore abituale di sapone Purpose. In secondo luogo, essere un consumatore abituale di sapone Purpose è necessario per non essere un acquirente fedele del sapone Colgate-Palmolive. Pertanto, ogni utente occasionale del sapone Mysore che è un consumatore frequente del sapone Pears è anche un acquirente fedele del sapone Colgate-Palmolive. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi tifa esattamente? La seguente argomentazione riguarda questa domanda: ogni devoto dell'AEK Larnaca FC è un tifoso del Club Atlético de Madrid e un membro dell'RSC Anderlecht. Chi non è un tifoso del Club Atlético de Madrid è un avversario del Fenerbahçe SK. Chi non è un membro dell'RSC Anderlecht è un avversario del Fenerbahçe SK. Possiamo concludere: Essere un avversario del Fenerbahçe SK è necessario per essere un devoto dell'AEK Larnaca FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, nessuno è né un compagno di classe di Georgia né un antenato di Geraldine. Inoltre, ogni compagno di lavoro di Regina è sia un compagno di classe di Georgia che un compagno di lavoro di Carole. Inoltre, essere un antenato di Geraldine è necessario per non essere un compagno di lavoro di Carole. Pertanto, chiunque sia un compagno di lavoro di Regina è anche un antenato di Geraldine"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile capire chi consumi quali prodotti. La seguente argomentazione riguarda questa domanda: chiunque sia un acquirente occasionale di sapone di eucalipto non è un fedele acquirente di sapone di scudo. Nessun acquirente occasionale di sapone di eucus-palmolive di eucus di eucus sap occasionale di sapone ecocali di eucus di soap eucus di eucus di soap occasionali di soap occasionali e soap ecocali di eucus sap occasionali di sapone di euctus di eucus sap occasionale di sapone ecocalizza , nessun utente normale di Bliss Soap è un fedele acquirente di Shield Soap. ""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni fratellastro di Joan è un compagno di scuola di Reyes. Quindi, ogni compagno di scuola di Reyes è un fratellastro di Joan.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, Agnes è un'amica intima di Matilde o una nipote di Ida. Ora, non essere un'amica intima di Geraldine è sufficiente per essere un'amica intima di Matilde e una nipote di Ida. Ne consegue che non è vero che Agnes è un'amica intima di Geraldine.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: per cominciare, ogni sostenitore dell'Athletic Club è un ex sostenitore del KKS Lech Poznań. Inoltre, chi non è né un devoto dell'Everton FC né un ex tifoso del KV Oostende è un sostenitore dell'Athletic Club o un esperto del Leicester City FC. infine, ogni esperto del Leicester City FC è un ex tifoso del KKS Lech Poznań. Possiamo concludere che chiunque non sia un ex tifoso del KKS Lech Poznań è un devoto dell'Everton FC o non è un ex tifoso del KV Oostende"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, c'è qualcuno che è un seguace dell'FC Spartak Trnava e un critico dell'AS Trenčín. Ora, chiunque sia un amico dell'RCD Espanyol ed un ex tifoso dell'FK Mladá Boleslav non è un critico dell'AS Trenčín. Da ciò segue: c'è qualcuno che è un seguace dell'FC Spartak Trnava e non sia un amico dell'RCD Espanyol che un ex tifoso dell'FK Mladá Boleslav"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: prima premessa: Julie è un membro dell'SL Benfica o un seguace dell'FC Ufa. Seconda premessa: chiunque non sia un ex tifoso dell'FC Astana è comunque un membro dell'SL Benfica e un seguace dell'FC Ufa. Possiamo concludere che Julie non è un ex tifoso dell'FC Astana"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri o meno. L'argomento seguente cerca di chiarire alcune di queste relazioni: per cominciare, essere un consumatore abituale del sapone Lever è necessario per essere un consumatore assiduo del sapone Nubian Heritage. Ora, ogni consumatore abituale del sapone Lever non è un utente abituale dello shampoo Biolage o non è un acquirente fedele del sapone Lush. Possiamo concludere: chiunque sia un consumatore assiduo del sapone Nubian Heritage è anche un acquirente fedele del sapone Lush e un utente abituale dello shampoo Biolage"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: Tutto ciò che è un ingrediente di La Creme-Clueless è anche un ingrediente di Provani Cream e un ingrediente di Loose Eyeshadow. Non è vero che la Cocamide è un ingrediente di Provani Cream. Tutto ciò implica che non è vero che Cocamide è un ingrediente di La Creme-Clueless.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: primo, essere figlia di Alicia è necessario per non essere nipote di Theresa. Secondo, essere figlia di Alicia è necessario per non essere compagno di lavoro di Pricilla. Terzo, ogni zia di Dawn è nipote di Theresa e compagno di lavoro di Pricilla. Possiamo concludere: chiunque sia zia di Dawn è anche figlia di Alicia"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: non essere un ingrediente di Eye Shadow (Gold) è sufficiente per non essere un ingrediente di real fit lipstick 9. Essere un ingrediente di real fit lipstick 9 è necessario per essere un ingrediente di 05 Lightening Touch. Pertanto, ogni ingrediente di 05 Lightening Touch è un ingrediente di Eye Shadow (Gold).""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: per cominciare, essere un compagno di lavoro di Lowell è sufficiente per non essere un fratello di Ron. Inoltre, non c'è nessun fratello di Ron che sia un caro amico di Kenneth ma non un compagno di lavoro di Lowell. Ne consegue che chiunque sia un fratello di Ron è anche un caro amico di Kenneth.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: esiste un compagno di lavoro di Guadalupe che è un antenato di Jewel mentre non è una nipote di Nelda. Nessuno è né una sorellastra di Christine né una nipote di Nelda. Quindi, necessariamente, esiste un compagno di lavoro di Guadalupe che è un antenato di Jewel e una sorellastra di Christine.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, ogni ingrediente di Polar Attraction è un ingrediente di Reel Him In. In secondo luogo, ogni ingrediente di Polar Attraction non è un ingrediente di Reel Him In o un ingrediente di The Dark Side. Ne consegue che essere un ingrediente di Polar Attraction è sufficiente per essere un ingrediente di The Dark Side"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano vari club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: per cominciare, nessun ammiratore del CFR 1907 Cluj è un esperto dell'Inverness Caledonian Thistle FC. Ora, essere un esperto dell'Inverness Caledonian Thistle FC è necessario per essere un ex tifoso dell'FC Viitorul. un ex tifoso dell'FC Viitorul"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: Prima premessa: Ogni compagno di scuola di Barton è figlio di Melvin. Seconda premessa: Ogni fratellastro di Todd è figlio di Melvin. Terza premessa: Chi non è né fratellastro di Darrin né compagno di scuola di Phillip è fratellastro di Todd o compagno di scuola di Barton.
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. Il seguente argomento cerca di chiarire alcune di queste relazioni: prima di tutto, ogni compagno di classe di Harold che è un antenato di Frank non è un nipote di Shannon. Possiamo concludere: ogni nipote di Shannon non è un compagno di classe di Harold o non è un antenato di Frank"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere quali sostanze chimiche sono contenute nei nostri prodotti di consumo. La seguente argomentazione riguarda questa domanda: prima di tutto, tutto ciò che non è un ingrediente di Plump (On Point) è un ingrediente di Lip Smoothie. Successivamente, nessun ingrediente di Gel Polish Pearl è un ingrediente di Plump (On Point). Ne consegue che ogni ingrediente di Gel Polish Pearl è un ingrediente di Lip Smoothie"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: per cominciare, tutto ciò che non è un ingrediente di MAVA-WHITE è un ingrediente di PRO LONGLASH. Inoltre, non essere un ingrediente di Brow Powder Duo è sufficiente per non essere un ingrediente di PRO LONGLASH. Possiamo concludere che essere un ingrediente di Brow Powder Duo è necessario per non essere un ingrediente di MAVA-WHITE.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Ogni ingrediente di CUSTOM BLEND POWDER è un ingrediente di Gold Dust o un ingrediente di Parisian Chic. Qualsiasi ingrediente di Parisian Chic non è un ingrediente di CUSTOM BLEND POWDER. Di conseguenza, ogni ingrediente di CUSTOM BLEND POWDER è un ingrediente di Gold Dust"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: prima di tutto, chiunque sia zio di Dennis è anche fratellastro di Troy. Inoltre, chiunque sia zio di Dennis è almeno uno di questi: un fratellastro di Troy, un fratello di Mathew o un compagno di classe di Henry. Quindi, ogni zio di Dennis è o un fratello di Mathew o un compagno di classe di Henry, o entrambi"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: prima di tutto, nessun esperto del Malmö FF che sia un ex tifoso del Brøndby IF è un ex tifoso dell'F91 Dudelange. Poi, chiunque non sia un seguace dello Stade Rennais FC è un ex tifoso dell'F91 Dudelange. lange. Quindi, necessariamente, chiunque non sia niente di tutto questo: un esperto del Malmö FF o un ex tifoso del Brøndby IF, è un tifoso dello Stade Rennais FC"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: prima di tutto, essere un seguace del Lyngby BK è necessario per non essere un critico del Real Madrid CF. Successivamente, Louise è un critico del Real Madrid CF. Pertanto, non è vero che Louise è un seguace del Lyngby BK"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, Beatrice è una nipote di Danielle. Inoltre, essere una nipote di Danielle o una compagna di classe di Kaye è sufficiente per essere una compagna di classe di Kathy. Ne consegue che Beatrice è una compagna di classe di Kathy.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: prima di tutto, nessuno è né un compagno di classe di Marisa né un compagno di scuola di Karen. Inoltre, non tutte le sorelle di Ruth sono compagne di scuola di Karen. Quindi, necessariamente, qualcuno è una sorella di Ruth e non un compagno di classe di Marisa"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: prima di tutto, essere un critico della GNK Dinamo Zagreb o non essere un devoto dell'FC Mariupol è sufficiente per essere un ex tifoso del Villarreal CF. Successivamente, Gerald è un devoto dell'FC Mariupol. Tutto ciò implica che non è vero che Gerald è un ex tifoso del Villarreal CF"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è un tifoso del Liverpool? I tifosi del Real Madrid sono devoti del PSG? Nel calcio europeo, a volte è difficile tenere traccia della reciproca ammirazione e antipatia. Il seguente argomento cerca di chiarire alcune di queste relazioni: Prima premessa: chiunque sia un tifoso dell'FK Sūduva è anche un critico dell'HŠK Zrinjski. un tifoso dell'FK Sūduva non è un seguace del Legia Warszawa"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomento seguente cerca di chiarire alcuni di questi rapporti: per cominciare, non essere una nipote di Shirley è sufficiente per non essere una compagna di lavoro di Sharita. Ora, chiunque sia sorellastra di Nichole è anche un compagno di lavoro di Sharita. Possiamo concludere: essere una nipote di Shirley è necessario per non essere una sorellastra di Nichole .""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""L'ossido di titanio è un ingrediente del mio potere lavante? Quali sostanze chimiche contiene il mio profumo? È davvero difficile tenere traccia di tutte le sostanze chimiche a cui si è regolarmente esposti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Per cominciare, qualcosa che non è un ingrediente di Maypole Soap è un ingrediente di Cupcake o un ingrediente di OW COLOR PROTECTION. Inoltre, tutto ciò che non è un ingrediente di Crema Anti-Rosso è un ingrediente di Cupcake. Infine, nulla è né un ingrediente di Crema Anti-Rosso né un ingrediente di OW COLOR PRO TECTION. Quindi, niente è né un ingrediente di Anti-Redness Cream né un ingrediente di Maypole Soap.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: prima di tutto, ogni consumatore frequente di sapone Pre De Provence non è un consumatore raro di shampoo Aussie e non un consumatore frequente di shampoo Bio Ionic. Da ciò segue: nessun consumatore frequente di shampoo Bio Ionic e nessun consumatore raro di shampoo Aussie è un consumatore frequente di sapone Pre De Provence"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Alcuni tifosi di calcio ammirano diversi club, altri amano solo una singola squadra. Ma chi è un tifoso di chi esattamente? La seguente argomentazione riguarda questa domanda: in primo luogo, ogni tifoso dell'Heracles Almelo non è né un tifoso dell'Aberdeen FC né un ammiratore dell'FC Slovan Liberec. In secondo luogo, ogni tifoso dell'AIK è o un tifoso dell'Aberdeen FC o un tifoso dell'FC Slovan Liberec, o entrambi. cles Almelo.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile vedere chi è imparentato con chi -- e in che modo. La seguente argomentazione riguarda questa domanda: in primo luogo, non essere una nipote di Ashley è sufficiente per essere una compagna di scuola di Latisha e un'amica intima di Jaime. In secondo luogo, Bernice è una compagna di scuola di Latisha o un'amica intima di Jaime. Di conseguenza, è falso che Bernice sia una nipote di Ashley"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Non è sempre facile vedere chi è imparentato con chi - e in che modo. Il seguente argomento riguarda questa domanda: chi non è un compagno di classe di Alvin è un compagno di scuola di Wilburn. Chi non è un figlio di Charles è comunque un fratellastro di Ivan o un compagno di scuola di Wilburn. Nessuno è né un compagno di classe di Alvin né un fratellastro di Ivan. Ne consegue che chi non è un compagno di classe di Alvin è un figlio di Charles"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, essere un ex tifoso dell'FC Sion è necessario per essere un devoto dell'FK Kukësi. In secondo luogo, non è vero che Kylie è un ex tifoso dell'FC Sion. Quindi, necessariamente, è falso che Kylie sia un devoto dell'FK Kukësi"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri o meno. L'argomento seguente cerca di chiarire alcune di queste relazioni: prima di tutto, Donald è un utilizzatore occasionale di shampoo CHI. Successivamente, ogni utilizzatore occasionale di shampoo CHI e ogni fedele acquirente di sapone Lifebuoy è un utilizzatore occasionale di saponetta Natural Bar. Ne consegue che Donald è un utilizzatore occasionale di saponetta Natural Bar"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. Il seguente argomento cerca di chiarire alcune di queste relazioni: prima di tutto, ogni bisnonno di Chad è un antenato di Douglas o un cugino di Henry. Inoltre, ogni compagno di scuola di Trevor non è né un cugino di Henry né un antenato di Douglas. Quindi, nessun bisnonno di Chad è un compagno di scuola di Trevor"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""La ricerca sui consumatori mira a capire se gli utenti di alcuni prodotti tendono a consumarne anche altri o meno. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: ogni utente abituale del sapone South of France non è un raro consumatore di sapone Natural Bar o non è un acquirente fedele dello shampoo Organix Hair. Ogni proprietario di un sapone Caress è un utente abituale del sapone South of France. Ne consegue che chiunque possieda un sapone Caress è anche un raro consumatore di sapone Natural Bar e un fedele acquirente dello shampoo Organix Hair"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, chi non è un raro consumatore di shampoo Herbal Essences è un acquirente occasionale di shampoo Organix Hair. Ora, chiunque non sia un consumatore abituale di sapone Cetaphil è comunque un consumatore raro di shampoo TIGI e un acquirente occasionale di shampoo Organix Hair. Inoltre, nessuno è né un consumatore raro di shampoo Herbal Essences né un consumatore raro di shampoo TIGI. Ne consegue che chiunque non sia un consumatore raro di shampoo Herbal Essences è un utente abituale di sapone Cetaphil"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Siri è una sorellastra di Mary? Susan è imparentata con Kate? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: per cominciare, ogni figlia di Milagros non è una bisnonna di Courtney o non è un'antenata di Christy. Inoltre, nessuna è né bisnonna di Courtney né nipote di Lynn. Infine, essere nipote di Lynn è necessario per non essere un'antenata di Christy. Possiamo concludere che ogni figlia di Milagros è una nipote di Lynn.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Fred è un cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcune di queste relazioni: Prima premessa: chiunque sia sia un antenato di Leslie che un caro amico di Fernando non è un bisnonno di Perry. Quindi, necessariamente, non essere un bisnonno di Perry è sufficiente per essere un antenato di Leslie e un caro amico di Fernando.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, essere un ingrediente di CND VINYLUX è necessario per essere un ingrediente di Liquid Lips Catnip. In secondo luogo, ogni ingrediente di TV Paint Stick non è un ingrediente di HIGHLIGHTER DUO o non è un ingrediente di Liquid Lips Catnip. In terzo luogo, essere un ingrediente di CND VINYLUX è necessario per essere un ingrediente di HIGHLIGHTER DUO. Possiamo concludere: essere un ingrediente di CND VINYLUX è necessario per essere un ingrediente di TV Paint Stick"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Fred è cugino di Robert? Joe è imparentato con Bob? Nelle famiglie numerose, a volte è difficile tenere traccia di tutti i propri parenti. L'argomentazione seguente cerca di chiarire alcuni di questi rapporti: per cominciare, Clyde è fratellastro di Darrin o nipote di Bryan. Inoltre, non essere fratellastro di Fred è sufficiente per essere fratellastro di Darrin e nipote di Bryan. Ne consegue che è falso che Clyde sia fratellastro di Fred"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: per cominciare, il bromato di sodio non è un ingrediente di Gel Laquer Debutant. Ora, qualunque sia un ingrediente di Gel Laquer Debutant non è un ingrediente di Full-On Lipstick. Possiamo concludere: il sodio bromato non è un ingrediente di Full-On Lipstick.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: in primo luogo, non essere un tifoso dell'FC Slovan Liberec è sufficiente per non essere un critico della Real Sociedad de Fútbol. In secondo luogo, ogni sostenitore del Ferencvárosi TC è un critico della Real Sociedad de Fútbol. Pertanto, ogni sostenitore del Ferencvárosi TC è un tifoso dell'FC Slovan Liberec"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un'argomentazione perfettamente valida: chiunque non sia un consumatore abituale del sapone Kiss My Face e non un utente abituale dello shampoo Redken è un consumatore abituale del sapone Bliss o un utente occasionale dello shampoo Shiseido. Per essere un consumatore abituale del sapone Bliss è necessario possedere un sapone Celtic Sea Salt. Essere un utente occasionale dello shampoo Shiseido è sufficiente per essere un proprietario di un sapone Celtic Sea Salt. Possiamo concludere: non essere un proprietario di un sapone Celtic Sea Salt è sufficiente per essere un consumatore frequente di Kiss My Face soap o non essere un utente abituale dello shampoo Redken.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",invalid
+"""Ecco un argomento perfettamente valido: chiunque sia un nipote di Lance non è un caro amico di Jeffrey. Earnest è un caro amico di Jeffrey. Possiamo concludere: è falso che Earnest sia un nipote di Lance.""
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Non è sempre facile capire chi sta consumando quali prodotti. Il seguente argomento riguarda questa domanda: in primo luogo, essere un consumatore frequente di shampoo Bed Head è necessario per essere proprietario di uno shampoo TRESemmé. In secondo luogo, nessun acquirente occasionale di shampoo Burt's Bees è un consumatore frequente di shampoo Bed Head. Di conseguenza, nessun proprietario di uno shampoo TRESemmé è un acquirente occasionale di shampoo Burt's Bees"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid
+"""Ecco un argomento perfettamente valido: in primo luogo, non è vero che Alma è un tifoso del Burnley FC. In secondo luogo, chiunque non sia sia un sostenitore dell'FC Zenit che un tifoso del Burnley FC è un tifoso dell'FC Lokomotiv Moskva. Quindi, necessariamente, Alma è un tifoso dell'FC Lokomotiv Moskva"".
+L'argomentazione, date le premesse esplicitamente dichiarate, è deduttivamente valida o invalida?
+Opzioni:
+- valido
+- non valido",valid

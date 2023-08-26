@@ -1,0 +1,3499 @@
+input,target
+"Oggi, Susan è andata al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 7 del mattino.
+Linda ha visto Susan andare al parco acquatico dalle 7:00 alle 11:00.
+John ha visto Susan comprare vestiti al centro commerciale dalle 11:00 alle 12:00.
+Jessica ha visto Susan scattare foto vicino alla Torre Eiffel dalle 12:00 alle 13:00.
+Steven ha visto Susan comprare il pranzo alla gastronomia dalle 13:00 alle 14:00.
+Thomas ha visto Susan leggere in biblioteca dalle 14:00 alle 18:00.
+La caffetteria è stata chiusa dopo le 21:00.
+Tra quali orari Susan potrebbe essere andata al bar?
+Opzioni:
+(A) dalle 18:00 alle 21:00
+(B) dalle 7:00 alle 11:00
+(C) dalle 13:00 alle 14:00
+(D) dalle 14:00 alle 18:00",(A)
+"Oggi Emily è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 10:00.
+Linda ha visto Emily aspettare alla stazione dei treni dalle 10:00 alle 12:00.
+Ashley ha visto Emily aggiustare il computer nel negozio di elettronica dalle 12:00 alle 13:00.
+John ha visto Emily camminare verso la Statua della Libertà dalle 13:00 alle 14:00.
+Il campo di calcio è stato chiuso dopo le 20:00.
+In quali momenti Emily potrebbe essere andata al campo di calcio?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 10:00 alle 12:00
+(C) dalle 14:00 alle 20:00
+(D) dalle 13:00 alle 14:00",(C)
+"Oggi Susan è andata al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 11:00.
+Lisa ha visto Susan scattare foto vicino alla Torre Pendente di Pisa dalle 11:00 alle 13:00.
+William ha visto Susan comprare i biscotti in una panetteria dalle 13:00 alle 15:00.
+Jennifer ha visto Susan lavorare in ufficio dalle 15:00 alle 18:00.
+Jason ha visto Susan camminare verso la Statua della Libertà dalle 18:00 alle 19:00.
+Ashley ha visto Susan aspettare all'aeroporto dalle 19:00 alle 21:00.
+Il ristorante è stato chiuso dopo le 22:00.
+Tra quali orari Susan potrebbe essere andata al ristorante?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 11:00 alle 13:00
+(D) dalle 19:00 alle 21:00",(B)
+"Oggi, James è andato in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 5 del mattino.
+Sean ha visto James camminare verso la Statua della Libertà dalle 5:00 alle 6:00.
+Michael ha visto James guidare verso il parco acquatico dalle 6:00 alle 7:00.
+Anthony ha visto James leggere in biblioteca dalle 7:00 alle 15:00.
+William ha visto James prendere un caffè al bar dalle 16:00 alle 21:00.
+La spiaggia è stata chiusa dopo le 21:00.
+In quali momenti James potrebbe essere andato in spiaggia?
+Opzioni:
+(A) dalle 7:00 alle 15:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 16:00 alle 21:00
+(D) dalle 15:00 alle 16:00",(D)
+"Oggi, Jason è andato al cinema. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 10:00.
+Linda ha visto Jason prendere un caffè al bar dalle 10:00 alle 15:00.
+Jennifer ha visto Jason camminare verso la Statua della Libertà dalle 18:00 alle 19:00.
+Sean ha visto Jason comprare un telefono al negozio di elettronica dalle 19:00 alle 22:00.
+Il cinema è stato chiuso dopo le 22:00.
+Tra quali momenti Jason potrebbe essere andato al cinema?
+Opzioni:
+(A) dalle 15:00 alle 18:00
+(B) dalle 10:00 alle 15:00
+(C) dalle 19:00 alle 22:00
+(D) dalle 18:00 alle 19:00",(A)
+"Oggi Elizabeth è andata al luna park. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 6 del mattino.
+Sarah ha visto Elizabeth scattare foto vicino alla Torre Pendente di Pisa dalle 8:00 alle 9:00.
+Jessica ha visto Elizabeth allenarsi in palestra dalle 9:00 alle 15:00.
+Betty ha visto Elizabeth guardare un film a teatro dalle 15:00 alle 19:00.
+James ha visto Elizabeth fare stretching in uno studio di yoga dalle 19:00 alle 20:00.
+Il parco divertimenti è stato chiuso dopo le 20:00.
+In quali momenti Elizabeth potrebbe essere andata al parco dei divertimenti?
+Opzioni:
+(A) dalle 8:00 alle 9:00
+(B) dalle 6:00 alle 8:00
+(C) dalle 15:00 alle 19:00
+(D) dalle 19:00 alle 20:00",(B)
+"Oggi Ashley è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 7 del mattino.
+Leslie ha visto Ashley comprare una bicicletta al negozio di biciclette dalle 11:00 alle 12:00.
+Susan ha visto Ashley allenarsi in palestra dalle 12:00 alle 16:00.
+Elizabeth ha visto Ashley aspettare alla stazione dei treni dalle 16:00 alle 19:00.
+Emily ha visto Ashley scattare foto vicino alla Torre di Pisa dalle 19:00 alle 21:00.
+La libreria è stata chiusa dopo le 21:00.
+In quali momenti Ashley potrebbe essere andata in libreria?
+Opzioni:
+(A) dalle 19:00 alle 21:00
+(B) dalle 11:00 alle 12:00
+(C) dalle 12:00 alle 16:00
+(D) dalle 7:00 alle 11:00",(D)
+"Oggi Sarah è andata al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 6 del mattino.
+Nancy ha visto Sarah aggiustare il computer nel negozio di elettronica dalle 8:00 alle 14:00.
+Betty ha visto Sarah guidare al parco acquatico dalle 14:00 alle 15:00.
+Kimberly ha visto Sarah comprare vestiti al centro commerciale dalle 15:00 alle 16:00.
+Emily ha visto Sarah comprare i biscotti in una panetteria dalle 16:00 alle 18:00.
+David ha visto Sarah frequentare le lezioni a scuola dalle 18:00 alle 20:00.
+Il cantiere è stato chiuso dopo le 20:00.
+In quali momenti Sarah potrebbe essere andata al cantiere?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 6:00 alle 8:00
+(D) dalle 8:00 alle 14:00",(C)
+"Oggi, Leslie è andata nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 7 del mattino.
+Richard ha visto Leslie camminare in giardino dalle 7:00 alle 8:00.
+Leslie ha visto Leslie comprare i biscotti in una panetteria dalle 8:00 alle 9:00.
+Jason ha visto Leslie comprare una bicicletta al negozio di biciclette dalle 9:00 alle 10:00.
+Samantha ha visto Leslie scattare foto vicino alla Torre Eiffel dalle 10:00 alle 15:00.
+Linda ha visto Leslie scattare foto vicino alla Torre di Pisa dalle 18:00 alle 20:00.
+La sala dell'orchestra è stata chiusa dopo le 20:00.
+In quali momenti Leslie potrebbe essere andata nella sala dell'orchestra?
+Opzioni:
+(A) dalle 15:00 alle 18:00
+(B) dalle 9:00 alle 10:00
+(C) dalle 7:00 alle 8:00
+(D) dalle 10:00 alle 15:00",(A)
+"Oggi Sarah è andata allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 9:00.
+Richard ha visto Sarah comprare una bicicletta al negozio di biciclette dalle 9:00 alle 12:00.
+Betty ha visto Sarah aspettare alla stazione dei treni dalle 12:00 alle 13:00.
+Michael ha visto Sarah comprare vestiti al centro commerciale dalle 13:00 alle 15:00.
+Jennifer ha visto Sarah allenarsi in palestra dalle 15:00 alle 18:00.
+Hannah ha visto Sarah comprare un telefono al negozio di elettronica dalle 18:00 alle 20:00.
+Lo studio d'arte è stato chiuso dopo le 22:00.
+Tra quali periodi Sarah potrebbe essere andata allo studio d'arte?
+Opzioni:
+(A) dalle 9:00 alle 12:00
+(B) dalle 15:00 alle 18:00
+(C) dalle 12:00 alle 13:00
+(D) dalle 20:00 alle 22:00",(D)
+"Oggi Sarah è andata al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 9:00.
+William ha visto Sarah comprare una bicicletta al negozio di biciclette dalle 9:00 alle 12:00.
+Emily ha visto Sarah aspettare all'aeroporto dalle 12:00 alle 13:00.
+Jennifer ha visto Sarah scattare foto vicino alla Torre Eiffel dalle 14:00 alle 17:00.
+Jason ha visto Sarah guidare al parco acquatico dalle 17:00 alle 18:00.
+Il negozio di abbigliamento è stato chiuso dopo le 18:00.
+In quali momenti Sarah potrebbe essere andata al negozio di abbigliamento?
+Opzioni:
+(A) dalle 13:00 alle 14:00
+(B) dalle 17:00 alle 18:00
+(C) dalle 9:00 alle 12:00
+(D) dalle 12:00 alle 13:00",(A)
+"Oggi, Richard è andato all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Richard si è svegliato alle 7 del mattino.
+David ha visto Richard leggere in biblioteca dalle 10:00 alle 11:00.
+Samantha ha visto Richard seduto su un tetto dalle 11:00 alle 14:00.
+Ashley ha visto Richard lavorare in ufficio dalle 14:00 alle 16:00.
+Hannah ha visto Richard aggiustare il computer nel negozio di elettronica dalle 16:00 alle 20:00.
+L'aula di fisica è stata chiusa dopo le 20:00.
+In quali momenti Richard avrebbe potuto frequentare l'aula di fisica?
+Opzioni:
+(A) dalle 7:00 alle 10:00
+(B) dalle 14:00 alle 16:00
+(C) dalle 11:00 alle 14:00
+(D) dalle 16:00 alle 20:00",(A)
+"Oggi, Hannah è andata al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 11:00.
+Michael ha visto Hannah prendere un caffè al bar dalle 11:00 alle 15:00.
+James ha visto Hannah comprare vestiti al centro commerciale dalle 15:00 alle 16:00.
+Hannah ha visto Hannah camminare in giardino dalle 18:00 alle 20:00.
+Lisa ha visto Hannah seduta su un tetto dalle 20:00 alle 21:00.
+Tiffany ha visto Hannah aspettare alla stazione dei treni dalle 21:00 alle 22:00.
+Il parco è stato chiuso dopo le 22:00.
+In quali momenti Hannah potrebbe essere andata al parco?
+Opzioni:
+(A) dalle 16:00 alle 18:00
+(B) dalle 18:00 alle 20:00
+(C) dalle 20:00 alle 21:00
+(D) dalle 15:00 alle 16:00",(A)
+"Oggi, Betty è andata alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Betty si è svegliata alle 8:00.
+Elizabeth ha visto Betty comprare il pranzo alla gastronomia dalle 8:00 alle 10:00.
+Tiffany ha visto Betty aggiustare il computer nel negozio di elettronica dalle 10:00 alle 13:00.
+Susan ha visto Betty scattare foto vicino alla Torre Eiffel dalle 13:00 alle 14:00.
+Betty ha visto Betty prendere un caffè al bar dalle 19:00 alle 22:00.
+La mostra d'arte è stata chiusa dopo le 22:00.
+Tra quali orari Betty potrebbe essere andata alla mostra d'arte?
+Opzioni:
+(A) dalle 14:00 alle 19:00
+(B) dalle 19:00 alle 22:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 13:00 alle 14:00",(A)
+"Oggi, Leslie è andata al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 5 del mattino.
+Richard ha visto Leslie comprare un telefono al negozio di elettronica dalle 5:00 alle 7:00.
+Jason ha visto Leslie aspettare all'aeroporto dalle 11:00 alle 18:00.
+David ha visto Leslie frequentare le lezioni a scuola dalle 18:00 alle 22:00.
+Il negozio di abbigliamento è stato chiuso dopo le 22:00.
+In quali momenti Leslie potrebbe essere andata al negozio di abbigliamento?
+Opzioni:
+(A) dalle 11:00 alle 18:00
+(B) dalle 5:00 alle 7:00
+(C) dalle 7:00 alle 11:00
+(D) dalle 18:00 alle 22:00",(C)
+"Oggi Sean è andato nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 5 del mattino.
+Sarah ha visto Sean aggiustare il computer al negozio di elettronica dalle 5:00 alle 6:00.
+Ashley ha visto Sean comprare vestiti al centro commerciale dalle 6:00 alle 7:00.
+Jessica ha visto Sean seduto su un tetto dalle 7:00 alle 9:00.
+Steven ha visto Sean camminare verso la Statua della Libertà dalle 17:00 alle 20:00.
+Michael ha visto Sean leggere in biblioteca dalle 20:00 alle 21:00.
+La sala dell'orchestra è stata chiusa dopo le 21:00.
+In quali momenti Sean potrebbe essere andato nella sala dell'orchestra?
+Opzioni:
+(A) dalle 9:00 alle 17:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 6:00 alle 7:00
+(D) dalle 20:00 alle 21:00",(A)
+"Oggi, Jessica è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 5 del mattino.
+Michael ha visto Jessica comprare vestiti al centro commerciale dalle 5:00 alle 6:00.
+Steven ha visto Jessica comprare una bicicletta al negozio di biciclette dalle 6:00 alle 7:00.
+Sean ha visto Jessica aspettare alla stazione dei treni dalle 7:00 alle 14:00.
+Elizabeth ha visto Jessica scattare foto vicino alla Torre Eiffel dalle 14:00 alle 18:00.
+Sarah ha visto Jessica camminare verso la Statua della Libertà dalle 18:00 alle 21:00.
+Il campo da basket è stato chiuso dopo le 22:00.
+Tra quali momenti Jessica potrebbe essere andata al campo da basket?
+Opzioni:
+(A) dalle 18:00 alle 21:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 21:00 alle 22:00
+(D) dalle 14:00 alle 18:00",(C)
+"Oggi, Jessica è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 5 del mattino.
+Emily ha visto Jessica fare stretching in uno studio di yoga dalle 5:00 alle 8:00.
+Thomas ha visto Jessica scattare foto vicino alla Torre Eiffel dalle 8:00 alle 9:00.
+Richard ha visto Jessica aggiustare il computer nel negozio di elettronica dalle 12:00 alle 15:00.
+Kimberly ha visto Jessica guardare un film a teatro dalle 15:00 alle 19:00.
+Sarah ha visto Jessica guidare verso il parco acquatico dalle 19:00 alle 22:00.
+La spiaggia è stata chiusa dopo le 22:00.
+In quali momenti Jessica potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 8:00 alle 9:00
+(B) dalle 12:00 alle 15:00
+(C) dalle 9:00 alle 12:00
+(D) dalle 5:00 alle 8:00",(C)
+"Oggi Lisa è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Lisa si è svegliata alle 6 del mattino.
+Emily ha visto Lisa aspettare all'aeroporto dalle 8:00 alle 10:00.
+David ha visto Lisa frequentare le lezioni a scuola dalle 10:00 alle 13:00.
+Linda ha visto Lisa riparare il computer nel negozio di elettronica dalle 13:00 alle 15:00.
+Hannah ha visto Lisa prendere un caffè al bar dalle 15:00 alle 20:00.
+William ha visto Lisa comprare vestiti al centro commerciale dalle 20:00 alle 22:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+In quali momenti Lisa sarebbe potuta andare al campo di calcio?
+Opzioni:
+(A) dalle 13:00 alle 15:00
+(B) dalle 6:00 alle 8:00
+(C) dalle 10:00 alle 13:00
+(D) dalle 20:00 alle 22:00",(B)
+"Oggi Ashley è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+Jason ha visto Ashley comprare il pranzo alla gastronomia dalle 11:00 alle 13:00.
+Emily ha visto Ashley guidare verso il parco acquatico dalle 13:00 alle 15:00.
+Kimberly ha visto Ashley fare stretching in uno studio di yoga dalle 15:00 alle 18:00.
+La libreria è stata chiusa dopo le 18:00.
+In quali momenti Ashley potrebbe essere andata in libreria?
+Opzioni:
+(A) dalle 13:00 alle 15:00
+(B) dalle 11:00 alle 13:00
+(C) dalle 15:00 alle 18:00
+(D) dalle 5:00 alle 11:00",(D)
+"Oggi Tiffany è andata al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tiffany si è svegliata alle 6 del mattino.
+Sarah ha visto Tiffany leggere in biblioteca dalle 6:00 alle 9:00.
+Betty ha visto Tiffany andare al parco acquatico dalle 9:00 alle 10:00.
+Linda ha visto Tiffany comprare un telefono nel negozio di elettronica dalle 12:00 alle 18:00.
+Mary ha visto Tiffany allenarsi in palestra dalle 18:00 alle 22:00.
+Il mercato è stato chiuso dopo le 22:00.
+In quali momenti Tiffany sarebbe potuta andare al mercato?
+Opzioni:
+(A) dalle 6:00 alle 9:00
+(B) dalle 10:00 alle 12:00
+(C) dalle 18:00 alle 22:00
+(D) dalle 12:00 alle 18:00",(B)
+"Oggi, Betty è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Betty si è svegliata alle 8:00.
+Nancy ha visto Betty aspettare all'aeroporto dalle 8:00 alle 10:00.
+Tiffany ha visto Betty fare stretching in uno studio di yoga dalle 10:00 alle 14:00.
+James ha visto Betty leggere in biblioteca dalle 14:00 alle 16:00.
+Steven ha visto Betty comprare una bicicletta al negozio di biciclette dalle 16:00 alle 17:00.
+Mary ha visto Betty scattare foto vicino alla Torre di Pisa dalle 17:00 alle 18:00.
+La libreria è stata chiusa dopo le 20:00.
+In quali momenti Betty potrebbe essere andata in libreria?
+Opzioni:
+(A) dalle 14:00 alle 16:00
+(B) dalle 10:00 alle 14:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 18:00 alle 20:00",(D)
+"Oggi Linda è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Linda si è svegliata alle 10:00.
+Elizabeth ha visto Linda aspettare alla stazione dei treni dalle 10:00 alle 12:00.
+David ha visto Linda lavorare in ufficio dalle 14:00 alle 16:00.
+Sarah ha visto Linda aspettare all'aeroporto dalle 16:00 alle 17:00.
+Ashley ha visto Linda frequentare le lezioni a scuola dalle 17:00 alle 21:00.
+Betty ha visto Linda camminare in giardino dalle 21:00 alle 22:00.
+La spiaggia è stata chiusa dopo le 22:00.
+In quali momenti Linda potrebbe essere andata in spiaggia?
+Opzioni:
+(A) Dalle 12:00 alle 14:00
+(B) dalle 10:00 alle 12:00
+(C) dalle 14:00 alle 16:00
+(D) dalle 16:00 alle 17:00",(A)
+"Oggi, William è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 6 del mattino.
+William ha visto William allenarsi in palestra dalle 6:00 alle 7:00.
+Sean ha visto William scattare foto vicino alla Torre Eiffel dalle 9:00 alle 12:00.
+Susan ha visto William lavorare in ufficio dalle 12:00 alle 20:00.
+Nancy ha visto William comprare una bicicletta al negozio di biciclette dalle 20:00 alle 22:00.
+Lo studio d'arte è stato chiuso dopo le 22:00.
+Tra quali periodi William potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 20:00 alle 22:00
+(B) dalle 9:00 alle 12:00
+(C) dalle 6:00 alle 7:00
+(D) dalle 7:00 alle 9:00",(D)
+"Oggi, Andrew è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 8:00.
+Richard ha visto Andrew comprare un telefono al negozio di elettronica dalle 8:00 alle 10:00.
+Samantha ha visto Andrew aggiustare il computer nel negozio di elettronica dalle 10:00 alle 14:00.
+Michael ha visto Andrew leggere in biblioteca dalle 15:00 alle 16:00.
+Sarah ha visto Andrew comprare il pranzo alla gastronomia dalle 16:00 alle 18:00.
+Lo studio d'arte è stato chiuso dopo le 18:00.
+Tra quali periodi Andrew potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 16:00 alle 18:00
+(D) dalle 15:00 alle 16:00",(B)
+"Oggi Sean è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 5 del mattino.
+James ha visto Sean guardare un film al cinema dalle 5:00 alle 6:00.
+David ha visto Sean comprare i biscotti in una panetteria dalle 6:00 alle 7:00.
+Sarah ha visto Sean allenarsi in palestra dalle 7:00 alle 9:00.
+William ha visto Sean frequentare le lezioni a scuola dalle 11:00 alle 14:00.
+Richard ha visto Sean scattare foto vicino alla Torre di Pisa dalle 14:00 alle 16:00.
+Il campo da basket è stato chiuso dopo le 16:00.
+In quali momenti Sean sarebbe potuto andare al campo da basket?
+Opzioni:
+(A) dalle 9:00 alle 11:00
+(B) dalle 14:00 alle 16:00
+(C) dalle 6:00 alle 7:00
+(D) dalle 11:00 alle 14:00",(A)
+"Oggi, David è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 7:00.
+Michael ha visto David aspettare alla stazione dei treni dalle 7:00 alle 12:00.
+Thomas ha visto David seduto su un tetto dalle 12:00 alle 14:00.
+Tiffany ha visto David prendere un caffè al bar dalle 14:00 alle 15:00.
+James ha visto David aggiustare il computer nel negozio di elettronica dalle 15:00 alle 17:00.
+Mark ha visto David leggere in biblioteca dalle 17:00 alle 18:00.
+La stazione di servizio è stata chiusa dopo le 20:00.
+In quali orari David potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 14:00 alle 15:00
+(B) dalle 18:00 alle 20:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 7:00 alle 12:00",(B)
+"Oggi, Samantha è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 5 del mattino.
+Sarah ha visto Samantha comprare un telefono al negozio di elettronica dalle 5:00 alle 6:00.
+Richard ha visto Samantha aspettare all'aeroporto dalle 6:00 alle 12:00.
+John ha visto Samantha comprare vestiti al centro commerciale dalle 12:00 alle 14:00.
+Anthony ha visto Samantha seduta su un tetto dalle 14:00 alle 15:00.
+La panetteria è stata chiusa dopo le 21:00.
+In quali momenti Samantha potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 6:00 alle 12:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 5:00 alle 6:00
+(D) dalle 15:00 alle 21:00",(D)
+"Oggi, William è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 9:00.
+Linda ha visto William giocare a tennis al campo da tennis dalle 9:00 alle 11:00.
+Emily ha visto William frequentare le lezioni a scuola dalle 11:00 alle 13:00.
+Nancy ha visto William camminare in giardino dalle 18:00 alle 19:00.
+La caffetteria è stata chiusa dopo le 19:00.
+Tra quali orari William potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 9:00 alle 11:00
+(C) dalle 11:00 alle 13:00
+(D) dalle 13:00 alle 18:00",(D)
+"Oggi, Hannah è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 5 del mattino.
+Richard ha visto Hannah seduta su un tetto dalle 5:00 alle 7:00.
+Ashley ha visto Hannah prendere un caffè al bar dalle 9:00 alle 19:00.
+Jennifer ha visto Hannah scattare foto vicino alla Torre di Pisa dalle 19:00 alle 20:00.
+La spiaggia è stata chiusa dopo le 20:00.
+In quali momenti Hannah potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 19:00 alle 20:00
+(B) dalle 7:00 alle 9:00
+(C) dalle 9:00 alle 19:00
+(D) dalle 5:00 alle 7:00",(B)
+"Oggi, Richard è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Richard si è svegliato alle 10:00.
+Jason ha visto Richard aspettare alla stazione dei treni dalle 10:00 alle 12:00.
+Sean ha visto Richard camminare in giardino dalle 12:00 alle 15:00.
+David ha visto Richard aggiustare il computer nel negozio di elettronica dalle 15:00 alle 17:00.
+La caffetteria è stata chiusa dopo le 19:00.
+In quali momenti Richard poteva essere andato al bar?
+Opzioni:
+(A) dalle 17:00 alle 19:00
+(B) dalle 15:00 alle 17:00
+(C) dalle 12:00 alle 15:00
+(D) dalle 10:00 alle 12:00",(A)
+"Oggi Sarah è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 9:00.
+John ha visto Sarah prendere un caffè al bar dalle 10:00 alle 12:00.
+Thomas ha visto Sarah comprare il pranzo alla gastronomia dalle 12:00 alle 16:00.
+Richard ha visto Sarah guidare verso il parco acquatico dalle 16:00 alle 17:00.
+La panetteria è stata chiusa dopo le 17:00.
+In quali momenti Sarah potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 16:00 alle 17:00
+(B) dalle 12:00 alle 16:00
+(C) dalle 9:00 alle 10:00
+(D) dalle 10:00 alle 12:00",(C)
+"Oggi Samantha è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 6 del mattino.
+James ha visto Samantha comprare il pranzo alla gastronomia dalle 6:00 alle 13:00.
+Emily ha visto Samantha giocare a tennis al campo da tennis dalle 13:00 alle 14:00.
+Kimberly ha visto Samantha allenarsi in palestra dalle 16:00 alle 17:00.
+La piscina è stata chiusa dopo le 17:00.
+In quali momenti Samantha potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 16:00 alle 17:00
+(B) dalle 14:00 alle 16:00
+(C) dalle 6:00 alle 13:00
+(D) dalle 13:00 alle 14:00",(B)
+"Oggi Ashley è andata al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 7 del mattino.
+Kimberly ha visto Ashley guidare verso il parco acquatico dalle 7:00 alle 8:00.
+Lisa ha visto Ashley comprare vestiti al centro commerciale dalle 8:00 alle 10:00.
+Hannah ha visto Ashley scattare foto vicino alla Torre Eiffel dalle 10:00 alle 15:00.
+Jessica ha visto Ashley camminare in giardino dalle 15:00 alle 16:00.
+William ha visto Ashley prendere un caffè al bar dalle 16:00 alle 19:00.
+Il parco divertimenti è stato chiuso dopo le 21:00.
+In quali momenti Ashley potrebbe essere andata al parco dei divertimenti?
+Opzioni:
+(A) dalle 7:00 alle 8:00
+(B) dalle 8:00 alle 10:00
+(C) dalle 16:00 alle 19:00
+(D) dalle 19:00 alle 21:00",(D)
+"Oggi, David è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+Jennifer ha visto David scattare foto vicino alla Torre Pendente di Pisa dalle 7:00 alle 9:00.
+Kimberly ha visto David comprare una bicicletta al negozio di biciclette dalle 9:00 alle 15:00.
+Linda ha visto David camminare verso la Statua della Libertà dalle 15:00 alle 21:00.
+La stazione di servizio è stata chiusa dopo le 21:00.
+In quali orari David potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 5:00 alle 7:00
+(B) dalle 7:00 alle 9:00
+(C) dalle 15:00 alle 21:00
+(D) dalle 9:00 alle 15:00",(A)
+"Oggi, David è andato allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+Betty ha visto David giocare a tennis al campo da tennis dalle 5:00 alle 8:00.
+Anthony ha visto David camminare verso la Statua della Libertà dalle 8:00 alle 11:00.
+Lisa ha visto David scattare foto vicino alla Torre Eiffel dalle 12:00 alle 17:00.
+Lo studio di danza è stato chiuso dopo le 17:00.
+Tra quali periodi David potrebbe essere andato allo studio di danza?
+Opzioni:
+(A) dalle 12:00 alle 17:00
+(B) dalle 11:00 alle 12:00
+(C) dalle 5:00 alle 8:00
+(D) dalle 8:00 alle 11:00",(B)
+"Oggi Anthony è andato nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 6 del mattino.
+Samantha ha visto Anthony fare stretching in uno studio di yoga dalle 6:00 alle 12:00.
+Nancy ha visto Anthony guidare verso il parco acquatico dalle 12:00 alle 14:00.
+David ha visto Anthony guardare un film a teatro dalle 14:00 alle 15:00.
+William ha visto Anthony aggiustare il computer nel negozio di elettronica dalle 17:00 alle 18:00.
+Sarah ha visto Anthony leggere in biblioteca dalle 18:00 alle 19:00.
+La sala dell'orchestra è stata chiusa dopo le 19:00.
+In quali momenti Anthony potrebbe essere andato nella sala dell'orchestra?
+Opzioni:
+(A) Dalle 12:00 alle 14:00
+(B) dalle 18:00 alle 19:00
+(C) dalle 15:00 alle 17:00
+(D) dalle 14:00 alle 15:00",(C)
+"Oggi, James è andato allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 7 del mattino.
+Thomas ha visto James scattare foto vicino alla Torre Eiffel dalle 7:00 alle 12:00.
+Mark ha visto James guidare verso il parco acquatico dalle 12:00 alle 14:00.
+Anthony ha visto James comprare un telefono al negozio di elettronica dalle 14:00 alle 16:00.
+Sarah ha visto James comprare il pranzo alla gastronomia dalle 17:00 alle 18:00.
+Lo studio di danza è stato chiuso dopo le 18:00.
+In quali momenti James potrebbe essere andato allo studio di danza?
+Opzioni:
+(A) dalle 14:00 alle 16:00
+(B) dalle 7:00 alle 12:00
+(C) dalle 16:00 alle 17:00
+(D) dalle 12:00 alle 14:00",(C)
+"Oggi, David è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 8:00.
+Elizabeth ha visto David aspettare all'aeroporto dalle 10:00 alle 13:00.
+David ha visto David giocare a tennis al campo da tennis dalle 13:00 alle 14:00.
+Jessica ha visto David allenarsi in palestra dalle 14:00 alle 15:00.
+Susan ha visto David aspettare alla stazione dei treni dalle 15:00 alle 16:00.
+Sean ha visto David seduto su un tetto dalle 16:00 alle 18:00.
+La caffetteria è stata chiusa dopo le 18:00.
+In quali momenti David potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 10:00 alle 13:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 13:00 alle 14:00",(C)
+"Oggi, Andrew è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 8:00.
+Elizabeth ha visto Andrew aggiustare il computer nel negozio di elettronica dalle 11:00 alle 15:00.
+Jennifer ha visto Andrew comprare una bicicletta al negozio di biciclette dalle 15:00 alle 16:00.
+Anthony ha visto Andrew comprare i biscotti in una panetteria dalle 16:00 alle 18:00.
+Betty ha visto Andrew guardare un film a teatro dalle 18:00 alle 20:00.
+La caffetteria è stata chiusa dopo le 20:00.
+Tra quali orari Andrew potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 18:00 alle 20:00
+(C) dalle 8:00 alle 11:00
+(D) dalle 11:00 alle 15:00",(C)
+"Oggi Susan è andata al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 7 del mattino.
+Mary ha visto Susan aggiustare il computer nel negozio di elettronica dalle 13:00 alle 14:00.
+Michael ha visto Susan prendere un caffè al bar dalle 14:00 alle 15:00.
+Richard ha visto Susan aspettare alla stazione dei treni dalle 15:00 alle 17:00.
+Linda ha visto Susan scattare foto vicino alla Torre Eiffel dalle 17:00 alle 18:00.
+Il parco è stato chiuso dopo le 18:00.
+Tra quali orari Susan potrebbe essere andata al parco?
+Opzioni:
+(A) dalle 17:00 alle 18:00
+(B) dalle 15:00 alle 17:00
+(C) dalle 7:00 alle 13:00
+(D) dalle 14:00 alle 15:00",(C)
+"Oggi, Betty è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Betty si è svegliata alle 6 del mattino.
+Ashley ha visto Betty fare stretching in uno studio di yoga dalle 6:00 alle 7:00.
+Anthony ha visto Betty comprare i biscotti in una panetteria dalle 8:00 alle 17:00.
+Thomas ha visto Betty aspettare alla stazione dei treni dalle 17:00 alle 20:00.
+La libreria è stata chiusa dopo le 20:00.
+In quali momenti Betty potrebbe essere andata in libreria?
+Opzioni:
+(A) dalle 7:00 alle 8:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 8:00 alle 17:00
+(D) dalle 17:00 alle 20:00",(A)
+"Oggi, David è andato al museo. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 8:00.
+Steven ha visto David giocare a tennis al campo da tennis dalle 10:00 alle 11:00.
+James ha visto David fare stretching in uno studio di yoga dalle 11:00 alle 16:00.
+Nancy ha visto David allenarsi in palestra dalle 16:00 alle 17:00.
+Richard ha visto David comprare il pranzo alla gastronomia dalle 17:00 alle 18:00.
+Il museo è stato chiuso dopo le 18:00.
+In quali momenti David potrebbe essere andato al museo?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 11:00 alle 16:00
+(C) dalle 10:00 alle 11:00
+(D) dalle 17:00 alle 18:00",(A)
+"Oggi Sean è andato al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 11:00.
+Leslie ha visto Sean aspettare alla stazione dei treni dalle 11:00 alle 13:00.
+William ha visto Sean comprare vestiti al centro commerciale dalle 13:00 alle 15:00.
+Jennifer ha visto Sean seduto su un tetto dalle 18:00 alle 20:00.
+Il parco divertimenti è stato chiuso dopo le 20:00.
+In quali momenti Sean potrebbe essere andato al parco dei divertimenti?
+Opzioni:
+(A) dalle 18:00 alle 20:00
+(B) dalle 13:00 alle 15:00
+(C) dalle 11:00 alle 13:00
+(D) dalle 15:00 alle 18:00",(D)
+"Oggi, Michael è andato all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 5 del mattino.
+Samantha ha visto Michael comprare il pranzo alla gastronomia dalle 5:00 alle 8:00.
+Jennifer ha visto Michael fare stretching in uno studio di yoga dalle 8:00 alle 9:00.
+Andrew ha visto Michael scattare foto vicino alla Torre Pendente di Pisa dalle 13:00 alle 22:00.
+L'aula di fisica è stata chiusa dopo le 22:00.
+In quali momenti Michael potrebbe essere andato all'aula di fisica?
+Opzioni:
+(A) dalle 9:00 alle 13:00
+(B) dalle 13:00 alle 22:00
+(C) dalle 5:00 alle 8:00
+(D) dalle 8:00 alle 9:00",(A)
+"Oggi, Jessica è andata al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 15:00.
+Mary ha visto Jessica guidare verso il parco acquatico dalle 15:00 alle 16:00.
+Lisa ha visto Jessica camminare verso la Statua della Libertà dalle 16:00 alle 17:00.
+Leslie ha visto Jessica scattare foto vicino alla Torre di Pisa dalle 19:00 alle 22:00.
+Il ristorante è stato chiuso dopo le 22:00.
+Tra quali orari Jessica potrebbe essere andata al ristorante?
+Opzioni:
+(A) dalle 19:00 alle 22:00
+(B) dalle 16:00 alle 17:00
+(C) dalle 15:00 alle 16:00
+(D) dalle 17:00 alle 19:00",(D)
+"Oggi Mark è andato in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Marco si è svegliato alle 5 del mattino.
+Mary ha visto Mark che faceva stretching in uno studio di yoga dalle 5:00 alle 10:00.
+Betty ha visto Mark frequentare le lezioni a scuola dalle 10:00 alle 17:00.
+Emily ha visto Mark seduto su un tetto dalle 17:00 alle 20:00.
+Jessica ha visto Mark camminare in giardino dalle 21:00 alle 22:00.
+La libreria è stata chiusa dopo le 22:00.
+In quali momenti Mark potrebbe essere andato in libreria?
+Opzioni:
+(A) dalle 20:00 alle 21:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 17:00 alle 20:00
+(D) dalle 10:00 alle 17:00",(A)
+"Oggi Lisa è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Lisa si è svegliata alle 5 del mattino.
+Sean ha visto Lisa giocare a tennis al campo da tennis dalle 5:00 alle 10:00.
+Thomas ha visto Lisa aggiustare il computer nel negozio di elettronica dalle 10:00 alle 11:00.
+William ha visto Lisa guardare un film a teatro dalle 15:00 alle 20:00.
+John ha visto Lisa camminare in giardino dalle 20:00 alle 22:00.
+La panetteria è stata chiusa dopo le 22:00.
+In quali momenti Lisa potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 10:00 alle 11:00
+(B) dalle 5:00 alle 10:00
+(C) dalle 11:00 alle 15:00
+(D) dalle 20:00 alle 22:00",(C)
+"Oggi Thomas è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Thomas si è svegliato alle 6 del mattino.
+James ha visto Thomas camminare in giardino dalle 6:00 alle 9:00.
+Andrew ha visto Thomas comprare il pranzo alla gastronomia dalle 12:00 alle 19:00.
+Sarah ha visto Thomas guardare un film a teatro dalle 19:00 alle 20:00.
+Il negozio di abbigliamento è stato chiuso dopo le 20:00.
+In quali momenti Thomas potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 19:00 alle 20:00
+(B) dalle 9:00 alle 12:00
+(C) dalle 6:00 alle 9:00
+(D) dalle 12:00 alle 19:00",(B)
+"Oggi Leslie è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 5 del mattino.
+Sarah ha visto Leslie seduta su un tetto dalle 5:00 alle 8:00.
+William ha visto Leslie camminare verso la Statua della Libertà dalle 8:00 alle 12:00.
+Susan ha visto Leslie fare stretching in uno studio di yoga dalle 12:00 alle 14:00.
+John ha visto Leslie lavorare in ufficio dalle 16:00 alle 18:00.
+Emily ha visto Leslie prendere un caffè al bar dalle 18:00 alle 22:00.
+La piscina è stata chiusa dopo le 22:00.
+In quali momenti Leslie potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 18:00 alle 22:00
+(B) dalle 14:00 alle 16:00
+(C) dalle 5:00 alle 8:00
+(D) dalle 8:00 alle 12:00",(B)
+"Oggi Tiffany è andata al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tiffany si è svegliata alle 6 del mattino.
+Michael ha visto Tiffany comprare il pranzo alla gastronomia dalle 12:00 alle 17:00.
+Andrew ha visto Tiffany giocare a tennis al campo da tennis dalle 17:00 alle 18:00.
+John ha visto Tiffany guidare verso il parco acquatico dalle 18:00 alle 20:00.
+Sarah ha visto Tiffany guardare un film a teatro dalle 20:00 alle 22:00.
+Il negozio di abbigliamento è stato chiuso dopo le 22:00.
+In quali momenti Tiffany potrebbe essere andata al negozio di abbigliamento?
+Opzioni:
+(A) dalle 17:00 alle 18:00
+(B) dalle 18:00 alle 20:00
+(C) dalle 6:00 alle 12:00
+(D) dalle 20:00 alle 22:00",(C)
+"Oggi, William è andato in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 7 del mattino.
+Tiffany ha visto William allenarsi in palestra dalle 7:00 alle 8:00.
+Sean ha visto William guidare verso il parco acquatico dalle 12:00 alle 13:00.
+Anthony ha visto William aspettare alla stazione dei treni dalle 13:00 alle 15:00.
+James ha visto William scattare foto vicino alla Torre Eiffel dalle 15:00 alle 17:00.
+Jessica ha visto William lavorare in ufficio dalle 17:00 alle 19:00.
+La libreria è stata chiusa dopo le 19:00.
+Tra quali orari William potrebbe essere andato in libreria?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 13:00 alle 15:00
+(C) dalle 15:00 alle 17:00
+(D) dalle 8:00 alle 12:00",(D)
+"Oggi Leslie è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 7 del mattino.
+Ashley ha visto Leslie fare stretching in uno studio di yoga dalle 7:00 alle 9:00.
+Andrew ha visto Leslie giocare a tennis al campo da tennis dalle 9:00 alle 11:00.
+Jason ha visto Leslie camminare verso la Statua della Libertà dalle 11:00 alle 16:00.
+La spiaggia è stata chiusa dopo le 20:00.
+In quali momenti Leslie potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 9:00 alle 11:00
+(B) dalle 16:00 alle 20:00
+(C) dalle 7:00 alle 9:00
+(D) dalle 11:00 alle 16:00",(B)
+"Oggi, Thomas è andato all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Thomas si è svegliato alle 6 del mattino.
+Mary ha visto Thomas giocare a tennis al campo da tennis dalle 12:00 alle 13:00.
+Linda ha visto Thomas seduto su un tetto dalle 13:00 alle 15:00.
+Jason ha visto Thomas allenarsi in palestra dalle 15:00 alle 19:00.
+Michael ha visto Thomas comprare una bicicletta al negozio di biciclette dalle 19:00 alle 22:00.
+L'aula di fisica è stata chiusa dopo le 22:00.
+In quali momenti Thomas avrebbe potuto frequentare l'aula di fisica?
+Opzioni:
+(A) dalle 6:00 alle 12:00
+(B) dalle 12:00 alle 13:00
+(C) dalle 15:00 alle 19:00
+(D) dalle 19:00 alle 22:00",(A)
+"Oggi, Emily è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 5 del mattino.
+Nancy ha visto Emily seduta su un tetto dalle 6:00 alle 7:00.
+Betty ha visto Emily leggere in biblioteca dalle 7:00 alle 8:00.
+Jason ha visto Emily comprare il pranzo alla gastronomia dalle 8:00 alle 18:00.
+David ha visto Emily frequentare le lezioni a scuola dalle 18:00 alle 19:00.
+Samantha ha visto Emily guidare verso il parco acquatico dalle 19:00 alle 22:00.
+La panetteria è stata chiusa dopo le 22:00.
+In quali momenti Emily potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 5:00 alle 6:00
+(B) dalle 8:00 alle 18:00
+(C) dalle 18:00 alle 19:00
+(D) dalle 7:00 alle 8:00",(A)
+"Oggi Emily è andata al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 8:00.
+Emily ha visto Emily scattare foto vicino alla Torre Eiffel dalle 9:00 alle 10:00.
+Andrew ha visto Emily comprare vestiti al centro commerciale dalle 10:00 alle 11:00.
+Leslie ha visto Emily seduta su un tetto dalle 11:00 alle 13:00.
+Linda ha visto Emily lavorare in ufficio dalle 13:00 alle 16:00.
+William ha visto Emily comprare una bicicletta al negozio di biciclette dalle 16:00 alle 22:00.
+Il cantiere è stato chiuso dopo le 22:00.
+In quali momenti Emily potrebbe essere andata al cantiere?
+Opzioni:
+(A) dalle 10:00 alle 11:00
+(B) dalle 9:00 alle 10:00
+(C) dalle 8:00 alle 9:00
+(D) dalle 16:00 alle 22:00",(C)
+"Oggi David è andato in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 9:00.
+Kimberly ha visto David allenarsi in palestra dalle 9:00 alle 10:00.
+Michael ha visto David guardare un film a teatro dalle 11:00 alle 12:00.
+Jennifer ha visto David frequentare le lezioni a scuola dalle 12:00 alle 13:00.
+Jason ha visto David comprare un telefono al negozio di elettronica dalle 13:00 alle 14:00.
+William ha visto David seduto su un tetto dalle 14:00 alle 22:00.
+La piscina è stata chiusa dopo le 22:00.
+In quali orari David potrebbe essere andato in piscina?
+Opzioni:
+(A) dalle 10:00 alle 11:00
+(B) dalle 12:00 alle 13:00
+(C) dalle 14:00 alle 22:00
+(D) dalle 9:00 alle 10:00",(A)
+"Oggi Michael è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 10:00.
+John ha visto Michael scattare foto vicino alla Torre Eiffel dalle 12:00 alle 14:00.
+Samantha ha visto Michael guardare un film a teatro dalle 14:00 alle 16:00.
+Thomas ha visto Michael seduto su un tetto dalle 16:00 alle 20:00.
+Il campo di calcio è stato chiuso dopo le 20:00.
+Tra quali momenti Michael potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) Dalle 12:00 alle 14:00
+(B) dalle 10:00 alle 12:00
+(C) dalle 14:00 alle 16:00
+(D) dalle 16:00 alle 20:00",(B)
+"Oggi Richard è andato al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Richard si è svegliato alle 5 del mattino.
+Mary ha visto Richard comprare un telefono al negozio di elettronica dalle 11:00 alle 18:00.
+Leslie ha visto Richard allenarsi in palestra dalle 18:00 alle 20:00.
+Kimberly ha visto Richard frequentare le lezioni a scuola dalle 20:00 alle 21:00.
+Nancy ha visto Richard comprare i biscotti in una panetteria dalle 21:00 alle 22:00.
+Il parco divertimenti è stato chiuso dopo le 22:00.
+In quali momenti Richard poteva essere andato al parco dei divertimenti?
+Opzioni:
+(A) dalle 18:00 alle 20:00
+(B) dalle 5:00 alle 11:00
+(C) dalle 11:00 alle 18:00
+(D) dalle 20:00 alle 21:00",(B)
+"Oggi Richard è andato al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Richard si è svegliato alle 8:00.
+Betty ha visto Richard leggere in biblioteca dalle 9:00 alle 14:00.
+David ha visto Richard aggiustare il computer nel negozio di elettronica dalle 14:00 alle 16:00.
+Mary ha visto Richard scattare foto vicino alla Torre Eiffel dalle 16:00 alle 17:00.
+Hannah ha visto Richard seduto su un tetto dalle 17:00 alle 18:00.
+Susan ha visto Richard andare al parco acquatico dalle 18:00 alle 19:00.
+La panetteria è stata chiusa dopo le 19:00.
+In quali momenti Richard poteva essere andato al panificio?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 9:00 alle 14:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 8:00 alle 9:00",(D)
+"Oggi Thomas è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tommaso si è svegliato alle 8:00.
+Samantha ha visto Thomas fare stretching in uno studio di yoga dalle 9:00 alle 12:00.
+Thomas ha visto Thomas comprare i biscotti in una panetteria dalle 12:00 alle 13:00.
+Kimberly ha visto Thomas lavorare in ufficio dalle 13:00 alle 16:00.
+Andrew ha visto Thomas aspettare alla stazione dei treni dalle 16:00 alle 17:00.
+Ashley ha visto Thomas comprare vestiti al centro commerciale dalle 17:00 alle 20:00.
+La stazione di servizio è stata chiusa dopo le 20:00.
+In quali momenti Thomas potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 8:00 alle 9:00
+(B) dalle 12:00 alle 13:00
+(C) dalle 17:00 alle 20:00
+(D) dalle 13:00 alle 16:00",(A)
+"Oggi Nancy è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 6 del mattino.
+John ha visto Nancy camminare in giardino dalle 6:00 alle 10:00.
+Tiffany ha visto Nancy lavorare in ufficio dalle 10:00 alle 11:00.
+Leslie ha visto Nancy comprare vestiti al centro commerciale dalle 11:00 alle 12:00.
+Michael ha visto Nancy scattare foto vicino alla Torre di Pisa dalle 13:00 alle 18:00.
+La spiaggia è stata chiusa dopo le 18:00.
+In quali momenti Nancy sarebbe potuta andare in spiaggia?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 10:00 alle 11:00
+(C) dalle 6:00 alle 10:00
+(D) dalle 13:00 alle 18:00",(A)
+"Oggi, Andrew è andato allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 8:00.
+Thomas ha visto Andrew giocare a tennis al campo da tennis dalle 8:00 alle 11:00.
+Mary ha visto Andrew leggere in biblioteca dalle 11:00 alle 13:00.
+Michael ha visto Andrew aggiustare il computer nel negozio di elettronica dalle 20:00 alle 22:00.
+Lo studio di danza è stato chiuso dopo le 22:00.
+In quali momenti Andrew potrebbe essere andato allo studio di danza?
+Opzioni:
+(A) dalle 20:00 alle 22:00
+(B) dalle 11:00 alle 13:00
+(C) dalle 8:00 alle 11:00
+(D) dalle 13:00 alle 20:00",(D)
+"Oggi, Samantha è andata al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 6 del mattino.
+Richard ha visto Samantha guardare un film a teatro dalle 6:00 alle 10:00.
+Mark ha visto Samantha andare al parco acquatico dalle 10:00 alle 11:00.
+John ha visto Samantha fare stretching in uno studio di yoga dalle 11:00 alle 18:00.
+La caffetteria è stata chiusa dopo le 20:00.
+Tra quali orari Samantha potrebbe essere andata al bar?
+Opzioni:
+(A) dalle 11:00 alle 18:00
+(B) dalle 10:00 alle 11:00
+(C) dalle 6:00 alle 10:00
+(D) dalle 18:00 alle 20:00",(D)
+"Oggi, Betty è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Betty si è svegliata alle 7 del mattino.
+Samantha ha visto Betty prendere un caffè al bar dalle 7:00 alle 9:00.
+Leslie ha visto Betty aspettare all'aeroporto dalle 9:00 alle 14:00.
+Susan ha visto Betty lavorare in ufficio dalle 17:00 alle 18:00.
+Richard ha visto Betty aspettare alla stazione dei treni dalle 18:00 alle 20:00.
+Lo studio di danza è stato chiuso dopo le 20:00.
+In quali momenti Betty potrebbe essere andata allo studio di danza?
+Opzioni:
+(A) dalle 14:00 alle 17:00
+(B) dalle 7:00 alle 9:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 9:00 alle 14:00",(A)
+"Oggi, William è andato alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 5 del mattino.
+Betty ha visto William frequentare le lezioni a scuola dalle 8:00 alle 13:00.
+Linda ha visto William lavorare in ufficio dalle 13:00 alle 18:00.
+Kimberly ha visto William prendere un caffè al bar dalle 18:00 alle 19:00.
+Steven ha visto William aspettare alla stazione dei treni dalle 19:00 alle 21:00.
+La mostra d'arte è stata chiusa dopo le 21:00.
+Tra quali orari William potrebbe essere andato alla mostra d'arte?
+Opzioni:
+(A) dalle 8:00 alle 13:00
+(B) dalle 18:00 alle 19:00
+(C) dalle 5:00 alle 8:00
+(D) dalle 13:00 alle 18:00",(C)
+"Oggi, James è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 6 del mattino.
+Kimberly ha visto James comprare una bicicletta al negozio di biciclette dalle 6:00 alle 8:00.
+Lisa ha visto James leggere in biblioteca dalle 8:00 alle 14:00.
+Nancy ha visto James giocare a tennis al campo da tennis dalle 15:00 alle 18:00.
+Il negozio di abbigliamento è stato chiuso dopo le 18:00.
+In quali momenti James potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 6:00 alle 8:00
+(B) dalle 15:00 alle 18:00
+(C) dalle 8:00 alle 14:00
+(D) dalle 14:00 alle 15:00",(D)
+"Oggi Samantha è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 5 del mattino.
+Thomas ha visto Samantha camminare in giardino dalle 5:00 alle 8:00.
+David ha visto Samantha fare stretching in uno studio di yoga dalle 9:00 alle 10:00.
+Nancy ha visto Samantha comprare una bicicletta al negozio di biciclette dalle 10:00 alle 11:00.
+Betty ha visto Samantha allenarsi in palestra dalle 11:00 alle 15:00.
+John ha visto Samantha comprare i biscotti in una panetteria dalle 15:00 alle 17:00.
+La piscina è stata chiusa dopo le 17:00.
+In quali momenti Samantha potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 8:00 alle 9:00
+(B) dalle 5:00 alle 8:00
+(C) dalle 9:00 alle 10:00
+(D) dalle 11:00 alle 15:00",(A)
+"Oggi, William è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 6 del mattino.
+Susan ha visto William leggere in biblioteca dalle 6:00 alle 9:00.
+Linda ha visto William aspettare all'aeroporto dalle 9:00 alle 15:00.
+Mark ha visto William giocare a tennis al campo da tennis dalle 16:00 alle 18:00.
+Samantha ha visto William lavorare in ufficio dalle 18:00 alle 21:00.
+Ashley ha visto William allenarsi in palestra dalle 21:00 alle 22:00.
+La caffetteria è stata chiusa dopo le 22:00.
+Tra quali orari William potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 16:00 alle 18:00
+(C) dalle 18:00 alle 21:00
+(D) dalle 9:00 alle 15:00",(A)
+"Oggi, Kimberly è andata al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Kimberly si è svegliata alle 5 del mattino.
+Nancy ha visto Kimberly prendere un caffè al bar dalle 5:00 alle 15:00.
+Anthony ha visto Kimberly scattare foto vicino alla Torre di Pisa dalle 15:00 alle 17:00.
+Andrew ha visto Kimberly comprare una bicicletta al negozio di biciclette dalle 17:00 alle 18:00.
+Samantha ha visto Kimberly aggiustare il computer nel negozio di elettronica dalle 18:00 alle 19:00.
+Il mercato è stato chiuso dopo le 21:00.
+In quali momenti Kimberly potrebbe essere andata al mercato?
+Opzioni:
+(A) dalle 15:00 alle 17:00
+(B) dalle 17:00 alle 18:00
+(C) dalle 19:00 alle 21:00
+(D) dalle 18:00 alle 19:00",(C)
+"Oggi Susan è andata al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 5 del mattino.
+Anthony ha visto Susan aspettare alla stazione dei treni dalle 5:00 alle 8:00.
+James ha visto Susan guardare un film a teatro dalle 11:00 alle 17:00.
+Mary ha visto Susan seduta su un tetto dalle 17:00 alle 21:00.
+Il parco divertimenti è stato chiuso dopo le 21:00.
+In quali momenti Susan potrebbe essere andata al parco dei divertimenti?
+Opzioni:
+(A) dalle 8:00 alle 11:00
+(B) dalle 5:00 alle 8:00
+(C) dalle 17:00 alle 21:00
+(D) dalle 11:00 alle 17:00",(A)
+"Oggi James è andato in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 12:00.
+John ha visto James scattare foto vicino alla Torre Pendente di Pisa dalle 14:00 alle 16:00.
+William ha visto James comprare una bicicletta al negozio di biciclette dalle 16:00 alle 17:00.
+Jennifer ha visto James prendere un caffè al bar dalle 17:00 alle 20:00.
+La piscina è stata chiusa dopo le 20:00.
+In quali orari James potrebbe essere andato in piscina?
+Opzioni:
+(A) dalle 16:00 alle 17:00
+(B) dalle 17:00 alle 20:00
+(C) dalle 12:00 alle 14:00
+(D) dalle 14:00 alle 16:00",(C)
+"Oggi Ashley è andata allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+Mary ha visto Ashley prendere un caffè al bar dalle 5:00 alle 6:00.
+William ha visto Ashley comprare un telefono al negozio di elettronica dalle 6:00 alle 16:00.
+Jennifer ha visto Ashley comprare una bicicletta al negozio di biciclette dalle 16:00 alle 17:00.
+Anthony ha visto Ashley aspettare alla stazione dei treni dalle 17:00 alle 18:00.
+Lo studio d'arte è stato chiuso dopo le 20:00.
+In quali momenti Ashley potrebbe essere andata allo studio d'arte?
+Opzioni:
+(A) dalle 16:00 alle 17:00
+(B) dalle 6:00 alle 16:00
+(C) dalle 18:00 alle 20:00
+(D) dalle 5:00 alle 6:00",(C)
+"Oggi Jennifer è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 8:00.
+Linda ha visto Jennifer comprare i biscotti in una panetteria dalle 8:00 alle 10:00.
+William ha visto Jennifer camminare in giardino dalle 10:00 alle 14:00.
+Tiffany ha visto Jennifer aspettare alla stazione dei treni dalle 14:00 alle 18:00.
+Lo studio di danza è stato chiuso dopo le 22:00.
+In quali momenti Jennifer potrebbe essere andata allo studio di danza?
+Opzioni:
+(A) dalle 14:00 alle 18:00
+(B) dalle 18:00 alle 22:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 10:00 alle 14:00",(B)
+"Oggi, James è andato all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 8:00.
+Emily ha visto James comprare vestiti al centro commerciale dalle 8:00 alle 9:00.
+Lisa ha visto James comprare un telefono al negozio di elettronica dalle 9:00 alle 16:00.
+Steven ha visto James guidare verso il parco acquatico dalle 17:00 alle 18:00.
+L'aula di fisica è stata chiusa dopo le 18:00.
+In quali momenti James potrebbe essere andato all'aula di fisica?
+Opzioni:
+(A) dalle 8:00 alle 9:00
+(B) dalle 9:00 alle 16:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 16:00 alle 17:00",(D)
+"Oggi Anthony è andato al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 6 del mattino.
+John ha visto Anthony allenarsi in palestra dalle 6:00 alle 10:00.
+Jennifer ha visto Anthony camminare verso la Statua della Libertà dalle 10:00 alle 12:00.
+Sarah ha visto Anthony comprare il pranzo alla gastronomia dalle 12:00 alle 13:00.
+Andrew ha visto Anthony comprare una bicicletta al negozio di biciclette dalle 15:00 alle 17:00.
+La panetteria è stata chiusa dopo le 17:00.
+In quali momenti Anthony potrebbe essere andato al panificio?
+Opzioni:
+(A) dalle 13:00 alle 15:00
+(B) dalle 10:00 alle 12:00
+(C) dalle 12:00 alle 13:00
+(D) dalle 15:00 alle 17:00",(A)
+"Oggi Thomas è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tommaso si è svegliato alle 8:00.
+David ha visto Thomas aggiustare il computer nel negozio di elettronica dalle 8:00 alle 10:00.
+Jennifer ha visto Thomas comprare il pranzo alla gastronomia dalle 10:00 alle 12:00.
+Lisa ha visto Thomas camminare verso la Statua della Libertà dalle 12:00 alle 14:00.
+Sarah ha visto Thomas comprare un telefono al negozio di elettronica dalle 14:00 alle 17:00.
+Kimberly ha visto Thomas comprare una bicicletta al negozio di biciclette dalle 18:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 21:00.
+Tra quali momenti Thomas potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) Dalle 12:00 alle 14:00
+(B) dalle 8:00 alle 10:00
+(C) dalle 14:00 alle 17:00
+(D) dalle 17:00 alle 18:00",(D)
+"Oggi Jennifer è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 6 del mattino.
+Thomas ha visto Jennifer comprare una bicicletta al negozio di biciclette dalle 6:00 alle 9:00.
+Samantha ha visto Jennifer guidare al parco acquatico dalle 9:00 alle 10:00.
+Steven ha visto Jennifer aggiustare il computer nel negozio di elettronica dalle 10:00 alle 13:00.
+Mark ha visto Jennifer che faceva stretching in uno studio di yoga dalle 15:00 alle 17:00.
+Il campo da basket è stato chiuso dopo le 17:00.
+In quali momenti Jennifer potrebbe essere andata al campo da basket?
+Opzioni:
+(A) dalle 9:00 alle 10:00
+(B) dalle 6:00 alle 9:00
+(C) dalle 15:00 alle 17:00
+(D) dalle 13:00 alle 15:00",(D)
+"Oggi Sarah è andata alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 11:00.
+Lisa ha visto Sarah lavorare in ufficio dalle 11:00 alle 14:00.
+Hannah ha visto Sarah leggere in biblioteca dalle 14:00 alle 16:00.
+Elizabeth ha visto Sarah aggiustare il computer nel negozio di elettronica dalle 16:00 alle 19:00.
+La mostra d'arte è stata chiusa dopo le 21:00.
+Tra quali orari Sarah sarebbe potuta andare alla mostra d'arte?
+Opzioni:
+(A) dalle 11:00 alle 14:00
+(B) dalle 19:00 alle 21:00
+(C) dalle 14:00 alle 16:00
+(D) dalle 16:00 alle 19:00",(B)
+"Oggi Susan è andata allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 5 del mattino.
+Kimberly ha visto Susan aspettare alla stazione dei treni dalle 5:00 alle 6:00.
+Lisa ha visto Susan allenarsi in palestra dalle 6:00 alle 11:00.
+Betty ha visto Susan leggere in biblioteca dalle 11:00 alle 12:00.
+Lo studio d'arte è stato chiuso dopo le 13:00.
+Tra quali periodi Susan potrebbe essere andata allo studio d'arte?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 11:00 alle 12:00
+(C) dalle 6:00 alle 11:00
+(D) dalle 5:00 alle 6:00",(A)
+"Oggi, William è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 6 del mattino.
+Anthony ha visto William prendere un caffè al bar dalle 6:00 alle 7:00.
+John ha visto William guardare un film a teatro dalle 8:00 alle 10:00.
+Hannah ha visto William aspettare alla stazione dei treni dalle 10:00 alle 12:00.
+Mark ha visto William camminare verso la Statua della Libertà dalle 12:00 alle 13:00.
+William ha visto William allenarsi in palestra dalle 13:00 alle 18:00.
+Lo studio d'arte è stato chiuso dopo le 18:00.
+Tra quali periodi William potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 7:00 alle 8:00
+(C) dalle 13:00 alle 18:00
+(D) dalle 12:00 alle 13:00",(B)
+"Oggi, Jessica è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 6 del mattino.
+Steven ha visto Jessica allenarsi in palestra dalle 7:00 alle 14:00.
+Jason ha visto Jessica scattare foto vicino alla Torre Pendente di Pisa dalle 14:00 alle 15:00.
+Emily ha visto Jessica scattare foto vicino alla Torre Eiffel dalle 15:00 alle 21:00.
+La libreria è stata chiusa dopo le 21:00.
+In quali momenti Jessica potrebbe essere andata in libreria?
+Opzioni:
+(A) dalle 14:00 alle 15:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 7:00 alle 14:00
+(D) dalle 15:00 alle 21:00",(B)
+"Oggi, Kimberly è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Kimberly si è svegliata alle 6 del mattino.
+William ha visto Kimberly comprare un telefono al negozio di elettronica dalle 6:00 alle 8:00.
+Jason ha visto Kimberly aspettare alla stazione dei treni dalle 8:00 alle 9:00.
+Tiffany ha visto Kimberly camminare verso la Statua della Libertà dalle 9:00 alle 13:00.
+Linda ha visto Kimberly fare stretching in uno studio di yoga dalle 15:00 alle 20:00.
+Sean ha visto Kimberly andare al parco acquatico dalle 20:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 21:00.
+Tra quali momenti Kimberly potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) dalle 8:00 alle 9:00
+(B) dalle 9:00 alle 13:00
+(C) dalle 13:00 alle 15:00
+(D) dalle 20:00 alle 21:00",(C)
+"Oggi Elizabeth è andata al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 10:00.
+Emily ha visto Elizabeth comprare una bicicletta al negozio di biciclette dalle 10:00 alle 11:00.
+Leslie ha visto Elizabeth comprare il pranzo alla gastronomia dalle 11:00 alle 14:00.
+Sarah ha visto Elizabeth giocare a tennis al campo da tennis dalle 16:00 alle 20:00.
+Il parco è stato chiuso dopo le 20:00.
+In quali momenti Elizabeth potrebbe essere andata al parco?
+Opzioni:
+(A) dalle 10:00 alle 11:00
+(B) dalle 11:00 alle 14:00
+(C) dalle 16:00 alle 20:00
+(D) dalle 14:00 alle 16:00",(D)
+"Oggi James è andato in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 10:00.
+Richard ha visto James scattare foto vicino alla Torre Eiffel dalle 10:00 alle 11:00.
+Leslie ha visto James aspettare all'aeroporto dalle 12:00 alle 14:00.
+Ashley ha visto James seduto su un tetto dalle 14:00 alle 17:00.
+Thomas ha visto James giocare a tennis al campo da tennis dalle 17:00 alle 18:00.
+Jennifer ha visto James camminare verso la Statua della Libertà dalle 18:00 alle 19:00.
+La piscina è stata chiusa dopo le 19:00.
+In quali orari James potrebbe essere andato in piscina?
+Opzioni:
+(A) dalle 10:00 alle 11:00
+(B) dalle 12:00 alle 14:00
+(C) dalle 11:00 alle 12:00
+(D) dalle 14:00 alle 17:00",(C)
+"Oggi Michael è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 5 del mattino.
+Andrew ha visto Michael aspettare alla stazione dei treni dalle 6:00 alle 13:00.
+Sarah ha visto Michael camminare verso la Statua della Libertà dalle 13:00 alle 15:00.
+Mary ha visto Michael camminare in giardino dalle 15:00 alle 18:00.
+Lisa ha visto Michael scattare foto vicino alla Torre Eiffel dalle 18:00 alle 21:00.
+Elizabeth ha visto Michael aggiustare il computer nel negozio di elettronica dalle 21:00 alle 22:00.
+Il negozio di abbigliamento è stato chiuso dopo le 22:00.
+In quali momenti Michael potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 13:00 alle 15:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 6:00 alle 13:00
+(D) dalle 5:00 alle 6:00",(D)
+"Oggi Sarah è andata al luna park. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 10:00.
+Anthony ha visto Sarah prendere un caffè al bar dalle 11:00 alle 12:00.
+Andrew ha visto Sarah comprare un telefono al negozio di elettronica dalle 12:00 alle 14:00.
+Kimberly ha visto Sarah guidare al parco acquatico dalle 14:00 alle 19:00.
+Sarah ha visto Sarah frequentare le lezioni a scuola dalle 19:00 alle 20:00.
+Jennifer ha visto Sarah guardare un film a teatro dalle 20:00 alle 22:00.
+Il parco divertimenti è stato chiuso dopo le 22:00.
+In quali momenti Sarah potrebbe essere andata al parco dei divertimenti?
+Opzioni:
+(A) dalle 14:00 alle 19:00
+(B) dalle 12:00 alle 14:00
+(C) dalle 10:00 alle 11:00
+(D) dalle 19:00 alle 20:00",(C)
+"Oggi Mark è andato alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Marco si è svegliato alle 10:00.
+Betty ha visto Mark comprare una bicicletta al negozio di biciclette dalle 10:00 alle 11:00.
+Ashley ha visto Mark guardare un film a teatro dalle 13:00 alle 14:00.
+Linda ha visto Mark allenarsi in palestra dalle 14:00 alle 16:00.
+Leslie ha visto Mark comprare un telefono al negozio di elettronica dalle 16:00 alle 21:00.
+Michael ha visto Mark aspettare all'aeroporto dalle 21:00 alle 22:00.
+La mostra d'arte è stata chiusa dopo le 22:00.
+Tra quali orari Mark potrebbe essere andato alla mostra d'arte?
+Opzioni:
+(A) dalle 11:00 alle 13:00
+(B) dalle 16:00 alle 21:00
+(C) dalle 10:00 alle 11:00
+(D) dalle 14:00 alle 16:00",(A)
+"Oggi Sean è andato in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 6 del mattino.
+Anthony ha visto Sean comprare i biscotti in una panetteria dalle 7:00 alle 8:00.
+Mark ha visto Sean allenarsi in palestra dalle 8:00 alle 15:00.
+Leslie ha visto Sean scattare foto vicino alla Torre di Pisa dalle 15:00 alle 17:00.
+Emily ha visto Sean camminare in giardino dalle 17:00 alle 18:00.
+William ha visto Sean aggiustare il computer nel negozio di elettronica dalle 18:00 alle 19:00.
+La piscina è stata chiusa dopo le 19:00.
+In quali momenti Sean potrebbe essere andato in piscina?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 15:00 alle 17:00
+(C) dalle 7:00 alle 8:00
+(D) dalle 18:00 alle 19:00",(A)
+"Oggi James è andato in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 5 del mattino.
+Ashley ha visto James seduto su un tetto dalle 7:00 alle 9:00.
+Hannah ha visto James scattare foto vicino alla Torre Eiffel dalle 9:00 alle 19:00.
+William ha visto James comprare i biscotti in una panetteria dalle 19:00 alle 20:00.
+Linda ha visto James aspettare alla stazione dei treni dalle 20:00 alle 22:00.
+La piscina è stata chiusa dopo le 22:00.
+In quali orari James potrebbe essere andato in piscina?
+Opzioni:
+(A) dalle 19:00 alle 20:00
+(B) dalle 20:00 alle 22:00
+(C) dalle 5:00 alle 7:00
+(D) dalle 7:00 alle 9:00",(C)
+"Oggi, Jessica è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 9:00.
+Richard ha visto Jessica scattare foto vicino alla Torre Pendente di Pisa dalle 9:00 alle 11:00.
+Mary ha visto Jessica leggere in biblioteca dalle 11:00 alle 15:00.
+Kimberly ha visto Jessica seduta su un tetto dalle 15:00 alle 16:00.
+La piscina è stata chiusa dopo le 19:00.
+In quali momenti Jessica potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 9:00 alle 11:00
+(B) dalle 15:00 alle 16:00
+(C) dalle 11:00 alle 15:00
+(D) dalle 16:00 alle 19:00",(D)
+"Oggi Tiffany è andata in biblioteca. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tiffany si è svegliata alle 5 del mattino.
+Anthony ha visto Tiffany camminare in giardino dalle 6:00 alle 8:00.
+Emily ha visto Tiffany allenarsi in palestra dalle 8:00 alle 17:00.
+Kimberly ha visto Tiffany lavorare in ufficio dalle 17:00 alle 19:00.
+Thomas ha visto Tiffany giocare a tennis al campo da tennis dalle 19:00 alle 20:00.
+La biblioteca è stata chiusa dopo le 20:00.
+In quali momenti Tiffany potrebbe essere andata in biblioteca?
+Opzioni:
+(A) dalle 8:00 alle 17:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 19:00 alle 20:00
+(D) dalle 6:00 alle 8:00",(B)
+"Oggi James è andato al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 7 del mattino.
+David ha visto James scattare foto vicino alla Torre Eiffel dalle 7:00 alle 8:00.
+John ha visto James giocare a tennis al campo da tennis dalle 10:00 alle 13:00.
+Elizabeth ha visto James aspettare all'aeroporto dalle 13:00 alle 15:00.
+William ha visto James leggere in biblioteca dalle 15:00 alle 17:00.
+Il mercato è stato chiuso dopo le 17:00.
+In quali momenti James potrebbe essere andato al mercato?
+Opzioni:
+(A) dalle 10:00 alle 13:00
+(B) dalle 7:00 alle 8:00
+(C) dalle 15:00 alle 17:00
+(D) dalle 8:00 alle 10:00",(D)
+"Oggi Nancy è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 8 del mattino.
+Jennifer ha visto Nancy comprare i biscotti in una panetteria dalle 8:00 alle 9:00.
+William ha visto Nancy scattare foto vicino alla Torre Eiffel dalle 9:00 alle 12:00.
+Mary ha visto Nancy giocare a tennis al campo da tennis dalle 12:00 alle 14:00.
+La libreria è stata chiusa dopo le 21:00.
+In quali momenti Nancy sarebbe potuta andare in libreria?
+Opzioni:
+(A) Dalle 12:00 alle 14:00
+(B) dalle 8:00 alle 9:00
+(C) dalle 14:00 alle 21:00
+(D) dalle 9:00 alle 12:00",(C)
+"Oggi Tiffany è andata al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tiffany si è svegliata alle 7 del mattino.
+William ha visto Tiffany frequentare le lezioni a scuola dalle 7:00 alle 9:00.
+Steven ha visto Tiffany aspettare all'aeroporto dalle 9:00 alle 13:00.
+Mark ha visto Tiffany comprare il pranzo alla gastronomia dalle 16:00 alle 19:00.
+Il cantiere è stato chiuso dopo le 19:00.
+In quali momenti Tiffany potrebbe essere andata al cantiere?
+Opzioni:
+(A) dalle 16:00 alle 19:00
+(B) dalle 9:00 alle 13:00
+(C) dalle 7:00 alle 9:00
+(D) dalle 13:00 alle 16:00",(D)
+"Oggi Jennifer è andata nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 6 del mattino.
+Richard ha visto Jennifer guidare verso il parco acquatico dalle 7:00 alle 10:00.
+Susan ha visto Jennifer giocare a tennis al campo da tennis dalle 10:00 alle 13:00.
+Lisa ha visto Jennifer aspettare alla stazione dei treni dalle 13:00 alle 15:00.
+La sala dell'orchestra è stata chiusa dopo le 15:00.
+In quali momenti Jennifer potrebbe essere andata nella sala dell'orchestra?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 10:00 alle 13:00
+(C) dalle 7:00 alle 10:00
+(D) dalle 13:00 alle 15:00",(A)
+"Oggi Sean è andato al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 5 del mattino.
+James ha visto Sean frequentare le lezioni a scuola dalle 5:00 alle 6:00.
+David ha visto Sean comprare il pranzo alla gastronomia dalle 6:00 alle 8:00.
+Betty ha visto Sean comprare vestiti al centro commerciale dalle 8:00 alle 9:00.
+Linda ha visto Sean seduto su un tetto dalle 9:00 alle 17:00.
+Tiffany ha visto Sean guidare verso il parco acquatico dalle 20:00 alle 21:00.
+La panetteria è stata chiusa dopo le 21:00.
+In quali momenti Sean potrebbe essere andato al panificio?
+Opzioni:
+(A) dalle 20:00 alle 21:00
+(B) dalle 17:00 alle 20:00
+(C) dalle 8:00 alle 9:00
+(D) dalle 9:00 alle 17:00",(B)
+"Oggi, Samantha è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 6 del mattino.
+Sarah ha visto Samantha camminare in giardino dalle 6:00 alle 11:00.
+Sean ha visto Samantha scattare foto vicino alla Torre di Pisa dalle 12:00 alle 13:00.
+Jason ha visto Samantha scattare foto vicino alla Torre Eiffel dalle 13:00 alle 14:00.
+Elizabeth ha visto Samantha camminare verso la Statua della Libertà dalle 14:00 alle 15:00.
+Tiffany ha visto Samantha comprare il pranzo alla gastronomia dalle 15:00 alle 21:00.
+La panetteria è stata chiusa dopo le 21:00.
+In quali momenti Samantha potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 13:00 alle 14:00
+(B) dalle 11:00 alle 12:00
+(C) dalle 15:00 alle 21:00
+(D) dalle 6:00 alle 11:00",(B)
+"Oggi Ashley è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 9:00.
+John ha visto Ashley scattare foto vicino alla Torre Eiffel dalle 9:00 alle 10:00.
+Linda ha visto Ashley camminare in giardino dalle 10:00 alle 13:00.
+Ashley ha visto Ashley frequentare le lezioni a scuola dalle 13:00 alle 14:00.
+Il campo da basket è stato chiuso dopo le 19:00.
+Tra quali momenti Ashley potrebbe essere andata al campo da basket?
+Opzioni:
+(A) dalle 14:00 alle 19:00
+(B) dalle 9:00 alle 10:00
+(C) dalle 13:00 alle 14:00
+(D) dalle 10:00 alle 13:00",(A)
+"Oggi Sarah è andata al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Thomas ha visto Sarah scattare foto vicino alla Torre Pendente di Pisa dalle 5:00 alle 7:00.
+Betty ha visto Sarah seduta su un tetto dalle 10:00 alle 16:00.
+William ha visto Sarah comprare il pranzo alla gastronomia dalle 16:00 alle 21:00.
+Kimberly ha visto Sarah prendere un caffè al bar dalle 21:00 alle 22:00.
+Il negozio di abbigliamento è stato chiuso dopo le 22:00.
+In quali momenti Sarah potrebbe essere andata al negozio di abbigliamento?
+Opzioni:
+(A) dalle 16:00 alle 21:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 7:00 alle 10:00
+(D) dalle 10:00 alle 16:00",(C)
+"Oggi, Steven è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Steven si è svegliato alle 9:00.
+Leslie ha visto Steven comprare il pranzo alla gastronomia dalle 9:00 alle 12:00.
+Jason ha visto Steven fare stretching in uno studio di yoga dalle 12:00 alle 13:00.
+James ha visto Steven guidare verso il parco acquatico dalle 16:00 alle 17:00.
+Nancy ha visto Steven frequentare le lezioni a scuola dalle 17:00 alle 19:00.
+Il negozio di abbigliamento è stato chiuso dopo le 19:00.
+In quali momenti Steven potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 9:00 alle 12:00
+(B) dalle 13:00 alle 16:00
+(C) dalle 16:00 alle 17:00
+(D) dalle 12:00 alle 13:00",(B)
+"Oggi, Jessica è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 5 del mattino.
+Jennifer ha visto Jessica scattare foto vicino alla Torre Pendente di Pisa dalle 8:00 alle 13:00.
+Susan ha visto Jessica leggere in biblioteca dalle 13:00 alle 15:00.
+Jason ha visto Jessica scattare foto vicino alla Torre Eiffel dalle 15:00 alle 18:00.
+Sarah ha visto Jessica allenarsi in palestra dalle 18:00 alle 19:00.
+Betty ha visto Jessica aggiustare il computer nel negozio di elettronica dalle 19:00 alle 20:00.
+Lo studio di danza è stato chiuso dopo le 20:00.
+In quali momenti Jessica potrebbe essere andata allo studio di danza?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 15:00 alle 18:00
+(C) dalle 5:00 alle 8:00
+(D) dalle 19:00 alle 20:00",(C)
+"Oggi, Jessica è andata al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 6 del mattino.
+Lisa ha visto Jessica aspettare alla stazione dei treni dalle 6:00 alle 24:00.
+Linda ha visto Jessica prendere un caffè al bar dalle 12:00 alle 14:00.
+Sarah ha visto Jessica camminare verso la Statua della Libertà dalle 14:00 alle 18:00.
+Il ristorante è stato chiuso dopo le 19:00.
+Tra quali orari Jessica potrebbe essere andata al ristorante?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 6:00 alle 12:00
+(C) dalle 12:00 alle 14:00
+(D) dalle 14:00 alle 18:00",(A)
+"Oggi, Emily è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 5 del mattino.
+Thomas ha visto Emily leggere in biblioteca dalle 5:00 alle 7:00.
+Tiffany ha visto Emily camminare verso la Statua della Libertà dalle 7:00 alle 11:00.
+John ha visto Emily giocare a tennis al campo da tennis dalle 11:00 alle 12:00.
+Sean ha visto Emily scattare foto vicino alla Torre Eiffel dalle 12:00 alle 20:00.
+Jason ha visto Emily aspettare alla stazione dei treni dalle 21:00 alle 22:00.
+Lo studio di danza è stato chiuso dopo le 22:00.
+In quali momenti Emily potrebbe essere andata allo studio di danza?
+Opzioni:
+(A) dalle 5:00 alle 7:00
+(B) dalle 20:00 alle 21:00
+(C) dalle 21:00 alle 22:00
+(D) dalle 11:00 alle 12:00",(B)
+"Oggi Anthony è andato nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 6 del mattino.
+Michael ha visto Anthony fare stretching in uno studio di yoga dalle 6:00 alle 15:00.
+Sarah ha visto Anthony scattare foto vicino alla Torre Eiffel dalle 15:00 alle 17:00.
+Elizabeth ha visto Anthony aspettare alla stazione dei treni dalle 17:00 alle 18:00.
+La sala dell'orchestra è stata chiusa dopo le 19:00.
+In quali momenti Anthony potrebbe essere andato nella sala dell'orchestra?
+Opzioni:
+(A) dalle 15:00 alle 17:00
+(B) dalle 18:00 alle 19:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 6:00 alle 15:00",(B)
+"Oggi Mark è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Marco si è svegliato alle 7:00.
+Richard ha visto Mark allenarsi in palestra dalle 7:00 alle 9:00.
+Jennifer ha visto Mark camminare verso la Statua della Libertà dalle 9:00 alle 12:00.
+Mary ha visto Mark lavorare in ufficio dalle 12:00 alle 13:00.
+Betty ha visto Mark giocare a tennis al campo da tennis dalle 13:00 alle 15:00.
+Ashley ha visto Mark leggere in biblioteca dalle 18:00 alle 19:00.
+La caffetteria è stata chiusa dopo le 19:00.
+Tra quali orari Mark potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 7:00 alle 9:00
+(B) dalle 18:00 alle 19:00
+(C) dalle 15:00 alle 18:00
+(D) dalle 12:00 alle 13:00",(C)
+"Oggi William è andato in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 5 del mattino.
+Jennifer ha visto William camminare in giardino dalle 7:00 alle 17:00.
+Mary ha visto William leggere in biblioteca dalle 17:00 alle 18:00.
+William ha visto William comprare il pranzo alla gastronomia dalle 18:00 alle 22:00.
+La piscina è stata chiusa dopo le 22:00.
+Tra quali orari William potrebbe essere andato in piscina?
+Opzioni:
+(A) dalle 17:00 alle 18:00
+(B) dalle 18:00 alle 22:00
+(C) dalle 5:00 alle 7:00
+(D) dalle 7:00 alle 17:00",(C)
+"Oggi, Hannah è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 5 del mattino.
+Hannah ha visto Hannah comprare un telefono al negozio di elettronica dalle 11:00 alle 14:00.
+Ashley ha visto Hannah scattare foto vicino alla Torre Eiffel dalle 14:00 alle 15:00.
+Nancy ha visto Hannah comprare vestiti al centro commerciale dalle 15:00 alle 17:00.
+La panetteria è stata chiusa dopo le 17:00.
+In quali momenti Hannah potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 14:00 alle 15:00
+(B) dalle 5:00 alle 11:00
+(C) dalle 15:00 alle 17:00
+(D) dalle 11:00 alle 14:00",(B)
+"Oggi William è andato nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 5 del mattino.
+Thomas ha visto William allenarsi in palestra dalle 5:00 alle 10:00.
+Lisa ha visto William scattare foto vicino alla Torre di Pisa dalle 12:00 alle 16:00.
+Mary ha visto William seduto su un tetto dalle 16:00 alle 19:00.
+La sala dell'orchestra è stata chiusa dopo le 19:00.
+Tra quali orari William potrebbe essere andato nella sala dell'orchestra?
+Opzioni:
+(A) dalle 10:00 alle 12:00
+(B) dalle 16:00 alle 19:00
+(C) dalle 12:00 alle 16:00
+(D) dalle 5:00 alle 10:00",(A)
+"Oggi Nancy è andata all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 5 del mattino.
+James ha visto Nancy seduta su un tetto dalle 5:00 alle 6:00.
+Jennifer ha visto Nancy camminare verso la Statua della Libertà dalle 6:00 alle 8:00.
+Elizabeth ha visto Nancy comprare una bicicletta al negozio di biciclette dalle 8:00 alle 10:00.
+Michael ha visto Nancy frequentare le lezioni a scuola dalle 12:00 alle 17:00.
+L'aula di fisica è stata chiusa dopo le 17:00.
+In quali momenti Nancy avrebbe potuto frequentare l'aula di fisica?
+Opzioni:
+(A) dalle 10:00 alle 12:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 12:00 alle 17:00",(A)
+"Oggi, Andrew è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 8:00.
+James ha visto Andrew comprare biscotti in una panetteria dalle 8:00 alle 13:00.
+Kimberly ha visto Andrew lavorare in ufficio dalle 14:00 alle 15:00.
+Sarah ha visto Andrew aggiustare il computer nel negozio di elettronica dalle 15:00 alle 17:00.
+La caffetteria è stata chiusa dopo le 17:00.
+Tra quali orari Andrew potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 8:00 alle 13:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 13:00 alle 14:00
+(D) dalle 15:00 alle 17:00",(C)
+"Oggi David è andato al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 7:00.
+Sarah ha visto David leggere in biblioteca dalle 7:00 alle 8:00.
+Richard ha visto David comprare una bicicletta al negozio di biciclette dalle 12:00 alle 15:00.
+James ha visto David seduto su un tetto dalle 15:00 alle 16:00.
+Andrew ha visto David camminare verso la Statua della Libertà dalle 16:00 alle 18:00.
+Jessica ha visto David allenarsi in palestra dalle 18:00 alle 22:00.
+Il cantiere è stato chiuso dopo le 22:00.
+In quali momenti David potrebbe essere andato al cantiere?
+Opzioni:
+(A) dalle 8:00 alle 12:00
+(B) dalle 18:00 alle 22:00
+(C) dalle 16:00 alle 18:00
+(D) dalle 15:00 alle 16:00",(A)
+"Oggi Anthony è andato al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 6 del mattino.
+Thomas ha visto Anthony frequentare le lezioni a scuola dalle 6:00 alle 14:00.
+Richard ha visto Anthony comprare il pranzo alla gastronomia dalle 14:00 alle 17:00.
+Susan ha visto Anthony leggere in biblioteca dalle 17:00 alle 20:00.
+Il parco è stato chiuso dopo le 21:00.
+Tra quali orari Anthony potrebbe essere andato al parco?
+Opzioni:
+(A) dalle 14:00 alle 17:00
+(B) dalle 17:00 alle 20:00
+(C) dalle 6:00 alle 14:00
+(D) dalle 20:00 alle 21:00",(D)
+"Oggi Sarah è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Jason ha visto Sarah guardare un film al cinema dalle 5:00 alle 8:00.
+Hannah ha visto Sarah seduta su un tetto dalle 10:00 alle 15:00.
+Andrew ha visto Sarah aspettare alla stazione dei treni dalle 15:00 alle 21:00.
+Lo studio di danza è stato chiuso dopo le 21:00.
+In quali momenti Sarah sarebbe potuta andare allo studio di danza?
+Opzioni:
+(A) dalle 15:00 alle 21:00
+(B) dalle 8:00 alle 10:00
+(C) dalle 10:00 alle 15:00
+(D) dalle 5:00 alle 8:00",(B)
+"Oggi Mary è andata al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Maria si è svegliata alle 9:00.
+David ha visto Mary camminare nel giardino dalle 9:00 alle 11:00.
+Samantha ha visto Mary prendere un caffè al bar dalle 14:00 alle 15:00.
+Sarah ha visto Mary guidare verso il parco acquatico dalle 15:00 alle 19:00.
+Il ristorante è stato chiuso dopo le 19:00.
+Tra quali orari Mary potrebbe essere andata al ristorante?
+Opzioni:
+(A) dalle 15:00 alle 19:00
+(B) dalle 9:00 alle 11:00
+(C) dalle 14:00 alle 15:00
+(D) dalle 11:00 alle 14:00",(D)
+"Oggi Mark è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Marco si è svegliato alle 5 del mattino.
+Steven ha visto Mark camminare verso la Statua della Libertà dalle 5:00 alle 6:00.
+William ha visto Mark allenarsi in palestra dalle 6:00 alle 7:00.
+Jennifer ha visto Mark leggere in biblioteca dalle 7:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+In quali momenti Mark potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) dalle 7:00 alle 21:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 5:00 alle 6:00
+(D) dalle 21:00 alle 22:00",(D)
+"Oggi, William è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 13:00.
+Sarah ha visto William lavorare in ufficio dalle 13:00 alle 14:00.
+Mary ha visto William aspettare alla stazione dei treni dalle 14:00 alle 16:00.
+Susan ha visto William scattare foto vicino alla Torre Eiffel dalle 20:00 alle 22:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+Tra quali momenti William potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) dalle 20:00 alle 22:00
+(B) dalle 13:00 alle 14:00
+(C) dalle 14:00 alle 16:00
+(D) dalle 16:00 alle 20:00",(D)
+"Oggi, Steven è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Steven si è svegliato alle 7 del mattino.
+Ashley ha visto Steven fare stretching in uno studio di yoga dalle 7:00 alle 10:00.
+William ha visto Steven leggere in biblioteca dalle 13:00 alle 14:00.
+Jennifer ha visto Steven lavorare in ufficio dalle 14:00 alle 15:00.
+Michael ha visto Steven guardare un film a teatro dalle 15:00 alle 19:00.
+Mary ha visto Steven aspettare alla stazione dei treni dalle 19:00 alle 22:00.
+La stazione di servizio è stata chiusa dopo le 22:00.
+In quali momenti Steven potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 7:00 alle 10:00
+(B) dalle 19:00 alle 22:00
+(C) dalle 10:00 alle 13:00
+(D) dalle 15:00 alle 19:00",(C)
+"Oggi, Leslie è andata al cinema. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 6 del mattino.
+Thomas ha visto Leslie camminare in giardino dalle 7:00 alle 9:00.
+Nancy ha visto Leslie comprare una bicicletta al negozio di biciclette dalle 9:00 alle 15:00.
+Ashley ha visto Leslie guidare al parco acquatico dalle 15:00 alle 16:00.
+Il cinema è stato chiuso dopo le 16:00.
+In quali momenti Leslie potrebbe essere andata al cinema?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 7:00 alle 9:00
+(C) dalle 9:00 alle 15:00
+(D) dalle 6:00 alle 7:00",(D)
+"Oggi Sarah è andata al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+William ha visto Sarah seduta su un tetto dalle 5:00 alle 11:00.
+Mary ha visto Sarah leggere in biblioteca dalle 11:00 alle 15:00.
+Jessica ha visto Sarah camminare verso la Statua della Libertà dalle 15:00 alle 16:00.
+Leslie ha visto Sarah giocare a tennis al campo dalle 19:00 alle 20:00.
+Il cantiere è stato chiuso dopo le 20:00.
+In quali momenti Sarah potrebbe essere andata al cantiere?
+Opzioni:
+(A) dalle 11:00 alle 15:00
+(B) dalle 16:00 alle 19:00
+(C) dalle 15:00 alle 16:00
+(D) dalle 19:00 alle 20:00",(B)
+"Oggi Andrew è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 5 del mattino.
+William ha visto Andrew giocare a tennis al campo da tennis dalle 5:00 alle 6:00.
+Jessica ha visto Andrew comprare il pranzo alla gastronomia dalle 6:00 alle 9:00.
+Tiffany ha visto Andrew scattare foto vicino alla Torre Pendente di Pisa dalle 9:00 alle 11:00.
+John ha visto Andrew aspettare alla stazione dei treni dalle 11:00 alle 17:00.
+Sarah ha visto Andrew leggere in biblioteca dalle 18:00 alle 21:00.
+Il negozio di abbigliamento è stato chiuso dopo le 21:00.
+In quali momenti Andrew potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 9:00 alle 11:00
+(B) dalle 18:00 alle 21:00
+(C) dalle 11:00 alle 17:00
+(D) dalle 17:00 alle 18:00",(D)
+"Oggi, David è andato all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 9:00.
+Sean ha visto David aggiustare il computer nel negozio di elettronica dalle 9:00 alle 11:00.
+Thomas ha visto David camminare verso la Statua della Libertà dalle 11:00 alle 12:00.
+James ha visto David scattare foto vicino alla Torre di Pisa dalle 12:00 alle 20:00.
+L'aula di fisica è stata chiusa dopo le 22:00.
+In quali momenti David potrebbe essere andato all'aula di fisica?
+Opzioni:
+(A) dalle 11:00 alle 12:00
+(B) dalle 12:00 alle 20:00
+(C) dalle 9:00 alle 11:00
+(D) dalle 20:00 alle 22:00",(D)
+"Oggi, Jessica è andata al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 9:00.
+Nancy ha visto Jessica frequentare le lezioni a scuola dalle 9:00 alle 11:00.
+John ha visto Jessica scattare foto vicino alla Torre di Pisa dalle 11:00 alle 12:00.
+Mary ha visto Jessica scattare foto vicino alla Torre Eiffel dalle 12:00 alle 13:00.
+Anthony ha visto Jessica comprare un telefono al negozio di elettronica dalle 13:00 alle 16:00.
+Kimberly ha visto Jessica comprare i biscotti in una panetteria dalle 16:00 alle 17:00.
+Il ristorante è stato chiuso dopo le 18:00.
+Tra quali orari Jessica potrebbe essere andata al ristorante?
+Opzioni:
+(A) dalle 9:00 alle 11:00
+(B) dalle 16:00 alle 17:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 11:00 alle 12:00",(C)
+"Oggi David è andato al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 7:00.
+Michael ha visto David leggere in biblioteca dalle 7:00 alle 9:00.
+William ha visto David aspettare all'aeroporto dalle 18:00 alle 20:00.
+Lisa ha visto David aspettare alla stazione dei treni dalle 20:00 alle 22:00.
+Il cantiere è stato chiuso dopo le 22:00.
+In quali momenti David potrebbe essere andato al cantiere?
+Opzioni:
+(A) dalle 7:00 alle 9:00
+(B) dalle 9:00 alle 18:00
+(C) dalle 20:00 alle 22:00
+(D) dalle 18:00 alle 20:00",(B)
+"Oggi, Jessica è andata in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jessica si è svegliata alle 6 del mattino.
+Susan ha visto Jessica allenarsi in palestra dalle 8:00 alle 9:00.
+Andrew ha visto Jessica guidare al parco acquatico dalle 9:00 alle 10:00.
+David ha visto Jessica camminare verso la Statua della Libertà dalle 10:00 alle 13:00.
+Linda ha visto Jessica comprare il pranzo alla gastronomia dalle 13:00 alle 20:00.
+James ha visto Jessica scattare foto vicino alla Torre Eiffel dalle 20:00 alle 21:00.
+La libreria è stata chiusa dopo le 21:00.
+In quali momenti Jessica potrebbe essere andata in libreria?
+Opzioni:
+(A) dalle 9:00 alle 10:00
+(B) dalle 6:00 alle 8:00
+(C) dalle 20:00 alle 21:00
+(D) dalle 8:00 alle 9:00",(B)
+"Oggi Mary è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Maria si è svegliata alle 9:00.
+Sarah ha visto Mary prendere un caffè al bar dalle 9:00 alle 10:00.
+Mary ha visto Mary camminare in giardino dalle 12:00 alle 13:00.
+Tiffany ha visto Mary guidare verso il parco acquatico dalle 13:00 alle 22:00.
+Lo studio di danza è stato chiuso dopo le 22:00.
+In quali momenti Mary sarebbe potuta andare allo studio di danza?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 9:00 alle 10:00
+(C) dalle 13:00 alle 22:00
+(D) dalle 10:00 alle 12:00",(D)
+"Oggi Michael è andato al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 7 del mattino.
+William ha visto Michael giocare a tennis al campo da tennis dalle 7:00 alle 8:00.
+Richard ha visto Michael lavorare in ufficio dalle 13:00 alle 15:00.
+Emily ha visto Michael comprare il pranzo alla gastronomia dalle 15:00 alle 20:00.
+Mark ha visto Michael camminare verso la Statua della Libertà dalle 20:00 alle 22:00.
+Il parco è stato chiuso dopo le 22:00.
+In quali momenti Michael potrebbe essere andato al parco?
+Opzioni:
+(A) dalle 15:00 alle 20:00
+(B) dalle 8:00 alle 13:00
+(C) dalle 7:00 alle 8:00
+(D) dalle 20:00 alle 22:00",(B)
+"Oggi, David è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+William ha visto David aggiustare il computer nel negozio di elettronica dalle 5:00 alle 6:00.
+David ha visto David comprare una bicicletta al negozio di biciclette dalle 6:00 alle 9:00.
+John ha visto David aspettare alla stazione dei treni dalle 9:00 alle 10:00.
+Il negozio di abbigliamento è stato chiuso dopo le 15:00.
+In quali momenti David potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 9:00 alle 10:00
+(B) dalle 6:00 alle 9:00
+(C) dalle 5:00 alle 6:00
+(D) dalle 10:00 alle 15:00",(D)
+"Oggi Andrew è andato al museo. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 5 del mattino.
+James ha visto Andrew camminare in giardino dalle 5:00 alle 6:00.
+Ashley ha visto Andrew prendere un caffè al bar dalle 6:00 alle 8:00.
+David ha visto Andrew seduto su un tetto dalle 8:00 alle 10:00.
+Betty ha visto Andrew comprare il pranzo alla gastronomia dalle 10:00 alle 11:00.
+Thomas ha visto Andrew aggiustare il computer nel negozio di elettronica dalle 20:00 alle 22:00.
+Il museo è stato chiuso dopo le 22:00.
+In quali momenti Andrew potrebbe essere andato al museo?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 6:00 alle 8:00
+(D) dalle 11:00 alle 20:00",(D)
+"Oggi Leslie è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 5 del mattino.
+Emily ha visto Leslie frequentare le lezioni a scuola dalle 5:00 alle 9:00.
+Anthony ha visto Leslie guardare un film a teatro dalle 9:00 alle 11:00.
+Thomas ha visto Leslie comprare i biscotti in una panetteria dalle 11:00 alle 16:00.
+Ashley ha visto Leslie aggiustare il computer nel negozio di elettronica dalle 16:00 alle 17:00.
+Susan ha visto Leslie camminare verso la Statua della Libertà dalle 21:00 alle 22:00.
+La spiaggia è stata chiusa dopo le 22:00.
+In quali momenti Leslie potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 17:00 alle 21:00
+(B) dalle 9:00 alle 11:00
+(C) dalle 21:00 alle 22:00
+(D) dalle 16:00 alle 17:00",(A)
+"Oggi Mary è andata al luna park. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Maria si è svegliata alle 13:00.
+Richard ha visto Mary che faceva stretching in uno studio di yoga dalle 13:00 alle 15:00.
+Jessica ha visto Mary scattare foto vicino alla Torre di Pisa dalle 15:00 alle 16:00.
+Samantha ha visto Mary aggiustare il computer nel negozio di elettronica dalle 16:00 alle 18:00.
+Sean ha visto Mary prendere un caffè al bar dalle 18:00 alle 19:00.
+Kimberly ha visto Mary lavorare in ufficio dalle 21:00 alle 22:00.
+Il parco divertimenti è stato chiuso dopo le 22:00.
+Tra quali orari Mary sarebbe potuta andare al parco dei divertimenti?
+Opzioni:
+(A) dalle 21:00 alle 22:00
+(B) dalle 13:00 alle 15:00
+(C) dalle 15:00 alle 16:00
+(D) dalle 19:00 alle 21:00",(D)
+"Oggi Ashley è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+Mark ha visto Ashley comprare i biscotti in una panetteria dalle 5:00 alle 7:00.
+Richard ha visto Ashley seduta su un tetto dalle 9:00 alle 13:00.
+William ha visto Ashley camminare in giardino dalle 13:00 alle 15:00.
+Hannah ha visto Ashley scattare foto vicino alla Torre di Pisa dalle 15:00 alle 20:00.
+Sarah ha visto Ashley prendere un caffè al bar dalle 20:00 alle 21:00.
+La spiaggia è stata chiusa dopo le 21:00.
+Tra quali momenti Ashley potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 5:00 alle 7:00
+(B) dalle 15:00 alle 20:00
+(C) dalle 9:00 alle 13:00
+(D) dalle 7:00 alle 9:00",(D)
+"Oggi Samantha è andata al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 5 del mattino.
+Sarah ha visto Samantha lavorare in ufficio dalle 5:00 alle 11:00.
+Ashley ha visto Samantha comprare un telefono al negozio di elettronica dalle 11:00 alle 13:00.
+Leslie ha visto Samantha aggiustare il computer nel negozio di elettronica dalle 17:00 alle 20:00.
+Il mercato è stato chiuso dopo le 20:00.
+In quali momenti Samantha potrebbe essere andata al mercato?
+Opzioni:
+(A) dalle 5:00 alle 11:00
+(B) dalle 17:00 alle 20:00
+(C) dalle 11:00 alle 13:00
+(D) dalle 13:00 alle 17:00",(D)
+"Oggi Elizabeth è andata alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 5 del mattino.
+Mark ha visto Elizabeth comprare una bicicletta al negozio di biciclette dalle 6:00 alle 9:00.
+Andrew ha visto Elizabeth aspettare all'aeroporto dalle 9:00 alle 10:00.
+Susan ha visto Elizabeth guidare verso il parco acquatico dalle 10:00 alle 13:00.
+Leslie ha visto Elizabeth aspettare alla stazione dei treni dalle 13:00 alle 14:00.
+Thomas ha visto Elizabeth frequentare le lezioni a scuola dalle 14:00 alle 18:00.
+La stazione di servizio è stata chiusa dopo le 18:00.
+In quali momenti Elizabeth potrebbe essere andata alla stazione di servizio?
+Opzioni:
+(A) dalle 5:00 alle 6:00
+(B) dalle 14:00 alle 18:00
+(C) dalle 13:00 alle 14:00
+(D) dalle 6:00 alle 9:00",(A)
+"Oggi Sean è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 5 del mattino.
+Mary ha visto Sean camminare verso la Statua della Libertà dalle 7:00 alle 13:00.
+Anthony ha visto Sean aggiustare il computer nel negozio di elettronica dalle 13:00 alle 16:00.
+William ha visto Sean guardare un film a teatro dalle 16:00 alle 17:00.
+Sarah ha visto Sean prendere un caffè al bar dalle 17:00 alle 20:00.
+Il campo di calcio è stato chiuso dopo le 20:00.
+Tra quali momenti Sean potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) dalle 13:00 alle 16:00
+(B) dalle 16:00 alle 17:00
+(C) dalle 17:00 alle 20:00
+(D) dalle 5:00 alle 7:00",(D)
+"Oggi Elizabeth è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 6 del mattino.
+Nancy ha visto Elizabeth aggiustare il computer nel negozio di elettronica dalle 6:00 alle 7:00.
+Jessica ha visto Elizabeth frequentare le lezioni a scuola dalle 7:00 alle 11:00.
+William ha visto Elizabeth prendere un caffè al bar dalle 11:00 alle 15:00.
+Betty ha visto Elizabeth scattare foto vicino alla Torre Eiffel dalle 15:00 alle 18:00.
+La piscina è stata chiusa dopo le 19:00.
+Tra quali orari Elizabeth potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 11:00 alle 15:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 18:00 alle 19:00
+(D) dalle 7:00 alle 11:00",(C)
+"Oggi Michael è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 10:00.
+Sean ha visto Michael guardare un film a teatro dalle 10:00 alle 12:00.
+Sarah ha visto Michael comprare un telefono al negozio di elettronica dalle 16:00 alle 18:00.
+Mary ha visto Michael comprare una bicicletta al negozio di biciclette dalle 18:00 alle 20:00.
+Il negozio di abbigliamento è stato chiuso dopo le 20:00.
+In quali momenti Michael potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 18:00 alle 20:00
+(B) dalle 16:00 alle 18:00
+(C) dalle 10:00 alle 12:00
+(D) dalle 12:00 alle 16:00",(D)
+"Oggi Andrew è andato al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 9:00.
+Anthony ha visto Andrew comprare vestiti al centro commerciale dalle 9:00 alle 14:00.
+Mark ha visto Andrew scattare foto vicino alla Torre di Pisa dalle 14:00 alle 15:00.
+Tiffany ha visto Andrew seduto su un tetto dalle 16:00 alle 19:00.
+Samantha ha visto Andrew aspettare alla stazione dei treni dalle 19:00 alle 21:00.
+Il cantiere è stato chiuso dopo le 21:00.
+In quali momenti Andrew potrebbe essere andato al cantiere?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 16:00 alle 19:00
+(C) dalle 14:00 alle 15:00
+(D) dalle 19:00 alle 21:00",(A)
+"Oggi Nancy è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 5 del mattino.
+William ha visto Nancy frequentare le lezioni a scuola dalle 5:00 alle 11:00.
+Leslie ha visto Nancy aspettare alla stazione dei treni dalle 11:00 alle 12:00.
+Nancy ha visto Nancy leggere in biblioteca dalle 15:00 alle 20:00.
+Il campo di calcio è stato chiuso dopo le 20:00.
+In quali momenti Nancy sarebbe potuta andare al campo di calcio?
+Opzioni:
+(A) dalle 15:00 alle 20:00
+(B) dalle 12:00 alle 15:00
+(C) dalle 5:00 alle 11:00
+(D) dalle 11:00 alle 12:00",(B)
+"Oggi, Jason è andato al museo. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 7 del mattino.
+Jessica ha visto Jason scattare foto vicino alla Torre Eiffel dalle 7:00 alle 8:00.
+Andrew ha visto Jason lavorare in ufficio dalle 9:00 alle 17:00.
+Susan ha visto Jason comprare un telefono al negozio di elettronica dalle 17:00 alle 20:00.
+John ha visto Jason frequentare le lezioni a scuola dalle 20:00 alle 21:00.
+Il museo è stato chiuso dopo le 21:00.
+In quali momenti Jason potrebbe essere andato al museo?
+Opzioni:
+(A) dalle 7:00 alle 8:00
+(B) dalle 9:00 alle 17:00
+(C) dalle 17:00 alle 20:00
+(D) dalle 8:00 alle 9:00",(D)
+"Oggi Anthony è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 5 del mattino.
+Susan ha visto Anthony leggere in biblioteca dalle 5:00 alle 7:00.
+Sarah ha visto Anthony camminare verso la Statua della Libertà dalle 7:00 alle 10:00.
+Nancy ha visto Anthony allenarsi in palestra dalle 17:00 alle 19:00.
+David ha visto Anthony guidare verso il parco acquatico dalle 19:00 alle 20:00.
+La stazione di servizio è stata chiusa dopo le 20:00.
+Tra quali orari Anthony potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 19:00 alle 20:00
+(B) dalle 10:00 alle 17:00
+(C) dalle 17:00 alle 19:00
+(D) dalle 5:00 alle 7:00",(B)
+"Oggi, Leslie è andata al cinema. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 6 del mattino.
+Susan ha visto Leslie seduta su un tetto dalle 6:00 alle 7:00.
+Mary ha visto Leslie lavorare in ufficio dalle 12:00 alle 14:00.
+Steven ha visto Leslie prendere un caffè al bar dalle 14:00 alle 19:00.
+Il cinema è stato chiuso dopo le 19:00.
+In quali momenti Leslie potrebbe essere andata al cinema?
+Opzioni:
+(A) dalle 7:00 alle 12:00
+(B) dalle 14:00 alle 19:00
+(C) dalle 12:00 alle 14:00
+(D) dalle 6:00 alle 7:00",(A)
+"Oggi, David è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 6 del mattino.
+Sarah ha visto David camminare verso la Statua della Libertà dalle 8:00 alle 9:00.
+Leslie ha visto David guardare un film a teatro dalle 9:00 alle 11:00.
+Emily ha visto David comprare vestiti al centro commerciale dalle 11:00 alle 13:00.
+Hannah ha visto David camminare in giardino dalle 13:00 alle 15:00.
+Samantha ha visto David leggere in biblioteca dalle 15:00 alle 16:00.
+Il negozio di abbigliamento è stato chiuso dopo le 16:00.
+In quali momenti David potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 11:00 alle 13:00
+(B) dalle 8:00 alle 9:00
+(C) dalle 6:00 alle 8:00
+(D) dalle 13:00 alle 15:00",(C)
+"Oggi, Hannah è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 6 del mattino.
+James ha visto Hannah giocare a tennis al campo da tennis dalle 6:00 alle 10:00.
+Anthony ha visto Hannah camminare in giardino dalle 10:00 alle 11:00.
+Jennifer ha visto Hannah aspettare alla stazione dei treni dalle 11:00 alle 15:00.
+Linda ha visto Hannah fare stretching in uno studio di yoga dalle 17:00 alle 20:00.
+Kimberly ha visto Hannah leggere in biblioteca dalle 20:00 alle 22:00.
+Il campo da basket è stato chiuso dopo le 22:00.
+In quali momenti Hannah sarebbe potuta andare al campo da basket?
+Opzioni:
+(A) dalle 11:00 alle 15:00
+(B) dalle 10:00 alle 11:00
+(C) dalle 20:00 alle 22:00
+(D) dalle 15:00 alle 17:00",(D)
+"Oggi Sarah è andata al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 6 del mattino.
+James ha visto Sarah scattare foto vicino alla Torre Eiffel dalle 6:00 alle 10:00.
+Betty ha visto Sarah comprare i biscotti in una panetteria dalle 10:00 alle 12:00.
+William ha visto Sarah camminare in giardino dalle 12:00 alle 13:00.
+John ha visto Sarah lavorare in ufficio dalle 13:00 alle 14:00.
+Steven ha visto Sarah guidare verso il parco acquatico dalle 18:00 alle 19:00.
+Il mercato è stato chiuso dopo le 19:00.
+In quali momenti Sarah potrebbe essere andata al mercato?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 13:00 alle 14:00
+(C) dalle 10:00 alle 12:00
+(D) dalle 14:00 alle 18:00",(D)
+"Oggi Andrew è andato al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 5 del mattino.
+Tiffany ha visto Andrew leggere in biblioteca dalle 6:00 alle 10:00.
+Nancy ha visto Andrew camminare in giardino dalle 10:00 alle 12:00.
+Sarah ha visto Andrew allenarsi in palestra dalle 12:00 alle 17:00.
+Emily ha visto Andrew aspettare all'aeroporto dalle 17:00 alle 21:00.
+Il parco è stato chiuso dopo le 21:00.
+In quali momenti Andrew potrebbe essere andato al parco?
+Opzioni:
+(A) dalle 12:00 alle 17:00
+(B) dalle 17:00 alle 21:00
+(C) dalle 6:00 alle 10:00
+(D) dalle 5:00 alle 6:00",(D)
+"Oggi, William è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 6 del mattino.
+Betty ha visto William leggere in biblioteca dalle 12:00 alle 15:00.
+Hannah ha visto William aggiustare il computer nel negozio di elettronica dalle 15:00 alle 16:00.
+Nancy ha visto William comprare i biscotti in una panetteria dalle 16:00 alle 19:00.
+Sarah ha visto William camminare verso la Statua della Libertà dalle 19:00 alle 20:00.
+Michael ha visto William guardare un film a teatro dalle 20:00 alle 22:00.
+Lo studio d'arte è stato chiuso dopo le 22:00.
+Tra quali periodi William potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 19:00 alle 20:00
+(B) dalle 6:00 alle 12:00
+(C) dalle 20:00 alle 22:00
+(D) dalle 12:00 alle 15:00",(B)
+"Oggi, Elizabeth è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 8:00.
+David ha visto Elizabeth frequentare le lezioni a scuola dalle 8:00 alle 16:00.
+Elizabeth ha visto Elizabeth aggiustare il computer nel negozio di elettronica dalle 16:00 alle 17:00.
+Ashley ha visto Elizabeth prendere un caffè al bar dalle 17:00 alle 21:00.
+La panetteria è stata chiusa dopo le 22:00.
+In quali momenti Elizabeth potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 8:00 alle 16:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 16:00 alle 17:00
+(D) dalle 17:00 alle 21:00",(B)
+"Oggi Sarah è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Thomas ha visto Sarah seduta su un tetto dalle 11:00 alle 15:00.
+Andrew ha visto Sarah aggiustare il computer nel negozio di elettronica dalle 15:00 alle 17:00.
+Emily ha visto Sarah aspettare all'aeroporto dalle 17:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 21:00.
+In quali momenti Sarah sarebbe potuta andare al campo di calcio?
+Opzioni:
+(A) dalle 15:00 alle 17:00
+(B) dalle 11:00 alle 15:00
+(C) dalle 5:00 alle 11:00
+(D) dalle 17:00 alle 21:00",(C)
+"Oggi, David è andato alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+Samantha ha visto David lavorare in ufficio dalle 5:00 alle 7:00.
+Mary ha visto David scattare foto vicino alla Torre Eiffel dalle 7:00 alle 13:00.
+Leslie ha visto David guidare al parco acquatico dalle 15:00 alle 20:00.
+La mostra d'arte è stata chiusa dopo le 20:00.
+Tra quali orari David potrebbe essere andato alla mostra d'arte?
+Opzioni:
+(A) dalle 7:00 alle 13:00
+(B) dalle 15:00 alle 20:00
+(C) dalle 5:00 alle 7:00
+(D) dalle 13:00 alle 15:00",(D)
+"Oggi, Jason è andato al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 5 del mattino.
+Nancy ha visto Jason comprare vestiti al centro commerciale dalle 5:00 alle 14:00.
+Emily ha visto Jason camminare in giardino dalle 14:00 alle 16:00.
+John ha visto Jason leggere in biblioteca dalle 17:00 alle 20:00.
+Jennifer ha visto Jason comprare il pranzo alla gastronomia dalle 20:00 alle 21:00.
+Il parco è stato chiuso dopo le 21:00.
+In quali momenti Jason potrebbe essere andato al parco?
+Opzioni:
+(A) dalle 5:00 alle 14:00
+(B) dalle 16:00 alle 17:00
+(C) dalle 14:00 alle 16:00
+(D) dalle 20:00 alle 21:00",(B)
+"Oggi Anthony è andato allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Antonio si è svegliato alle 8:00.
+William ha visto Anthony guidare al parco acquatico dalle 10:00 alle 12:00.
+David ha visto Anthony seduto su un tetto dalle 12:00 alle 13:00.
+Richard ha visto Anthony comprare un telefono al negozio di elettronica dalle 13:00 alle 16:00.
+Lo studio di danza è stato chiuso dopo le 16:00.
+Tra quali periodi Anthony potrebbe essere andato allo studio di danza?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 13:00 alle 16:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 10:00 alle 12:00",(C)
+"Oggi Sarah è andata al mare. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 10:00.
+Anthony ha visto Sarah aggiustare il computer nel negozio di elettronica dalle 10:00 alle 12:00.
+Betty ha visto Sarah seduta su un tetto dalle 13:00 alle 14:00.
+Kimberly ha visto Sarah giocare a tennis al campo dalle 14:00 alle 15:00.
+Linda ha visto Sarah scattare foto vicino alla Torre Pendente di Pisa dalle 15:00 alle 19:00.
+La spiaggia è stata chiusa dopo le 19:00.
+In quali momenti Sarah potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 14:00 alle 15:00
+(B) dalle 12:00 alle 13:00
+(C) dalle 15:00 alle 19:00
+(D) dalle 10:00 alle 12:00",(B)
+"Oggi, Hannah è andata alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 7 del mattino.
+Michael ha visto Hannah camminare verso la Statua della Libertà dalle 7:00 alle 8:00.
+Leslie ha visto Hannah leggere in biblioteca dalle 8:00 alle 9:00.
+Jason ha visto Hannah seduta su un tetto dalle 9:00 alle 13:00.
+Lisa ha visto Hannah aggiustare il computer nel negozio di elettronica dalle 19:00 alle 21:00.
+Hannah ha visto Hannah guardare un film a teatro dalle 21:00 alle 22:00.
+La mostra d'arte è stata chiusa dopo le 22:00.
+Tra quali orari Hannah potrebbe essere andata alla mostra d'arte?
+Opzioni:
+(A) dalle 19:00 alle 21:00
+(B) dalle 7:00 alle 8:00
+(C) dalle 13:00 alle 19:00
+(D) dalle 21:00 alle 22:00",(C)
+"Oggi Mark è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Marco si è svegliato alle 12:00.
+James ha visto Mark comprare vestiti al centro commerciale dalle 12:00 alle 13:00.
+Nancy ha visto Mark andare al parco acquatico dalle 13:00 alle 16:00.
+Richard ha visto Mark seduto su un tetto dalle 17:00 alle 18:00.
+John ha visto Mark prendere un caffè al bar dalle 18:00 alle 22:00.
+Il campo da basket è stato chiuso dopo le 22:00.
+Tra quali momenti Mark potrebbe essere andato al campo da basket?
+Opzioni:
+(A) dalle 17:00 alle 18:00
+(B) dalle 13:00 alle 16:00
+(C) dalle 16:00 alle 17:00
+(D) dalle 12:00 alle 13:00",(C)
+"Oggi Sarah è andata alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Kimberly ha visto Sarah aspettare all'aeroporto dalle 5:00 alle 8:00.
+Thomas ha visto Sarah scattare foto vicino alla Torre Eiffel dalle 8:00 alle 13:00.
+Hannah ha visto Sarah aggiustare il computer nel negozio di elettronica dalle 13:00 alle 14:00.
+La mostra d'arte è stata chiusa dopo le 22:00.
+Tra quali orari Sarah sarebbe potuta andare alla mostra d'arte?
+Opzioni:
+(A) dalle 13:00 alle 14:00
+(B) dalle 5:00 alle 8:00
+(C) dalle 14:00 alle 22:00
+(D) dalle 8:00 alle 13:00",(C)
+"Oggi, James è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 6 del mattino.
+Susan ha visto James comprare una bicicletta al negozio di biciclette dalle 7:00 alle 8:00.
+Emily ha visto James comprare un telefono al negozio di elettronica dalle 8:00 alle 9:00.
+Lisa ha visto James frequentare le lezioni a scuola dalle 9:00 alle 15:00.
+Sarah ha visto James scattare foto vicino alla Torre di Pisa dalle 15:00 alle 17:00.
+David ha visto James prendere un caffè al bar dalle 17:00 alle 20:00.
+Il campo da basket è stato chiuso dopo le 20:00.
+Tra quali momenti James potrebbe essere andato al campo da basket?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 9:00 alle 15:00
+(C) dalle 8:00 alle 9:00
+(D) dalle 15:00 alle 17:00",(A)
+"Oggi Emily è andata nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 5 del mattino.
+Linda ha visto Emily aspettare all'aeroporto dalle 5:00 alle 6:00.
+David ha visto Emily comprare i biscotti in una panetteria dalle 14:00 alle 19:00.
+Michael ha visto Emily comprare vestiti al centro commerciale dalle 19:00 alle 20:00.
+Thomas ha visto Emily allenarsi in palestra dalle 20:00 alle 22:00.
+La sala dell'orchestra è stata chiusa dopo le 22:00.
+In quali momenti Emily potrebbe essere andata nella sala dell'orchestra?
+Opzioni:
+(A) dalle 5:00 alle 6:00
+(B) dalle 14:00 alle 19:00
+(C) dalle 20:00 alle 22:00
+(D) dalle 6:00 alle 14:00",(D)
+"Oggi David è andato al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 7:00.
+Linda ha visto David seduto su un tetto dalle 7:00 alle 9:00.
+Mary ha visto David comprare i biscotti in una panetteria dalle 10:00 alle 13:00.
+Anthony ha visto David camminare in giardino dalle 13:00 alle 14:00.
+Sean ha visto David aspettare alla stazione dei treni dalle 14:00 alle 17:00.
+Il mercato è stato chiuso dopo le 17:00.
+In quali momenti David potrebbe essere andato al mercato?
+Opzioni:
+(A) dalle 10:00 alle 13:00
+(B) dalle 9:00 alle 10:00
+(C) dalle 7:00 alle 9:00
+(D) dalle 13:00 alle 14:00",(B)
+"Oggi Jennifer è andata al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 5 del mattino.
+Lisa ha visto Jennifer comprare una bicicletta al negozio di biciclette dalle 5:00 alle 10:00.
+Samantha ha visto Jennifer scattare foto vicino alla Torre Eiffel dalle 10:00 alle 14:00.
+William ha visto Jennifer aspettare all'aeroporto dalle 14:00 alle 15:00.
+Ashley ha visto Jennifer comprare il pranzo alla gastronomia dalle 16:00 alle 17:00.
+Andrew ha visto Jennifer lavorare in ufficio dalle 17:00 alle 20:00.
+Il parco divertimenti è stato chiuso dopo le 20:00.
+In quali momenti Jennifer potrebbe essere andata al parco dei divertimenti?
+Opzioni:
+(A) dalle 14:00 alle 15:00
+(B) dalle 17:00 alle 20:00
+(C) dalle 5:00 alle 10:00
+(D) dalle 15:00 alle 16:00",(D)
+"Oggi Ashley è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+Ashley ha visto Ashley scattare foto vicino alla Torre Pendente di Pisa dalle 5:00 alle 6:00.
+James ha visto Ashley comprare i biscotti in una panetteria dalle 6:00 alle 11:00.
+Anthony ha visto Ashley camminare in giardino dalle 11:00 alle 12:00.
+Samantha ha visto Ashley scattare foto vicino alla Torre Eiffel dalle 18:00 alle 22:00.
+Lo studio di danza è stato chiuso dopo le 22:00.
+In quali momenti Ashley potrebbe essere andata allo studio di danza?
+Opzioni:
+(A) dalle 12:00 alle 18:00
+(B) dalle 11:00 alle 12:00
+(C) dalle 6:00 alle 11:00
+(D) dalle 18:00 alle 22:00",(A)
+"Oggi William è andato al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 7 del mattino.
+William ha visto William lavorare in ufficio dalle 7:00 alle 8:00.
+Hannah ha visto William leggere in biblioteca dalle 8:00 alle 15:00.
+Susan ha visto William aggiustare il computer nel negozio di elettronica dalle 15:00 alle 16:00.
+Leslie ha visto William prendere un caffè al bar dalle 18:00 alle 21:00.
+Il mercato è stato chiuso dopo le 21:00.
+In quali momenti William potrebbe essere andato al mercato?
+Opzioni:
+(A) dalle 16:00 alle 18:00
+(B) dalle 7:00 alle 8:00
+(C) dalle 15:00 alle 16:00
+(D) dalle 8:00 alle 15:00",(A)
+"Oggi Jennifer è andata al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 6 del mattino.
+Mary ha visto Jennifer guidare verso il parco acquatico dalle 6:00 alle 11:00.
+Sarah ha visto Jennifer leggere in biblioteca dalle 13:00 alle 17:00.
+David ha visto Jennifer fare stretching in uno studio di yoga dalle 17:00 alle 18:00.
+Michael ha visto Jennifer guardare un film a teatro dalle 18:00 alle 22:00.
+Il ristorante è stato chiuso dopo le 22:00.
+Tra quali orari Jennifer potrebbe essere andata al ristorante?
+Opzioni:
+(A) dalle 13:00 alle 17:00
+(B) dalle 11:00 alle 13:00
+(C) dalle 6:00 alle 11:00
+(D) dalle 17:00 alle 18:00",(B)
+"Oggi, Jennifer è andata alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 8:00.
+Lisa ha visto Jennifer comprare vestiti al centro commerciale dalle 8:00 alle 9:00.
+Steven ha visto Jennifer camminare verso la Statua della Libertà dalle 9:00 alle 10:00.
+Sarah ha visto Jennifer seduta su un tetto dalle 10:00 alle 14:00.
+Linda ha visto Jennifer scattare foto vicino alla Torre Pendente di Pisa dalle 16:00 alle 18:00.
+Andrew ha visto Jennifer allenarsi in palestra dalle 18:00 alle 20:00.
+La mostra d'arte è stata chiusa dopo le 20:00.
+Tra quali orari Jennifer potrebbe essere andata alla mostra d'arte?
+Opzioni:
+(A) dalle 14:00 alle 16:00
+(B) dalle 8:00 alle 9:00
+(C) dalle 9:00 alle 10:00
+(D) dalle 18:00 alle 20:00",(A)
+"Oggi Jennifer è andata nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 5 del mattino.
+Susan ha visto Jennifer comprare una bicicletta al negozio di biciclette dalle 5:00 alle 12:00.
+Jessica ha visto Jennifer lavorare in ufficio dalle 12:00 alle 16:00.
+Nancy ha visto Jennifer comprare vestiti al centro commerciale dalle 17:00 alle 21:00.
+La sala dell'orchestra è stata chiusa dopo le 21:00.
+In quali momenti Jennifer potrebbe essere andata nella sala dell'orchestra?
+Opzioni:
+(A) Dalle 12:00 alle 16:00
+(B) dalle 17:00 alle 21:00
+(C) dalle 16:00 alle 17:00
+(D) dalle 5:00 alle 12:00",(C)
+"Oggi Nancy è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 9:00.
+Steven ha visto Nancy aspettare alla stazione dei treni dalle 14:00 alle 16:00.
+Sarah ha visto Nancy leggere in biblioteca dalle 16:00 alle 17:00.
+Richard ha visto Nancy comprare un telefono al negozio di elettronica dalle 17:00 alle 18:00.
+Thomas ha visto Nancy frequentare le lezioni a scuola dalle 18:00 alle 19:00.
+Il campo da basket è stato chiuso dopo le 19:00.
+In quali momenti Nancy sarebbe potuta andare al campo da basket?
+Opzioni:
+(A) dalle 9:00 alle 14:00
+(B) dalle 16:00 alle 17:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 14:00 alle 16:00",(A)
+"Oggi, Samantha è andata al cinema. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 5 del mattino.
+Lisa ha visto Samantha andare al parco acquatico dalle 8:00 alle 12:00.
+Mary ha visto Samantha camminare in giardino dalle 12:00 alle 16:00.
+Samantha ha visto Samantha leggere in biblioteca dalle 16:00 alle 18:00.
+Il cinema è stato chiuso dopo le 18:00.
+Tra quali momenti Samantha potrebbe essere andata al cinema?
+Opzioni:
+(A) dalle 8:00 alle 12:00
+(B) dalle 16:00 alle 18:00
+(C) dalle 5:00 alle 8:00
+(D) dalle 12:00 alle 16:00",(C)
+"Oggi Tiffany è andata al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tiffany si è svegliata alle 5 del mattino.
+Jason ha visto Tiffany guidare al parco acquatico dalle 5:00 alle 6:00.
+Steven ha visto Tiffany prendere un caffè al bar dalle 6:00 alle 12:00.
+Jessica ha visto Tiffany comprare il pranzo alla gastronomia dalle 12:00 alle 16:00.
+Thomas ha visto Tiffany lavorare in ufficio dalle 17:00 alle 19:00.
+Il mercato è stato chiuso dopo le 19:00.
+In quali momenti Tiffany sarebbe potuta andare al mercato?
+Opzioni:
+(A) dalle 6:00 alle 12:00
+(B) dalle 16:00 alle 17:00
+(C) dalle 5:00 alle 6:00
+(D) dalle 17:00 alle 19:00",(B)
+"Oggi, Leslie è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 7 del mattino.
+Steven ha visto Leslie comprare una bicicletta al negozio di biciclette dalle 7:00 alle 8:00.
+Hannah ha visto Leslie seduta su un tetto dalle 8:00 alle 10:00.
+Michael ha visto Leslie comprare il pranzo alla gastronomia dalle 10:00 alle 12:00.
+Kimberly ha visto Leslie scattare foto vicino alla Torre Eiffel dalle 13:00 alle 16:00.
+Thomas ha visto Leslie camminare verso la Statua della Libertà dalle 16:00 alle 19:00.
+Lo studio di danza è stato chiuso dopo le 19:00.
+In quali momenti Leslie potrebbe essere andata allo studio di danza?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 7:00 alle 8:00
+(C) dalle 12:00 alle 13:00
+(D) dalle 16:00 alle 19:00",(C)
+"Oggi, Hannah è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 5 del mattino.
+Jessica ha visto Hannah comprare vestiti al centro commerciale dalle 5:00 alle 6:00.
+Kimberly ha visto Hannah guardare un film a teatro dalle 6:00 alle 11:00.
+Sarah ha visto Hannah prendere un caffè al bar dalle 11:00 alle 13:00.
+Steven ha visto Hannah lavorare in ufficio dalle 13:00 alle 15:00.
+Hannah ha visto Hannah aspettare all'aeroporto dalle 15:00 alle 17:00.
+Il campo di calcio è stato chiuso dopo le 18:00.
+In quali momenti Hannah sarebbe potuta andare al campo di calcio?
+Opzioni:
+(A) dalle 15:00 alle 17:00
+(B) dalle 11:00 alle 13:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 13:00 alle 15:00",(C)
+"Oggi Anthony è andato al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 6 del mattino.
+Leslie ha visto Anthony leggere in biblioteca dalle 6:00 alle 8:00.
+Jennifer ha visto Anthony allenarsi in palestra dalle 8:00 alle 9:00.
+Anthony ha visto Anthony comprare i biscotti in una panetteria dalle 14:00 alle 21:00.
+William ha visto Anthony comprare una bicicletta al negozio di biciclette dalle 21:00 alle 22:00.
+Il parco divertimenti è stato chiuso dopo le 22:00.
+In quali momenti Anthony potrebbe essere andato al parco dei divertimenti?
+Opzioni:
+(A) dalle 21:00 alle 22:00
+(B) dalle 9:00 alle 14:00
+(C) dalle 6:00 alle 8:00
+(D) dalle 14:00 alle 21:00",(B)
+"Oggi, Hannah è andata allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Hannah si è svegliata alle 6 del mattino.
+Thomas ha visto Hannah leggere in biblioteca dalle 6:00 alle 8:00.
+David ha visto Hannah prendere un caffè al bar dalle 8:00 alle 10:00.
+Leslie ha visto Hannah fare stretching in uno studio di yoga dalle 18:00 alle 19:00.
+Ashley ha visto Hannah camminare verso la Statua della Libertà dalle 19:00 alle 20:00.
+Lo studio d'arte è stato chiuso dopo le 20:00.
+Tra quali periodi Hannah potrebbe essere andata allo studio d'arte?
+Opzioni:
+(A) dalle 10:00 alle 18:00
+(B) dalle 19:00 alle 20:00
+(C) dalle 6:00 alle 8:00
+(D) dalle 8:00 alle 10:00",(A)
+"Oggi Leslie è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 7 del mattino.
+William ha visto Leslie allenarsi in palestra dalle 18:00 alle 19:00.
+Mark ha visto Leslie prendere un caffè al bar dalle 19:00 alle 20:00.
+Hannah ha visto Leslie scattare foto vicino alla Torre di Pisa dalle 20:00 alle 22:00.
+La piscina è stata chiusa dopo le 22:00.
+In quali momenti Leslie potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 19:00 alle 20:00
+(B) dalle 18:00 alle 19:00
+(C) dalle 7:00 alle 18:00
+(D) dalle 20:00 alle 22:00",(C)
+"Oggi Anthony è andato in libreria. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 7 del mattino.
+David ha visto Anthony lavorare in ufficio dalle 7:00 alle 8:00.
+Leslie ha visto Anthony prendere un caffè al bar dalle 8:00 alle 11:00.
+Sarah ha visto Anthony guardare un film a teatro dalle 13:00 alle 21:00.
+La libreria è stata chiusa dopo le 21:00.
+In quali momenti Anthony potrebbe essere andato in libreria?
+Opzioni:
+(A) dalle 11:00 alle 13:00
+(B) dalle 8:00 alle 11:00
+(C) dalle 7:00 alle 8:00
+(D) dalle 13:00 alle 21:00",(A)
+"Oggi Thomas è andato al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Thomas si è svegliato alle 6 del mattino.
+William ha visto Thomas allenarsi in palestra dalle 8:00 alle 11:00.
+David ha visto Thomas fare stretching in uno studio di yoga dalle 11:00 alle 15:00.
+Steven ha visto Thomas guardare un film a teatro dalle 15:00 alle 18:00.
+Emily ha visto Thomas scattare foto vicino alla Torre di Pisa dalle 18:00 alle 19:00.
+Il cantiere è stato chiuso dopo le 19:00.
+In quali momenti Thomas potrebbe essere andato al cantiere?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 11:00 alle 15:00
+(C) dalle 8:00 alle 11:00
+(D) dalle 6:00 alle 8:00",(D)
+"Oggi, Jason è andato al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 6 del mattino.
+Elizabeth ha visto Jason comprare un telefono al negozio di elettronica dalle 6:00 alle 7:00.
+Jessica ha visto Jason prendere un caffè al bar dalle 7:00 alle 12:00.
+Mark ha visto Jason giocare a tennis al campo da tennis dalle 16:00 alle 18:00.
+Linda ha visto Jason comprare il pranzo alla gastronomia dalle 18:00 alle 20:00.
+La panetteria è stata chiusa dopo le 20:00.
+In quali momenti Jason potrebbe essere andato al panificio?
+Opzioni:
+(A) dalle 16:00 alle 18:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 7:00 alle 12:00
+(D) dalle 12:00 alle 16:00",(D)
+"Oggi, Betty è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Betty si è svegliata alle 5 del mattino.
+Jessica ha visto Betty andare al parco acquatico dalle 5:00 alle 13:00.
+Susan ha visto Betty fare stretching in uno studio di yoga dalle 13:00 alle 16:00.
+Leslie ha visto Betty comprare un telefono al negozio di elettronica dalle 16:00 alle 21:00.
+La panetteria è stata chiusa dopo le 22:00.
+In quali momenti Betty potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 5:00 alle 13:00
+(B) dalle 16:00 alle 21:00
+(C) dalle 13:00 alle 16:00
+(D) dalle 21:00 alle 22:00",(D)
+"Oggi Ashley è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 11:00.
+David ha visto Ashley comprare una bicicletta al negozio di biciclette dalle 11:00 alle 12:00.
+William ha visto Ashley seduta su un tetto dalle 12:00 alle 15:00.
+Elizabeth ha visto Ashley lavorare in ufficio dalle 15:00 alle 17:00.
+Il campo da basket è stato chiuso dopo le 20:00.
+Tra quali momenti Ashley potrebbe essere andata al campo da basket?
+Opzioni:
+(A) dalle 15:00 alle 17:00
+(B) dalle 12:00 alle 15:00
+(C) dalle 17:00 alle 20:00
+(D) dalle 11:00 alle 12:00",(C)
+"Oggi David è andato al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+Sarah ha visto David leggere in biblioteca dalle 5:00 alle 7:00.
+John ha visto David aggiustare il computer nel negozio di elettronica dalle 7:00 alle 10:00.
+Tiffany ha visto David comprare una bicicletta al negozio di biciclette dalle 10:00 alle 12:00.
+William ha visto David comprare un telefono al negozio di elettronica dalle 19:00 alle 22:00.
+Il mercato è stato chiuso dopo le 22:00.
+In quali momenti David potrebbe essere andato al mercato?
+Opzioni:
+(A) dalle 12:00 alle 19:00
+(B) dalle 19:00 alle 22:00
+(C) dalle 7:00 alle 10:00
+(D) dalle 10:00 alle 12:00",(A)
+"Oggi, Leslie è andata all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 5 del mattino.
+Betty ha visto Leslie camminare verso la Statua della Libertà dalle 5:00 alle 7:00.
+Mary ha visto Leslie allenarsi in palestra dalle 9:00 alle 10:00.
+Hannah ha visto Leslie aggiustare il computer nel negozio di elettronica dalle 10:00 alle 17:00.
+Mark ha visto Leslie frequentare le lezioni a scuola dalle 17:00 alle 21:00.
+L'aula di fisica è stata chiusa dopo le 21:00.
+In quali momenti Leslie potrebbe essere andata all'aula di fisica?
+Opzioni:
+(A) dalle 5:00 alle 7:00
+(B) dalle 17:00 alle 21:00
+(C) dalle 7:00 alle 9:00
+(D) dalle 9:00 alle 10:00",(C)
+"Oggi Ashley è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 7 del mattino.
+Elizabeth ha visto Ashley fare stretching in uno studio di yoga dalle 7:00 alle 8:00.
+Samantha ha visto Ashley comprare il pranzo alla gastronomia dalle 8:00 alle 11:00.
+Jennifer ha visto Ashley comprare vestiti al centro commerciale dalle 11:00 alle 17:00.
+La spiaggia è stata chiusa dopo le 18:00.
+Tra quali momenti Ashley potrebbe essere andata in spiaggia?
+Opzioni:
+(A) dalle 8:00 alle 11:00
+(B) dalle 11:00 alle 17:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 7:00 alle 8:00",(C)
+"Oggi Michael è andato al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 5 del mattino.
+Sean ha visto Michael frequentare le lezioni a scuola dalle 5:00 alle 10:00.
+Lisa ha visto Michael camminare in giardino dalle 17:00 alle 19:00.
+Anthony ha visto Michael prendere un caffè al bar dalle 19:00 alle 22:00.
+Il cantiere è stato chiuso dopo le 22:00.
+In quali momenti Michael potrebbe essere andato al cantiere?
+Opzioni:
+(A) dalle 10:00 alle 17:00
+(B) dalle 19:00 alle 22:00
+(C) dalle 5:00 alle 10:00
+(D) dalle 17:00 alle 19:00",(A)
+"Oggi, Jason è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 5 del mattino.
+Sean ha visto Jason camminare in giardino dalle 5:00 alle 8:00.
+David ha visto Jason comprare il pranzo alla gastronomia dalle 8:00 alle 14:00.
+Jennifer ha visto Jason guidare al parco acquatico dalle 14:00 alle 17:00.
+Lisa ha visto Jason guardare un film a teatro dalle 18:00 alle 19:00.
+Mary ha visto Jason comprare i biscotti in una panetteria dalle 19:00 alle 22:00.
+La stazione di servizio è stata chiusa dopo le 22:00.
+Tra quali orari Jason potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 17:00 alle 18:00
+(B) dalle 14:00 alle 17:00
+(C) dalle 18:00 alle 19:00
+(D) dalle 8:00 alle 14:00",(A)
+"Oggi Sean è andato al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 5 del mattino.
+Emily ha visto Sean seduto su un tetto dalle 5:00 alle 6:00.
+Jason ha visto Sean aggiustare il computer nel negozio di elettronica dalle 6:00 alle 7:00.
+Jennifer ha visto Sean allenarsi in palestra dalle 7:00 alle 8:00.
+David ha visto Sean scattare foto vicino alla Torre di Pisa dalle 9:00 alle 19:00.
+Il ristorante è stato chiuso dopo le 19:00.
+Tra quali orari Sean potrebbe essere andato al ristorante?
+Opzioni:
+(A) dalle 7:00 alle 8:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 9:00 alle 19:00
+(D) dalle 8:00 alle 9:00",(D)
+"Oggi Sarah è andata alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 7:00.
+Kimberly ha visto Sarah seduta su un tetto dalle 7:00 alle 9:00.
+Mark ha visto Sarah comprare una bicicletta al negozio di biciclette dalle 11:00 alle 14:00.
+John ha visto Sarah comprare i biscotti in una panetteria dalle 14:00 alle 15:00.
+William ha visto Sarah aggiustare il computer nel negozio di elettronica dalle 15:00 alle 16:00.
+La stazione di servizio è stata chiusa dopo le 16:00.
+In quali momenti Sarah potrebbe essere andata alla stazione di servizio?
+Opzioni:
+(A) dalle 11:00 alle 14:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 9:00 alle 11:00
+(D) dalle 15:00 alle 16:00",(C)
+"Oggi, Andrew è andato alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 6 del mattino.
+Kimberly ha visto Andrew aspettare all'aeroporto dalle 10:00 alle 12:00.
+Anthony ha visto Andrew frequentare le lezioni a scuola dalle 12:00 alle 19:00.
+John ha visto Andrew allenarsi in palestra dalle 19:00 alle 20:00.
+La mostra d'arte è stata chiusa dopo le 20:00.
+Tra quali orari Andrew potrebbe essere andato alla mostra d'arte?
+Opzioni:
+(A) dalle 6:00 alle 10:00
+(B) dalle 19:00 alle 20:00
+(C) dalle 12:00 alle 19:00
+(D) dalle 10:00 alle 12:00",(A)
+"Oggi, James è andato al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 12:00.
+Elizabeth ha visto James fare stretching in uno studio di yoga dalle 15:00 alle 16:00.
+Michael ha visto James aggiustare il computer nel negozio di elettronica dalle 16:00 alle 19:00.
+Mary ha visto James lavorare in ufficio dalle 19:00 alle 21:00.
+Nancy ha visto James allenarsi in palestra dalle 21:00 alle 22:00.
+Il ristorante è stato chiuso dopo le 22:00.
+Tra quali orari James potrebbe essere andato al ristorante?
+Opzioni:
+(A) dalle 12:00 alle 15:00
+(B) dalle 15:00 alle 16:00
+(C) dalle 19:00 alle 21:00
+(D) dalle 21:00 alle 22:00",(A)
+"Oggi Ashley è andata al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+James ha visto Ashley lavorare in ufficio dalle 5:00 alle 9:00.
+Richard ha visto Ashley comprare un telefono al negozio di elettronica dalle 16:00 alle 19:00.
+David ha visto Ashley giocare a tennis al campo da tennis dalle 19:00 alle 20:00.
+William ha visto Ashley guardare un film a teatro dalle 20:00 alle 22:00.
+Il cantiere è stato chiuso dopo le 22:00.
+In quali momenti Ashley potrebbe essere andata al cantiere?
+Opzioni:
+(A) dalle 16:00 alle 19:00
+(B) dalle 5:00 alle 9:00
+(C) dalle 9:00 alle 16:00
+(D) dalle 20:00 alle 22:00",(C)
+"Oggi Ashley è andata alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+Nancy ha visto Ashley comprare i biscotti in una panetteria dalle 6:00 alle 7:00.
+David ha visto Ashley lavorare in ufficio dalle 7:00 alle 13:00.
+Tiffany ha visto Ashley comprare un telefono al negozio di elettronica dalle 13:00 alle 15:00.
+Mary ha visto Ashley prendere un caffè al bar dalle 15:00 alle 16:00.
+Lisa ha visto Ashley comprare il pranzo alla gastronomia dalle 16:00 alle 22:00.
+La stazione di servizio è stata chiusa dopo le 22:00.
+Tra quali orari Ashley potrebbe essere andata alla stazione di servizio?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 6:00 alle 7:00
+(C) dalle 7:00 alle 13:00
+(D) dalle 5:00 alle 6:00",(D)
+"Oggi Sarah è andata al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Ashley ha visto Sarah scattare foto vicino alla Torre Eiffel dalle 5:00 alle 11:00.
+Michael ha visto Sarah camminare in giardino dalle 11:00 alle 12:00.
+Emily ha visto Sarah comprare i biscotti in una panetteria dalle 12:00 alle 14:00.
+Richard ha visto Sarah comprare un telefono al negozio di elettronica dalle 14:00 alle 15:00.
+Il negozio di abbigliamento è stato chiuso dopo le 19:00.
+In quali momenti Sarah potrebbe essere andata al negozio di abbigliamento?
+Opzioni:
+(A) dalle 15:00 alle 19:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 12:00 alle 14:00
+(D) dalle 11:00 alle 12:00",(A)
+"Oggi Michael è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 5 del mattino.
+Kimberly ha visto Michael fare stretching in uno studio di yoga dalle 5:00 alle 7:00.
+William ha visto Michael camminare in giardino dalle 7:00 alle 8:00.
+Sarah ha visto Michael aggiustare il computer al negozio di elettronica dalle 8:00 alle 10:00.
+Nancy ha visto Michael aspettare all'aeroporto dalle 10:00 alle 12:00.
+Samantha ha visto Michael allenarsi in palestra dalle 13:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 21:00.
+Tra quali momenti Michael potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) Dalle 12:00 alle 13:00
+(B) dalle 10:00 alle 12:00
+(C) dalle 7:00 alle 8:00
+(D) dalle 5:00 alle 7:00",(A)
+"Oggi Anthony è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 5 del mattino.
+Sarah ha visto Anthony comprare vestiti al centro commerciale dalle 5:00 alle 7:00.
+Tiffany ha visto Anthony comprare il pranzo alla gastronomia dalle 7:00 alle 12:00.
+Sean ha visto Anthony guardare un film a teatro dalle 12:00 alle 14:00.
+Emily ha visto Anthony comprare un telefono al negozio di elettronica dalle 14:00 alle 16:00.
+Il campo da basket è stato chiuso dopo le 21:00.
+In quali momenti Anthony sarebbe potuto andare al campo da basket?
+Opzioni:
+(A) dalle 5:00 alle 7:00
+(B) dalle 12:00 alle 14:00
+(C) dalle 16:00 alle 21:00
+(D) dalle 7:00 alle 12:00",(C)
+"Oggi William è andato al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 11:00.
+Nancy ha visto William comprare vestiti al centro commerciale dalle 15:00 alle 17:00.
+Leslie ha visto William comprare un telefono al negozio di elettronica dalle 17:00 alle 19:00.
+David ha visto William giocare a tennis al campo da tennis dalle 19:00 alle 22:00.
+Il ristorante è stato chiuso dopo le 22:00.
+Tra quali orari William potrebbe essere andato al ristorante?
+Opzioni:
+(A) dalle 15:00 alle 17:00
+(B) dalle 11:00 alle 15:00
+(C) dalle 17:00 alle 19:00
+(D) dalle 19:00 alle 22:00",(B)
+"Oggi Susan è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 5 del mattino.
+William ha visto Susan camminare in giardino dalle 5:00 alle 6:00.
+Anthony ha visto Susan allenarsi in palestra dalle 6:00 alle 7:00.
+Betty ha visto Susan aggiustare il computer nel negozio di elettronica dalle 14:00 alle 18:00.
+Lisa ha visto Susan comprare i biscotti in una panetteria dalle 18:00 alle 20:00.
+Linda ha visto Susan giocare a tennis al campo da tennis dalle 20:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 21:00.
+Tra quali momenti Susan potrebbe essere andata al campo di calcio?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 7:00 alle 14:00
+(D) dalle 18:00 alle 20:00",(C)
+"Oggi Sarah è andata allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Susan ha visto Sarah comprare un telefono al negozio di elettronica dalle 5:00 alle 7:00.
+Emily ha visto Sarah giocare a tennis al campo da tennis dalle 7:00 alle 11:00.
+Thomas ha visto Sarah seduta su un tetto dalle 13:00 alle 18:00.
+Lo studio di danza è stato chiuso dopo le 18:00.
+In quali momenti Sarah sarebbe potuta andare allo studio di danza?
+Opzioni:
+(A) dalle 13:00 alle 18:00
+(B) dalle 7:00 alle 11:00
+(C) dalle 5:00 alle 7:00
+(D) dalle 11:00 alle 13:00",(D)
+"Oggi Emily è andata al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 5 del mattino.
+Leslie ha visto Emily prendere un caffè al bar dalle 5:00 alle 6:00.
+Kimberly ha visto Emily camminare verso la Statua della Libertà dalle 6:00 alle 14:00.
+Richard ha visto Emily aspettare all'aeroporto dalle 16:00 alle 22:00.
+Il parco è stato chiuso dopo le 22:00.
+In quali momenti Emily potrebbe essere andata al parco?
+Opzioni:
+(A) dalle 6:00 alle 14:00
+(B) dalle 16:00 alle 22:00
+(C) dalle 5:00 alle 6:00
+(D) dalle 14:00 alle 16:00",(D)
+"Oggi Emily è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 12:00.
+John ha visto Emily giocare a tennis al campo da tennis dalle 12:00 alle 14:00.
+Sean ha visto Emily aspettare all'aeroporto dalle 14:00 alle 15:00.
+Samantha ha visto Emily comprare vestiti al centro commerciale dalle 18:00 alle 20:00.
+Anthony ha visto Emily scattare foto vicino alla Torre di Pisa dalle 20:00 alle 21:00.
+Sarah ha visto Emily allenarsi in palestra dalle 21:00 alle 22:00.
+Il campo da basket è stato chiuso dopo le 22:00.
+Tra quali momenti Emily potrebbe essere andata al campo da basket?
+Opzioni:
+(A) dalle 15:00 alle 18:00
+(B) dalle 12:00 alle 14:00
+(C) dalle 18:00 alle 20:00
+(D) dalle 14:00 alle 15:00",(A)
+"Oggi Sean è andato alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sean si è svegliato alle 7 del mattino.
+Elizabeth ha visto Sean aggiustare il computer al negozio di elettronica dalle 7:00 alle 11:00.
+Anthony ha visto Sean aspettare all'aeroporto dalle 11:00 alle 14:00.
+Tiffany ha visto Sean aspettare alla stazione dei treni dalle 14:00 alle 15:00.
+Andrew ha visto Sean comprare una bicicletta al negozio di biciclette dalle 16:00 alle 20:00.
+La mostra d'arte è stata chiusa dopo le 20:00.
+Tra quali orari Sean potrebbe essere andato alla mostra d'arte?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 7:00 alle 11:00
+(C) dalle 16:00 alle 20:00
+(D) dalle 11:00 alle 14:00",(A)
+"Oggi Elizabeth è andata al cinema. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 5 del mattino.
+Sarah ha visto Elizabeth prendere un caffè al bar dalle 5:00 alle 15:00.
+Susan ha visto Elizabeth allenarsi in palestra dalle 15:00 alle 16:00.
+John ha visto Elizabeth comprare un telefono al negozio di elettronica dalle 16:00 alle 18:00.
+Tiffany ha visto Elizabeth aspettare alla stazione dei treni dalle 18:00 alle 19:00.
+Andrew ha visto Elizabeth aspettare all'aeroporto dalle 19:00 alle 20:00.
+Il cinema è stato chiuso dopo le 21:00.
+In quali momenti Elizabeth potrebbe essere andata al cinema?
+Opzioni:
+(A) dalle 20:00 alle 21:00
+(B) dalle 16:00 alle 18:00
+(C) dalle 5:00 alle 15:00
+(D) dalle 18:00 alle 19:00",(A)
+"Oggi, William è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 7 del mattino.
+Lisa ha visto William fare stretching in uno studio di yoga dalle 11:00 alle 14:00.
+John ha visto William camminare verso la Statua della Libertà dalle 14:00 alle 15:00.
+Sean ha visto William leggere in biblioteca dalle 15:00 alle 17:00.
+Sarah ha visto William guidare verso il parco acquatico dalle 17:00 alle 21:00.
+Il campo da basket è stato chiuso dopo le 21:00.
+Tra quali momenti William potrebbe essere andato al campo da basket?
+Opzioni:
+(A) dalle 17:00 alle 21:00
+(B) dalle 15:00 alle 17:00
+(C) dalle 7:00 alle 11:00
+(D) dalle 11:00 alle 14:00",(C)
+"Oggi Thomas è andato al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Thomas si è svegliato alle 6 del mattino.
+Andrew ha visto Thomas seduto su un tetto dalle 6:00 alle 7:00.
+Elizabeth ha visto Thomas scattare foto vicino alla Torre Pendente di Pisa dalle 9:00 alle 10:00.
+Samantha ha visto Thomas aspettare all'aeroporto dalle 10:00 alle 12:00.
+Michael ha visto Thomas comprare vestiti al centro commerciale dalle 12:00 alle 18:00.
+Sarah ha visto Thomas camminare verso la Statua della Libertà dalle 18:00 alle 19:00.
+Il mercato è stato chiuso dopo le 19:00.
+In quali momenti Thomas potrebbe essere andato al mercato?
+Opzioni:
+(A) dalle 12:00 alle 18:00
+(B) dalle 7:00 alle 9:00
+(C) dalle 18:00 alle 19:00
+(D) dalle 10:00 alle 12:00",(B)
+"Oggi Susan è andata al museo. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 9:00.
+Thomas ha visto Susan aspettare all'aeroporto dalle 9:00 alle 13:00.
+David ha visto Susan lavorare in ufficio dalle 16:00 alle 17:00.
+Elizabeth ha visto Susan comprare i biscotti in una panetteria dalle 17:00 alle 18:00.
+Kimberly ha visto Susan seduta su un tetto dalle 18:00 alle 21:00.
+Il museo è stato chiuso dopo le 21:00.
+In quali momenti Susan potrebbe essere andata al museo?
+Opzioni:
+(A) dalle 17:00 alle 18:00
+(B) dalle 18:00 alle 21:00
+(C) dalle 16:00 alle 17:00
+(D) dalle 13:00 alle 16:00",(D)
+"Oggi, Kimberly è andata al cantiere. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Kimberly si è svegliata alle 6 del mattino.
+Hannah ha visto Kimberly comprare i biscotti in una panetteria dalle 7:00 alle 8:00.
+Thomas ha visto Kimberly aggiustare il computer nel negozio di elettronica dalle 8:00 alle 10:00.
+John ha visto Kimberly comprare un telefono al negozio di elettronica dalle 10:00 alle 11:00.
+David ha visto Kimberly giocare a tennis al campo dalle 11:00 alle 14:00.
+Mark ha visto Kimberly guardare un film a teatro dalle 14:00 alle 15:00.
+Il cantiere è stato chiuso dopo le 15:00.
+In quali momenti Kimberly potrebbe essere andata al cantiere?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 8:00 alle 10:00
+(C) dalle 10:00 alle 11:00
+(D) dalle 11:00 alle 14:00",(A)
+"Oggi, Leslie è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 5 del mattino.
+Sarah ha visto Leslie aspettare alla stazione dei treni dalle 5:00 alle 12:00.
+Hannah ha visto Leslie seduta su un tetto dalle 12:00 alle 14:00.
+Elizabeth ha visto Leslie comprare una bicicletta al negozio di biciclette dalle 15:00 alle 16:00.
+Emily ha visto Leslie lavorare in ufficio dalle 16:00 alle 22:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+Tra quali momenti Leslie potrebbe essere andata al campo di calcio?
+Opzioni:
+(A) Dalle 12:00 alle 14:00
+(B) dalle 14:00 alle 15:00
+(C) dalle 16:00 alle 22:00
+(D) dalle 5:00 alle 12:00",(B)
+"Oggi, William è andato al parco dei divertimenti. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 5 del mattino.
+Betty ha visto William camminare verso la Statua della Libertà dalle 5:00 alle 9:00.
+David ha visto William leggere in biblioteca dalle 16:00 alle 19:00.
+Lisa ha visto William scattare foto vicino alla Torre Pendente di Pisa dalle 19:00 alle 21:00.
+Il parco divertimenti è stato chiuso dopo le 21:00.
+Tra quali orari William potrebbe essere andato al parco dei divertimenti?
+Opzioni:
+(A) dalle 9:00 alle 16:00
+(B) dalle 5:00 alle 9:00
+(C) dalle 16:00 alle 19:00
+(D) dalle 19:00 alle 21:00",(A)
+"Oggi Andrew è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 9:00.
+David ha visto Andrew aspettare alla stazione dei treni dalle 9:00 alle 12:00.
+Emily ha visto Andrew camminare verso la Statua della Libertà dalle 12:00 alle 16:00.
+Sarah ha visto Andrew camminare in giardino dalle 16:00 alle 20:00.
+Nancy ha visto Andrew aggiustare il computer nel negozio di elettronica dalle 21:00 alle 22:00.
+Il negozio di abbigliamento è stato chiuso dopo le 22:00.
+In quali momenti Andrew potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 9:00 alle 12:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 12:00 alle 16:00
+(D) dalle 20:00 alle 21:00",(D)
+"Oggi Jennifer è andata al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 5 del mattino.
+Steven ha visto Jennifer fare stretching in uno studio di yoga dalle 5:00 alle 8:00.
+Richard ha visto Jennifer aspettare alla stazione dei treni dalle 8:00 alle 10:00.
+Mark ha visto Jennifer camminare in giardino dalle 12:00 alle 19:00.
+La caffetteria è stata chiusa dopo le 19:00.
+In quali momenti Jennifer potrebbe essere andata al bar?
+Opzioni:
+(A) dalle 10:00 alle 12:00
+(B) dalle 5:00 alle 8:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 12:00 alle 19:00",(A)
+"Oggi Susan è andata allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 6 del mattino.
+Susan ha visto Susan comprare una bicicletta al negozio di biciclette dalle 11:00 alle 12:00.
+William ha visto Susan fare stretching in uno studio di yoga dalle 12:00 alle 16:00.
+David ha visto Susan scattare foto vicino alla Torre Eiffel dalle 16:00 alle 20:00.
+Lo studio d'arte è stato chiuso dopo le 20:00.
+Tra quali periodi Susan potrebbe essere andata allo studio d'arte?
+Opzioni:
+(A) dalle 11:00 alle 12:00
+(B) dalle 12:00 alle 16:00
+(C) dalle 6:00 alle 11:00
+(D) dalle 16:00 alle 20:00",(C)
+"Oggi, James è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+James si è svegliato alle 7 del mattino.
+Elizabeth ha visto James aspettare all'aeroporto dalle 7:00 alle 8:00.
+Kimberly ha visto James leggere in biblioteca dalle 13:00 alle 15:00.
+Ashley ha visto James scattare foto vicino alla Torre Eiffel dalle 15:00 alle 19:00.
+Sean ha visto James fare stretching in uno studio di yoga dalle 19:00 alle 21:00.
+William ha visto James frequentare le lezioni a scuola dalle 21:00 alle 22:00.
+La caffetteria è stata chiusa dopo le 22:00.
+In quali momenti James potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 21:00 alle 22:00
+(B) dalle 19:00 alle 21:00
+(C) dalle 8:00 alle 13:00
+(D) dalle 15:00 alle 19:00",(C)
+"Oggi Tiffany è andata al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tiffany si è svegliata alle 10:00.
+John ha visto Tiffany scattare foto vicino alla Torre di Pisa dalle 10:00 alle 12:00.
+William ha visto Tiffany scattare foto vicino alla Torre Eiffel dalle 13:00 alle 18:00.
+Lisa ha visto Tiffany guidare verso il parco acquatico dalle 18:00 alle 19:00.
+Il negozio di abbigliamento è stato chiuso dopo le 19:00.
+In quali momenti Tiffany potrebbe essere andata al negozio di abbigliamento?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 13:00 alle 18:00
+(C) dalle 12:00 alle 13:00
+(D) dalle 10:00 alle 12:00",(C)
+"Oggi Andrew è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 6 del mattino.
+Jessica ha visto Andrew fare stretching in uno studio di yoga dalle 6:00 alle 11:00.
+Elizabeth ha visto Andrew camminare in giardino dalle 11:00 alle 18:00.
+Emily ha visto Andrew guardare un film a teatro dalle 20:00 alle 21:00.
+Il campo da basket è stato chiuso dopo le 21:00.
+Tra quali momenti Andrew potrebbe essere andato al campo da basket?
+Opzioni:
+(A) dalle 11:00 alle 18:00
+(B) dalle 20:00 alle 21:00
+(C) dalle 6:00 alle 11:00
+(D) dalle 18:00 alle 20:00",(D)
+"Oggi Thomas è andato al ristorante. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Tommaso si è svegliato alle 9:00.
+Linda ha visto Thomas aspettare all'aeroporto dalle 9:00 alle 12:00.
+Susan ha visto Thomas comprare il pranzo alla gastronomia dalle 17:00 alle 19:00.
+Lisa ha visto Thomas guardare un film a teatro dalle 19:00 alle 22:00.
+Il ristorante è stato chiuso dopo le 22:00.
+In quali orari Thomas potrebbe essere andato al ristorante?
+Opzioni:
+(A) dalle 19:00 alle 22:00
+(B) dalle 9:00 alle 12:00
+(C) dalle 17:00 alle 19:00
+(D) dalle 12:00 alle 17:00",(D)
+"Oggi, David è andato al museo. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 6 del mattino.
+Thomas ha visto David seduto su un tetto dalle 6:00 alle 7:00.
+Sarah ha visto David scattare foto vicino alla Torre Pendente di Pisa dalle 7:00 alle 8:00.
+Sean ha visto David aggiustare il computer nel negozio di elettronica dalle 8:00 alle 10:00.
+Samantha ha visto David guidare verso il parco acquatico dalle 12:00 alle 13:00.
+Andrew ha visto David fare stretching in uno studio di yoga dalle 13:00 alle 20:00.
+Il museo è stato chiuso dopo le 20:00.
+In quali momenti David potrebbe essere andato al museo?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 7:00 alle 8:00
+(C) dalle 10:00 alle 12:00
+(D) dalle 13:00 alle 20:00",(C)
+"Oggi, Elizabeth è andata allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 6 del mattino.
+Sean ha visto Elizabeth comprare il pranzo alla gastronomia dalle 6:00 alle 8:00.
+Lisa ha visto Elizabeth lavorare in ufficio dalle 8:00 alle 9:00.
+David ha visto Elizabeth fare stretching in uno studio di yoga dalle 12:00 alle 13:00.
+Samantha ha visto Elizabeth camminare verso la Statua della Libertà dalle 13:00 alle 17:00.
+Lo studio d'arte è stato chiuso dopo le 17:00.
+In quali momenti Elizabeth potrebbe essere andata allo studio d'arte?
+Opzioni:
+(A) dalle 9:00 alle 12:00
+(B) dalle 8:00 alle 9:00
+(C) dalle 6:00 alle 8:00
+(D) dalle 12:00 alle 13:00",(A)
+"Oggi, Jason è andato all'aula di fisica. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 5 del mattino.
+Leslie ha visto Jason comprare una bicicletta al negozio di biciclette dalle 5:00 alle 9:00.
+James ha visto Jason fare stretching in uno studio di yoga dalle 13:00 alle 20:00.
+William ha visto Jason scattare foto vicino alla Torre Pendente di Pisa dalle 20:00 alle 21:00.
+Richard ha visto Jason prendere un caffè al bar dalle 21:00 alle 22:00.
+L'aula di fisica è stata chiusa dopo le 22:00.
+In quali momenti Jason potrebbe essere andato all'aula di fisica?
+Opzioni:
+(A) dalle 5:00 alle 9:00
+(B) dalle 9:00 alle 13:00
+(C) dalle 13:00 alle 20:00
+(D) dalle 20:00 alle 21:00",(B)
+"Oggi Sarah è andata alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 6 del mattino.
+Samantha ha visto Sarah leggere in biblioteca dalle 6:00 alle 9:00.
+Mary ha visto Sarah scattare foto vicino alla Torre Eiffel dalle 9:00 alle 11:00.
+Steven ha visto Sarah comprare i biscotti in una panetteria dalle 11:00 alle 14:00.
+La stazione di servizio è stata chiusa dopo le 21:00.
+In quali momenti Sarah potrebbe essere andata alla stazione di servizio?
+Opzioni:
+(A) dalle 11:00 alle 14:00
+(B) dalle 14:00 alle 21:00
+(C) dalle 9:00 alle 11:00
+(D) dalle 6:00 alle 9:00",(B)
+"Oggi, William è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 7 del mattino.
+Lisa ha visto William seduto su un tetto dalle 9:00 alle 11:00.
+Elizabeth ha visto William comprare una bicicletta al negozio di biciclette dalle 11:00 alle 13:00.
+Richard ha visto William lavorare in ufficio dalle 13:00 alle 18:00.
+Andrew ha visto William aspettare alla stazione dei treni dalle 18:00 alle 22:00.
+La caffetteria è stata chiusa dopo le 22:00.
+Tra quali orari William potrebbe essere andato al bar?
+Opzioni:
+(A) dalle 11:00 alle 13:00
+(B) dalle 13:00 alle 18:00
+(C) dalle 18:00 alle 22:00
+(D) dalle 7:00 alle 9:00",(D)
+"Oggi Ashley è andata al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 7 del mattino.
+Lisa ha visto Ashley lavorare in ufficio dalle 7:00 alle 8:00.
+Michael ha visto Ashley camminare in giardino dalle 8:00 alle 10:00.
+Samantha ha visto Ashley frequentare le lezioni a scuola dalle 13:00 alle 18:00.
+Il campo da basket è stato chiuso dopo le 18:00.
+Tra quali momenti Ashley potrebbe essere andata al campo da basket?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 13:00 alle 18:00
+(C) dalle 10:00 alle 13:00
+(D) dalle 7:00 alle 8:00",(C)
+"Oggi William è andato al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 8 del mattino.
+Thomas ha visto William aggiustare il computer nel negozio di elettronica dalle 8:00 alle 10:00.
+James ha visto William aspettare alla stazione dei treni dalle 10:00 alle 11:00.
+Steven ha visto William seduto su un tetto dalle 11:00 alle 18:00.
+Emily ha visto William scattare foto vicino alla Torre Pendente di Pisa dalle 18:00 alle 21:00.
+Il mercato è stato chiuso dopo le 22:00.
+In quali momenti William potrebbe essere andato al mercato?
+Opzioni:
+(A) dalle 11:00 alle 18:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 18:00 alle 21:00
+(D) dalle 8:00 alle 10:00",(B)
+"Oggi Sarah è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Sara si è svegliata alle 5 del mattino.
+Linda ha visto Sarah scattare foto vicino alla Torre Pendente di Pisa dalle 5:00 alle 6:00.
+Kimberly ha visto Sarah giocare a tennis al campo da tennis dalle 8:00 alle 10:00.
+Jennifer ha visto Sarah comprare i biscotti in una panetteria dalle 10:00 alle 19:00.
+Michael ha visto Sarah lavorare in ufficio dalle 19:00 alle 21:00.
+Il campo di calcio è stato chiuso dopo le 21:00.
+In quali momenti Sarah sarebbe potuta andare al campo di calcio?
+Opzioni:
+(A) dalle 5:00 alle 6:00
+(B) dalle 6:00 alle 8:00
+(C) dalle 8:00 alle 10:00
+(D) dalle 19:00 alle 21:00",(B)
+"Oggi Nancy è andata in spiaggia. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 11:00.
+Tiffany ha visto Nancy fare stretching in uno studio di yoga dalle 11:00 alle 14:00.
+Linda ha visto Nancy comprare i biscotti in una panetteria dalle 16:00 alle 17:00.
+Mary ha visto Nancy aspettare alla stazione dei treni dalle 17:00 alle 20:00.
+La spiaggia è stata chiusa dopo le 20:00.
+In quali momenti Nancy sarebbe potuta andare in spiaggia?
+Opzioni:
+(A) dalle 11:00 alle 14:00
+(B) dalle 17:00 alle 20:00
+(C) dalle 14:00 alle 16:00
+(D) dalle 16:00 alle 17:00",(C)
+"Oggi, Betty è andata al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Betty si è svegliata alle 8:00.
+Emily ha visto Betty comprare una bicicletta al negozio di biciclette dalle 8:00 alle 10:00.
+Susan ha visto Betty camminare in giardino dalle 10:00 alle 12:00.
+John ha visto Betty lavorare in ufficio dalle 13:00 alle 15:00.
+Lisa ha visto Betty comprare i biscotti in una panetteria dalle 15:00 alle 16:00.
+Mark ha visto Betty scattare foto vicino alla Torre Eiffel dalle 16:00 alle 17:00.
+La caffetteria è stata chiusa dopo le 17:00.
+Tra quali orari Betty potrebbe essere andata al bar?
+Opzioni:
+(A) dalle 13:00 alle 15:00
+(B) dalle 8:00 alle 10:00
+(C) dalle 10:00 alle 12:00
+(D) dalle 12:00 alle 13:00",(D)
+"Oggi Leslie è andata al mercato. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Leslie si è svegliata alle 6 del mattino.
+Anthony ha visto Leslie prendere un caffè al bar dalle 6:00 alle 9:00.
+Sarah ha visto Leslie scattare foto vicino alla Torre di Pisa dalle 9:00 alle 10:00.
+Jason ha visto Leslie comprare vestiti al centro commerciale dalle 10:00 alle 11:00.
+Lisa ha visto Leslie fare stretching in uno studio di yoga dalle 17:00 alle 18:00.
+Il mercato è stato chiuso dopo le 18:00.
+In quali momenti Leslie potrebbe essere andata al mercato?
+Opzioni:
+(A) dalle 6:00 alle 9:00
+(B) dalle 11:00 alle 17:00
+(C) dalle 10:00 alle 11:00
+(D) dalle 9:00 alle 10:00",(B)
+"Oggi, Samantha è andata al luna park. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Samantha si è svegliata alle 5 del mattino.
+Hannah ha visto Samantha comprare un telefono al negozio di elettronica dalle 5:00 alle 7:00.
+James ha visto Samantha allenarsi in palestra dalle 7:00 alle 8:00.
+Richard ha visto Samantha lavorare in ufficio dalle 8:00 alle 11:00.
+Mark ha visto Samantha comprare il pranzo alla gastronomia dalle 11:00 alle 14:00.
+William ha visto Samantha comprare una bicicletta al negozio di biciclette dalle 19:00 alle 20:00.
+Il parco divertimenti è stato chiuso dopo le 20:00.
+In quali momenti Samantha potrebbe essere andata al parco dei divertimenti?
+Opzioni:
+(A) dalle 14:00 alle 19:00
+(B) dalle 11:00 alle 14:00
+(C) dalle 5:00 alle 7:00
+(D) dalle 7:00 alle 8:00",(A)
+"Oggi, William è andato alla stazione di servizio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 5 del mattino.
+Sarah ha visto William comprare un telefono al negozio di elettronica dalle 7:00 alle 11:00.
+Thomas ha visto William allenarsi in palestra dalle 11:00 alle 12:00.
+Steven ha visto William aspettare all'aeroporto dalle 12:00 alle 14:00.
+James ha visto William camminare verso la Statua della Libertà dalle 14:00 alle 20:00.
+La stazione di servizio è stata chiusa dopo le 20:00.
+Tra quali orari William potrebbe essere andato alla stazione di servizio?
+Opzioni:
+(A) dalle 5:00 alle 7:00
+(B) dalle 11:00 alle 12:00
+(C) dalle 12:00 alle 14:00
+(D) dalle 7:00 alle 11:00",(A)
+"Oggi, Jason è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jason si è svegliato alle 8:00.
+Hannah ha visto Jason aggiustare il computer al negozio di elettronica dalle 8:00 alle 10:00.
+Sarah ha visto Jason comprare vestiti al centro commerciale dalle 10:00 alle 11:00.
+Thomas ha visto Jason camminare in giardino dalle 11:00 alle 15:00.
+Linda ha visto Jason seduto su un tetto dalle 15:00 alle 19:00.
+Mark ha visto Jason camminare verso la Statua della Libertà dalle 19:00 alle 21:00.
+Il campo da basket è stato chiuso dopo le 22:00.
+Tra quali momenti Jason potrebbe essere andato al campo da basket?
+Opzioni:
+(A) dalle 15:00 alle 19:00
+(B) dalle 8:00 alle 10:00
+(C) dalle 21:00 alle 22:00
+(D) dalle 10:00 alle 11:00",(C)
+"Oggi, David è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+Linda ha visto David guardare un film a teatro dalle 5:00 alle 7:00.
+James ha visto David comprare il pranzo alla gastronomia dalle 9:00 alle 10:00.
+Mary ha visto David comprare un telefono al negozio di elettronica dalle 10:00 alle 11:00.
+Leslie ha visto David guidare al parco acquatico dalle 11:00 alle 14:00.
+Jessica ha visto David comprare una bicicletta al negozio di biciclette dalle 14:00 alle 19:00.
+Lo studio d'arte è stato chiuso dopo le 19:00.
+Tra quali periodi David potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 7:00 alle 9:00
+(B) dalle 14:00 alle 19:00
+(C) dalle 5:00 alle 7:00
+(D) dalle 11:00 alle 14:00",(A)
+"Oggi Ashley è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 13:00.
+Lisa ha visto Ashley scattare foto vicino alla Torre di Pisa dalle 14:00 alle 17:00.
+Nancy ha visto Ashley allenarsi in palestra dalle 17:00 alle 18:00.
+Steven ha visto Ashley lavorare in ufficio dalle 18:00 alle 21:00.
+Kimberly ha visto Ashley comprare una bicicletta al negozio di biciclette dalle 21:00 alle 22:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+Tra quali momenti Ashley potrebbe essere andata al campo di calcio?
+Opzioni:
+(A) dalle 13:00 alle 14:00
+(B) dalle 17:00 alle 18:00
+(C) dalle 21:00 alle 22:00
+(D) dalle 14:00 alle 17:00",(A)
+"Oggi Elizabeth è andata al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 5 del mattino.
+Betty ha visto Elizabeth giocare a tennis al campo da tennis dalle 5:00 alle 9:00.
+Thomas ha visto Elizabeth aspettare all'aeroporto dalle 9:00 alle 10:00.
+Tiffany ha visto Elizabeth comprare una bicicletta al negozio di biciclette dalle 10:00 alle 14:00.
+Steven ha visto Elizabeth lavorare in ufficio dalle 14:00 alle 16:00.
+John ha visto Elizabeth comprare il pranzo alla gastronomia dalle 17:00 alle 22:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+Tra quali momenti Elizabeth potrebbe essere andata al campo di calcio?
+Opzioni:
+(A) dalle 16:00 alle 17:00
+(B) dalle 17:00 alle 22:00
+(C) dalle 5:00 alle 9:00
+(D) dalle 10:00 alle 14:00",(A)
+"Oggi, William è andato al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 6 del mattino.
+David ha visto William aspettare all'aeroporto dalle 8:00 alle 9:00.
+Michael ha visto William frequentare le lezioni a scuola dalle 9:00 alle 13:00.
+Sarah ha visto William allenarsi in palestra dalle 13:00 alle 14:00.
+Jessica ha visto William scattare foto vicino alla Torre Eiffel dalle 14:00 alle 21:00.
+La panetteria è stata chiusa dopo le 21:00.
+In quali momenti William potrebbe essere andato al panificio?
+Opzioni:
+(A) dalle 13:00 alle 14:00
+(B) dalle 8:00 alle 9:00
+(C) dalle 9:00 alle 13:00
+(D) dalle 6:00 alle 8:00",(D)
+"Oggi Anthony è andato allo studio di danza. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Anthony si è svegliato alle 7 del mattino.
+Kimberly ha visto Anthony camminare in giardino dalle 7:00 alle 9:00.
+Linda ha visto Anthony aspettare alla stazione dei treni dalle 10:00 alle 13:00.
+Susan ha visto Anthony frequentare le lezioni a scuola dalle 13:00 alle 16:00.
+David ha visto Anthony aggiustare il computer nel negozio di elettronica dalle 16:00 alle 19:00.
+Tiffany ha visto Anthony leggere in biblioteca dalle 19:00 alle 20:00.
+Lo studio di danza è stato chiuso dopo le 20:00.
+Tra quali periodi Anthony potrebbe essere andato allo studio di danza?
+Opzioni:
+(A) dalle 7:00 alle 9:00
+(B) dalle 16:00 alle 19:00
+(C) dalle 9:00 alle 10:00
+(D) dalle 19:00 alle 20:00",(C)
+"Oggi, John è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Giovanni si è svegliato alle 6 del mattino.
+Thomas ha visto John leggere in biblioteca dalle 7:00 alle 15:00.
+Lisa ha visto John scattare foto vicino alla Torre Eiffel dalle 15:00 alle 21:00.
+Steven ha visto John comprare i biscotti in una panetteria dalle 21:00 alle 22:00.
+Lo studio d'arte è stato chiuso dopo le 22:00.
+Tra quali periodi John potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 7:00 alle 15:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 6:00 alle 7:00
+(D) dalle 15:00 alle 21:00",(C)
+"Oggi, David è andato al campo di calcio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Davide si è svegliato alle 5 del mattino.
+Steven ha visto David comprare un telefono al negozio di elettronica dalle 5:00 alle 6:00.
+Kimberly ha visto David scattare foto vicino alla Torre Pendente di Pisa dalle 6:00 alle 8:00.
+Betty ha visto David allenarsi in palestra dalle 9:00 alle 12:00.
+Lisa ha visto David guidare verso il parco acquatico dalle 12:00 alle 15:00.
+William ha visto David seduto su un tetto dalle 15:00 alle 22:00.
+Il campo di calcio è stato chiuso dopo le 22:00.
+Tra quali momenti David potrebbe essere andato al campo di calcio?
+Opzioni:
+(A) dalle 6:00 alle 8:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 15:00 alle 22:00
+(D) dalle 8:00 alle 9:00",(D)
+"Oggi Michael è andato al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Michael si è svegliato alle 6 del mattino.
+Linda ha visto Michael camminare verso la Statua della Libertà dalle 11:00 alle 12:00.
+Betty ha visto Michael leggere in biblioteca dalle 12:00 alle 17:00.
+Steven ha visto Michael scattare foto vicino alla Torre Eiffel dalle 17:00 alle 19:00.
+David ha visto Michael prendere un caffè al bar dalle 19:00 alle 20:00.
+Il parco è stato chiuso dopo le 20:00.
+In quali momenti Michael potrebbe essere andato al parco?
+Opzioni:
+(A) dalle 6:00 alle 11:00
+(B) dalle 12:00 alle 17:00
+(C) dalle 17:00 alle 19:00
+(D) dalle 11:00 alle 12:00",(A)
+"Oggi Andrew è andato al parco. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Andrea si è svegliato alle 6 del mattino.
+David ha visto Andrew che faceva stretching in uno studio di yoga dalle 6:00 alle 7:00.
+Leslie ha visto Andrew comprare il pranzo alla gastronomia dalle 7:00 alle 9:00.
+James ha visto Andrew aspettare alla stazione dei treni dalle 9:00 alle 12:00.
+Tiffany ha visto Andrew lavorare in ufficio dalle 12:00 alle 15:00.
+Mark ha visto Andrew aspettare all'aeroporto dalle 15:00 alle 19:00.
+Il parco è stato chiuso dopo le 22:00.
+In quali momenti Andrew potrebbe essere andato al parco?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 9:00 alle 12:00
+(C) dalle 19:00 alle 22:00
+(D) dalle 7:00 alle 9:00",(C)
+"Oggi Mark è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Marco si è svegliato alle 5 del mattino.
+Andrew ha visto Mark scattare foto vicino alla Torre Eiffel dalle 5:00 alle 6:00.
+William ha visto Mark aspettare alla stazione dei treni dalle 9:00 alle 18:00.
+Ashley ha visto Mark comprare una bicicletta al negozio di biciclette dalle 18:00 alle 22:00.
+Il negozio di abbigliamento è stato chiuso dopo le 22:00.
+In quali momenti Mark potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 5:00 alle 6:00
+(B) dalle 6:00 alle 9:00
+(C) dalle 9:00 alle 18:00
+(D) dalle 18:00 alle 22:00",(B)
+"Oggi, Richard è andato al campo da basket. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Richard si è svegliato alle 5 del mattino.
+Elisabetta ha visto Richard scattare foto vicino alla Torre Pendente di Pisa dalle 5:00 alle 7:00.
+Lisa ha visto Richard aggiustare il computer nel negozio di elettronica dalle 15:00 alle 19:00.
+Leslie ha visto Richard leggere in biblioteca dalle 19:00 alle 20:00.
+Il campo da basket è stato chiuso dopo le 20:00.
+Tra quali momenti Richard potrebbe essere andato al campo da basket?
+Opzioni:
+(A) dalle 15:00 alle 19:00
+(B) dalle 5:00 alle 7:00
+(C) dalle 19:00 alle 20:00
+(D) dalle 7:00 alle 15:00",(D)
+"Oggi Ashley è andata nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Ashley si è svegliata alle 5 del mattino.
+Susan ha visto Ashley aspettare all'aeroporto dalle 5:00 alle 6:00.
+Thomas ha visto Ashley scattare foto vicino alla Torre Pendente di Pisa dalle 7:00 alle 9:00.
+Mark ha visto Ashley guardare un film a teatro dalle 9:00 alle 13:00.
+Sarah ha visto Ashley camminare in giardino dalle 13:00 alle 16:00.
+Nancy ha visto Ashley allenarsi in palestra dalle 16:00 alle 21:00.
+La sala dell'orchestra è stata chiusa dopo le 21:00.
+In quali momenti Ashley potrebbe essere andata nella sala dell'orchestra?
+Opzioni:
+(A) dalle 6:00 alle 7:00
+(B) dalle 13:00 alle 16:00
+(C) dalle 7:00 alle 9:00
+(D) dalle 16:00 alle 21:00",(A)
+"Oggi Susan è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Susan si è svegliata alle 7 del mattino.
+Samantha ha visto Susan comprare vestiti al centro commerciale dalle 7:00 alle 9:00.
+Sarah ha visto Susan comprare il pranzo alla gastronomia dalle 12:00 alle 14:00.
+Thomas ha visto Susan guardare un film a teatro dalle 14:00 alle 21:00.
+James ha visto Susan frequentare le lezioni a scuola dalle 21:00 alle 22:00.
+La panetteria è stata chiusa dopo le 22:00.
+In quali momenti Susan potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 9:00 alle 12:00
+(B) dalle 12:00 alle 14:00
+(C) dalle 7:00 alle 9:00
+(D) dalle 21:00 alle 22:00",(A)
+"Oggi, John è andato al bar. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Giovanni si è svegliato alle 5 del mattino.
+David ha visto John seduto su un tetto dalle 5:00 alle 8:00.
+Sean ha visto John guardare un film a teatro dalle 8:00 alle 11:00.
+Tiffany ha visto John fare stretching in uno studio di yoga dalle 16:00 alle 17:00.
+Michael ha visto John comprare un telefono al negozio di elettronica dalle 17:00 alle 19:00.
+La caffetteria è stata chiusa dopo le 19:00.
+Tra quali orari John potrebbe essere andato al bar?
+Opzioni:
+(A) Dalle 5:00 alle 8:00
+(B) dalle 8:00 alle 11:00
+(C) dalle 17:00 alle 19:00
+(D) dalle 11:00 alle 16:00",(D)
+"Oggi Jennifer è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Jennifer si è svegliata alle 5 del mattino.
+Richard ha visto Jennifer lavorare in ufficio dalle 5:00 alle 8:00.
+Samantha ha visto Jennifer leggere in biblioteca dalle 12:00 alle 13:00.
+Betty ha visto Jennifer comprare una bicicletta al negozio di biciclette dalle 13:00 alle 14:00.
+Sarah ha visto Jennifer comprare un telefono al negozio di elettronica dalle 14:00 alle 21:00.
+Thomas ha visto Jennifer camminare verso la Statua della Libertà dalle 21:00 alle 22:00.
+La piscina è stata chiusa dopo le 22:00.
+In quali momenti Jennifer potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 8:00 alle 12:00
+(B) dalle 21:00 alle 22:00
+(C) dalle 14:00 alle 21:00
+(D) dalle 12:00 alle 13:00",(A)
+"Oggi, William è andato allo studio d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+William si è svegliato alle 8 del mattino.
+Steven ha visto William lavorare in ufficio dalle 8:00 alle 10:00.
+David ha visto William allenarsi in palestra dalle 10:00 alle 15:00.
+Kimberly ha visto William scattare foto vicino alla Torre di Pisa dalle 15:00 alle 17:00.
+Mary ha visto William comprare vestiti al centro commerciale dalle 18:00 alle 20:00.
+Sean ha visto William scattare foto vicino alla Torre Eiffel dalle 20:00 alle 22:00.
+Lo studio d'arte è stato chiuso dopo le 22:00.
+Tra quali periodi William potrebbe essere andato allo studio d'arte?
+Opzioni:
+(A) dalle 20:00 alle 22:00
+(B) dalle 18:00 alle 20:00
+(C) dalle 10:00 alle 15:00
+(D) dalle 17:00 alle 18:00",(D)
+"Oggi Thomas è andato nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Thomas si è svegliato alle 10:00.
+William ha visto Thomas guidare verso il parco acquatico dalle 13:00 alle 16:00.
+Sarah ha visto Thomas lavorare in ufficio dalle 16:00 alle 18:00.
+Betty ha visto Thomas comprare una bicicletta al negozio di biciclette dalle 18:00 alle 21:00.
+La sala dell'orchestra è stata chiusa dopo le 21:00.
+In quali momenti Thomas potrebbe essere andato nella sala dell'orchestra?
+Opzioni:
+(A) dalle 18:00 alle 21:00
+(B) dalle 10:00 alle 13:00
+(C) dalle 13:00 alle 16:00
+(D) dalle 16:00 alle 18:00",(B)
+"Oggi Emily è andata nella sala dell'orchestra. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Emily si è svegliata alle 6 del mattino.
+Steven ha visto Emily scattare foto vicino alla Torre Pendente di Pisa dalle 6:00 alle 7:00.
+Sean ha visto Emily giocare a tennis al campo da tennis dalle 7:00 alle 9:00.
+Nancy ha visto Emily comprare vestiti al centro commerciale dalle 11:00 alle 14:00.
+Susan ha visto Emily comprare il pranzo alla gastronomia dalle 14:00 alle 16:00.
+Kimberly ha visto Emily seduta su un tetto dalle 16:00 alle 17:00.
+La sala dell'orchestra è stata chiusa dopo le 17:00.
+In quali momenti Emily potrebbe essere andata nella sala dell'orchestra?
+Opzioni:
+(A) dalle 16:00 alle 17:00
+(B) dalle 7:00 alle 9:00
+(C) dalle 9:00 alle 11:00
+(D) dalle 11:00 alle 14:00",(C)
+"Oggi, Elizabeth è andata al panificio. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 5 del mattino.
+Jennifer ha visto Elizabeth seduta su un tetto dalle 5:00 alle 6:00.
+William ha visto Elizabeth frequentare le lezioni a scuola dalle 6:00 alle 7:00.
+Thomas ha visto Elizabeth fare stretching in uno studio di yoga dalle 7:00 alle 11:00.
+Sarah ha visto Elizabeth aspettare all'aeroporto dalle 11:00 alle 13:00.
+Emily ha visto Elizabeth allenarsi in palestra dalle 13:00 alle 14:00.
+La panetteria è stata chiusa dopo le 19:00.
+In quali momenti Elizabeth potrebbe essere andata al panificio?
+Opzioni:
+(A) dalle 11:00 alle 13:00
+(B) dalle 5:00 alle 6:00
+(C) dalle 14:00 alle 19:00
+(D) dalle 7:00 alle 11:00",(C)
+"Oggi Elizabeth è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Elisabetta si è svegliata alle 5 del mattino.
+Jason ha visto Elizabeth scattare foto vicino alla Torre Eiffel dalle 5:00 alle 8:00.
+John ha visto Elizabeth giocare a tennis al campo da tennis dalle 8:00 alle 10:00.
+David ha visto Elizabeth comprare una bicicletta al negozio di biciclette dalle 10:00 alle 15:00.
+La piscina è stata chiusa dopo le 16:00.
+Tra quali orari Elizabeth potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 8:00 alle 10:00
+(B) dalle 5:00 alle 8:00
+(C) dalle 15:00 alle 16:00
+(D) dalle 10:00 alle 15:00",(C)
+"Oggi Lisa è andata alla mostra d'arte. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Lisa si è svegliata alle 10:00.
+Lisa ha visto Lisa guidare verso il parco acquatico dalle 12:00 alle 14:00.
+Hannah ha visto Lisa aspettare all'aeroporto dalle 14:00 alle 15:00.
+Thomas ha visto Lisa comprare un telefono al negozio di elettronica dalle 15:00 alle 16:00.
+La mostra d'arte è stata chiusa dopo le 16:00.
+Tra quali orari Lisa potrebbe essere andata alla mostra d'arte?
+Opzioni:
+(A) dalle 15:00 alle 16:00
+(B) dalle 12:00 alle 14:00
+(C) dalle 10:00 alle 12:00
+(D) dalle 14:00 alle 15:00",(C)
+"Oggi Nancy è andata al cinema. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Nancy si è svegliata alle 8 del mattino.
+Richard ha visto Nancy riparare il computer nel negozio di elettronica dalle 8:00 alle 12:00.
+Mark ha visto Nancy fare stretching in uno studio di yoga dalle 12:00 alle 14:00.
+Nancy ha visto Nancy allenarsi in palestra dalle 14:00 alle 17:00.
+William ha visto Nancy prendere un caffè al bar dalle 17:00 alle 18:00.
+Steven ha visto Nancy camminare in giardino dalle 19:00 alle 21:00.
+Il cinema è stato chiuso dopo le 21:00.
+In quali momenti Nancy sarebbe potuta andare al cinema?
+Opzioni:
+(A) dalle 18:00 alle 19:00
+(B) dalle 14:00 alle 17:00
+(C) dalle 17:00 alle 18:00
+(D) dalle 19:00 alle 21:00",(A)
+"Oggi John è andato al negozio di abbigliamento. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Giovanni si è svegliato alle 7:00.
+Linda ha visto John prendere un caffè al bar dalle 7:00 alle 10:00.
+Sean ha visto John comprare vestiti al centro commerciale dalle 10:00 alle 11:00.
+Mark ha visto John lavorare in ufficio dalle 14:00 alle 15:00.
+Jennifer ha visto John allenarsi in palestra dalle 15:00 alle 17:00.
+Samantha ha visto John comprare il pranzo alla gastronomia dalle 17:00 alle 20:00.
+Il negozio di abbigliamento è stato chiuso dopo le 20:00.
+In quali momenti John potrebbe essere andato al negozio di abbigliamento?
+Opzioni:
+(A) dalle 11:00 alle 14:00
+(B) dalle 10:00 alle 11:00
+(C) dalle 15:00 alle 17:00
+(D) dalle 7:00 alle 10:00",(A)
+"Oggi, Kimberly è andata in piscina. Tra quali tempi potrebbero essere andati?
+Lo sappiamo:
+Kimberly si è svegliata alle 8:00.
+Emily ha visto Kimberly allenarsi in palestra dalle 8:00 alle 12:00.
+Betty ha visto Kimberly camminare in giardino dalle 12:00 alle 16:00.
+James ha visto Kimberly comprare il pranzo alla gastronomia dalle 17:00 alle 20:00.
+Samantha ha visto Kimberly camminare verso la Statua della Libertà dalle 20:00 alle 21:00.
+La piscina è stata chiusa dopo le 21:00.
+In quali momenti Kimberly potrebbe essere andata in piscina?
+Opzioni:
+(A) dalle 17:00 alle 20:00
+(B) dalle 8:00 alle 12:00
+(C) dalle 20:00 alle 21:00
+(D) dalle 16:00 alle 17:00",(D)
