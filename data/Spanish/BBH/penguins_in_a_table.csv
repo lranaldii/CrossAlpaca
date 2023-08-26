@@ -1,0 +1,1403 @@
+aporte,objetivo
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el pingüino más viejo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el nombre del último pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos animales tienen más de 5 años?
+Opciones:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es mayor que Gwen?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de las jirafas?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama el pingüino que mide 70 cm de altura?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el nombre de la última jirafa ordenada por orden alfabético?
+Opciones:
+(A) Jodi
+(B) Gladys
+(C) mariano
+(D) donna
+(E) Luisa",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos hay en la mesa?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino tiene el nombre de un famoso músico de jazz?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántas jirafas tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen menos de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántas jirafas hay en las mesas?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos animales se enumeran en la tabla?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 5 años y pesan más de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántas jirafas tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos hay en la mesa?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es la altura promedio de los pingüinos?
+Opciones:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(E) 80",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el pingüino más joven?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen menos de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es el peso acumulado de los pingüinos?
+Opciones:
+(A) 37
+(B) 49
+(c) 50
+(D) 62
+(E) 63",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen más de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen más de 5 años y pesan más de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es la edad de Bernardo?
+Opciones:
+(A) 7
+(B) 5
+(C) 9
+(D) 8
+(E) 12",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen menos de 10 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama el último pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 5 años y pesan más de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cómo se llama el pingüino de 60 cm de altura?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama la última jirafa?
+Opciones:
+(A) Jodi
+(B) Gladys
+(C) mariano
+(D) donna
+(E) Luisa",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama el último animal?
+Opciones:
+(A) Bernardo
+(B) mujer
+(C) Gladys
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el nombre de la última jirafa ordenada por orden alfabético?
+Opciones:
+(A) Jodi
+(B) Gladys
+(C) mariano
+(D) donna
+(E) Luisa",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama el último pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama la última jirafa?
+Opciones:
+(A) Jodi
+(B) Gladys
+(C) mariano
+(D) donna
+(E) Luisa",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántas especies se enumeran en la tabla?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos animales se enumeran en la tabla?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el pingüino más viejo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos hay en la mesa?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántas jirafas hay en las mesas?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cómo se llama el pingüino de 0,6 m de altura?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen menos de 8 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos animales se enumeran en la tabla?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos animales tienen más de 5 años?
+Opciones:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen más de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es el nombre del primer pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la jirafa más vieja?
+Opciones:
+(A) Jodi
+(B) Gladys
+(C) mariano
+(D) donna
+(E) Luisa",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos pingüinos hay en las mesas?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es la edad acumulada de los pingüinos?
+Opciones:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino tiene nombre galés?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama el pingüino que mide 70 cm de altura?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el pingüino más bajo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino tiene menos de 7 años?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cómo se llama el primer pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cómo se llama el último pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántas columnas hay en la tabla?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es la altura de Gwen?
+Opciones:
+(A) 50
+(B) 80
+(c) 60
+(D) 70
+(E) 90",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el número de la columna con los nombres (1, 2, 3 o 4)?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cómo se llama el pingüino que tiene 9 años?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el peso de Luis?
+Opciones:
+(A) 11
+(B) 13
+(c) 15
+(D) 12",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cómo se llama el último pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es la edad acumulada de los pingüinos?
+Opciones:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el número de la columna con los pesos (1, 2, 3 o 4)?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen menos de 10 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de los animales?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es la altura promedio de los pingüinos?
+Opciones:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(E) 80",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cómo se llama el primer pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el nombre del último pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen menos de 8 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el nombre del penúltimo pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos animales se enumeran en la tabla?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es más joven que Vincent y mayor que Louis?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el segundo pingüino más joven?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino tiene el nombre más corto?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántas especies se enumeran en las tablas?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos animales se enumeran en las tablas?
+Opciones:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen menos de 8 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos animales se enumeran en las tablas?
+Opciones:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es la edad acumulada de los pingüinos?
+Opciones:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cómo se llama el último animal?
+Opciones:
+(A) Bernardo
+(B) mujer
+(C) Gladys
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el nombre del primer pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el peso acumulado de los pingüinos?
+Opciones:
+(A) 37
+(B) 49
+(c) 50
+(D) 62
+(E) 63",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 5 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de los pingüinos y las jirafas?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cómo se llama el pingüino que mide 60 cm de altura?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cómo se llama el último pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el nombre del último animal ordenado por orden alfabético?
+Opciones:
+(A) Jodi
+(B) Luis
+(C) Luisa
+(D) mariano
+(E) Vicente",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es dos años menor que Vincent?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen menos de 10 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen menos de 8 años y pesan más de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cómo se llama el último pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el nombre del último pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos hay en la mesa?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de los pingüinos?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el segundo pingüino más pesado?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el pingüino más viejo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cómo se llama el pingüino de 60 cm de altura?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen más de 5 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es la altura más corta?
+Opciones:
+(A) 50
+(B) 80
+(c) 60
+(D) 70
+(E) 90",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el peso acumulado de los pingüinos?
+Opciones:
+(A) 37
+(B) 49
+(c) 50
+(D) 62
+(E) 63",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el pingüino más alto?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántas especies se enumeran en las tablas?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino comparte su nombre con un pintor famoso?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el pingüino más viejo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen más de 5 años y pesan más de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen más de 5 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es mayor que los demás?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es la altura promedio de los pingüinos?
+Opciones:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(E) 80",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es más alto que los demás?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es la altura más corta?
+Opciones:
+(A) 50
+(B) 80
+(c) 60
+(D) 70
+(E) 90",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el nombre del último animal ordenado por orden alfabético?
+Opciones:
+(A) Jodi
+(B) Luis
+(C) Luisa
+(D) mariano
+(E) Vicente",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos pingüinos tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cómo se llama el segundo pingüino?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es más joven que Louis?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos pingüinos tienen más de 5 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuántos pingüinos tienen menos de 8 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es el pingüino más viejo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen menos de 8 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es mayor que Bernard y menor que Gwen?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de los pingüinos?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es el nombre del último pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué animales se enumeran en la tabla?
+Opciones:
+(A) osos
+(B) cocodrilos
+(C) elefantes
+(D) jirafas
+(E) pingüinos",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la jirafa más vieja?
+Opciones:
+(A) Jodi
+(B) Gladys
+(C) mariano
+(D) donna
+(E) Luisa",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen más de 5 años y pesan menos de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuántos pingüinos tienen menos de 8 años y pesan más de 12 kg?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es el nombre del último pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es el pingüino más alto?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuántos pingüinos tienen menos de 10 años?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el peso acumulado de los pingüinos?
+Opciones:
+(A) 37
+(B) 49
+(c) 50
+(D) 62
+(E) 63",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de las jirafas?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuál es la edad acumulada de los animales?
+Opciones:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es la altura más grande?
+Opciones:
+(A) 50
+(B) 80
+(c) 60
+(D) 70
+(E) 90",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es el pingüino más bajo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(A)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es un año menor que Vincent?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el pingüino más viejo?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el pingüino más pesado?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Luego eliminamos de la tabla el pingüino llamado Bernard.
+¿Cuál es la edad acumulada de los pingüinos?
+Opciones:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(C)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es más joven pero más alto que Gwen?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+Y aquí hay una tabla similar, pero enumerando jirafas:
+nombre, edad, altura (cm), peso (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Mariano, 2, 310, 410
+Mujer, 9, 440, 650
+¿Cuántos pingüinos hay en las mesas?
+Opciones:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Cuál es el nombre del primer pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(B)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. ¿Qué pingüino es hembra?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(D)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Qué pingüino es más alto que los demás?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(Y)
+"Aquí hay una tabla donde la primera línea es un encabezado y cada línea subsiguiente es un pingüino: nombre, edad, altura (cm), peso (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Por ejemplo: la edad de Louis es 7, el peso de Gwen es 15 kg, la altura de Bernard es 80 cm. Ahora agregamos un pingüino a la tabla:
+Santiago, 12, 90, 12
+¿Cuál es el nombre del último pingüino ordenado por orden alfabético?
+Opciones:
+(A) Luis
+(B) Bernardo
+(C) Vicente
+(D)Gwen
+(E) James",(C)

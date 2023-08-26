@@ -1,0 +1,251 @@
+aporte,objetivo
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: [ [",] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ [",] ] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < { { [ ] } } { < [ { { < > } } [ ( ) ( ) ] [ [ [ [ ( { < ( < ( [ ] ) > ) > } ) ] ] ] ] ] ( ) ( [ ] { } ) > } > [ { ( ( ) ) } ]",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ ] { < ( ) > } [ ] ( { }",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( ( < > ) ) ( { { } [ { } ] [ ] < ( ) > } ) )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ [ [ { } ] ] { < [ < [ { } ] > ] > }",] )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( { { } }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( ( ( [ { } ] )",) ) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < > ] [ [ < > ]",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] ( [ [ { < { { ( < > [ ] ) } } < > > } ] ] { }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ] ( ) ( ( { { } } ) ) < { < > } > [ ] > ] < ( ) > ( ( ( ) ) ) ( < >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { < ( ) > }",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ( ( ) < ( ) > ( { { } } [ [ [ < ( [ ] ) ( ) > ] ] ] { { { { { } } } { { } { < [ [ ] ] > } } { } } } ) ) ] >",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( [ < > { [ { ( ) } ] < { < { } > [ ( < > ) ] } > } [ < > ] ] ) { { ( { ( ( [ ( [ ] ) ] < { } > ) ) { { ( [ [ ] ] ) } [ ( ) ] { { [ ] } } } } ) } ( { } ) }",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] { ( ( < { ( ( ( { < > ( ) } ) ) [ { } ] { { ( ) } } ) } < > >",) ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { < > } { (",) } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ < < { } >",> ] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( )",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( ) ) [ { ( < > ) }",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < < > > < ( < < < [ [ [ [ ] ] ] > > > ) [ < < [ ] > > ] { [ < > ] < > [ ( ) ] } { [ ]",} > ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( < [ < > ]",> ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { ( [ ] )",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( < > ) } ( ( [ ] ) < [ ( [ [ ] ] [ { } ] { } [ < { [ ] } > ] ( ) ) ]",> )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { < [ [ ( { } ) ] ]",> } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { ( [ [ ] ( ) ]",) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < { [ ] } >",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( < >",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < { ( < ( ) > ) }",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ < [ [ ] ] > ] ] { } { ( { ( ( ) ) ( ) { { [ [ ( { < { [ { [ ( < ( ( < < < [ ( ) ] [ ] > > > ) ) > < [ < { < ( ) > } > ] > ) ] } ] } > ( ( ) ) } ) [ ( ) ] ] ( < > ) ] } } } ) } [",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { { } ( ( ) )",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ { { < ( ) > { < { } > ( < ( ) > { < [ ( { { ( < [ ] > ) } } { ( ( [ [ { } [ ] ] ] ) ) } ) ] > } ) } }",} ] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < [ ( )",] > )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ( [ < > ] { < > } [ [ ] ] ) ]",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( [ ( [ ] ) ] ) )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ ]",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { ( { } ) } < < ( ) { { < [ { [ ( ) ] } ] > } } > >",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( ( { }",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ [ [ < { ( ) } ( ) > { ( ) } ] { ( ) }",] ] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { } < { } < > (",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( [ < < > [ < { } > ] { < [ ] > ( ( ( [ [ { < > ] ] ) ) ) ( < < > > ) } > ]",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < { } > { (",) } }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ [ { < > { } { } < < < < { } > > ( < ( ( ) ) [ ( [ ] ) ] > ) > > { } } [ < < > > ] < ( ) > ] ]",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < <",> > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { { { } }",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { } [ [ ( ( < { < { [ ] } > } > ) )",] ] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { ( ( )",) } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ( < { [ ( ) ] } >",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( { < { < { < > } > } > } ) ( ) ( { [ ( < ( < < { ( { < > } ) } > > ) > ) { ( { < ( { [ ] } ( ) ) > } < { < { { ( ) } } > { < [ { ( ) } ] > } } > ) } [ [ ( ) ] ] ]",} ) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] < { < { [ ( ) ] } > }",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ] > ] [ { [ ] }",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < > ( [ ( )",] ) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < { ( ) { } } ( < > ) >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < ( < >",) > >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { } ( ( < > )",) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < { < { } > { { ( [ ( { } ) ( ( [ ( [ ( { [ { } ] } ) ] ) ] ) ) ) [ < [ [ [ [ [ < > ] [ { [ [ { ( ( < [ ] > ) [ ( [ ] ) ] < { [ ] } > ) } ] ] } ] { < ( < > ) > } ] ] ] ] > ] ] ) } } } >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < < < >",> > )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < [ ( ) ] >",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < > {",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( [ [ [ [ ( ) ] ] { } ] ] )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ < > ]",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { [ [ [ [ ( ) ] ] ] ]",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < { ( { [ ] } ) } > { } ( [ { { { ( [ < > ] ) } } } ] ) { { ( { } ) } }",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: (( < [ { { } } ] > { } ) ( < > ) [ ( < > ) ] <",> )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < < { } > < > > ( )",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < ( < < > [ ] ( ) >",) > ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ < [ { < ( ) > } ] >",] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { < > < [ ] > [ < { } > ] [ ( { } ) ] [ ] [ ( ) ] ( ) < { { < { { { { { ( { } ) } ( { < > } ) } } } } > } }",> } ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ < [ ( [ < [ ] > ] ) ] > ] ( { }",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( [ ( )",] )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( { { < { < > } > } < { } > < < < [ < [ ] > ] > > >",} ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ < [ < { < { } > } > ( ( < { [ ] } > { { } } ) { } ) ] > ]",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( < { [ [ { [ [ ( [ < < > > ( ( [ ( ) ( { ( < [ ] > ) } ) ] ) ) ] ) ] ( ) ] } { [ [ ] ] } ] ] } > [ { < > } ]",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { [ { < { } > } ( ) ]",} }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ ] > ( ( ( { { { { ( ( { { } } ) ) } ( { } ) } } { { { [ { ( ) } ( ) ( ( { [ < < > > ] < < > > } ) ) ] ( { } { } ) } } } } )",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < [ < ( < [ ] > ) < > < { } > { < > { } { { < [ < < { } [ { } ] < > > > ] < > > } < [ [ ] ] > } } > ] [ ( ) ] > } [ { ( < ( ( ( [ { } ] ) ) ) > ) } ] [ < ( ) ( ( { ( ) [ { { ( { } ) } } ] } ) ) >",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < [ < ( ) > [ { [ { ( ) } ] } ] ] > [ { } ] ( < { < [ { } ] > } > ) ) ( ( < ( ) > [ ] [ < { ( ) } > ] [ { } ] [",] ) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { } < > { < { ( < > ) } >",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < [ ] > ( < > ) <",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ { { [ { [ { ( ( ) ) } ] } ( < < ( < > ) > { } [ [ [ ( < { } > ) ] ] ] { } > ) ( { } ) { } ] }",} ] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ ( [ ( ) [ < [ < > ] < > [ ] > ] < < ( ) ( ) > < { } > > [ < > ] ]",) ] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ { { < > [ ( ) ] ( ( ) ) } } ] > ] { { { ( < > )",} } }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < < > ( [ < { { } } ( ) > ] ) [ ( ) ] [ ] [ { } ] >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { ( { } ) < > }",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < [ ]",> }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { } ) < { < { } >",} >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( { < > } )",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( ( ( ) )",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ < < { [ ] ( [ [ ( [ [ { [ ] } ] ) ( ) ] ] ) ( ) [ ] < [ ( ( ( ) ) ) ] < < < > [ ( ) ] > [ ] > > [ < > ] } > >",] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { { < { } < ( ( < > ) ) > > } } { [ [ { } ] ] [ ] < < { } > [ ( ) { ( { } ) } ] > ( [ < [ ( ( { } ( ) < > < [ < < { { ( [ { } ] ) } } { } { } > > ] > ( ) ) ) < > ] > ] )",} }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ { { < ( ) > } } ]",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < ( [ ( ( [ < { ( { } ) } < < > > > ] ) ) ] ) >",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { ( { [ [ { < [ ] > } ] ] } ) [ ( < { < > } > ) ]",} }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ < [ ] > ] ] <",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < > [ [ < [ ] > ]",] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( { < > ( ) [ { < ( < > < ( ( ) ( [ { } ] ) ) > { { } { ( ) } } ) [ ] > } ] { { } } }",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( ( [ < [ < [ ( [ { < ( < ( ( ) ) { } [ ] > ) > } ] ) { < > } ] [ < [ { ( < < { { [ < { [ [ < > [ ] ] ] } > ] { { } } } } > > ) } ] > { < > { } } ] > ( [ ] ) ] > ] ) ( )",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < { } >",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( { ( )",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( ( ( [ [ < [ { { [ ] } } ] > ] ] ( ) ) )",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < ( ( [ ] )",) > >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( { } )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < < { < < > > } > < < { < ( < > ) < > [ [ [ < ( ( ) ) > [ ] [ ] ] ] ] < ( ) > ( ) [ ( [ [ ] ] ) ] > } { } { < [ < { ( { } ) } > ] > } { { } } > >",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { [ ] }",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ { < ( [ ] < > ) > } ]",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { < [ < > ] > }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ( [ ( [ < ( ) > [ < { } { [ ] } [ ] [ ] > { ( < { < > } > ) } ] ] ) ] )",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < ( [ ] ) >",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { < ( )",> } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < ( ) ( < [ ] > ( ) < [ [ { } { < > } < > ] ] > ) [ ] > [ ( < { [ ] } [ ] ( { [ < > ] < < > > ( ( < { } > ) ) } ) [ [ [ < < < ( ( ) ) >> > ] < < { [ ] } > > ( [ < > ] ) ] ] > ) ] < >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( ( [ [ ] ]",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( ( ) ) { < > { ( [ [ { } ] [ ( ) ] ] ) } [ { { { ( < [ ] > ) } { < > } } }",] } }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( < > ) { < < { ( ( ) { { { < > { } } [ < > ] ( ) } } ( ( ) ) ) < [ { { ( ( < > ) ) } } [ { < { } > } ] ( ) ] > } { [ ] } > > [ ] } > ( [ ] ) [ < { ( ( ( ) ( ) ) ) ( ) } > ] [ < ( )",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: [ ( { } )",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { < { ( ) } > } { ( { [ ] } ) }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { [ [ ] [ ]",] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < [ < ( [ ( ) ] < > < ( { } ) > ) < [ ] >> ] ( ) < [ < > ] >",> )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < < >> [ [ [ { { < { } ( { } ) > } } < { { { } } } < > > ] ] ( )",] )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { ( ( { } ) ) } ( ) ) < { (",) } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( { [ { } ] } [ ] [ ] )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { [ ( [ { ( { ( [ ( [ ] ) { ( < < [ ] > [ [ ] ] > ) } ] ) [ ] } ) } ] ) ] } { < [ ] > } (",) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ < [ ] > ] } { ( ) [ < > ] [ [ [ ] ]",] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ { ( < ( ( [ < < { } > < < [ ( { < < > > } ) ] > > > ] { } ) ) > ) } ] [ < < { } > ( < < ( ) < ( [ ] ) >> ( ( ) ) > ) > ] > ] < < {",} > >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ]",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { [ < > ] } < [ ( [ { } ] ) ] > < [ < > { } ] < ( [ ] ) > <",> > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( { [ ( ) ] } { { [ ] } } { } < > ) } [ < [ ( ) ]",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( < { < ( ) > } >",) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { < { ( ( { } ) ( ) ) } { } < { } > < > > } { } ( { ( { { } } ) [ ( ) ] } ) ) [ ( [ ]",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { < ( )",> } ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( [ < [ ] > { { [ [ ] ] } } ]",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < ( ) > { < > } ( < > ) < ( ) > [ ] < < < < ( ( ) ) < ( ) > > > > > {",} }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < > ( [ ]",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( < > ) > { } < { [ < > ]",} >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ] > [",] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < { < ( ( < { } { < < { { { } } } > < < < > [ ] > { } ( < { { ( [ ( ) ] ) } } > ) > > } > ) ) > } >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( ( ( [ { } ] )",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { { } } ] ( < { < [ ( ( ) ) ] > } >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < ( < < < [ < [ [ ] ( ( ) ) ] > < > ] > > > )",> }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( [ ] ) } [ ] ( { < > } ( { } ( { { } } ) ) ( [ ] ) ( ) ( < ( { { ( < { [ ( ) ] } > ) } } [ < [ ( [ { } ] [ < > < < > > ] ) ] > ] { < { } > } < > ) > )",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ < < > [ [ < > ] ] > ] ( < < < ( [ [ ] ] ) [ ( ( [ { { } } ] ) ) ] >>",> ) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( ) ( (",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < [ ] > ( { [ ] } <",> ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < ( ) >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( ( ) ( { ( < ( ) > ) }",) ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ [ < > ] ] < ( ) > [ { } ] < [ [ ] ] > ( ) < { < [ ] < < [ [ { [ ] } ] ] > > ( [ ( ( ) ) ] ) > } > [ { { < > } } ] > < ( < { } { [ { [ ] } ] } >",) > ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < < < ( < < > > ) > > >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < >",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { ( ) { [ ] { ( ( { < > } ) ) ( < < > < > > < ( ( ) ) > ) } < ( < < < { } > > > ) > } }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ) ( < < { }",> > )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < ( [ ] ) > {",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < { } [ ] >",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < > } ( ) [ ] {",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ { { [ [ [ < ( < [ ] { [ ( [ ] ) ] [ ] < > } > ) > ] ( [ ] ) ] ] } }",] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { [ ] } > ( ) < [ [ { [ [ ] ] } ] ] ( ) [ < ( [ { } ] ) > ( ( ) ) ]",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { < { [ < { ( [ ] ) } > { ( { } ) } ( ) ] } > } [ < < > > ] { } [ ] < { }",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( { [ [ { } ] ] }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( < { [ { } ] } > ) ) < {",} >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < < [ ( ) ] >",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ ] { { } { < ( { } ) > } } > ] ( {",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < < > ( [ [ { ( ( [ ] < > ) ) } ] { [ [ ] { } { [ { < > } ] } ( { { { { } } } } ) ] } ] ) (",) > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { ( (",) ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ( ( { < ( { } ) > } )",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ < < { } >> ]",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ) { <",> }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( [ { ( < [ { ( ) { } } ] > ) < > } ]",) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < < { ( < > ) }",> > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { [ [ ] { { < > [ ( ) ( [ ] ) [ ] { < > } ] } } [ { [ ] } ] { ( ) }",] } }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { {",} }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( [ { ( < > ) } ] ) > { ( [",] ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { [ { ( < < < < > { } > { [ { } ] } > > ) } ] [ ] } ] [ < { { } } [ [ ( ( ) ) ] ] > ] [ ( ( [ ] )",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { < ( ) ( ( < > < ( ( < < > > ) ) { ( ) } > ) ) { { } }",> } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { [ < [ < { } > ] [ ] >",] } ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < [ ( < [ ( { [ ( ) ] [ ( ( { [ ] } ) ) ] } ) ] > ) ] <",> > >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { { } } ( < [ ] [ { } ] > ) ( { { } { { ( ) } } } ) { < { { [ ] } [ ( ) ] } ( < { [ < > ] } > ) < ( [ ] { ( < < [ ] >> ) [ { [ [ ( ( ) ) ] ] } ] } { } ) > ( { { [ [ ( ) ] ] } } )",> } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ( ) { [ ] } [ ] [ ] { < { ( ( { } ) ) { [ { } ] } } > [ ] }",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( { ( < < > > )",} ) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( < >",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] { ( { < > } ) } [ ( ) ] { } [ { { ( < > ) } <",> } ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: [ { { ( ) }",} ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ { [ ] } ] } [ [ { { } } [ < >",] ] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { ( < [ [ ] ] > )",} ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { ( ( [ ] ) )",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < < > > < > [ ] [",] )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ ( { { ( ( ) ) } } ) [ ( [ { } ] ) ] < { { < < < > [ < [ < ( [ ( { ( ( < < < < > > > { ( { { < ( ) > ( ) } } ) } > { } ) ) } ) ] ) > ] > ] > < { } > > } ( ) < { ( ) } > } > ] [ < ( ) > ]",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { [ { { { } } }",] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ ( { { ( { } ) } < < ( [ [ { } < [ { < [ { ( ) ( [ { } ] ) } ] < > > } ] ( < { ( [ ] ) } > ) > ] ( [ < ( ) > ] ) ] ) > > }",) ] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: [ (",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( {",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ( < [ [ { [ < [ < ( [ ] ) > ] < > > ( < [ < [ < ( [ ( [ ] ) < ( ) > ] [ ( { ( ) } [ < { { { ( [ ] ) } } } > ] ) ] ) > ] > ] > ) ] } ] ] > ) ( { { { } } }",) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ [ < > ] (",) ] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ) ( { { [ ] } }",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < ( [ ] ) > < >",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( [",] )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < [ [ ( ) ( ( { < { < { { } } > } > } ) ) ] ] > ( ) { ( ) }",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < > [ { [ [ ( [ ] ) [ < ( < > ) { [ ( { ( [ ( ( < ( ( < [ ] { < > } > [ ] ) ) > ) [ { } ] ) ] ) } ) ] } > ] ] ] } [ ] ] ) < [",] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( {",} ) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: [ ( [",] ) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { < { < > } > } [ ( < < > > ) [ { < ( ) > } ] ] [ ] } < ( { [ < [ { [ ( ) ] } ] > < { ( [ [ [ { } < > { ( < { [ ] } > ( ) ) } ] ] ] ) } > ] } )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ [ [ ( { ( ( < [ { < > } ] > { { [ ] } } ) ) } ( [ [ < > ] ] ) ) ] ] ] ) ( < > < [ ( ) ] > (",) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ) ( [ [ ] ] ) ( { [ { < { ( ) < [ [ < > { [ ( < ( < [ { < < ( [ ( ) ] [ ( < ( { [ ] } ) > ) ] [ < > ] ) > [ { ( < > ) } ] > } ] > ) > ) ] } ] ] > { } [ [ ] ] { } } > ( ( < > ) ) } ] }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( ( { ( ( { } ) ) ( ( [ ] ) ) } )",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < < > >",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ [ { } ] ]",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ) [ ( [ < { { ( { } ) } } >",] ) ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < > ] [ { < { } > { [ ( [ ( ) ] ) ]",} } ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( < ( [ < < [ ] >> ] )",> )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] { [ [ < { { { } } } > ] ] < [ { }",] > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( [ ( { } ) { < ( ( [ ] ) ) >",} ] )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { { { { { < < ( { ( { { < < [ < [ [ ] ] > ] [ ] > [ [ ] ] > ( < [ { < > < [ ] > } ] > ) } } ) } ) > > } } }",} } )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < ( [ ] ) > ] { [ { }",] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( { [ { }",] } )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { [ { [ ] { [ [ ] ] } { ( ) } } { [ [ ( [ ] ) ] ] } ] } { < ( ) { [ [ ( ) { [ { { } } ] < > { < ( < { ( < ( [ ] ) > ) } > ) { [ ( < ( ) > ) ] } [ ] { } > } ( ) } ] [ ( ( { < > } ) ) ] ] } >",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ( ( < > < [ [ ] ] > ) { } )",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ { { { < > } }",} ] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { { { < > } } < > < { { ( ) } } > { } } { < ( { [ < > ] [ ( ) < ( ) > { < ( ( ( ) ) ) > [ ] } ] < > ( < { } > ) }",) > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < > { < [ ] >",} ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ [ <",> ] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( { }",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ [ < ( < { } > ) > ] ] [ [ ] ]",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < {",} >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < > } [ ( { ( { [ < > ] } ) ( ) } ) ] { [ < > ] } [ [ ( [ ]",) ] ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < { { { < [ ( < > { ( ) } ) ] > } } }",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < < ( )",> > }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ( ) <",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ { ( { [ < ( < [ ( ) ] > ) > ] } ) } ] [ ] [ ( { ( ) } ) ] < { ( ( ( ( ( < > ) ) ) ) ) [ < [ ( < > ) ] > [ [ ] ( ( { } { [ { < [ ] > } ] } < { } > < [ < > ] > [ ] ) ) ] ] } > { [ { ( )",} ] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < { < [ ( < > ) ( ( [ [ ] ] ) ) ( ( { } ) ) { [ ] } < ( < > ) > ] > }",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( { < { { [ ] } < > [ ] } [ [ [ < [ [ ] ] > ] ] ] > } [ ] { { { { [ { } ] } ( < [ [ [ ] ] ] > ) < < ( { ( [ ] ) [ { { } } ] { [ ] } } ) [ [ { [ [ { ( { } ) [ ( ) { } ] { } } ] ] < > } ] ] > > }",} } )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < (",) >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { [ < { < ( ( ) ) > } >",] }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] [ ( [ [ ( ) ] ] ) < < [ ] > > < < >",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: ( { } ) { ( [ { ( ) } ] ( [ ] ) )",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < > { { { } } { } } ] < { } [ { [ ] }",] >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < > { { ( { } ) } { { ( ( ) ) } } }",}
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: { { ( [ ] ) { ( )",} } }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( < { [ { } < ( { ( < < < { [ ( [ ( [ { { < [ { } < ( ) > ] > } } ] ) ] ) ] } > < > > ( ( < { } > ) ) > ) } ) > ] } > )",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { [ < > ] ( ( ( ( { { } } ) ) )",) } >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < < [ [ ] ( ) { < > ( [ { } { < > } { } ] ) } [ [ [ ( [ ( ) [ [ { < [ { { } } < { { < ( ) > } } > ] > } ] ] ] ) ] < < [ [ ( < < ( ) >> ) ] ] > > [ ] ] ] ] < ( [ ] ) > { ( ( < { } > ) ) } > >",]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < { [ < > ]",} >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < [ { ( ( < ( ( ) ) > ) ) } ]",>
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < ( ) < > > { < > } { ( ) ( < ( ) > ) } < < { [ ] }",> >
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Aporte: [ ] [ { } ] ( ( )",)
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ ] < { < > } > { (",) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < > < { { { [ ( ) ] } } } > ( { [ { ( [ ] { } ) } ]",} )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( <",> ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { ( { { { < ( < ( [ < < > > ] < > ) > ) > } [ ] }",} ) }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: { < { { } } > } < { } > { < { { [ < [ [ ] ] > ] } } > } ( ) { { [ { [ { } ] } ] ( [ { } ] )",} }
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: ( ( < < < ( ( ) ) ( [ ] ) >> { [ ] }",> ) )
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: [ < { { } }",> ]
+"Complete el resto de la secuencia, asegurándose de que los paréntesis estén cerrados correctamente. Entrada: < < < > >",>

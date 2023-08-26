@@ -1,0 +1,1251 @@
+aporte,objetivo
+"""Aquí viene un argumento perfectamente válido: en primer lugar, quien es compañero de escuela de Sondra no es hermanastra de Pricilla. En consecuencia, quien no es hermanastra de Pricilla es compañero de escuela de Sondra"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: primero, ser primo de Chris es suficiente para no ser hijo de Kermit. Podemos concluir que quien no sea hijo de Kermit es primo de Chris"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. A esta pregunta se aplica el siguiente argumento: en primer lugar, la vitamina A es un ingrediente de LIQUID EYELINER. En segundo lugar, cada ingrediente de BC Eye Cream 15 ml no es un ingrediente. de Mango Lip Butter o no es un ingrediente de LIQUID EYELINER. Por lo tanto, no es el caso que la vitamina A sea un ingrediente de BC Eye Cream 15 ml.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: en primer lugar, ningún aficionado al FK Partizan es un experto en el Southampton FC. En segundo lugar, ningún crítico del FC Spartak Moskva es un experto del Southampton FC. En tercer lugar, ser un crítico del FC Spartak Moskva o un devoto del FK Partizan es necesario para ser un admirador del Qarabağ FK. Por lo tanto, ningún admirador del Qarabağ FK es un experto del Southampton FC. "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: Primera premisa: ser un experto del Aberdeen FC es suficiente para no ser un seguidor del Club Atlético de Madrid. Segunda premisa: Todo experto del Aberdeen FC no es aficionado del AZ Alkmaar ni seguidor del Club Atlético de Madrid. Por lo tanto, quien es experto del Aberdeen FC no es aficionado del AZ Alkmaar.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Ningún hijo de Alexander que sea antepasado de Ahmed es bisabuelo de Ronny. De ello se deduce que ningún bisabuelo de Ronny es antepasado de Ahmed o hijo de Alexander"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil realizar un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Cada ingrediente de Sahara Saphire es ""Es un ingrediente de Pink Lotion Soap y de Brushless Mascara. La cocamida es un ingrediente de Pink Lotion Soap. Por lo tanto, la cocamida es un ingrediente de Sahara Saphire"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: ser un ingrediente de Peach Paint es suficiente para ser un ingrediente de AUTOGRAPH EYELINER. Cada ingrediente de AUTOGRAPH EYELINER es un ingrediente de Brow Filler Blonde o un ingrediente de Calming Shampoo. De esto se desprende: Cada ingrediente de Peach Paint es un ingrediente de Calming Shampoo o un ingrediente de Brow Filler Blonde"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es exactamente aficionado de quién? A esta pregunta se aplica el siguiente argumento: en primer lugar, no ser rival del FC Utrecht es suficiente para no ser admirador del St Johnstone FC. Todo esto implica que todos los que son admiradores del St Johnstone FC también son oponentes del FC Utrecht"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, todo aquel que es nieto de Domingo es también compañero de trabajo de James. Además, quienquiera que sea No es hijo de Cody ni hijo de Iván, es nieto de Dominic. Podemos concluir: Quien no sea nada de esto: hijo de Cody o hijo de Iván, es compañero de trabajo de James.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: En primer lugar, no ""Un miembro de la Juventus es un experto del Getafe CF. A continuación, alguien es un seguidor del West Ham United FC y un experto del Getafe CF. Así que, necesariamente, no todos los seguidores del West Ham United FC son miembros de la Juventus"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, ser un consumidor excepcional del jabón Nubian Heritage es necesario para ser propietario de un jabón Lever. En segundo lugar, ser un usuario poco frecuente del champú American Crew es suficiente para ser un consumidor excepcional del jabón Nubian Heritage. . En consecuencia, cada usuario poco frecuente del champú American Crew es propietario de un jabón Lever"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: cada ingrediente de SILKY EYE PENCIL 13 es un ingrediente de Eye Restore o un ingrediente de 03 Bronzing Powder. Ningún ingrediente de SILKY EYE PENCIL 13 es un ingrediente de 03 Bronzing Powder. Podemos concluir: Ser un ingrediente de SILKY EYE PENCIL 13 es suficiente para ser un ingrediente de Eye Restore.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primero, ser antepasado de Jonatán es suficiente para no ser nieto de Carmelo. Segundo, quien sea antepasado de Jonatán no es compañero de Reyes. Tercero, todo nieto de Carmelo que sea compañero de colegio de Reyes es también amigo íntimo de Clifford. Podemos concluir: Ser antepasado de Jonathan es suficiente para ser amigo íntimo de Clifford.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: En primer lugar, cada oponente El FC Mariupol es un ex seguidor del Hertha BSC Berlin o un ex seguidor del Bayer 04 Leverkusen. En segundo lugar, cada aficionado del FC Utrecht no es un ex seguidor del Hertha BSC Berlin ni un ex seguidor del Bayer 04 Leverkusen. ""Necesariamente, ser rival del FC Mariupol es suficiente para no ser aficionado del FC Utrecht"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: en primer lugar, un patrocinador del BSC Young Boys es un crítico del Trabzonspor AŞ y un experto del Bayer 04 Leverkusen. Además, ser un ex aficionado del NK Maribor es suficiente para ser un crítico del Trabzonspor AŞ. Además, ser un experto del Bayer 04 Leverkusen es necesario para ser un ex aficionado del NK Maribor. Por lo tanto, necesariamente ""Hay alguien que apoya al BSC Young Boys y ex hincha del NK Maribor"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, quien es un experto del BSC Young Boys no es un ex hincha del Real Betis Balompié. Ahora bien, quien es amigo del FC Dynamo Kyiv no es un experto del BSC Young Boys. Por lo tanto, ningún amigo del FC Dynamo Kyiv es ex hincha del Real Betis Balompié"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Todo aquel que es devoto del Legia Warszawa es también seguidor del FK Kukësi. Segunda premisa: Ningún seguidor del FK Kukësi es amigo del Olympique de Marsella. Por lo tanto, quien sea devoto del Legia Warszawa no es amigo del Olympique de Marseille"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, ser un ingrediente de Hope Moisture Mask es suficiente para ser un ingrediente de Miracle Concealer. Segundo, nada es ni un ingrediente de All Day Body Wash ni un ingrediente de Hope Moisture Mask. Podemos concluir : Ser un ingrediente de All Day Body Wash es suficiente para no ser un ingrediente de Miracle Concealer.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: en primer lugar, todos los que son amigos cercanos de Glenna también lo son de Tamara. Siguiente ""Quien no sea media hermana de Deborah ni compañera de trabajo de Nila es un amigo cercano de Glenna. Por lo tanto, quien no sea nada de esto: media hermana de Deborah o compañera de trabajo de Nila, es un amigo cercano de Tamara"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Cada seguidor del Tottenham Hotspur no es un experto del Trabzonspor AŞ ni un seguidor del US Sassuolo Calcio. Todo seguidor del US Sassuolo Calcio que sea un experto del Trabzonspor AŞ es un seguidor del Tottenham Hotspur o un devoto del FC Zenit. En consecuencia, todos los que no son ambos ""Un experto del Trabzonspor AŞ y defensor del Sassuolo Calcio estadounidense es un devoto del FC Zenit"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento intenta aclarar algunas de esas relaciones: Primero, Cecil es un compañero de escuela de Tyler. Segundo ""Nadie es compañero de escuela de Tyler ni sobrino de Owen. Entonces, necesariamente, Cecil no es sobrino de Owen"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: En primer lugar, algún tío de Dominic es un ""Compañero de escuela de Earl. A continuación, todo aquel que sea tío de Reyes y tío de Corey no es compañero de escuela de Earl. Todo esto implica que algún tío de Dominic no es tío de Reyes o no es tío de Corey"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver qué químicos están contenidos en nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: Primera premisa: Todo lo que no es un ingrediente de Shimmer Veil es un ingrediente de Snowcastle. Segunda premisa: Cada ingrediente de Liquid Eye liner no es un ingrediente de Love Boat o no es un ingrediente de Shimmer Veil. Tercera premisa: Ser un ingrediente de Snowcastle es necesario para no ser un ingrediente de Love Boat. Podemos concluir que todo lo que es un ingrediente de Liquid Eye liner es un ingrediente de Snowcastle también.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre el consumo pretende comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, nadie es ni un consumidor frecuente de jabón Bath & Body Works ni un consumidor ocasional. comprador de jabón Clearly Natural. Además, nadie es ni un consumidor raro de champú Nioxin ni un comprador ocasional de jabón Clearly Natural. Finalmente, cada comprador ocasional de jabón Kirk's es un consumidor frecuente de jabón Bath & Body Works o un consumidor raro de Nioxin champú. Podemos concluir: ser un comprador ocasional de jabón Clearly Natural es necesario para ser un comprador ocasional del jabón Kirk's.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Primera premisa: Nadie es ni compañero de trabajo de Calvin ni un compañero de escuela de Barton. Podemos concluir: ser un compañero de trabajo de Calvin es necesario para no ser un compañero de escuela de Barton.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: para empezar, José es admirador del AEK Atenas FC. Además, todos los admiradores del El AEK Atenas FC es un experto del Feyenoord. Todo esto implica que José es un experto del Feyenoord"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: cada compañero de escuela de Jeffery es nieto de Todd. Quien sea compañero de escuela de Jeffery es al menos uno de estos: un nieto de Todd, un hermano de Kenneth o un tío de Lavern. Cada compañero de escuela de Jeffery es un tío de Lavern. Podemos concluir: todos los que son compañeros de escuela de Jeffery también son hermanos de Kenneth"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. A esta pregunta se aplica el siguiente argumento: para empezar, ser un ingrediente de Aquablush es suficiente para ser un ingrediente de NARS Duo Eyeshadow. Además, lo que sea que no sea un ingrediente de Stop and Stare ni un ingrediente de A.D LIPSTICK CHIC es un ingrediente de Lash Tinsel Mascara o un ingrediente de Aquablush. Finalmente, todo lo que es un ingrediente de Lash Tinsel Mascara también es un ingrediente de NARS Duo Eyeshadow. no es un ingrediente de NARS Duo Eyeshadow, sin embargo, es un ingrediente de Stop and Stare o un ingrediente de A.D LIPSTICK CHIC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, quien sea un comprador leal del jabón Bentley Organic no es un usuario habitual del jabón Paul Mitchell. Ahora bien, quien sea propietario de un jabón Lush y un usuario poco frecuente del jabón Proactiv no es ""Un comprador leal del jabón Bentley Organic. Podemos concluir: todo propietario de un jabón Lush que utiliza con poca frecuencia el jabón Proactiv también es un usuario habitual del jabón Paul Mitchell"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: para empezar, cada rival del FC Dnipro es un rival del West Ham United FC o del West Ham United FC o un experto del SCR Altach. Ahora bien, ser patrocinador del Chelsea FC es necesario para no ser un experto del SCR Altach. Además, nadie es ni oponente del West Ham United FC ni patrocinador del Chelsea FC. Todo esto implica que ser un El patrocinador del Chelsea FC es necesario para ser un rival del FC Dnipro"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Para empezar, ningún hermanastro de Bryan es a la vez sobrino de Wilburn e hijo de Howard. Ahora bien, quien no es hijo de Howard es hijo de Adrian. Es más, nadie es ni sobrino"". de Wilburn ni hijo de Adrian. Por lo tanto, todo aquel que sea hermanastro de Bryan también es hijo de Adrian"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: En primer lugar, todos los que son Tanto rival de la Real Sociedad de Fútbol como ex hincha del Beşiktaş JK también es seguidor del Liverpool FC. En segundo lugar, ser admirador del HŠK Zrinjski es suficiente para no ser rival de la Real Sociedad de Fútbol. En tercer lugar, sea quien sea ""Un admirador del HŠK Zrinjski no es un ex aficionado del Beşiktaş JK. En consecuencia, todo admirador del HŠK Zrinjski es un seguidor del Liverpool FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, cualquier ingrediente de Vertica Rush y un ingrediente de Liqua Versa Gel no es un ingrediente de Eyeshadow Quad. De ello se deduce que cada ingrediente de Eyeshadow Quad no es un ingrediente de Liqua Versa Gel. o no un ingrediente de Vertica Rush.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: para empezar, si alguien no es seguidor del Feyenoord, entonces esa persona no lo es. un patrocinador del FC Augsburg o no un devoto del AS Monaco FC. Además, ser un devoto del AS Monaco FC es necesario para no ser miembro del AC Milan. Finalmente, nadie es ni un miembro del AC Milan ni un patrocinador del FC Augsburg. . En consecuencia, nadie es miembro del AC Milan ni seguidor del Feyenoord"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: Primera premisa: Ser compañero de trabajo de Monte es necesario para no ser un antepasado de Patrick. Segunda premisa: No ser un antepasado de Nathan es suficiente para no ser un compañero de trabajo de Monte. De ello se deduce que ser un antepasado de Nathan es necesario para no ser un antepasado de Patrick.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, quien no es un consumidor poco frecuente de jabón Lever es un usuario poco frecuente del champú TRESemmé. En segundo lugar, existe un usuario poco frecuente de TRESemmé. champú que no es un comprador ocasional de jabón Paul Mitchell o no un comprador ocasional de jabón Zest. En consecuencia, algún consumidor raro de jabón Lever no es al mismo tiempo un comprador ocasional de jabón Paul Mitchell y un comprador ocasional de jabón Zest "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: primero, quien sea tío de Owen no es sobrino de Gene. Segundo, quien sea a la vez sobrino de Ignacio y un hermano de David es compañero de escuela de Steve o tío de Owen.En tercer lugar, todo aquel que es compañero de escuela de Steve también es sobrino de Gene. Podemos concluir: Todo hermano de David que es sobrino de Ignacio es No soy sobrino de Gene.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: primero, ser antepasado de Christy es necesario para ser hija de Denise. Segundo, no ser primo. de Maryann es suficiente para no ser antepasado de Christy. Podemos concluir que quien no sea hija de Denise es prima de Maryann.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Primera premisa: ser sobrino de Henry es necesario por ser hermano de Eduardo. Segunda premisa: Algún antepasado de Carlos es compañero de trabajo de Efraín y sobrino de Enrique. Tercera premisa: Ser hermano de Eduardo es suficiente para ser compañero de trabajo de Efraín. Por tanto, alguien es antepasado de Carlos. y un hermano de Edward.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es exactamente aficionado de quién? A esta pregunta se aplica el siguiente argumento: para empezar, todo crítico del FC Ufa es partidario del İstanbul Başakşehir. Ahora bien, ""Todo crítico del FC Ufa es un partidario del İstanbul Başakşehir o un crítico del PFC CSKA Moskva o un experto del Randers FC. Por lo tanto, cada crítico del FC Ufa es un crítico del PFC CSKA Moskva o un experto del Randers FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Siri hermanastra de Mary? ¿Susan está emparentada con Kate? En las familias numerosas, a veces resulta difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, todos los que son compañeros de escuela de Mildred también es hija de Jeanette. Ahora, ser hija de Jeanette es suficiente para no ser prima de Cristi. Por lo tanto, ninguna compañera de escuela de Mildred es prima de Cristi.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Cada ingrediente de la Barra Hidratante no es ni un ingrediente de 31 EYE COLOR ni un ingrediente de VITAMIN E BB CREAM. Entonces, necesariamente, lo que sea que no sea nada de esto: un ingrediente de VITAMIN E BB CREAM o ingrediente de 31 EYE COLOR, es un ingrediente de la Barra Hidratante.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento pretende aclarar algunas de estas relaciones: Ningún miembro del ŠK Slovan Bratislava es seguidor del OGC Nice. Cualquiera que sea miembro del ŠK Slovan Bratislava no es un seguidor del Royal Antwerp FC. Cada miembro del ŠK Slovan Bratislava es un seguidor del Royal Antwerp FC o un patrocinador del FC Zenit o un seguidor del OGC Nice. Por lo tanto, ser patrocinador del FC Zenit es necesario para ser miembro del ŠK Slovan Bratislava.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, cualquier cosa que sea a la vez un ingrediente de Immense Mascara y un ingrediente de I Adore You es un ingrediente de Crawford's Wine o un ingrediente de Bioglitz Color 9N. Además, ser un ingrediente de lip2cheek es necesario por ser ingrediente de Bioglitz Color 9N. Finalmente todo lo que es ingrediente de Crawford's Wine también es ingrediente de lip2cheek, por lo tanto, todo lo que es ingrediente de Immense Mascara e ingrediente de I Adore You también es ingrediente de lip2cheek. ""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: Primera premisa: No ser un amigo cercano de Williams es suficiente para no ser sobrino de Rolando. Todo esto Implica que cada sobrino de Rolando es un amigo cercano de Williams.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, ninguna media hermana de Nelda es amiga íntima de Terrie o prima de Amanda. Ahora bien, es falso que Gretchen sea amiga íntima de Terrie. Además, es falso que Gretchen es prima de Amanda. Podemos concluir: no es cierto que Gretchen sea media hermana de Nelda.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: en primer lugar, cada amigo cercano de Myra no es primo de Sue ni hija de Tommy. ""Puedo concluir que ninguna prima de Sue ni ninguna hija de Tommy son amigas cercanas de Myra"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, Carmen es hija de Hattie. Además, ser sobrina de Shona es suficiente para no ser hija de Hattie. De esto se sigue: Carmen no es sobrina de Shona"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, ningún ex aficionado del Getafe CF es crítico del Kilmarnock FC. En segundo lugar, todo aquel que es amigo del R. Charleroi SC es también un crítico del Kilmarnock FC. Por lo tanto, quien no lo sea Un amigo del R. Charleroi SC es un ex seguidor del Getafe CF.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, cada tía de Rosa que es hermana de Amanda es también bisabuela de Hellen. Ahora bien, no es el caso que Amy sea tía de Rosa. Además, Amy es ""Es hermana de Amanda. Por lo tanto, Amy no es bisabuela de Hellen"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: es falso que Colleen sea un antepasado de Cheryle. Quien sea hermanastra de Esther no es un antepasado de Cheryle. De ello se deduce que es falso que Colleen sea hermanastra de Esther"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Quien es un comprador ocasional del champú Suave no es un usuario habitual del jabón Ivory. Podemos concluir que ser un usuario habitual del jabón Ivory es suficiente para no ser un comprador ocasional del champú Suave. "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Siri hermanastra de Mary? ¿Susan está emparentada con Kate? En las familias numerosas, a veces resulta difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, ninguna bisabuela de Doreen es media hermana de Kathy. Además toda bisabuela de Doreen es compañera de trabajo de Inocencia o antepasado de Wanda o media hermana de Kathy. Finalmente ser bisabuela de Doreen es suficiente para no ser compañera de trabajo. ""De Inocencia. Entonces, necesariamente, cada bisabuela de Doreen es un antepasado de Wanda"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, no es el caso que ""Homero es compañero de clase de Frank. Ahora bien, ser compañero de clase de Edward es necesario para ser compañero de clase de Frank. Así que, necesariamente, no es el caso que Homero sea compañero de clase de Edward"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, ser un consumidor frecuente del champú KMS es necesario para ser un consumidor habitual del jabón Yardley London. Luego, quienquiera que sea un ""El usuario habitual del champú Joico no es un consumidor frecuente del champú KMS. Todo esto implica que ningún consumidor habitual del jabón Yardley London es un usuario habitual del champú Joico.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, todo aquel que es medio hermano de Ronny o compañero de clase de Sal no es hijo de Ronald. Segundo, es falso que Santo sea hijo de Ronald. Entonces, necesariamente, Santo es un medio hermano de Ronny o un compañero de clase de Sal.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Para empezar, ser ingrediente de Eye Definer Twig es necesario para ser ingrediente de FACIAL SCRUB. Ahora, no ser ingrediente de NARS Pressed Powder es suficiente para no ser ingrediente de Eye Definer Twig Por lo tanto, ser un ingrediente del NARS Pressed Powder es necesario para ser un ingrediente del FACIAL SCRUB.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Primera premisa: cada oponente Para AS Roma es un seguidor del Hertha BSC Berlin o un fanático del AC Sparta Praha o no un fanático del FCSB. Segunda premisa: ningún fanático del FCSB es un experto del FK Sūduva. Tercera premisa: cada fanático del AC Sparta Praha es un experto. del FK Sūduva. Cuarta premisa: Ser un experto del FK Sūduva es necesario para ser un defensor del Hertha BSC Berlín. Por lo tanto, ser un experto del FK Sūduva es necesario para ser un oponente de la AS Roma"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo comprador leal del jabón Tocca es un comprador ocasional del jabón Bentley Organic. Luego, ser un comprador leal del jabón Tocca es suficiente para ser un consumidor frecuente del champú L'Oréal. Además ""Algún usuario habitual del jabón Lever no es un comprador ocasional del jabón Bentley Organic o no es un consumidor frecuente del champú L'Oreal. Podemos concluir que no todos los usuarios habituales del jabón Lever son compradores leales del jabón Tocca"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es exactamente aficionado de quién? A esta pregunta se aplica el siguiente argumento: en primer lugar, todo experto del PFC Ludogorets 1945 es un ex aficionado del KF Skënderbeu. En segundo lugar, , todo experto del PFC Ludogorets 1945 es un oponente del OGC Nice. En tercer lugar, algún aficionado del Burnley FC es un rival del OGC Nice y ex aficionado del KF Skënderbeu. De ello se deduce que algún aficionado del Burnley FC es un experto del PFC Ludogorets 1945.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: cada tío de Harvey no es un antepasado de Adrian ni un sobrino de Ward. En consecuencia, ningún sobrino de Ward ni ningún antepasado de Adrian es un tío de Harvey"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre consumidores tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, un consumidor habitual del champú AXE no es un comprador ocasional del champú Sexy Hair . Además, todos los que utilizan habitualmente el jabón Nubian Heritage también son compradores ocasionales del champú Sexy Hair. De lo que se deduce lo siguiente: alguien es un consumidor habitual del champú AXE y no un usuario habitual del jabón Nubian Heritage.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación del consumidor tiene como objetivo comprender si los usuarios de algunos productos también tienden a consumir otros, o no. El siguiente argumento busca aclarar algunas de esas relaciones: primero, Nick es un consumidor frecuente de jabón Colgate-Palmolive. Segundo, ser un consumidor frecuente del jabón Burt's Bees o no ser un consumidor frecuente del jabón Colgate-Palmolive es suficiente para ser un comprador ocasional del champú Redken. Todo esto implica que no se da el caso de que Nick sea un comprador ocasional del champú Redken.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo aficionado del FC Lugano no es un devoto del PFC CSKA Moskva ni un ex seguidor del SV Zulte Waregem. Podemos concluir: Quien sea que no sea nada de esto: un devoto del PFC CSKA Moskva o ex seguidor del SV Zulte Waregem, es hincha del FC Lugano.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. A esta pregunta se refiere el siguiente argumento: Primera premisa: No es cierto que el óxido de propileno sea un ingrediente de Nobility. Segunda premisa: Es falso que el propileno ""El óxido de propileno no es un ingrediente de Cover Pink, Core. Tercera premisa: Cada ingrediente de Charged Up Cherry no es un ingrediente de Cover Pink, Core ni un ingrediente de Nobility. De ello se deduce que el óxido de propileno no es un ingrediente de Charged Up Cherry"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: En primer lugar, no es el En este caso, el extracto de grano de café es un ingrediente del champú Go 365. En segundo lugar, todo lo que es un ingrediente de Chickadee también es un ingrediente del champú Go 365. Por lo tanto, necesariamente, no es el caso que el extracto de grano de café sea un ingrediente de Chickadee. "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, nadie es ni un antepasado de Alvin ni un compañero de trabajo de Tony. Además, quienquiera que sea un ""El compañero de escuela de Keith no es un antepasado de Alvin. Por lo tanto, todos los que son compañeros de escuela de Keith también son compañeros de trabajo de Tony"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: cada experto del AS Saint-Étienne es un admirador del FC Krasnodar. Cada ex fanático del FC Sion no es un experto del AS Saint-Étienne ni un ex hincha del Osmanlıspor. Ser admirador del FC Krasnodar es necesario para ser un ex hincha del Osmanlıspor. Podemos concluir: Ser un ex hincha del FC Sion Eso es suficiente para ser admirador del FC Krasnodar.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: ser hermanastro de Benjamín es necesario para ser nieto de Alan. Cada medio hermano de Melvin es un hermanastro de Benjamín. Todo el que no es primo de Salomón ni hermanastro de Domingo es nieto de Alan o medio hermano de Melvin. Entonces, necesariamente, alguien que no es hermanastro de Benjamín es primo de Salomón o un hermanastro de Domingo.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: Primera premisa: Terry es nieto de Ward. Segunda premisa: Cada nieto de Paul es tío de Earl y nieto de Ward. Podemos concluir que Terry es nieto de Paul.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: William es un devoto del AC Milan. Cada devoto del AC Milan y cada experto de Yeni Malatyaspor es un ex seguidor del Fenerbahçe SK. En consecuencia, William es un ex seguidor del Fenerbahçe SK.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, ser primo de Lawrence es ""Es suficiente para ser un compañero de escuela de Kenneth. Además, alguien es un amigo cercano de Philip y no un compañero de escuela de Kenneth. Todo esto implica que no todos los amigos cercanos de Philip son primos de Lawrence"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, ser un ex aficionado del Villarreal CF es necesario para ser miembro del SK Rapid Wien. Luego, algún seguidor del Östersunds FK no es un ex aficionado del Villarreal CF. que alguien es seguidor del Östersunds FK y no del SK Rapid Wien"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil realizar un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Cada ingrediente de Hawaiian Punch es ""No es un ingrediente de Ice Queen ¿Alguien? o no es un ingrediente de Exfoliating Balm. Todo lo que es un ingrediente de Black Shadow también es un ingrediente de Hawaiian Punch. En consecuencia, cada ingrediente de Black Shadow es un ingrediente de Exfoliating Balm y un ingrediente ¿Alguien de la Reina de Hielo?
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, si algo no es un ingrediente de Skin Tint FX, entonces esa cosa no es un ingrediente de NYC Nail Glossies o no es un ingrediente de Eyebrow Kit. Ahora bien, ser un ingrediente de Eyebrow Kit es necesario para no ser un ingrediente de EYE SHADOW No 101. Además, lo que no es un ingrediente de EYE SHADOW No 101 es un ingrediente de NYC Nail Glossies. Entonces, necesariamente, nada es ni un ingrediente de EYE SHADOW No 101 ni un ingrediente de Skin Tint FX.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se refiere el siguiente argumento: Primera premisa: Quien no es un consumidor habitual del champú Pantene no es un raro consumidor de jabón del sur de Francia ni un raro consumidor de Jabón Kiss My Face. Segunda premisa: Ser un consumidor raro de jabón del Sur de Francia es necesario para no ser un consumidor frecuente de jabón Proactiv. Tercera premisa: Nadie es ni un consumidor frecuente de jabón Proactiv ni un consumidor raro de jabón Kiss My Face. Así que, necesariamente, quien no es un consumidor frecuente del jabón Proactiv es un consumidor habitual del champú Pantene.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, Darwin es nieto de Dewayne . Ahora bien, quien no sea medio hermano de Alvin y nieto de Dewayne es un antepasado de Leslie. De ello se deduce que es falso que Darwin sea un antepasado de Leslie.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Quien no es primo de Andrés es compañero de trabajo de Isaac. Nadie es ni nieto de Reyes ni compañero de trabajo de Isaac. Ningún hermanastro de Felipe es a la vez nieto de Reyes y primo de Andrés. Por lo tanto, ser compañero de trabajo de Isaac es necesario para ser hermanastro de Felipe.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre consumidores tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Primera premisa: Oliver no es un usuario habitual del champú Organix Hair. Segunda premisa: Todos los que ""No es un usuario habitual del champú Organix Hair y un consumidor poco común del jabón Purpose; sin embargo, es un comprador leal del jabón Kiss My Face. Podemos concluir que Oliver es un comprador leal del jabón Kiss My Face"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Siri hermanastra de Mary? ¿Susan es pariente de Kate? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Quien no es compañero de trabajo de Hilda es hermanastra de Heather. Cada compañera de trabajo de Hilda es hermanastra de Heather o tía de Clara, o ambas. Podemos concluir: Ser tía de Clara es necesario para ser compañera de trabajo de Hilda.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, cada ex hincha del FC Bayern München es seguidor del Rangers FC. Además, ser seguidor del Rangers FC es necesario para ser amigo del Sporting Clube de Portugal. Finalmente, quien no sea socio del FC Mariupol ni experto del Stade Rennais. ""El FC es un ex fan del FC Bayern München o un amigo del Sporting Clube de Portugal. Por lo tanto, necesariamente, no ser seguidor del Rangers FC es suficiente para ser miembro del FC Mariupol o no ser un experto del Stade Rennais FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Siri hermanastra de Mary? ¿Susan está emparentada con Kate? En las familias numerosas, a veces resulta difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Primera premisa: quien es bisabuela de Dawn y hermana de Nancy no es bisabuela de Jaime. Podemos concluir que todos los que no son bisabuela de Jaime son, sin embargo, bisabuela de Dawn y hermana de Nancy.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, Jonathan es un consumidor habitual de jabón de eucalipto. En segundo lugar, ser propietario de un jabón Lever o no ser un consumidor habitual de eucalipto. ""El jabón es suficiente para ser un consumidor frecuente del champú Herbal Essences. Podemos concluir que Jonathan no es un consumidor frecuente del champú Herbal Essences.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué productos químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los productos químicos a los que uno está expuesto regularmente. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, no ser un ingrediente de Pink Smoothie es suficiente para no ser ingrediente de A.D LIPSTICK CHIC. Ahora bien, todo lo que es ingrediente de ILLUMINIZING POWDER también es ingrediente de A.D LIPSTICK CHIC. Todo esto conlleva que cada ingrediente de ILLUMINIZING POWDER es un ingrediente de Batido rosa.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, todo el que no es primo de Valerie ni compañero de clase de Mitzi es un amigo cercano de Kathryn o una compañera de trabajo de Anita. Además, todo amigo cercano de Kathryn es un compañero de clase de Mitzi o un primo de Valerie. De ello se deduce que quien no sea nada de esto: un primo de Valerie o un compañero de clase de Mitzi, es un compañero de trabajo de Anita.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre el consumo tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, cada consumidor raro de jabón Pré De Provence es un consumidor frecuente de Sexy Hair Ahora bien, ser un consumidor poco común de jabón Camay es necesario para ser un consumidor poco común de jabón Pre De Provence. Además, no todos los usuarios poco frecuentes del champú Organix Hair son al mismo tiempo consumidores frecuentes del champú Sexy Hair y consumidores raros de jabón Camay. ""Entonces, necesariamente, alguien es un usuario poco frecuente del champú Organix Hair y no un consumidor raro del jabón Pre De Provence"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, cada propietario de un champú Finesse es un consumidor habitual del champú TIGI o un comprador leal del jabón Paul Mitchell, o ambos. Luego, cada consumidor excepcional del champú Alterna Haircare no es un Consumidor habitual del champú TIGI o no comprador fiel del jabón Paul Mitchell. Podemos concluir: Quien sea propietario de un champú Finesse no es un raro consumidor del champú Alterna Haircare.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: primero, alguna compañera de clase de Sherry no es a la vez media hermana de Peggy y bisabuela de Sophie. . En segundo lugar, ser compañera de escuela de Leonor es suficiente para ser media hermana de Peggy. En tercer lugar, toda persona que es compañera de escuela de Leonor es también bisabuela de Sophie. Podemos concluir que hay alguien que es compañera de clase de Sherry y no una compañera de colegio de Leonor.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, Justin no es tío de Roberto ni compañero de trabajo de Glenn. Ahora, cada bisabuelo de Reyes es tío de Roberto y compañero de trabajo de Glenn. Podemos concluir: No es cierto que Justin sea bisabuelo de Reyes"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, ser ingrediente de Lacquer Aquadelic es necesario para ser ingrediente de Fashion Week Chic. Además, ningún ingrediente de Most Wanted que sea ingrediente de Juicy Kitten es ingrediente de Lacquer Aquadelic. De esto se desprende lo siguiente: Cualquier cosa que no sea un ingrediente de Juicy Kitten ni un ingrediente de Most Wanted es un ingrediente de Fashion Week Chic"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es exactamente aficionado de quién? A esta pregunta se refiere el siguiente argumento: Primera premisa: Oliver no es rival del FC Vaduz. Segunda premisa: Oliver no es un seguidor del FC Viitorul. Tercera premisa: Todo seguidor del SK Rapid Wien no es ni un seguidor del FC Viitorul ni un oponente del FC Vaduz. Todo esto implica que es falso que Oliver sea un seguidor del SK Rapid Wien.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Nadie es un comprador ocasional de jabón Yardley London ni un comprador ocasional de jabón Paul Mitchell. Segunda premisa: Ningún propietario de un champú Aveeno que sea un usuario poco frecuente de jabón Zest es un consumidor ocasional. comprador del jabón Paul Mitchell. Así que, necesariamente, quien sea propietario de un champú Aveeno y usuario poco frecuente del jabón Zest es también un comprador ocasional del jabón Yardley London"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Ser amigo del Kilmarnock FC es suficiente para no ser admirador de The New Saints FC. Segunda premisa: Es falso que Máximo sea admirador de The New Saints FC. Podemos concluir que es falso que Máximo sea amigo del Kilmarnock FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, cada consumidor excepcional de champú KMS que posee un champú Aveeno es un consumidor excepcional de jabón Colgate-Palmolive o un usuario habitual del champú Sunsilk. A continuación, ningún consumidor raro de jabón Colgate-Palmolive es a la vez un consumidor raro de champú KMS y propietario de un champú Aveeno. Por lo tanto, cada consumidor raro de champú KMS que es propietario de un champú Aveeno es También soy usuario habitual del champú Sunsilk.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Siri hermanastra de Mary? ¿Está Susan emparentada con Kate? En las familias numerosas, a veces resulta difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, ser una amiga íntima de Catherine es necesario para no ser compañera de clase de Leslie. Ahora bien, ser nieta de Courtney es necesario para no ser compañera de clase de Leslie. Además, quien no es compañera de clase de Mary es sin embargo una amiga íntima de Catherine o una nieta de Courtney. En consecuencia, quien no sea compañero de clase de Leslie es compañero de clase de Mary"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: En primer lugar, ser ingrediente de Gorgeous es necesario para no ser ingrediente de Baked Eyeshadow. Luego, algo no es ingrediente de Gorgeous y, además, no es ingrediente de Coverage Duo o no. ""Un ingrediente de Deternined. Por lo tanto, hay algo que es un ingrediente de Baked Eyeshadow y no tanto un ingrediente de Coverage Duo como un ingrediente de Deternined"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre consumidores tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Primera premisa: Ser un consumidor habitual del jabón Kiss My Face es necesario para ser un usuario habitual del jabón Nag Champa. Segunda premisa: Quien es consumidor raro del champú John Frieda es al menos uno de estos: un consumidor habitual del jabón Mrs. Meyer's, un usuario habitual del jabón Nag Champa o un usuario habitual del champú René Furterer. Tercera premisa : Ningún consumidor habitual del jabón Mrs. Meyer's es un consumidor habitual del jabón Kiss My Face. Por lo tanto, quien es un consumidor poco común del champú John Frieda no es un consumidor habitual del jabón Kiss My Face ni un usuario habitual del champú René Furterer.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primero, Andrés es miembro del Paris Saint-Germain. Segundo, es falso que Andrés sea seguidor del FC Mariupol. Tercero, quien sea seguidor del FC Mariupol y miembro del Paris Saint-Germain. Germain también es un devoto del FC Arouca. Por lo tanto, Andrés no es un devoto del FC Arouca.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, todos los que son consumidores ocasionales del champú Pantene y compradores ocasionales del champú Herbal Essences son consumidores frecuentes del jabón Tom's of Maine o usuarios habituales del jabón Mysore. Ahora, cada Un consumidor frecuente del jabón Tom's of Maine no es un consumidor raro del champú Pantene ni un comprador ocasional del champú Herbal Essences. Podemos concluir que todo aquel que no sea al mismo tiempo un consumidor raro del champú Pantene y un comprador ocasional del champú Herbal Essences es, sin embargo, un Usuario habitual de jabón Mysore.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: para empezar, ser propietario de un jabón Nag Champa es suficiente para ser un raro consumidor de champú KMS. Además, cada raro consumidor ""El propietario del champú KMS no es un comprador fiel del champú Schwarzkopf o no es propietario de un jabón Lush. De ello se deduce que cada propietario de un jabón Nag Champa es propietario de un jabón Lush y un comprador fiel del champú Schwarzkopf.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil entender quién consume qué productos. El siguiente argumento se refiere a esta pregunta: Primera premisa: Un consumidor frecuente de jabón Kiss My Face no es un usuario infrecuente del champú AXE. Segunda premisa: Ser un consumidor frecuente de El jabón Kiss My Face es necesario para ser un usuario habitual del champú Sexy Hair. Por lo tanto, no todos los usuarios poco frecuentes del champú AXE son usuarios habituales del champú Sexy Hair"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: en primer lugar, todo aquel que es hijo de Andrés también es hijo de Bruce. Luego, Jeffrey ""No es hijo de Bruce. En consecuencia, es falso que Jeffrey sea hijo de Andrés.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Siri hermanastra de Mary? ¿Susan está emparentada con Kate? En las familias numerosas, a veces resulta difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: En primer lugar, quien no sea compañero de clase de Shanika es hija de Candace. Por lo tanto, ser compañera de clase de Shanika es necesario para no ser hija de Candace.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: en primer lugar, cada hermanastro de Mathew es un antepasado de Derrick. Luego, existe un antepasado de Martin. ""Quien no es un antepasado de Derrick o no es un antepasado de José. Además, ser un antepasado de José es necesario para ser un hermanastro de Mathew. Por lo tanto, alguien es un antepasado de Martin y no un hermanastro de Mathew"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, ser prima de Sara es suficiente para no ser compañera de trabajo de Kimberly. Además, cada ""La prima de Sara es compañera de trabajo de Kimberly o, en caso contrario, no es compañera de trabajo de Kimberly ni hija de Valerie. Por lo tanto, ninguna prima de Sara es hija de Valerie.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, ser medio hermano de Jordon es suficiente para no ser antepasado de Ignacio. Ahora bien, Sydney no es medio hermano de Jordon. Por lo tanto, es falso que Sydney sea un antepasado de Ignacio.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: primero, cada hijo de Hugh no es bisabuelo de Vernon ni sobrino de Forrest. Por lo tanto, ningún sobrino de Forrest ni bisabuelo de Vernon es hijo de Hugh"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Ser antepasado de Ana es suficiente para ser hermana de Margie. Segunda premisa: Cada compañero de escuela de Guadalupe es antepasado de Ana o tía de Peggy o prima de Diane. Tercera premisa : Toda persona que es tía de Peggy también es hermana de Margie. Por lo tanto, ser hermana de Margie o prima de Diane es necesario para ser compañera de escuela de Guadalupe"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: en primer lugar, no es cierto que Santo sea nieto de Lance. Luego, ser sobrino de Ned o un primo de Tony es suficiente para ser nieto de Lance. Por lo tanto, no es el caso que Santo sea sobrino de Ned o primo de Tony.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, ningún comprador ocasional del champú Alterna Haircare ni ningún consumidor frecuente de jabón Neutrogena es un consumidor frecuente de jabón Natural Bar. En segundo lugar, no es cierto que Krista sea una consumidora frecuente de jabón Natural Bar. ""Así que, necesariamente, Krista es una consumidora frecuente del jabón Neutrogena o una compradora ocasional del champú Alterna Haircare"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Primera premisa: Ser un ingrediente de The Wuss Bubble Bar o no ser un ingrediente de 6 Color Eyeshadow es suficiente para ser un ingrediente de PERFECTION PRIMER. Segunda premisa: La fenacemida es un ingrediente de 6 Color Eyeshadow. De ello se deduce que la fenacemida no es un ingrediente de PERFECTION PRIMER.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: en primer lugar, ser un ingrediente de OPULENCE (IMPERIAL) es suficiente para ser un ingrediente de Misty Morning. Luego, ser un ingrediente de OPULENCIA (IMPERIAL) es necesario para no ser un ingrediente de Moon Spell. Entonces, necesariamente, cualquier cosa que no sea un ingrediente de Moon Spell es un ingrediente de Misty Morning.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Todo lo que no es un ingrediente de SILKY LIP PENCIL 52 es un ingrediente de Ultacover. De esto se sigue: Nada no es ni un ingrediente de Ultacover ni un ingrediente de SILKY LIP PENCIL 52.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un equipo. ¿Pero quién es exactamente aficionado de quién? A esta pregunta se aplica el siguiente argumento: para empezar, alguien es un ex aficionado del FC Basel 1893 y un devoto del AS Trenčín. Ahora bien, ningún ex seguidor del Paris Saint-Germain es un devoto del AS Trenčín. En consecuencia, no todos los ex seguidores del FC Basel 1893 son ex seguidores del Paris Saint-Germain.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, Garry ""Es un oponente del Sevilla FC. Ahora bien, todo admirador del FC Pyunik no es ni un oponente del Sevilla FC ni un seguidor del RC Celta de Vigo. En consecuencia, Garry no es un admirador del FC Pyunik"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: para empezar, cada usuario poco frecuente del jabón Proactiv es al mismo tiempo un consumidor habitual del jabón Softsoap y un comprador fiel del champú Pureology. Ahora bien, ""No es el caso que Jasper sea un consumidor habitual del jabón Softsoap. En consecuencia, no es el caso que Jasper sea un usuario poco frecuente del jabón Proactiv.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre el consumo tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, ser un consumidor frecuente de jabón Dove es suficiente para ser propietario de un Champú Bumble and bumble. Entonces, necesariamente, todos los que poseen un champú Bumble and bumble también son consumidores frecuentes de jabón Dove"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: En primer lugar, cada ingrediente de Golden Slumbers es un ingrediente del Jabón del Amor de Cupido. En segundo lugar, ser un ingrediente de Chachabalm es necesario para ser un ingrediente del Jabón del Amor de Cupido. De ello se deduce que ser un ingrediente de Chachabalm es necesario para ser un ingrediente de los Sueños Dorados.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: en primer lugar, ser un ingrediente de MENS NULL Face Wash es suficiente para no ser un ingrediente de Flex Foundation. A continuación, ser un ingrediente de Eye Shadow (Shell) es suficiente para no ser un ingrediente de Flex Foundation. Además, cada ingrediente de LIP BUTTER es un ingrediente de MENS NULL Face Wash o un ingrediente de Eye Shadow (Shell). Todo esto implica que ser un ingrediente de LIP BUTTER es suficiente para no ser un ingrediente de Flex Foundation.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Primera premisa: Ser un ingrediente de Totalmente Oculto es suficiente para no ser un ingrediente de Venus di Violet. Todo esto implica que todo lo que es un ingrediente de Venus di Violet no es un ingrediente de Totalmente Oculto.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo aquel que es un comprador leal del champú Herbal Essences es también un usuario poco frecuente del jabón Caswell-Massey y un comprador leal del champú Matrix. A continuación, Christian no es un usuario poco frecuente de Caswell. -El jabón Massey o no es un comprador leal del champú Matrix. Entonces, necesariamente, Christian no es un comprador leal del champú Herbal Essences.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, quien no es sobrino de René es bisabuelo de Andy. Por lo tanto, ningún bisabuelo de Andy es sobrino de René"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: no es cierto que Manuel sea medio hermano de Chester. Quien sea un antepasado de Jeremy es ""No es medio hermano de Chester. Por lo tanto, es falso que Manuel sea un antepasado de Jeremy"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué químicos están contenidos en nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: Primera premisa: Cualquiera que sea un ingrediente de Growth Activator no es un ingrediente de Roller Lash (Black). Segunda premisa: Cada ""El ingrediente de Growth Activator es un ingrediente de Roller Lash (Negro) o un ingrediente de Illusion o un ingrediente de Plum-tini. Podemos concluir que cada ingrediente de Growth Activator es un ingrediente de Illusion o un ingrediente de Plum-tini"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre el consumo pretende comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, todo aquel que no sea propietario de un jabón de Eucalipto ni de un El jabón Kirk es un usuario habitual del champú Pureology o un consumidor habitual del champú CHI. Ahora bien, todo usuario habitual del champú Pureology es propietario de un jabón Kirk o propietario de un jabón Eucalipto. Podemos concluir: Quien sea nada de esto: un propietario de un jabón de Eucalipto o un propietario de un jabón de Kirk, es un consumidor habitual de champú CHI.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, todos los amigos cercanos de Krista no son sobrinas de Gwendolyn ni antepasados ​​de Terrie. Segundo, todos los que son primos de Laurie también son amigos cercanos de Krista. Podemos concluir que Ninguna prima de Laurie es a la vez antepasado de Terrie y sobrina de Gwendolyn"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: para empezar, no ser amigo del Manchester United FC es suficiente para no ser un ""Ex fan del FC Zenit. En consecuencia, ser amigo del Manchester United FC es necesario para ser ex fan del FC Zenit"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, no es cierto que el retinol sea un ingrediente de Hello Merlot. Segundo, todo lo que es un ingrediente de Neon Pink también es un ingrediente de Hello Merlot y un ingrediente de Baked Alaska. Todo esto implica que es falso que el Retinol sea un ingrediente de Neon Pink.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién, y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, ser compañero de trabajo de Bryan es necesario para ser tío de Alexander. Ahora bien, no hay relación cercana ""Un amigo de Freddy es un compañero de trabajo de Bryan. Podemos concluir que ningún tío de Alexander es un amigo cercano de Freddy"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. Pero, ¿quién es seguidor de quién exactamente? A esta pregunta se aplica el siguiente argumento: para empezar, todo ex aficionado del Villarreal CF es seguidor del Everton FC y ""Es amigo del SK Rapid Wien. Además, Kirk no es ambas cosas: seguidor del Everton FC y amigo del SK Rapid Wien. Así que, necesariamente, no es el caso que Kirk sea un ex aficionado del Villarreal CF"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: Primera premisa: Todo lo que es a la vez un ingrediente de Collagen Filler Eye y un ingrediente de Pinky Lip Smacker no es un ingrediente de NARS Lipstick. De esto se desprende: No ser un ingrediente de NARS Lipstick es suficiente para ser un ingrediente de Collagen Filler Eye y un ingrediente de Pinky Lip Smacker"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, algo es un ingrediente de C-Note Green y no un ingrediente de las perlas sueltas. Ahora, cada ingrediente de Blue Taffy Acrylic es un ingrediente de las perlas sueltas. Podemos concluir: no todos El ingrediente de C-Note Green es un ingrediente de Blue Taffy Acrylic.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. El siguiente argumento se refiere a esta pregunta: en primer lugar, cada comprador ocasional de champú Matrix es un comprador ocasional de champú Organix Hair. A continuación, Linda es una compradora ocasional de Organix Champú para el cabello. De ello se deduce que Linda compra ocasionalmente el champú Matrix.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Sophie es una usuaria poco frecuente del champú Nioxin. Todo propietario de un champú Nexxus y todo usuario poco frecuente del champú Nioxin es un consumidor frecuente del champú Schwarzkopf. En consecuencia, Sophie es una consumidora frecuente del champú Schwarzkopf. ""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, ser un ingrediente de Spoiled es necesario para ser un ingrediente de SILK EYE PENCIL 08. Además, todo lo que es un ingrediente de Careless Whisper también es un ingrediente de Spoiled. Finalmente, lo que sea Este ingrediente de Just To Clarify es al menos uno de estos: un ingrediente de Careless Whisper, un ingrediente de SILK EYE PENCIL 08 o un ingrediente de Blush Rush (Bare). Podemos concluir: Ser un ingrediente de Spoiled o un ingrediente de Blush Rush (Bare) es necesario para ser un ingrediente de Just To Clarify.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, alguna hermana de Doreen es hija de Melinda. Ahora, quien no es hija de Melinda es prima de Leslie. De esto se sigue: alguna prima de Leslie no es hermana de Doreen.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, hay alguien que es medio hermano de Felipe y hermano de Harvey. Luego, ningún compañero de trabajo de Gary que sea sobrino de Perry es hermano de Harvey. Por lo tanto, algunos El medio hermano de Felipe no es sobrino de Perry ni compañero de trabajo de Gary"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, ser un ex seguidor del Vitória SC es necesario para ser un oponente del SønderjyskE. Además, quien no sea ni un partidario del PAOK FC ni un ex partidario del Lyngby BK es un partidario del Everton FC o un oponente del SønderjyskE.Finalmente, todo patrocinador del Everton FC es un ex seguidor del Vitória SC. En consecuencia, quien no es un ex seguidor del Vitória SC es sin embargo un seguidor del PAOK FC o un ex seguidor de Lyngby BK.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: Primera premisa: cada comprador leal del jabón Dawn no es un usuario poco frecuente del champú Redken ni un consumidor habitual del jabón Proactiv. Por lo tanto, quienquiera que sea No es nada de esto: un consumidor habitual del jabón Proactiv o un usuario poco frecuente del champú Redken, es un comprador fiel del jabón Dawn.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, ningún tío de Arturo es hermanastro de Edwin o amigo cercano de Jonathan. Ahora bien, ""Todo compañero de escuela de Jason es hermanastro de Edwin o amigo cercano de Jonathan, o ambos. En consecuencia, ser compañero de escuela de Jason es suficiente para no ser tío de Arturo.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primero, todo lo que es a la vez un ingrediente de DAGGER TATTOO LINER y un ingrediente de AMANDE MILK VEIL no es un ingrediente de All Wrapped Up. Segundo, ser un ingrediente de All Wrapped Up es necesario para ser un ingrediente de Gloss cuivre nacre. Por lo tanto, cualquier cosa que no sea un ingrediente de DAGGER TATTOO LINER y no un ingrediente de AMANDE MILK VEIL es, sin embargo, un ingrediente de Gloss cuivre nacre.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. A esta pregunta se aplica el siguiente argumento: para empezar, ningún ingrediente de Rock Star es al mismo tiempo ingrediente de White Tea Lotion y de VANILLA BLISS SOAP. Además, cada ingrediente de White Tea Lotion que es un ingrediente de VANILLA BLISS SOAP es un ingrediente de Rock Star o un ingrediente de Lip Gloss (BCMK). De esto se sigue: Cada ingrediente de White Tea Lotion que es un ingrediente de VANILLA BLISS SOAP También es un ingrediente del brillo labial (BCMK)"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Siri hermanastra de Mary? ¿Susan es pariente de Kate? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, Merle es prima de Annie . Ahora bien, quien no sea compañero de clase de Hazel y primo de Annie es bisabuela de Doria. Podemos concluir que es falso que Merle sea bisabuela de Doria.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de estas relaciones: Cada experto del Yeni Malatyaspor no es amigo del Wolverhampton Wanderers FC ni no es aficionado del FC Arouca. Ser amigo del Fenerbahçe SK es necesario para no ser amigo del Wolverhampton Wanderers FC. Nadie es ni aficionado del FC Arouca ni amigo del Fenerbahçe SK. ""Ser amigo del Fenerbahçe SK es necesario para ser un experto del Yeni Malatyaspor"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo seguidor del Inverness Caledonian Thistle FC no es un admirador del SCR Altach ni un seguidor del Qarabağ FK. Podemos concluir: ningún admirador del SCR Altach ni ningún seguidor del Qarabağ FK es seguidor de Inverness Caledonian Thistle FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: En primer lugar, Thomas no es nieto de Tony ni un hermanastro de Andy. A continuación, quien no sea nieto de Tony ni hermanastro de Andy es un compañero de trabajo de Joseph. Por lo tanto, Thomas es un compañero de trabajo de Joseph"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: En primer lugar, nadie es ni propietario de un jabón The Body Shop ni consumidor frecuente de jabón Lush. Así que, necesariamente, nadie es ni consumidor frecuente de jabón Lush ni propietario de un jabón The Body Shop. jabón.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, ser un usuario poco frecuente del champú Aveda es necesario para no ser propietario de un champú Bio Ionic. En segundo lugar, todo comprador leal de El champú American Crew es un consumidor frecuente de jabón Celtic Sea Salt y propietario de un champú Bio Ionic. En tercer lugar, nadie es un consumidor frecuente de jabón Celtic Sea Salt ni un usuario poco frecuente de champú Aveda. De esto se deduce: Cada comprador leal de El champú American Crew es un usuario poco frecuente del champú Aveda"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué productos químicos contiene mi perfume? Es realmente difícil realizar un seguimiento de todos los productos químicos a los que uno está expuesto regularmente. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, algún ingrediente de The Eraser es un ingrediente del lápiz labial. Ahora bien, todo lo que no es a la vez un ingrediente de Full-On Lipstick y un ingrediente de Lollibalm es, sin embargo, un ingrediente del lápiz labial. Podemos concluir: Algún ingrediente de The Eraser no es al mismo tiempo un ingrediente del lápiz labial. ingrediente de Full-On Lipstick y un ingrediente de Lollibalm.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, cada El ex hincha del KKS Lech Poznań no es rival del FC Arouca ni admirador del FC Dinamo Minsk. Además, todos los seguidores del Tottenham Hotspur son también ex hinchas del KKS Lech Poznań. De ello se deduce que ningún seguidor del Tottenham Hotspur es un admirador del FC Dinamo Minsk o un rival del FC Arouca.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, hay No hay ningún experto del Manchester United FC que sea seguidor del FC Barcelona y al mismo tiempo no crítico de Vitesse. Además, quien es un experto del Manchester United FC no es un crítico de Vitesse. Así que, necesariamente, ningún experto del Manchester United FC es un experto. seguidor del FC Barcelona.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Cada ingrediente de Go for the Glow que es un ingrediente de LIP TINTS no es un ingrediente de LOTION APRES-RASAGE. Podemos concluir: Ningún ingrediente de LOTION APRES-RASAGE es un ingrediente de TINTES DE LABIOS y, al mismo tiempo, un ingrediente de Go for the Glow.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, ningún devoto del FC Pyunik es un crítico del AZ Alkmaar o un devoto del Fehérvár FC. Ahora bien, quien sea un crítico del AZ Alkmaar no es un admirador del FC Augsburg. Además, quienquiera que sea es un devoto del Fehérvár FC no es un admirador del FC Augsburg. Todo esto implica que ningún devoto del FC Pyunik es un admirador del FC Augsburg.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento busca aclarar algunas de esas relaciones: Primera premisa: Quien sea tío de Andrew y un hermano de Derrick es también nieto de Jon.Segunda premisa: Cada primo de Chad es tío de Andrew. Tercera premisa: Ser hermano de Derrick es necesario para ser primo de Chad. Todo esto implica que cada primo de Chad es un nieto de Jon.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre consumidores tiene como objetivo comprender si los usuarios de algunos productos también tienden a consumir otros, o no. El siguiente argumento busca aclarar algunas de esas relaciones: En primer lugar, ser un comprador leal del champú Clairol es necesario para ser un comprador leal de Champú Bed Head. A continuación, ser un comprador fiel del champú Bed Head es suficiente para ser un comprador ocasional del champú Infusium. Además, quien sea comprador fiel del champú Bed Head es al menos uno de estos: un comprador ocasional del champú Infusium, un comprador leal del jabón Cetaphil o un comprador leal del champú Clairol. Todo esto implica que todo aquel que es un comprador leal del champú Bed Head también es un comprador leal del jabón Cetaphil"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Quien no es media hermana de Perla y no compañera de escuela de Gina, tampoco es nieta de Deidre. Segunda premisa: Hay alguien que es bisabuela de Margret y una nieta de Deidre. Entonces, necesariamente, hay alguien que es bisabuela de Margret y, además, no media hermana de Perla o no compañera de escuela de Gina.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, cada ingrediente de Brightening Veil es un ingrediente de Clear mascara o un ingrediente de Lip Gloss SPF 15. Además, ningún ingrediente de Reel Him In es un ingrediente de Lip Gloss SPF 15 o un ingrediente del rímel Clear. Por lo tanto, cualquier ingrediente de Brightening Veil no es un ingrediente de Reel Him In"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, cada amigo cercano de Francine es un primo de Samantha o un antepasado de Janice o un amigo cercano de Shanika. Además, cada amigo cercano de Francine es un primo de Samantha. Finalmente, siendo ""Un amigo cercano de Shanika es necesario para ser un amigo cercano de Francine. Podemos concluir: ser un antepasado de Janice es necesario para ser un amigo cercano de Francine"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: nadie es ni sobrina de Florinda ni hija de Michelle. Nadie es ni compañero de trabajo de Dorothy ni sobrina de Florinda. De esto se sigue: cada compañero de trabajo de Dorothy es hija de Michelle"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, ser compañero de clase de Williams es necesario para no ser compañero de trabajo de Leslie. Luego, ser compañero de clase de Williams es necesario para no ser bisabuelo de Joseph. Además, cada primo ""De Tony es compañero de trabajo de Leslie y bisabuelo de Joseph. Por lo tanto, todos los que son primos de Tony también son compañeros de clase de Williams"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo experto del SV Zulte Waregem es partidario del Real Betis Balompié o del FC Zenit. Luego, todo crítico del Manchester City FC no es ni partidario del Real Betis Balompié ni patrocinador del FC Zenit. Por lo tanto, ningún experto del SV Zulte Waregem es necesariamente crítico del Manchester City FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Es falso que Cortney sea un consumidor habitual del champú Pantene. Segunda premisa: Quien es un consumidor habitual del jabón Kirk's o un consumidor habitual del champú Pantene es un consumidor habitual del champú Revlon. De esto se deduce que es falso que Cortney sea un consumidor habitual del champú Revlon"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""La investigación del consumidor tiene como objetivo comprender si los usuarios de algunos productos también tienden a consumir otros, o no. El siguiente argumento busca aclarar algunas de esas relaciones: Para empezar, todo comprador leal de jabón Paul Mitchell es un comprador leal de jabón Natural Bar o, en caso contrario, ni un comprador fiel de jabón Natural Bar ni un comprador ocasional de jabón Cetaphil. Ahora bien, ser un comprador ocasional de jabón Cetaphil es necesario para ser un comprador fiel de jabón Paul Mitchell. En consecuencia, ser un comprador fiel de jabón Paul Mitchell. El jabón Mitchell es suficiente para ser un comprador fiel de jabón Natural Bar.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué sustancias químicas contiene mi perfume? Es realmente difícil realizar un seguimiento de todas las sustancias químicas a las que uno está expuesto regularmente. El siguiente argumento pretende aclarar algunas de esas relaciones: Primera premisa: hay algo que es un ingrediente de Tiki Tiki Langa y un ingrediente de Liquid Lip Color. Segunda premisa: Ser un ingrediente de Pale Almond Powder es necesario para no ser un ingrediente de Liquid Lip Color. Por lo tanto, algún ingrediente de Pale Almond Powder no es un ingrediente. de Tiki Tiki Langa.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: todo lo que es a la vez un ingrediente de HONEY LIPS y un ingrediente de Renewal Cream es un ingrediente de Take A Bow o un ingrediente de LashGrip Clear. Cada ingrediente de Take A Bow no es un ingrediente de Renewal Cream. y no un ingrediente de HONEY LIPS. De esto se sigue: Todo lo que no es a la vez un ingrediente de HONEY LIPS y un ingrediente de Renewal Cream es un ingrediente de LashGrip Clear"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Cualquiera que sea el ingrediente del Corrector es al menos uno de estos: un ingrediente de HEART SHAPED BALM, un ingrediente de Goth Fairy o un ingrediente de Love Me Like A Wimp. Segunda premisa: Ser un ingrediente de Clarifying Mask es necesario para ser ingrediente de Goth Fairy Tercera premisa: Ser ingrediente de HEART SHAPED BALM es suficiente para ser ingrediente de Clarifying Mask Cuarta premisa: Cada ingrediente de Love Me Like A Wimp es ingrediente de Clarifying Mask Máscara. Entonces, necesariamente, ser un ingrediente de Concealer es suficiente para ser un ingrediente de Clarifying Mask”.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: Primera premisa: ser bisabuela de Elizabeth es suficiente para no ser hermana de Gillian. Segunda premisa : Cada bisabuela de Elizabeth es hermana de Gillian o antepasado de Helen o bisabuela de Heather. Tercera premisa: Ser bisabuela de Elizabeth es suficiente para no ser bisabuela de Heather. De ello se deduce que Todo aquel que es bisabuela de Isabel es también antepasado de Helena"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: ningún comprador ocasional de jabón Purpose es un consumidor raro de champú Bumble and bumble o un comprador ocasional de jabón Organic Fiji. Por lo tanto, ningún comprador ocasional de jabón Organic Fiji y ningún consumidor raro de champú Bumble and bumble Es un comprador ocasional de jabón Purpose.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, nadie es ni un raro consumidor del champú L'Oréal ni un comprador leal del jabón Dial. Ahora bien, todo el que no es un comprador leal del champú Matrix no es al mismo tiempo un comprador leal de Dial y un raro consumidor de jabón Softsoap. Además, ser un raro consumidor de jabón Softsoap es necesario para no ser un raro consumidor de champú L'Oreal. De ello se deduce que nadie es ni un raro consumidor de champú L'Oreal ni un fiel consumidor. comprador del champú Matrix.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: ser prima de Jana es necesario para ser compañera de trabajo de Leonor. Cada prima de Jana es hija de Tracy o una hermana de Sara. Entonces, necesariamente, cada compañera de trabajo de Leonor es hermana de Sara o hija de Tracy.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para ser un ingrediente de Plumeria Milk Bath o un ingrediente de Hot Rod Red es necesario para ser un ingrediente de Trugel Vivid. Cada ingrediente de Bioglitz Color 6G no es un ingrediente de Plumeria Milk Bath o no es un ingrediente de Hot Rod Red. Todo esto conlleva que ser ingrediente de Trugel Vivid es suficiente para no ser ingrediente de Bioglitz Color 6G.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: En primer lugar, quien no sea medio- hermano de Steven es bisabuelo de Craig. A continuación, hay alguien que es bisabuelo de Craig y, además, no es antepasado de Jordon ni hermanastro de Gustavo. De ello se deduce que no todos los medio hermanos de Steven es a la vez antepasado de Jordan y hermanastro de Gustavo"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, ser un ingrediente de Hair and Body Wash es suficiente para ser un ingrediente de Fungus Treatment. Luego, cada ingrediente de Lip Gloss (BCMK) que es un ingrediente de Fungus Treatment también es un ingrediente de Eye Shadow (Bronze). Además, todo lo que es un ingrediente de Hair and Body Wash también es un ingrediente de Lip Gloss (BCMK). Podemos concluir que ser un ingrediente de Hair and Body Wash es suficiente para ser un ingrediente. de Sombra de Ojos (Bronce)"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Siri hermanastra de Mary? ¿Susan está emparentada con Kate? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: cada tía de Amanda es hermanastra de Nicole. Cada hermanastra de Nicole es hermanastra de Kerstin o compañera de clase de Tanisha, o ambas. Podemos concluir que ser hermanastra de Kerstin o compañera de clase de Tanisha es necesario para ser tía de Amanda.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, todo consumidor habitual de champú Bumble and bumble es un raro consumidor de jabón de vaselina. Además, quien no sea un comprador ocasional de jabón Organic Fiji es un consumidor habitual del champú Bumble and bumble. De esto se deduce: Ser un consumidor poco común de jabón de vaselina es necesario para no ser un comprador ocasional de jabón Organic Fiji.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento busca aclarar algunas de esas relaciones: Primera premisa: hay Alguien que sea partidario del FC Krasnodar y no partidario del SCR Altach. Segunda premisa: cada rival del FC Augsburg es partidario del SCR Altach. De esto se deduce: algún partidario del FC Krasnodar no es un rival del FC Augsburg.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: cada prima de Nichole no es tía de Susan o no es tía de Zenaida. Cada hija de Wanda es ""Es prima de Nichole. Podemos concluir que ninguna hija de Wanda es tía de Susan o tía de Zenaida"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: en primer lugar, nadie es un usuario poco frecuente del champú Head & Shoulders ni un usuario habitual del jabón Neutrogena. Además, ser un ""Un usuario habitual del jabón Neutrogena o un usuario habitual del champú Nexxus es necesario para ser un usuario poco frecuente del champú Head & Shoulders. Podemos concluir: Todo usuario poco frecuente del champú Head & Shoulders es un usuario habitual del champú Nexxus.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: para empezar, todos los que usan poco jabón Proactiv también consumen frecuentemente el champú CHI. Además, todos los que consumen qué productos tanto un consumidor habitual de jabón Neutrogena como un comprador ocasional de jabón de Abejas y Flores no es un consumidor frecuente de champú CHI, por lo que quien no es un consumidor habitual de jabón de Neutrogena y no es un comprador ocasional de jabón de Abejas y Flores es sin embargo un usuario poco frecuente de jabón Proactiv.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, ser un amigo cercano de Samuel es suficiente para no ser hermano de Jeff. En consecuencia, ningún hermano de Jeff es un amigo cercano de Samuel"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Primera premisa: Ningún ingrediente de Lip Liner (Melocotón) es un ingrediente de THE LIPSTICK 14 o un ingrediente de Eye Design Palette. Podemos concluir: Lo que sea nada de esto: un ingrediente de THE LIPSTICK 14 o un ingrediente de Eye Design Palette, es un ingrediente de Lip Liner ( Durazno).""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: Primera premisa: todo el que no es bisabuela de Lily no es a la vez hermana de Tamara y antepasado de Beverly. Segunda premisa: Nadie es ni un compañero de trabajo de Nellie ni un antepasado de Beverly. Tercera premisa: Nadie es ni un compañero de trabajo de Nellie ni una hermana de Tamara. De esto se sigue: Nadie es ni un compañero de trabajo de Nellie ni un gran -abuela de Lily.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre el consumo tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, es falso que Loren sea un usuario poco frecuente del jabón Olay. Además, Loren no es un consumidor frecuente del champú Garnier. Finalmente, todo consumidor habitual del jabón Tom's of Maine es un consumidor frecuente del champú Garnier o un usuario poco frecuente del jabón Olay, de lo que se deduce que Loren no es un consumidor habitual del jabón Tom's of Maine. ""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: para empezar, es falso que el acetato de retinilo sea un ingrediente de Spider Hero Tattoo. Además, cada ingrediente de Peach Whip es un ingrediente de Spider Hero Tattoo. De ello se deduce que es falso que el acetato de retinilo es un ingrediente de Peach Whip.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo aquel que es amigo cercano de Andy o tío de Reyes es también compañero de clase de Marvin. Luego, Johnnie es amigo cercano de Andy. Todo esto implica que Johnnie es un compañero de clase. de Marvin.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil hacer un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Primero, lo que no es ni un ingrediente de Drop Dead Gorgeous ni un ingrediente de LE MARC LIP CREME es un ingrediente de Peaches N Cream. En segundo lugar, el bisfenol A (BPA) no es un ingrediente de Drop Dead Gorgeous ni un ingrediente de LE MARC LIP CREME. Podemos concluir: Bisfenol El A (BPA) es un ingrediente de Peaches N Cream"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, no Un miembro del FK Partizan es un crítico del SønderjyskE. Ahora bien, quien sea miembro del FK Partizan no es un ex aficionado del Borussia Dortmund. Además, todo ex aficionado del Borussia Dortmund que sea crítico del SønderjyskE es también un seguidor del VfL. Borussia Mönchengladbach. Todo esto significa que cada miembro del FK Partizan es partidario del VfL Borussia Mönchengladbach.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: algún compañero de clase de Terri es compañero de trabajo de Dolores. Quien no es compañero de trabajo de Dolores es un antepasado de Cheryl. . Entonces, necesariamente, algún antepasado de Cheryl no es compañero de clase de Terri"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Todo experto del Real Madrid CF es fanático del F91 Dudelange. Segunda premisa: Ser patrocinador del SCR Altach es suficiente para ser un experto del Real Madrid CF. Por lo tanto, necesariamente, todo patrocinador del SCR Altach es fanático del F91 Dudelange.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento busca aclarar algunas de esas relaciones: Ser medio hermano de Guadalupe es necesario para ser medio hermano de Ronald. Ser tío de Tom es suficiente para ser medio hermano de Guadalupe. Ser medio hermano de Ronald o tío de Tom es necesario para ser antepasado de Francesco. Entonces, necesariamente, cada antepasado de Francesco es medio hermano de Guadalupe.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Todo aquel que no es ni antepasado de Andy ni sobrino de Donald es, sin embargo, primo de Ralph. Segunda premisa: Dale no es ni sobrino de Donald ni antepasado de Andy. Podemos concluir : Dale es primo de Ralph.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, cada ingrediente de LIP SYNC no es un ingrediente de UV SHIELD SPF40 ni un ingrediente de 070 FRUITY LIPSTICK. Por lo tanto, cualquier ingrediente de esto no es nada de esto: un ingrediente de 070 FRUITY LIPSTICK o un ingrediente de UV SHIELD SPF40, es un ingrediente de LIP SYNC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, no ""Un admirador del Racing Club de Strasbourg Alsace es un devoto del CS Marítimo o un fan del SK Rapid Wien. Además, Byron es un devoto del CS Marítimo. Podemos concluir: Byron no es un admirador del Racing Club de Strasbourg Alsace.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: en primer lugar, ser rival del Molde FK es suficiente para ser crítico de la SS Lazio. En segundo lugar, René es un oponente del Molde FK. Por lo tanto, René es un crítico de la SS Lazio"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: primero, nadie es compañero de trabajo de Cándida ni compañero de clase de Zenaida. Así que, necesariamente, nadie tampoco lo es. compañero de clase de Zenaida ni compañero de trabajo de Cándida.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es exactamente aficionado de quién? A esta pregunta se aplica el siguiente argumento: para empezar, nadie es ni un experto del FC Shakhtar Donetsk ni un rival del PFC CSKA Moskva. Además, algún rival del PFC CSKA Moskva no es al mismo tiempo amigo de la Real Sociedad de Fútbol y experto del FC Pyunik. Por lo tanto, hay alguien que es amigo de la Real Sociedad de Fútbol, ​​experto del FC Pyunik y un experto del FC Shakhtar Donetsk.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, cada ingrediente de Bare Beige es un ingrediente de Diamond Extreme Eye. Además, todo lo que es un ingrediente de Lip Liner 01, 03-05 y un ingrediente de Anti-Aging Eye Lift también lo es un ingrediente de Bare Beige. Se deduce que cada ingrediente de Anti-Aging Eye Lift que es un ingrediente de Lip Liner 01, 03-05 también es un ingrediente de Diamond Extreme Eye"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: primero, ser hija de Marjorie es suficiente para no ser prima de Carole. Segundo, no todas las tías ""De Tracey es prima de Carole. Por lo tanto, alguna tía de Tracey es hija de Marjorie"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Para empezar, basta con ser partidario del Olympique de Marsella para no ser devoto del SS Lazio. Además, todo devoto del SS Lazio es patrocinador del Olympique de Marsella o, en caso contrario, tampoco patrocinador del Olympique de Marseille ni admirador del AS Saint-Étienne. Así que, necesariamente, ser admirador del AS Saint-Étienne es necesario para ser devoto del SS Lazio.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil entender quién consume qué productos. El siguiente argumento se refiere a esta pregunta: en primer lugar, todo consumidor frecuente de jabón Pears que es un usuario poco frecuente de jabón Mysore no es un consumidor habitual de jabón Purpose. En segundo lugar, ser ""Un consumidor habitual de jabón Purpose es necesario para no ser un comprador leal de jabón Colgate-Palmolive. Por lo tanto, todo usuario poco frecuente de jabón Mysore que sea un consumidor frecuente de jabón Pears es también un comprador leal de jabón Colgate-Palmolive"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: cada aficionado del AEK Larnaca FC es seguidor del Club Atlético de Madrid y miembro del RSC Anderlecht. Quien no es seguidor del Club Atlético de Madrid es oponente del Fenerbahçe SK. Quien no es miembro del RSC Anderlecht es oponente del Fenerbahçe SK. Podemos concluir: Ser oponente del Fenerbahçe SK es necesario para ser un Devoto del AEK Larnaca FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, nadie es compañero de clase de Georgia ni antepasado de Geraldine. Luego, cada compañero de trabajo de Regina es a la vez compañero de clase de Georgia y compañero de trabajo de Carole. Además, ser antepasado de Geraldine ""Es necesario para no ser compañero de trabajo de Carole. Por lo tanto, todos los que son compañeros de trabajo de Regina son antepasados ​​de Geraldine también"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil saber quién consume qué productos. A esta pregunta se aplica el siguiente argumento: quien es un comprador ocasional de jabón de eucalipto no es un comprador leal de jabón Shield. Ningún comprador ocasional de jabón Colgate-Palmolive es un comprador leal comprador de jabón Shield. Cada usuario habitual de jabón Bliss es un comprador ocasional de jabón de Eucalipto o un comprador ocasional de jabón Colgate-Palmolive. Por lo tanto, ningún usuario habitual de jabón Bliss es un comprador leal de jabón Shield.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, cada hermanastro de Joan es un compañero de escuela de Reyes. Por lo tanto, cada compañero de escuela de Reyes es un hermanastro de Joan"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Para empezar, Agnes es muy amiga de Matilde o nieta de Ida. Ahora bien, no ser muy amiga de Geraldine es suficiente para ser muy amiga de Matilde y nieta de Ida. De ello se deduce que no es cierto que Agnes sea una amiga íntima de Geraldine.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Para empezar, cada El patrocinador del Athletic Club es un ex seguidor del KKS Lech Poznań. Además, quien no sea un devoto del Everton FC ni un ex aficionado del KV Oostende es un seguidor del Athletic Club o un experto del Leicester City FC. del Leicester City FC es un ex seguidor del KKS Lech Poznań. Podemos concluir que cualquiera que no sea un ex seguidor del KKS Lech Poznań es un devoto del Everton FC o no un ex seguidor del KV Oostende.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: para empezar, hay alguien que es seguidor del FC Spartak Trnava y un crítico. del AS Trenčín. Ahora bien, quien sea amigo del RCD Espanyol y ex hincha del FK Mladá Boleslav no es un crítico del AS Trenčín. De esto se sigue: hay alguien que es seguidor del FC Spartak Trnava y no al mismo tiempo amigo del RCD Espanyol y ex hincha del FK Mladá Boleslav.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Julie es miembro del SL Benfica o seguidora del FC Ufa. Segunda premisa: Todo el que no es un ex aficionado del FC Astana es, sin embargo, miembro del SL Benfica y seguidor del FC Ufa. Podemos concluir que Julie no es una ex fanática del FC Astana"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""La investigación sobre el consumidor pretende comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, ser un consumidor habitual de jabón Lever es necesario para ser un consumidor frecuente de Jabón Nubian Heritage. Ahora bien, todo consumidor habitual de jabón Lever no es un usuario habitual del champú Biolage o no es un comprador fiel de jabón Lush. Podemos concluir: Todo aquel que es un consumidor frecuente de jabón Nubian Heritage es también un comprador fiel de Lush. jabón y usuario habitual del champú Biolage.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: todo lo que es un ingrediente de La Creme-Clueless es también un ingrediente de Provani Cream y un ingrediente de Loose Eyeshadow. ""No es el caso que la Cocamida sea un ingrediente de Provani Cream. Todo esto implica que no es el caso que la Cocamida sea un ingrediente de La Creme-Clueless.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Primero, ser hija de Alicia es necesario para no ser sobrina de Theresa. Segundo, ser hija de Alicia es necesario para no ser compañera de trabajo de Pricilla. Tercero, cada tía de Dawn es una sobrina de Theresa y compañera de trabajo de Pricilla. Podemos concluir: todos los que son tía de Dawn son hijas de Alicia también "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: No ser un ingrediente de Eye Shadow (Gold) es suficiente para no ser un ingrediente de real fit labial 9. Ser un ingrediente de real fit labial 9 es necesario para ser un ingrediente de 05 Lightening Touch. Por lo tanto, cada ingrediente de 05 Lightening Touch es un ingrediente de Eye Shadow (Gold)"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: para empezar, ser compañero de trabajo de Lowell es suficiente para no ser hermano de Ron. Además, hay ""No hay ningún hermano de Ron que sea amigo cercano de Kenneth pero que no sea compañero de trabajo de Lowell. De ello se deduce que todos los que son hermanos de Ron son amigos cercanos de Kenneth también"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: existe una compañera de trabajo de Guadalupe que es antepasado de Jewel pero no sobrina de Nelda. Nadie es ni hermanastra de Christine ni sobrina de Nelda. Entonces, necesariamente, existe una compañera de trabajo de Guadalupe. quien es un antepasado de Jewel y hermanastra de Christine.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: primero, cada ingrediente de Polar Atracción es un ingrediente de Reel Him In. Segundo, cada ingrediente de Polar Atracción no es un ingrediente de Reel Him In o un ingrediente de The Dark Side. De ello se deduce que ser un ingrediente de Atracción Polar es suficiente para ser un ingrediente de El Lado Oscuro.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. ¿Pero quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: Para empezar, ningún admirador del CFR 1907 Cluj es un experto del Inverness Caledonian Thistle FC. . Ahora bien, ser un experto del Inverness Caledonian Thistle FC es necesario para ser un ex hincha del FC Viitorul. De ello se deduce que ser un admirador del CFR 1907 Cluj es necesario para no ser un ex hincha del FC Viitorul.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primera premisa: Cada compañero de escuela de Barton es un hijo de Melvin. Segunda premisa: Cada medio hermano de Todd es un hijo de Melvin. Tercera premisa: Quien no es medio hermano de Darrin ni un El compañero de escuela de Phillip es medio hermano de Todd o un compañero de escuela de Barton. Entonces, necesariamente, quien no sea hijo de Melvin es, sin embargo, medio hermano de Darrin o compañero de escuela de Phillip.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: En primer lugar, cada compañero de clase de Harold que es un antepasado de Frank no es un nieto de Shannon. Podemos concluir: cada nieto de Shannon no es un compañero de clase de Harold ni un antepasado de Frank"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver qué productos químicos contienen nuestros productos de consumo. El siguiente argumento se refiere a esta pregunta: en primer lugar, todo lo que no es un ingrediente de Plump (On Point) es un ingrediente de Lip Smoothie. Luego, no ""El ingrediente de Gel Polish Pearl es un ingrediente de Plump (On Point). De ello se deduce que cada ingrediente de Gel Polish Pearl es un ingrediente de Lip Smoothie"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: Para empezar, lo que no es un ingrediente de MAVA-WHITE es un ingrediente de PRO LONGLASH. Además, no ser un ingrediente de Brow Powder Duo es suficiente para no ser un ingrediente de PRO LONGLASH. ""Puedo concluir que ser un ingrediente de Brow Powder Duo es necesario para no ser un ingrediente de MAVA-WHITE"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué químicos contiene mi perfume? Es realmente difícil realizar un seguimiento de todos los químicos a los que uno está expuesto regularmente. El siguiente argumento busca aclarar algunas de esas relaciones: Cada ingrediente de CUSTOM BLEND POWDER es un ingrediente de Gold Dust o un ingrediente de Parisian Chic. Lo que sea que sea un ingrediente de Parisian Chic no es un ingrediente de CUSTOM BLEND POWDER. En consecuencia, cada ingrediente de CUSTOM BLEND POWDER es un ingrediente de Gold Dust.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: en primer lugar, todo aquel que es tío de Dennis es también medio hermano de Troy. Siguiente , quienquiera que sea tío de Dennis es al menos uno de estos: medio hermano de Troy, hermano de Mathew o compañero de clase de Henry. Por lo tanto, cada tío de Dennis es hermano de Mathew o compañero de clase de Henry, o ambos. "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil seguir la pista de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: En primer lugar, no experto del Malmö FF que es un ex seguidor del Brøndby IF es un ex fan del F91 Dudelange. A continuación, quien no es seguidor del Stade Rennais FC es un ex fan del F91 Dudelange. Por lo tanto, necesariamente, quien no sea esto: un experto del Malmö FF o un ex seguidor del Brøndby IF, es un seguidor del Stade Rennais FC.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: En primer lugar, ser ""Es necesario un seguidor de Lyngby BK para no ser un crítico del Real Madrid CF. A continuación, Louise es un crítico del Real Madrid CF. Por lo tanto, no se trata de que Louise sea un seguidor de Lyngby BK.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, Beatrice es nieta de Danielle. Además, ser nieta de Danielle o compañera de clase de Kaye es suficiente para ser compañera de clase de Kathy. De ello se deduce que Beatrice es compañera de clase de Kathy. ""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: En primer lugar, nadie es compañero de clase de Marisa ni compañero de escuela de Karen. Luego, no todas las hermanas de Ruth son compañeras de escuela de Karen. Entonces, necesariamente, alguien es hermana de Ruth y no un compañero de clase de Marisa.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: En primer lugar, ser Para ser ex hincha del Villarreal CF basta con criticar al GNK Dinamo Zagreb o no ser devoto del FC Mariupol. A continuación, Gerald es devoto del FC Mariupol. Todo esto implica que no es cierto que Gerald sea un ex. -Aficionado del Villarreal CF.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Fred es fanático del Liverpool? ¿Los fanáticos del Real Madrid son devotos del PSG? En el fútbol europeo, a veces es difícil hacer un seguimiento de la admiración y el disgusto mutuos. El siguiente argumento intenta aclarar algunas de esas relaciones: Primera premisa: todos los que es fanático del FK Sūduva y también crítico del HŠK Zrinjski. Segunda premisa: Ser seguidor del Legia Warszawa es necesario para no ser crítico del HŠK Zrinjski. Por lo tanto, quien es fanático del FK Sūduva no es seguidor del Legia Varsovia.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Siri hermanastra de Mary? ¿Susan es pariente de Kate? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, no ser sobrina de Shirley ""Es suficiente para no ser compañera de trabajo de Sharita. Ahora bien, todo aquel que sea hermanastra de Nichole también es compañero de trabajo de Sharita. Podemos concluir: Ser sobrina de Shirley es necesario para no ser hermanastra de Nichole.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es el óxido de titanio un ingrediente de mi poder de lavado? ¿Qué sustancias químicas contiene mi perfume? Es realmente difícil hacer un seguimiento de todas las sustancias químicas a las que uno está expuesto regularmente. El siguiente argumento pretende aclarar algunas de estas relaciones: Para empezar, algo que no es un ingrediente de Maypole Soap es un ingrediente de Cupcake ni un ingrediente de OW COLOR PROTECTION. Además, lo que no es un ingrediente de Crema Antirojeces es un ingrediente de Cupcake. Finalmente, nada tampoco es un ingrediente de Crema Antirojeces. ni un ingrediente de OW COLOR PROTECTION. Por lo tanto, nada es ni un ingrediente de la Crema Antirojeces ni un ingrediente del Jabón Maypole.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, todo consumidor frecuente de jabón Pre De Provence no es un consumidor raro de champú australiano ni un consumidor frecuente de champú Bio Ionic. De esto se deduce: Ningún consumidor frecuente de champú Bio Ionic y Ningún consumidor raro de champú australiano es un consumidor frecuente de jabón Pre De Provence.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Algunos aficionados al fútbol admiran a varios clubes, otros aman sólo a un solo equipo. Pero, ¿quién es fanático de quién exactamente? A esta pregunta se aplica el siguiente argumento: en primer lugar, todo fanático del Heracles Almelo no es partidario del Aberdeen FC ni admirador del FC Slovan Liberec. En segundo lugar, todo seguidor del AIK es seguidor del Aberdeen FC o admirador del FC Slovan Liberec, o ambos. Por lo tanto, ser seguidor del AIK es suficiente para no ser seguidor del Heracles Almelo.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: primero, no ser sobrina de Ashley es suficiente para ser compañero de escuela de Latisha y amigo cercano de Jaime. . En segundo lugar, Bernice es compañera de escuela de Latisha o amiga íntima de Jaime. En consecuencia, es falso que Bernice sea sobrina de Ashley.
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""No siempre es fácil ver quién está relacionado con quién y de qué manera. El siguiente argumento se refiere a esta pregunta: quien no es compañero de clase de Alvin es compañero de escuela de Wilburn. Sin embargo, quien no es hijo de Charles es un hermanastro de Ivan o un compañero de escuela de Wilburn. Nadie es compañero de clase de Alvin ni hermanastro de Ivan. De ello se deduce que quien no es compañero de clase de Alvin es hijo de Charles.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: primero, ser un ex seguidor del FC Sion es necesario para ser un devoto del FK Kukësi. Segundo, no es el caso que Kylie sea un ex seguidor del FC Sion. Así que, necesariamente, Es falso que Kylie sea una devota de FK Kukësi.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación del consumidor tiene como objetivo comprender si los usuarios de algunos productos también tienden a consumir otros, o no. El siguiente argumento busca aclarar algunas de esas relaciones: En primer lugar, Donald es un usuario poco frecuente del champú CHI. Luego, cada usuario poco frecuente de El champú CHI y todos los compradores leales de jabón Lifebuoy son usuarios poco frecuentes de jabón Natural Bar. De ello se deduce que Donald es un usuario poco frecuente de jabón Natural Bar. ""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: En primer lugar, cada bisabuelo de Chad es un antepasado de Douglas o un primo de Henry. A continuación, cada compañero de escuela de Trevor no es primo de Henry ni antepasado de Douglas. Por lo tanto, ningún bisabuelo de Chad es compañero de escuela de Trevor "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""La investigación sobre el consumo tiene como objetivo comprender si los usuarios de algunos productos tienden también a consumir otros, o no. El siguiente argumento pretende aclarar algunas de estas relaciones: cada usuario habitual de jabón del sur de Francia no es un raro consumidor de jabón natural en barra o no. un comprador leal del champú Organix Hair. Cada propietario de un jabón Caress es un usuario habitual del jabón del Sur de Francia. De ello se deduce que todo aquel que es propietario de un jabón Caress es también un raro consumidor de jabón Natural Bar y un comprador leal de Champú para el cabello Organix.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, quien no es un consumidor habitual del champú Herbal Essences, es un comprador ocasional del champú Organix Hair. Ahora bien, todo aquel que no sea un usuario habitual del jabón Cetaphil es, sin embargo, un consumidor excepcional de TIGI. champú y comprador ocasional del champú Organix Hair. Además, nadie es un consumidor raro del champú Herbal Essences ni un consumidor raro del champú TIGI. De ello se deduce que quien no es un consumidor raro del champú Herbal Essences es un usuario habitual del jabón Cetaphil. "".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Siri hermanastra de María? ¿Está Susan emparentada con Kate? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, no todas las hijas de Milagros son bisabuela de Courtney o no antepasado de Christy. Además nadie es ni bisabuela de Courtney ni sobrina de Lynn. Finalmente ser sobrina de Lynn es necesario para no ser antepasado de Christy. Podemos concluir que cada hija de Milagros es sobrina de Lynn.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""¿Fred es primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento busca aclarar algunas de esas relaciones: Primera premisa: todos los que son a la vez antepasados ​​de Leslie y un amigo cercano de Fernando no es bisabuelo de Perry. Entonces, necesariamente, no ser bisabuelo de Perry es suficiente para ser un antepasado de Leslie y un amigo cercano de Fernando"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: Primero, ser un ingrediente de CND VINYLUX es necesario para ser un ingrediente de Liquid Lips Catnip. Segundo, cada ingrediente de TV Paint Stick no es un ingrediente de HIGHLIGHTER DUO o no es un ingrediente de Liquid Lips Catnip. . En tercer lugar, ser ingrediente de CND VINYLUX es necesario para ser ingrediente de HIGHLIGHTER DUO. Podemos concluir: Ser ingrediente de CND VINYLUX es necesario para ser ingrediente de TV Paint Stick.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""¿Es Fred primo de Robert? ¿Joe es pariente de Bob? En las familias numerosas, a veces es difícil hacer un seguimiento de todos los parientes. El siguiente argumento pretende aclarar algunas de esas relaciones: Para empezar, Clyde es un medio hermano de Darrin o nieto de Bryan. Además, no ser hermanastro de Fred es suficiente para ser medio hermano de Darrin y nieto de Bryan. De ello se deduce que es falso que Clyde sea hermanastro de Fred.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: para empezar, el bromato de sodio no es un ingrediente de Gel Laquer Debutant. Ahora, cualquier ingrediente de Gel Laquer Debutant no es un ingrediente de Full-On Lipstick. Podemos concluir: el bromato de sodio es no es un ingrediente de Full-On Lipstick.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, no ser aficionado del FC Slovan Liberec es suficiente para no ser un crítico de la Real Sociedad de Fútbol. En segundo lugar, todo patrocinador del Ferencvárosi TC es un crítico de la Real Sociedad de Fútbol. Por lo tanto, cada El patrocinador del Ferencvárosi TC es hincha del FC Slovan Liberec.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: todo aquel que no es un consumidor frecuente del jabón Kiss My Face ni un usuario habitual del champú Redken es un consumidor habitual del jabón Bliss o un usuario poco frecuente del champú Shiseido. Ser propietario de un Celtic Sea El jabón con sal es necesario para ser un consumidor habitual del jabón Bliss. Ser un usuario poco frecuente del champú Shiseido es suficiente para ser propietario de un jabón con Sal del Mar Celta. Podemos concluir: No ser propietario de un jabón con Sal del Mar Celta es suficiente para ser un consumidor frecuente del jabón Kiss My Face o no ser un usuario habitual del champú Redken"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",inválido
+"""Aquí viene un argumento perfectamente válido: quien sea sobrino de Lance no es un amigo cercano de Jeffrey. Earnest es un amigo cercano de Jeffrey. Podemos concluir: es falso que Earnest sea sobrino de Lance"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""No siempre es fácil saber quién consume qué productos. El siguiente argumento se refiere a esta pregunta: en primer lugar, ser un consumidor frecuente del champú Bed Head es necesario para ser propietario de un champú TRESemmé. En segundo lugar, no es un comprador ocasional de Burt's. El champú Bees es un consumidor frecuente del champú Bed Head. En consecuencia, ningún propietario de un champú TRESemmé es un comprador ocasional del champú Burt's Bees.""
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido
+"""Aquí viene un argumento perfectamente válido: en primer lugar, no es cierto que Alma sea fan del Burnley FC. En segundo lugar, quien no sea a la vez partidario del FC Zenit y fanático del Burnley FC, es partidario del FC Lokomotiv Moskva. ""Alma necesariamente es seguidora del FC Lokomotiv Moskva"".
+¿Es el argumento, dadas las premisas explícitamente establecidas, deductivamente válido o inválido?
+Opciones:
+- válido
+- inválido",válido

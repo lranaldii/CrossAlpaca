@@ -1,0 +1,251 @@
+aporte,objetivo
+no (Verdadero) y (Verdadero) es,FALSO
+Verdadero y no no (no falso) es,Verdadero
+no es Verdadero o Falso o (Falso) es,FALSO
+Falso o no (Verdadero) y Falso es,FALSO
+Verdadero o no Falso y Verdadero y Falso es,Verdadero
+Falso o no no no es Falso y Verdadero es,Verdadero
+no es Verdadero y (Falso o Verdadero) es,FALSO
+Verdadero y no Falso o (Verdadero) es,Verdadero
+no es Verdadero o (Falso y Verdadero) es,FALSO
+no es Verdadero o (Verdadero o Falso) es,Verdadero
+Falso o (Falso) y no Falso es,FALSO
+no es falso o verdadero y falso y falso es,Verdadero
+no es Verdadero o Falso o no no es Verdadero,Verdadero
+Verdadero y Verdadero y Falso y no Verdadero es,FALSO
+no no es Verdadero y no es Verdadero o Verdadero es,Verdadero
+no no no (Verdadero y Falso) es,Verdadero
+no no es falso y no no es falso,FALSO
+(Verdadero y no Verdadero y Falso) es,FALSO
+Falso y Falso y Falso o no Falso es,Verdadero
+Falso o (falso y no falso) es,FALSO
+Verdadero y Falso o (no Verdadero) es,FALSO
+no no (verdadero) y no falso es,Verdadero
+no es falso o (verdadero) y verdadero es,Verdadero
+no (Verdadero) o Falso o Verdadero es,Verdadero
+(Verdadero y no no no cierto) es,FALSO
+(Falso o no Falso o Falso) es,Verdadero
+Falso y Falso o Verdadero y no Falso es,Verdadero
+no no es falso o no es falso o verdadero,Verdadero
+Verdadero y no Verdadero o Falso o Verdadero es,Verdadero
+no es falso o verdadero y falso o falso es,Verdadero
+Falso y (no Falso) o Falso es,FALSO
+no no no no (no es falso) es,Verdadero
+(Verdadero) y Verdadero o no Verdadero es,Verdadero
+no es Verdadero o Falso y Falso y Falso es,FALSO
+no no no no no no no no Falso es,Verdadero
+no es verdadero o no es falso y no es falso,Verdadero
+Falso o Verdadero o Falso y no Falso es,Verdadero
+no (Verdadero o Verdadero) y Falso es,FALSO
+no no no no no es cierto y no es cierto,FALSO
+(Falso) o Falso y no Verdadero es,FALSO
+(Falso y Verdadero o no Falso) es,Verdadero
+no no no (falso y verdadero) es,Verdadero
+no no es Verdadero ni Falso o Verdadero es,Verdadero
+no es falso o verdadero y no es verdadero,Verdadero
+Verdadero o Verdadero o no Falso o Falso es,Verdadero
+(no Falso y Falso y Falso) es,FALSO
+( (no verdadero) o verdadero) es,Verdadero
+no no (ni falso ni verdadero) es,Verdadero
+no es Verdadero o Falso o (Verdadero) es,Verdadero
+Falso o (no Falso) y Verdadero es,Verdadero
+no es falso o falso o (falso) es,Verdadero
+no no es falso o falso y no es verdadero,FALSO
+Verdadero o ((no verdadero)) es,Verdadero
+no falso y no falso y no falso es,Verdadero
+(Falso) y no Falso y Verdadero es,FALSO
+(Verdadero) y Falso o no Falso es,Verdadero
+(no falso y (verdadero)) es,Verdadero
+Falso o no (Falso) o Verdadero es,Verdadero
+Verdadero y no Falso y no no Verdadero es,Verdadero
+no es Verdadero y Verdadero y Verdadero o Falso,FALSO
+no no (Falso y no Verdadero) es,FALSO
+Verdadero o no ((Falso)) es,Verdadero
+Falso o no Verdadero o Falso o Falso es,FALSO
+Falso o no no Verdadero o no Falso es,Verdadero
+no (Verdadero o Verdadero o Falso) es,FALSO
+Falso o no no no no no Falso es,Verdadero
+no (falso) o no no es verdadero,Verdadero
+Verdadero y no Falso o Falso y Falso es,Verdadero
+Verdadero o (no (verdadero)) es,Verdadero
+(Falso o Verdadero y no Verdadero) es,FALSO
+Falso o no Verdadero y Verdadero o Verdadero es,Verdadero
+no no no no no no no no es cierto,FALSO
+(no falso) y falso o verdadero es,Verdadero
+Falso y Falso o no (Verdadero) es,FALSO
+(no es falso ni verdadero) y verdadero es,Verdadero
+no (False) y (False) es,FALSO
+Falso o Verdadero y no no no Falso es,Verdadero
+(Verdadero) y Verdadero y no Verdadero es,FALSO
+(no es Verdadero) y Verdadero y Falso es,FALSO
+(ni ni verdadero ni falso) es,Verdadero
+Verdadero y (Falso) o no Falso es,Verdadero
+no no no Falso o Falso y Falso es,Verdadero
+no no no Falso y Verdadero o Falso es,Verdadero
+Verdadero o (Verdadero o no Falso) es,Verdadero
+no es falso o ((falso)) es,Verdadero
+no no (falso y no falso) es,FALSO
+no no no no es cierto o no es cierto,Verdadero
+Falso y no (Falso o Falso) es,FALSO
+Verdadero y Verdadero y Verdadero o no Falso es,Verdadero
+Falso o no Falso o Verdadero y Verdadero es,Verdadero
+no falso y falso y falso o falso es,FALSO
+(Falso) o no Falso o Verdadero es,Verdadero
+(no falso) o (verdadero) es,Verdadero
+no no (Falso o no Verdadero) es,FALSO
+Falso o no Falso o Falso o Falso es,Verdadero
+Falso o no Falso y ( Falso ) es,FALSO
+Falso o (Falso) o no Verdadero es,FALSO
+no es Verdadero o Falso y Verdadero y Verdadero es,FALSO
+Verdadero o (Verdadero o no Verdadero) es,Verdadero
+Verdadero y no Falso y Verdadero o Verdadero es,Verdadero
+Falso o no Falso o no no Verdadero es,Verdadero
+(Verdadero o no Falso) o Falso es,Verdadero
+Falso o no (Verdadero) y Verdadero es,FALSO
+ni falso ni verdadero ni falso es,FALSO
+Falso y (Verdadero y no Falso) es,FALSO
+no es falso o (falso) o verdadero es,Verdadero
+Falso y no (Falso y Verdadero) es,FALSO
+( Verdadero o no no no Falso ) es,Verdadero
+Falso y (falso o no falso) es,FALSO
+Falso o no Verdadero o Verdadero y Falso es,FALSO
+Verdadero y no Verdadero o Verdadero y Verdadero es,Verdadero
+(no es falso o (verdadero)) es,Verdadero
+( (no (Verdadero) ) ) es,FALSO
+Falso y Falso y no (Falso) es,FALSO
+no es cierto y no es cierto y no es cierto,FALSO
+no (Verdadero o Falso) o Verdadero es,Verdadero
+Falso o (Verdadero) o no Verdadero es,Verdadero
+Falso o Falso y Falso o no Verdadero es,FALSO
+Verdadero o Falso o no Verdadero o Falso es,Verdadero
+no es Verdadero y (Verdadero y Verdadero) es,FALSO
+no es Verdadero y Verdadero o Verdadero y Falso,FALSO
+no es falso o (verdadero o verdadero) es,Verdadero
+no (falso o (falso)) es,Verdadero
+no (Verdadero o Verdadero) y Verdadero es,FALSO
+Falso o no Falso o Verdadero o Verdadero es,Verdadero
+Falso o Falso y no no no Falso es,FALSO
+no (Verdadero o Falso o Verdadero) es,FALSO
+(Falso) o no Verdadero y Falso es,FALSO
+Verdadero y Verdadero y no no no Falso es,Verdadero
+( Verdadero ) o Verdadero y no Verdadero es,Verdadero
+Falso y Falso y no Verdadero y Falso es,FALSO
+( Verdadero ) y no Verdadero o Verdadero es,Verdadero
+no no no Verdadero y Falso y Falso es,FALSO
+Falso y Falso y no no no Verdadero es,FALSO
+Falso y Falso o Falso o no Verdadero es,FALSO
+Falso o (no (Falso)) es,Verdadero
+no es Verdadero y Verdadero y no es Falso,FALSO
+(Falso) y (no Falso) es,FALSO
+(no es Verdadero) y Verdadero o Verdadero es,Verdadero
+Falso y Verdadero y (no Falso) es,FALSO
+((Verdadero)) o no Falso es,Verdadero
+no es Verdadero y Falso o Falso o Verdadero es,Verdadero
+Verdadero y no Verdadero y Verdadero y Verdadero es,FALSO
+(Verdadero o Verdadero o no Falso) es,Verdadero
+Verdadero o no Falso y Verdadero o Verdadero es,Verdadero
+(no (falso) o falso) es,Verdadero
+Verdadero y no (Verdadero o Falso) es,FALSO
+no (Falso y Verdadero) y Verdadero es,Verdadero
+no (Verdadero y Verdadero) o Falso es,FALSO
+Falso o no Verdadero y no no Falso es,FALSO
+no es Verdadero y Falso o Falso y Falso,FALSO
+no es Verdadero o Verdadero y Falso o Falso es,FALSO
+(no (falso) y falso) es,FALSO
+Falso o (Verdadero y no Verdadero) es,FALSO
+no es falso y no es verdadero o no es verdadero,FALSO
+( Falso o no no no Falso ) es,Verdadero
+(no falso) o verdadero y falso es,Verdadero
+(no no es verdadero) o no es falso,Verdadero
+Verdadero o no ( (Verdadero) ) es,Verdadero
+(Falso) y Falso o no Falso es,Verdadero
+no es falso y verdadero o (verdadero) es,Verdadero
+"Verdadero o no, no (no falso) es",Verdadero
+Falso y no Verdadero y Falso y Verdadero es,FALSO
+no no es Verdadero y Verdadero y no es Verdadero,FALSO
+no falso o no (no falso) es,Verdadero
+no no (verdadero) o no verdadero es,Verdadero
+(Verdadero y no Verdadero y Verdadero) es,FALSO
+Verdadero o Falso o no Verdadero o Verdadero es,Verdadero
+no es Verdadero o Verdadero y Falso y Falso es,FALSO
+Cierto y no no no no no Cierto es,FALSO
+no es Verdadero y (Falso) y Falso es,FALSO
+Falso y Falso o no Verdadero y Falso es,FALSO
+Verdadero o Falso y no Verdadero y Falso es,Verdadero
+no (Falso o Falso o Verdadero) es,FALSO
+no es falso o verdadero o verdadero y falso es,Verdadero
+no Falso y Falso o Falso o Falso es,FALSO
+(no es verdadero) y (falso) es,FALSO
+Verdadero y no no Falso y no Falso es,FALSO
+no (no no falso) y verdadero es,Verdadero
+no (no falso) y no falso es,FALSO
+Falso o Verdadero y no Falso o Verdadero es,Verdadero
+( no no no es Verdadero y Verdadero ) es,FALSO
+Falso y no (Verdadero) o Verdadero es,Verdadero
+(no Verdadero y Falso o Verdadero) es,Verdadero
+no (no no es Verdadero) o Falso es,FALSO
+(no falso) o (falso) es,Verdadero
+no no no Falso y Verdadero y Falso es,FALSO
+Cierto o no Cierto o no no Cierto es,Verdadero
+no falso o no no falso y falso es,Verdadero
+no es falso y (falso o falso) es,FALSO
+Falso y Verdadero o (no Falso) es,Verdadero
+Falso y no Falso y (Falso) es,FALSO
+no ((falso y verdadero)) es,Verdadero
+Falso o (no Falso) y Falso es,FALSO
+Falso y no Falso o Falso y Verdadero es,FALSO
+no es falso y no es verdadero y es verdadero,Verdadero
+Verdadero y Verdadero o Falso y no Verdadero es,Verdadero
+no es Verdadero o Falso y Verdadero o Falso es,FALSO
+Verdadero o Falso o no Verdadero y Verdadero es,Verdadero
+Falso o Falso o no Verdadero o Falso es,FALSO
+Falso o Falso o Verdadero y no Falso es,Verdadero
+(no (Verdadero o Falso)) es,FALSO
+no es Falso y Falso o Verdadero y Verdadero,Verdadero
+Verdadero y Falso o (no Falso) es,Verdadero
+no es falso o no no no no es cierto,Verdadero
+Verdadero y (no (verdadero)) es,FALSO
+Verdadero y Falso y no Verdadero o Falso es,FALSO
+((no Falso)) y Verdadero es,Verdadero
+no (Verdadero) y (Falso) es,FALSO
+Verdadero o no Falso y Falso y Falso es,Verdadero
+Verdadero y no (Falso o Falso) es,Verdadero
+no es Verdadero y Falso o Falso y Verdadero,FALSO
+no es Verdadero o no es Falso y no es Verdadero,FALSO
+no es Verdadero o Falso o Verdadero y Verdadero es,Verdadero
+no es Verdadero y Verdadero y Falso y Verdadero,FALSO
+Falso y Falso o no Verdadero y Verdadero es,FALSO
+(no Falso o Falso y Verdadero) es,Verdadero
+(Verdadero o Falso) o no Verdadero es,Verdadero
+no no no (falso) y falso es,FALSO
+no falso y falso y falso y verdadero es,FALSO
+Falso y no Verdadero y Verdadero o Falso es,FALSO
+(Falso o no Falso y Falso) es,FALSO
+Falso o (falso o no falso) es,Verdadero
+no es falso o verdadero o falso y falso es,Verdadero
+Verdadero o (no falso) o Verdadero es,Verdadero
+no Falso y Falso o Verdadero o Falso es,Verdadero
+Falso y no (no no falso) es,FALSO
+no no (no es Verdadero) o Falso es,FALSO
+Falso y no Verdadero y Verdadero y Falso es,FALSO
+Verdadero o Falso y no (Verdadero) es,Verdadero
+no (Falso) y (Verdadero) es,Verdadero
+Falso y no ((Verdadero)) es,FALSO
+no falso o ( no no falso ) es,Verdadero
+( (no falso) y falso) es,FALSO
+Verdadero o Falso y no Falso y Verdadero es,Verdadero
+((no Verdadero y Verdadero)) es,FALSO
+no (falso) o no no falso es,Verdadero
+no (Falso o Falso y Falso) es,Verdadero
+Falso y no (no no verdadero) es,FALSO
+Falso y Falso y no (Verdadero) es,FALSO
+Falso o (no Falso y Falso) es,FALSO
+Falso o (no no no verdadero) es,FALSO
+(no falso) o no no falso es,Verdadero
+no falso y falso y verdadero o falso es,FALSO
+Verdadero o no Falso y (Falso) es,Verdadero
+(no (falso)) o falso es,Verdadero
+Verdadero y no Verdadero o Falso y Verdadero es,FALSO
+no (no no no no falso) es,Verdadero
+Verdadero y (no Verdadero o Falso) es,FALSO
+(no no no es falso o verdadero) es,Verdadero
