@@ -1,0 +1,145 @@
+Das Barkhausen-Kriterium für einen Oszillator,Die Schleifenverstärkung sollte eins sein,Die Schleifenverstärkung sollte kleiner als eins sein,Die Phase eines Feedbacksignals in Bezug auf den Eingang sollte 0° oder 360° betragen,Sowohl A als auch C,D
+"Die Potentiometermethode zur Gleichspannungsmessung ist genauer als die direkte Messung mit einem Voltmeter, weil",Es belastet den Stromkreis moderat.,Es belastet den Stromkreis maximal.,Es verwendet ein Galvanometer mit mittlerem Nullpunkt anstelle eines Voltmeters.,Es belastet den Stromkreis überhaupt nicht.,D
+Welche dieser Sätze von Logikgattern werden als Universalgatter bezeichnet?,"NOCH, NAND.","XOR, NOR, NAND.","ODER, NICHT UND.","NOR, NAND, XNOR.",A
+"Ein einphasiger, einimpulsgesteuerter Schaltkreis hat einen Widerstand R und eine Gegen-EMK E mit einer Last von 400 sin(314 t) als Quellenspannung. Bei einer Lastgegen-EMK von 200 V beträgt der Bereich der Zündwinkelregelung",30° bis 150°.,30° bis 180°.,60° bis 120°.,60° bis 180°.,A
+"Ein Feld, das die Auswirkung von Eingaben auf das Steuerungssubsystem angibt, wird als bezeichnet",Datenbox.,Logische Box.,Entscheidungsbox.,Statusfeld.,C
+Zwei unendlich parallele Metallplatten sind mit gleicher Oberflächenladungsdichte gleicher Polarität geladen. Das elektrische Feld im Spalt zwischen den Platten beträgt,"das gleiche wie das, das von einer Platte erzeugt wird.",das Doppelte des von einer Platte erzeugten Feldes.,abhängig von den Koordinaten der Feldpunkte.,null.,D
+Der Widerstand im Stromkreis der beweglichen Spule eines Dynamometer-Wattmeters sollte sein,Niedrig.,Sehr niedrig.,Hoch.,Fast Null.,C
+Im Folgenden sind die notwendigen Anforderungen an einen Oszillator aufgeführt,Amplitudenstabilität,Frequenzstabilität,Leistungsstabilität,Sowohl A als auch B,D
+"Die normale Spannung, die bei gerichteter Heizung verwendet wird, beträgt","1,5 KV.",15 KV.,33 KV.,66 KV.,A
+"LC-Oszillatoren werden verwendet, um eine Wellenform mit einer Frequenz im Bereich von zu erzeugen",1 MHz bis 500 MHz,100 KHz bis 500 MHz,1 KHz bis 1 MHz,1 MHz bis 100 GHz,A
+Eine funktionierende Diode muss vorhanden sein,Hoher Widerstand bei Vorwärts- oder Rückwärtsvorspannung,"Niedriger Widerstand bei Vorwärtsvorspannung, hoher Widerstand bei Rückwärtsvorspannung","Hoher Widerstand bei Vorwärtsvorspannung, niedriger Widerstand bei Rückwärtsvorspannung",Niedriger Widerstand bei Vorwärts- oder Rückwärtsvorspannung,B
+"Wie heißt das fluoreszierende Material, das rote Fluoreszenz erzeugt?",Zinksilikat.,Calciumsilicat.,Zinksulfid.,Magnesiumsilikat.,D
+"Wie viele Bits sind erforderlich, um eine BCD-Ziffer zu speichern?",1,2,3,4,D
+Der Kommutator im Gleichstromgenerator wird verwendet für,Sammeln von Strom,Verluste reduzieren,Effizienz erhöhen,Wandeln Sie den Wechselstrom des Ankers in Gleichstrom um,D
+1 F ist theoretisch gleich,1 Ohm Widerstand,Verhältnis von 1 V zu 1 C,Verhältnis von 1 C zu 1 V,keine von diesen,C
+Wie viele Einträge enthält die Wahrheitstabelle eines NAND-Gatters mit 3 Eingängen?,3,6,8,9,C
+Was ist im Dezimalzahlensystem MSD?,Erste Ziffer von links nach rechts,Erste Ziffer von rechts nach links,Mittlere Ziffer,Mittelwert aller Ziffern,A
+In Digital Logic Designs wird GAL als abgekürzt,Allgemeine Fortschrittslogik,Allgemeine Array-Logik,Generische Advance-Logik,Generische Array-Logik,D
+Das ALE-Signal des Inintel 8085A-Mikroprozessors wird auf High gesetzt,Aktivieren Sie die Verwendung des Datenbusses als niederwertigen Adressbus,Zum Zwischenspeichern der Daten D0–D7 vom Datenbus,Zum Deaktivieren des Datenbusses,Um alle oben aufgeführten Funktionen zu erreichen,A
+"Bei einem SCR-Gate ist die Kathodenkennlinie eine gerade Linie von 130. Für ein getriggertes Quellenvolumen von 15 V und eine zulässige Gate-Verlustleistung von 0,5 W den Gate-Quellenwiderstand berechnen?","111,9 Ohm","11,19 Ohm",108 Ohm,115 Ohm,A
+"Das Konzept der V/f-Steuerung von Wechselrichtern, die Induktionsmotoren antreiben, ergibt sich aus",Betrieb mit konstantem Drehmoment,Geschwindigkeitsumkehr,reduzierter magnetischer Verlust,harmonische Beseitigung,A
+"Die im Magnetfeld gespeicherte Energie in einem 30 cm langen und 3 cm großen Elektromagneten, der mit 1000 Drahtwindungen umwickelt ist und einen Strom von 10 Ampere führt, beträgt","0,015 Joule.","0,15 Joule.","0,015 Joule.","1,15 Joule.",B
+Beim Betrieb mit variablen Frequenzversorgungen benötigt der Wechselstrommotor dafür eine variable Spannung,Schützen Sie die Isolierung.,Sättigungseffekte vermeiden.,Verbessern Sie die Fähigkeiten des Wechselrichters.,Schützen Sie den Thyristor vor dV / dt.,B
+Welche der folgenden Wicklungen sind bei allen Gleichstrommaschinen erforderlich?,geschlossene Wicklung,Rundenwicklung,Wellenwicklung,offene Wicklung,A
+Zur Erzeugung werden spannungsgesteuerte Entspannungsoszillatoren verwendet,Sinusförmige Welle,Dreieckige Welle,Sägezahnwelle,Sowohl B als auch C,D
+Die üblicherweise für die Hochfrequenz-Wirbelstromerwärmung verwendete Versorgungsfrequenz beträgt,1 kHz.,5 kHz.,10 MHz.,10 kHz bis 400 kHz.,D
+Im Toggle-Modus verfügt ein JK-Flip-Flop,"J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B
+"Elektroantrieb erfreut sich immer größerer Beliebtheit, weil",alles unten.,Es sorgt für eine reibungslose und einfache Steuerung.,es ist günstiger im Preis.,es ist einfach und zuverlässig.,A
+Ein Aufwärtszerhacker hat eine Eingangsspannung von 110 V und eine Ausgangsspannung von 150 V. Der Wert des Arbeitszyklus beträgt,0.32.,0.67.,0.45.,0.27.,B
+Ein binäres Zahlensystem hat wie viele Ziffern.,0,1,2,10,C
+Die niedrigste kritische Frequenz ist auf den Pol zurückzuführen und kann je nach Art des Netzwerks am Ursprung oder näher am Ursprung vorhanden sein,LC.,RL.,RC.,Eines der oben genannten.,C
+Vorteile des Open-Loop-Steuerungssystems sind/sind,einfach und wirtschaftlich.,genau.,zuverlässig.,alle oben genannten.,A
+Die in einer Induktivität induzierte Spannung wird dargestellt als:,Produkt aus seiner Induktivität und dem Strom durch ihn.,Verhältnis seiner Induktivität zum Strom durch ihn.,Verhältnis des Stroms durch ihn zu seiner Induktivität.,Produkt aus seiner Induktivität und der Änderungsrate des Stroms durch ihn.,D
+Wenn eine Hexadezimalzahl in eine Binärzahl umgewandelt werden muss. Für jede Hexadezimalziffer gibt es wie viele Bits,1,2,4,8,C
+Die Induktionserwärmung erfolgt in,"leitende, aber nicht magnetische Materialien.","leitende Materialien, die entweder magnetische oder nichtmagnetische Materialien sein können.",Isoliermaterialien.,leitende und magnetische Materialien.,B
+In einer Gleichstrommaschine mit Schleifenwicklung beträgt die Anzahl der Leiter 100 und die Anzahl der parallelen Pfade 10. Ermitteln Sie die durchschnittliche Steigung,10,100,50,1,A
+Der magnetische Fluss hat die Einheit,Newton,Ampere drehen,Weber,Tesla,C
+"Bei einer ausgeglichenen Brücke bleibt die Brücke dennoch ausgeglichen, wenn die Positionen von Detektor und Quelle vertauscht werden. Dies lässt sich aus welchem ​​Satz erklären",Reziprozitätssatz,Thevenins Theorem,Satz von Norton,Kompensationssatz,A
+"Ein D-Flip-Flop gilt als transparent, wenn",Der Ausgang ist LOW,Der Ausgang ist HIGH,Die Ausgabe folgt dem Takt,Die Ausgabe folgt der Eingabe,D
+Ein Lissajous-Muster auf einem Oszilloskop hat 5 horizontale Tangenten und 2 vertikale Tangenten. Die Frequenz des horizontalen Eingangs beträgt 100 Hz. Die Frequenz der Vertikalen wird sein,500 Hz.,250 Hz.,400 Hz.,625 Hz.,B
+Geschwindigkeitsregelung durch Variation des Feldflusses führt zu,Antrieb mit konstanter Leistung.,Antrieb mit konstantem Drehmoment.,Antrieb mit variabler Leistung.,nichts des oben Genannten.,A
+Welcher der folgenden Speicher verwendet einen Transistor und einen Kondensator als Grundspeichereinheit?,SRAM,DRAM,Sowohl SRAM als auch DRAM,Keiner,B
+"Wie viele Lampen mit jeweils 300 Lumen sind erforderlich, um in einem rechteckigen Raum von 4 x 3 m eine durchschnittliche Beleuchtungsstärke von 50 Lux zu erzielen?",2,4,5,6,A
+"Der Output des Systems wirkt sich auf die Inputmenge aus, dann ist das System a",Steuerungssystem mit offenem Regelkreis.,Regelsystem mit geschlossenem Regelkreis.,entweder a oder B.,nichts des oben Genannten.,B
+"Ein Sinussignal ist ein analoges Signal, weil",Es kann mehrere Werte zwischen den negativen und positiven Spitzenwerten haben,es ist für einen halben Zyklus negativ,es ist für einen halben Zyklus positiv,es hat sowohl positive als auch negative Werte,A
+FM steht für,häufige Modulation.,Frequenzmodulation.,Frequenzmoderator.,frequent moderator.,B
+Stack ist auch bekannt als,FIFO-Speicher,Flash-Speicher,LIFO-Speicher,Gedächtnis verlieren,C
+Im Ward-Leonard-System wird die untere Grenze der Geschwindigkeit durch vorgegeben,Feldwiderstand.,Ankerwiderstand.,Restmagnetismus des Generators.,Nichts davon.,C
+Der Colpitts-Oszillator wird auch als bezeichnet,Schwingkreisoszillator,LC-Oszillator,Schwingkreisoszillator,Alle oben genannten,D
+Ein SCR hat einen Halbzyklus-Stoßstrom von 3000 A für eine 50-Hz-Versorgung. Der Stoßstrom beträgt einen Zyklus,1500 n. Chr.,6000 A.,2121.32 A.,"4242,64 A.",C
+Welchen speziellen Speicherort nutzen sowohl die ALU als auch der Steuerteil der CPU?,Puffer,Decoder,Akkumulatoren,Registriert,C
+Systematische Fehler sind,Umweltfehler.,Beobachtungsfehler.,Gerätefehler.,alle oben genannten.,D
+Welche der folgenden Nachteile hat/sind ein Open-Loop-Steuerungssystem?,Ungenau.,Unzuverlässig.,sowohl A als auch B.,nichts des oben Genannten.,C
+"Eine Diode (p-n-Übergang), wenn sie in Sperrrichtung vorgespannt ist, fungiert als",Einschalten,Zenerdiode,Kondensator,Ausschalter,D
+Der piezoelektrische Effekt wird in ausgeführt,Verbundfilter.,Kristallfilter.,m abgeleitet.,konstanter k-Prototyp.,B
+Der spezifische Widerstand des Leiters hängt davon ab,Bereich des Leiters.,Länge des Leiters.,Art des Materials.,keine von diesen.,C
+"Die kleinste Änderung der Messgröße, auf die das Instrument reagiert, ist",Auflösung.,Genauigkeit.,Präzision.,Empfindlichkeit.,A
+In der elektronischen Kommunikation steht „AM“ für,Verstärkermodifikation,Amplitudenmethode,Amplitudenmodulation,Ampere-Methode,C
+Welches System wird auch als automatisches Kontrollsystem bezeichnet?,Steuersystem mit offenem Regelkreis,Regelsystem mit geschlossenem Regelkreis,Entweder a oder B,Weder A noch B,B
+Ein kombinatorischer PLD mit einem festen UND-Array und einem programmierbaren ODER-Array wird als a bezeichnet,PLD,ABSCHLUSSBALL,PAL,PLA,B
+Ein Instrument vom Nulltyp hat im Vergleich zu einem Instrument vom abgelenkten Typ Folgendes,eine geringere Empfindlichkeit.,eine schnellere Reaktion.,eine höhere Genauigkeit.,alle oben genannten.,C
+"Die Länge des Kabels wird verdoppelt, seine Kapazität C beträgt",ein Viertel.,eine Hälfte.,verdoppelt.,unverändert.,C
+Elektronen im p-Typ-Material eines Halbleiters werden als bezeichnet,entweder Minderheitsunternehmen oder Mehrheitsunternehmen,Minderheitstransportunternehmen,Mehrheitstransportunternehmen,Volantträger,B
+________ ist die schädlichste Verunreinigung in magnetischen Materialien,Kohlenstoff.,Schwefel.,Sauerstoff.,Stickstoff.,A
+Spannungsgesteuerte Oszillatoren werden häufig verwendet,"Pulsmodulatoren, Frequenzmodulatoren, phasengetaktete Schleifen",Frequenzmodulatoren,Phasengetaktete Schleifen,Alles oben Genannte,D
+"Für Induktionsöfen mit direktem Kern ist eine Niederfrequenzversorgung erforderlich, weil",Bei normaler Frequenzversorgung verursachen die elektromagnetischen Kräfte eine starke Rührwirkung in der Metallschmelze.,Die magnetische Kopplung zwischen Primär- und Sekundärkreis ist schlecht.,Sowohl A als auch B.,Nichts des oben Genannten.,C
+Die Drehspul-Messgeräte sorgen für eine Dämpfung,Der Aluminiumrahmen der Spule.,die am beweglichen Teil befestigte Schraubenfeder.,Wirbelstromscheibe.,Dämpfungsflügel in der luftdichten Kammer.,A
+Welche der folgenden ist die analoge Größe für das Massenelement in der Kraft-Spannungs-Analogie?,Widerstand.,Induktivität.,Kapazität.,Alle oben genannten.,B
+Ein Riegel ist ________ empfindlich,sowohl auf der Ebene als auch auf der Kante,Rand,Ebene,Keiner,C
+"Was wird verwendet, um den SCR vor Überstrom zu schützen?",CB und Sicherung.,Kühlkörper.,Snubber-Schaltung.,Spannungsklemmvorrichtung.,A
+Die Fehler sind hauptsächlich auf menschliches Versagen zurückzuführen,grober Fehler.,instrumenteller Fehler.,Beobachtungsfehler.,systematischer Fehler.,A
+Die elektrische Analoggröße für den Stoßdämpfer in der Kraft-Strom-Analogie ist,Widerstand.,Leitfähigkeit.,Induktivität.,Kapazität.,B
+Welche Lampe hat den besten Farbwiedergabeindex (CRI)?,LED,Fluoreszierend,Glühend,Natriumdampf unter hohem Druck,C
+Die Verlustleistung im idealen Induktor beträgt,Maximal,Minimum,Null,Ein endlicher Wert,C
+Welcher der folgenden Öfen eignet sich für intermittierende Arbeiten?,Kernloser Ofen.,Indirekter Lichtbogenofen.,Eines der oben genannten.,Nichts von oben.,B
+Beim elektrischen Widerstandsschweißen sollte das Material der Elektrode vorhanden sein,höhere elektrische Leitfähigkeiten.,höhere Wärmeleitfähigkeiten.,"ausreichende Festigkeit, um hohem Druck bei erhöhten Temperaturen standzuhalten.",alles von oben.,D
+Welche der folgenden sind die passiven Elemente?,Widerstand,Birne,Beide,Keine von diesen.,C
+Der Hauptvorteil der dielektrischen Erwärmung besteht darin,Die Erwärmung erfolgt im Material selbst.,Aufgrund der hohen Frequenz kommt es zu einer Erwärmung.,Es kann zum Trocknen des Sprengstoffs verwendet werden.,Nichts des oben Genannten.,A
+Die im Kühlkörper verwendeten Materialien sollten vorhanden sein,hohe Wärmeleitfähigkeit.,große Oberfläche.,hoher Schmelzpunkt.,Alle von denen.,D
+"Der Leiter ist statisch und das Feld variiert, dann wird eine EMK induziert. Dieses Prinzip heißt",virtuell induzierte EMK.,dynamisch induzierte EMK.,statisch induzierte EMK.,keine von diesen,C
+"Vier identische Generatoren sind jeweils für 20 MVA ausgelegt, 11 KV haben eine subtransiente Reaktanz von 16 % und arbeiten parallel. Der Kurzschlusspegel an der Sammelschiene beträgt",500 MVA,400 MVA,125 MVA,100 MVA,A
+Nach dem Bohr-Modell gewinnt oder verliert ein Elektron Energie nur durch,sich auf einer erlaubten Umlaufbahn schneller oder langsamer bewegen.,Springen von einer erlaubten Umlaufbahn zur anderen.,vollständig aus einem Atom entfernt werden.,von einem Atom zum anderen springen.,B
+Ein Puffer mit drei Zuständen hat die folgenden Ausgangszustände,"1, 0, Float","Hoch, niedrig, schweben",Sowohl A als auch B,"Set, Reset, Halt",C
+Durch die Verwendung welcher der folgenden Elemente erhält man mechanische Translationssysteme?,Massenelement,Federelement,Dash Pot,alle oben genannten,D
+"Vier Kondensatoren mit jeweils 40 µF sind parallel geschaltet, die äquivalente Kapazität des Systems beträgt",160 µF,10 µF,40 µF,5 µF,A
+"Der Widerstand eines Leiters mit Durchmesser d und Länge l beträgt R Ω. Wenn der Durchmesser des Leiters halbiert und seine Länge verdoppelt wird, beträgt der Widerstand",R Ω,2R Ω,4R Ω,8R Ω,C
+"Ein einphasiger Vollbrückenwechselrichter kann im Lastkommutierungsmodus betrieben werden, wenn die Last aus besteht",RL.,RLC unterdämpft.,RLC überdämpft.,RLC kritisch gedämpft.,B
+Ein Mikroprozessor ist ALU,und Steuereinheit auf einem einzigen Chip.,und Speicher auf einem einzigen Chip.,Registereinheit und I/O-Gerät auf einem einzigen Chip.,Registereinheit und Steuereinheit auf einem einzigen Chip.,D
+"Um einen hohen Kapazitätswert zu erhalten, sollte die Permittivität des dielektrischen Mediums gleich sein",low,null,hoch,Einheit,C
+Die direkte Messung der Ablenkungsmethode wird daher am häufigsten verwendet,am wenigsten zeitaufwändig.,am einfachsten.,am einfachsten und am wenigsten zeitaufwändig.,meistens richtig.,C
+"Rein mechanische Instrumente können für dynamische Messungen nicht verwendet werden, da dies der Fall ist",hohe Trägheit.,höhere Reaktionszeit.,große Zeitkonstante.,alle oben genannten.,D
+Vorteile einer höheren Übertragungsspannung sind/sind,Die Leistungsübertragungsfähigkeit der Übertragungsleitung wird erhöht,Übertragungsleitungsverluste werden reduziert,Querschnittsfläche und Volumen des Leiters werden reduziert,alle oben genannten,D
+Bei Überspannung beträgt die von der Spannungsklemmvorrichtung bereitgestellte Impedanz,hoch.,niedrig.,mäßig.,Unendlichkeit.,B
+"Ein langer Draht aus einem glatten runden Leiter verläuft über und parallel zum Boden (angenommen, es handelt sich um eine große leitende Ebene). Zwischen dem Leiter und der Erde liegt eine Hochspannung an. Die maximale elektrische Belastung tritt bei auf",Unterseite des Leiters.,Oberseite des Leiters.,der Bodenoberfläche.,auf halbem Weg zwischen Leiter und Erde.,A
+In einer Gleichstrommaschine wird eine 6-polige Wellenwicklung verwendet. Wie viele parallele Pfade gibt es?,6,4,2,1,C
+Welches der folgenden Geräte ist ein digitales Gerät?,Regler eines Ventilators,Mikrofon,Widerstand eines Materials,Lichtschalter,D
+Die Momentanleistung im Induktor ist proportional zur,Produkt aus Momentanstrom und Stromänderungsrate.,Quadrat des Momentanstroms.,Quadrat der Änderungsrate des Stroms.,Temperatur des Induktors.,A
+Welcher der folgenden ist ein variabler Wegaufnehmer?,Geschwindigkeitsmesser,Potentiometer,Synchronisierungen,nichts des oben Genannten,B
+"Fünf Kondensatoren mit jeweils 5 µF sind in Reihe geschaltet, die äquivalente Kapazität des Systems beträgt",5 µF,25 µF,10 µF,1 µF,D
+Anfälligkeit ist negativ für,nichtmagnetische Stoffe.,diamagnetische Substanzen.,ferromagnetische Stoffe.,nichts von oben.,B
+Eine der folgenden Funktionen ist die Hauptfunktion eines Oszillators,erzeugt sinusförmige Schwingungen,erzeugt nicht sinusförmige Wellenformen,erzeugt anhaltende Schwingungen mit konstanter Amplitude und spezifischer Frequenz,nichts des oben Genannten,C
+Die Metalloberflächen für das elektrische Widerstandsschweißen müssen sein,rauh.,sauber.,angefeuchtet,farbig,B
+Der Sperrstrom des SCR beträgt 20 mA. Sein Haltestrom wird sein,23mA.,40mA.,10mA.,60mA.,C
+In der Kraft-Strom-Analogie ist die elektrische Analoggröße für die Verschiebung (x).,Stromspannung.,Induktivität.,Kapazität.,Fluss.,D
+Eine Rückkopplungsschaltung in einem Oszillator kann durch erreicht werden,Widerstandskopplung zwischen Eingang und Ausgang,Kapazitive Kopplung zwischen Eingang und Ausgang,Induktive Kopplung zwischen Eingang und Ausgang,Eine beliebige oder Kombinationen der oben genannten Methoden,D
+Die niedrigste kritische Frequenz ist auf Null zurückzuführen und kann je nach Art des Netzwerks am Ursprung oder näher am Ursprung vorhanden sein,LC-Schaltung.,RC-Schaltung.,RLC-Schaltung.,RL-Schaltung.,D
+Wie groß ist die Dielektrizitätskonstante von Luft?,Weniger als 1,0.,1.,keine von diesen.,C
+Die Temperaturschwankung ist a/an,Digitale Menge,Analoge Menge,Entweder digitale oder analoge Menge,Keiner,B
+Die Beleuchtung an einem Punkt 5 Meter unter einer Lampe in 6 Lux. Die Kerzenleistung der Lampe beträgt,30,140.,150.,200.,C
+Für eine Gleichstrommaschine gelten die Werte für den Nebenschlusswiderstand und den Ankerwiderstand,hoch und hoch,hoch und Tief,niedrig und niedrig,niedrig und hoch,B
+Die Änderung der Querschnittsfläche des Leiters im Magnetfeld hat Auswirkungen,Zurückhaltung des Dirigenten.,Widerstand des Leiters.,(A) und (B) beide auf die gleiche Weise.,nichts von oben.,C
+Welche der folgenden Maßnahmen wird bei SCR zum Schutz vor hohen dV/dt-Werten verwendet?,Snubber-Schaltung.,Sicherung.,Ausgleichsschaltung.,Leistungsschalter.,A
+"Wie nennt man die Befehlssätze in einem Programm, die während des Montageprozesses nicht in Maschinenanweisungen übersetzt werden?",Mnemonik,Richtlinien,Identifikatoren,Operanden,B
+Die Geschwindigkeit der Datenübertragung im 4-G-Telekommunikationsnetz beträgt,386 kbit/s – 2 Mbit/s.,2 Mbit/s.,2 Mbit/s – 1 Gbit/s.,100 Mbit/s – 1 Gbit/s.,D
+Welches der folgenden ist/sind aktives Element?,Spannungsquelle,Aktuelle Quelle,Beide,Keine von diesen.,C
+Elektrische Analoggröße für Federelement (K) in Kraft-Spannungs-Analogie ist,L,R,1/C,C,C
+Ein Quarzkristalloszillator besteht aus,nur Serienresonanzfrequenz.,nur Parallelresonanzfrequenz.,sowohl Reihen- als auch Parallelfrequenzen.,weder Reihen- noch Parallelfrequenz.,C
+Welche der folgenden Oszillatoren werden für Niederfrequenzanwendungen (LF) verwendet?,LC-Oszillatoren,RC-Oszillatoren,Sowohl LC- als auch RC-Oszillatoren,Keiner,B
+"Der Raumwinkel, den eine Fläche von 2400 cm^2 auf der Oberfläche einer Kugel mit einem Durchmesser von 1,2 m einschließt, beträgt",3 / 2.,1 / 3.,2 / 3.,2 / 5.,C
+Der relative Fehler ist derselbe wie,Verhältnis von absolutem Fehler und wahrem Wert.,Absoluter Fehler.,wahrer Fehler.,nichts des oben Genannten.,A
+"Wenn der Haltestrom eines Thyristors 2 mA beträgt, sollte es auch der Haltestrom sein","0,01 A.","0,002 A.","0,009 A.","0,004 A.",D
+Welches ist in einem Intel 8085A der erste Maschinenzyklus einer Anweisung?,Ein Op-Code-Abrufzyklus,Ein Speicherlesezyklus,Ein Speicherschreibzyklus,Ein E/A-Lesezyklus,A
+Welche der folgenden Nachteile hat ein geschlossenes Regelsystem?,Reduziert den Gesamtgewinn.,Komplex und kostspielig.,Oszillatorische Reaktion.,Alle oben genannten.,D
+"Pole und Nullstellen sind abwechselnd auf der negativen reellen Achse angeordnet, dann ist/sind die Art des Netzwerks",LC-Netzwerk.,RC-Netzwerk.,RL-Netzwerk.,Sowohl 2 als auch 3.,D
+Die Magnetisierung und das angelegte Feld in ferromagnetischen Materialien hängen zusammen,sinusförmig.,nicht linear.,linear.,parabolisch.,B
+Zur Reduzierung werden dünne Lamellen in einer Maschine eingesetzt,Wirbelstromverluste,Hystereseverluste,Sowohl A als auch B,Kupferverluste,A
+Eine Metalloberfläche mit 1 Meter Radius und einer Oberflächenladungsdichte von 20 Coulomb/m2 ist in einem 10 m Seitenwürfel eingeschlossen. Die gesamte elektrische Verschiebung nach außen normal zur Oberfläche des Würfels beträgt,40π Coulomb.,80π Coulomb.,10π Coulomb.,keine von diesen.,B
+Im binären Zahlensystem wird die erste Ziffer (Bit) von rechts nach links als bezeichnet,"LSB, niedrigstwertiges Bit","MSB, höchstwertiges Bit",Erstes Bit,Letztes Stück,A
+"Wenn bei der Zwei-Wattmeter-Methode der Leistungsmessung die Gesamtleistung nur mit einem Wattmeter gemessen wird, ist der Leistungsfaktor des Systems gleich",0.,0.5.,1.,nichts von oben.,B
+Ein 0-100-V-Voltmeter hat eine garantierte Genauigkeit von 2 % des Skalenendwerts. Die vom Voltmeter gemessene Spannung beträgt 75 V. Der Grenzfehler wird in Prozent angegeben,3.33 %.,2.66 %.,2 %.,1 %.,B
+Welche der folgenden Methoden wird/werden zur Blind- oder Spannungskompensation verwendet?,Nebenschlusskondensator,Serienkondensator,Erzeugungserregungssteuerung,alle oben genannten,D
+Der während des Herstellungsprozesses selbst programmierte ROM wird aufgerufen,MROM,ABSCHLUSSBALL,EPROM,EEPROM,A
+Im 8085 ist/sind der Name/die Namen der 16-Bit-Register,Stapelzeiger.,Programm zähler.,sowohl A als auch B.,keine von diesen.,C
+Die Stabilität einer Übertragungsleitung kann dadurch erhöht werden,Nebenschlusskondensator,Serienkondensator,Nebenschlussreaktor,sowohl A als auch B,D
+Snubber-Schaltung wird mit SCR verwendet,in Serie.,parallel zu.,entweder seriell oder parallel.,antiparallel.,B
+Wodurch wird die Anzahl der Ringe im Bohr-Modell eines Elements bestimmt?,Spaltennummer im Periodensystem.,Atommasse.,Zeilennummer im Periodensystem.,Ordnungszahl.,C
+Silizium und Germanium sind ________ Elemente.,trivalant,fünfwertig,sechswertig,vierwertig,D
+Die Anzahl der Ausgangspins in 8085-Mikroprozessoren beträgt,27.,40.,21.,19.,A
+"Wenn P die Leistung eines sterngeschalteten Systems ist, wie groß ist dann die Leistung eines äquivalenten, dreieckgeschalteten Systems?",P,3P,P/3,Nichts des oben Genannten,A
+Welche Oszillatoren lassen sich einfach in einem monolithischen IC herstellen?,Kristalloszillator.,Hartley-Oszillator.,Wien-Brückenoszillator.,Entspannungsoszillator.,D
+"Wenn alle Elemente in einem bestimmten Netzwerk linear sind, dann würde der Superpositionssatz gelten, wenn die Anregung linear ist",Nur DC,Nur Wechselstrom,Entweder Wechselstrom oder Gleichstrom,Ein Impuls,C
+Der Rückkopplungsfaktor eines Wien-Brückenoszillators mit Operationsverstärker beträgt,1/3,1/4,1/2,1,C
+"Die Länge des Buszyklus im 8086/8088 beträgt vier Taktzyklen, T1, T2, T3, T4 und eine unbestimmte Anzahl von Wartezustands-Taktzyklen, die mit Tw bezeichnet werden. Die Wartezustände werden immer dazwischen eingefügt",T1 & Taq,klopf & ta,AT & T4,Tch & T1,C
+Welcher der folgenden ist kein Sinusoszillator?,LC-Oszillator,RC-Phasenverschiebungsoszillator,Entspannungsoszillator,Kristalloszillator,C
+Ein stromdurchflossener Draht wird in Form einer kreisförmigen Schleife gebogen. Dann wird das Magnetfeld um jeden Abschnitt des Drahtes größer sein,parallel zur Drahtebene.,senkrecht zum Umfang des Drahtes.,parallel zur Hälfte und senkrecht zur anderen Hälfte.,nichts von oben.,A

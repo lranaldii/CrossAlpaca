@@ -1,0 +1,148 @@
+"Sei k die Anzahl der reellen Lösungen der Gleichung e^x + x - 2 = 0 im Intervall [0, 1] und sei n die Anzahl der reellen Lösungen, die nicht in [0, 1] liegen. Welche der folgenden Aussagen ist wahr?",k = 0 und n = 1,k = 1 und n = 0,k = n = 1,k > 1,B
+"Wie viele additive abelsche Gruppen G der Ordnung 16 haben bis zur Isomorphie die Eigenschaft, dass x + x + x + x = 0 für jedes x in G ist?",0,1,2,3,D
+"Angenommen, P ist die Menge der Polynome mit Koeffizienten in Z_5 und einem Grad kleiner oder gleich 7. Wenn der Operator D p(x) in P an seine Ableitung p′(x) sendet, welche Dimensionen hat der Nullraum n und Bereich r von D?",n = 1 und r = 6,n = 1 und r = 7,n = 2 und r = 5,n = 2 und r = 6,D
+Der kürzeste Abstand von der Kurve xy = 8 zum Ursprung beträgt,4,8,16,Askara(a),A
+"Es gibt 25 Koffer, davon sind 5 beschädigt. Drei Koffer werden zufällig ausgewählt. Wie groß ist die Wahrscheinlichkeit, dass genau 2 beschädigt werden?",2/69,1/30,2/23,12/125,C
+"Sei (Z_{10} , +, x) der Ring der ganzen Zahlen Modulo 10 und sei S die Teilmenge von Z_{10}, dargestellt durch {0, 2, 4, 6, 8}. Welche der folgenden Aussagen ist FALSCH?","(S, +, x) ist unter Addition modulo 10 abgeschlossen.","(S, +, x) wird unter Multiplikation modulo 10 abgeschlossen.","(S, +, x) hat eine Identität unter Addition modulo 10.","(S, +, x) hat unter Multiplikation modulo 10 keine Identität.",D
+"Eine 9 Meter lange Leiter lehnt auf ebenem Boden an einer senkrechten Wand. Während das untere Ende der Leiter mit einer konstanten Geschwindigkeit von 2 Metern pro Sekunde von der Wand wegbewegt wird, gleitet das obere Ende entlang der Wand nach unten. Wie schnell (in Metern pro Sekunde) rutscht das obere Ende der Leiter nach unten, wenn sich das obere Ende 3 Meter über dem Boden befindet?",12*Quadrat(2),6*Quadrat(2),4*Quadrat(2),1/(2*sqrt(2)),C
+"Betrachten Sie ein Segment der Länge 10. Die Punkte A und B werden zufällig ausgewählt, sodass A und B das Segment in drei kleinere Segmente teilen. Wie groß ist die Wahrscheinlichkeit, dass die drei kleineren Segmente die Seiten eines Dreiecks bilden könnten?",0,10%,25%,50%,C
+"Sei V ein endlichdimensionaler reeller Vektorraum und P eine lineare Transformation von V mit P^2 = P. Welche der folgenden Aussagen muss wahr sein?
+I. P ist invertierbar.
+II. P ist diagonalisierbar.
+III. P ist entweder die Identitätstransformation oder die Nulltransformation.",Keiner,ich nur,Nur II,Nur III,C
+Welche der folgenden Aussagen ist wahr?,Jeder kompakte Raum ist vollständig,Jeder vollständige Raum ist kompakt,Weder A noch B).,Sowohl A als auch B).,A
+"Ein diskreter Graph ist vollständig, wenn es eine Kante gibt, die ein Knotenpaar verbindet. Wie viele Kanten hat ein vollständiger Graph mit 10 Eckpunkten?",10,20,25,45,D
+"Angenommen, X ist eine diskrete Zufallsvariable auf der Menge positiver Ganzzahlen, sodass für jede positive Ganzzahl n die Wahrscheinlichkeit, dass X = n ist, 1/2^n beträgt. Wenn Y eine Zufallsvariable mit derselben Wahrscheinlichkeitsverteilung ist und X und Y unabhängig sind, wie groß ist dann die Wahrscheinlichkeit, dass der Wert mindestens einer der Variablen X und Y größer als 3 ist?",1/64,15/64,1/4,3/8,B
+"Seien V und W 4-dimensionale Unterräume eines 7-dimensionalen Vektorraums X. Welche der folgenden Größen KANN NICHT die Dimension des Unterraums V sein, der W schneidet?",0,1,2,3,A
+"Eine große Klasse soll in Teams aufgeteilt werden und jeder Schüler muss Mitglied in genau einem Team sein. Allerdings mag jeder Schüler drei seiner Klassenkameraden nicht. Abneigungen zwischen Schülern müssen nicht auf Gegenseitigkeit beruhen. Wenn die Teams nicht gleich groß sein müssen, wie viele müssen dann gebildet werden, damit kein Schüler der Teamkollege von jemandem ist, den er nicht mag?",4,7,10,13,B
+"Sofia und Tess wählen jeweils zufällig eine der 10 ganzen Zahlen von 1 bis 10 aus. Wie groß ist die Wahrscheinlichkeit, dass keine der gewählten Ganzzahlen das Quadrat der anderen ist?",0.64,0.72,0.81,0.95,D
+"Sei K eine nichtleere Teilmenge von R^n, wobei n > 1. Welche der folgenden Aussagen muss wahr sein?
+I. Wenn K kompakt ist, dann ist jede auf K definierte stetige reelle Funktion beschränkt.
+II. Wenn jede auf K definierte stetige reellwertige Funktion beschränkt ist, dann ist K kompakt.
+III. Wenn K kompakt ist, dann ist K zusammenhängend.",ich nur,Nur II,Nur III,Nur I und II,D
+"Angenommen, V ist ein reeller Vektorraum der endlichen Dimension n. Nennen Sie die Matrizenmenge von V in sich selbst M(V). Sei T in M(V). Betrachten Sie die beiden Unterräume U = {X ∈ M(V) : TX = XT} und W = {TX − XT : X ∈ M(V)}. Welche der folgenden Aussagen muss WAHR sein?
+I. Wenn V eine Basis hat, die nur Eigenvektoren von T enthält, dann ist U = M(V).
+II. dim (U) + dim (W) = n^2
+III. dim (U) < n",ich nur,Nur II,Nur III,Nur I und II,B
+"Sei F eine konstante Einheitskraft, die parallel zum Vektor (-1, 0, 1) im xyz-Raum verläuft. Welche Arbeit verrichtet F an einem Teilchen, das sich zwischen dem Zeitpunkt t=0 und dem Zeitpunkt t=1 entlang der durch (t, t^2, t^3) gegebenen Bahn bewegt?",-1/4,-1/(4sqrt(2)),0,sqrt(2),C
+"Sei X ein topologischer Raum und seien A, B und C nichtleere Teilmengen von X, so dass A c B c C; das heißt, A ist eine echte Teilmenge von B und B ist eine echte Teilmenge von C. Welche der folgenden Aussagen ist (sind) wahr?
+I. Wenn A und C verbunden sind, dann ist B verbunden.
+II. Wenn A und C kompakt sind, dann ist B kompakt.
+III. Wenn A und C Hausdorff sind, dann ist B Hausdorff.",Nur I und II,Nur III,Nur I und III,"I, II und III",D
+"Sei x_1 = 1 und x_(n+1) = sqrt(3+2x_n) für alle positiven ganzen Zahlen n. Wenn angenommen wird, dass {x_n} konvergiert, dann ist lim x_n =",3,e,sqrt(5),0,A
+"Wenn v ein Eigenvektor einer invertierbaren Matrix A ist, welche der folgenden ist dann notwendigerweise I?
+WAHR?
+I. v ist auch ein Eigenvektor von 2A.
+II. v ist auch ein Eigenvektor von A^2.
+III. v ist auch ein Eigenvektor von A^(-1).",ich nur,Nur II,Nur III,"I, II und III",D
+Für wie viele positive ganze Zahlen k ergibt die gewöhnliche Dezimaldarstellung der ganzen Zahl k! mit genau 99 Nullen enden?,Keiner,One,Vier,Fünf,D
+"Sei R ein Ring mit multiplikativer Identität. Wenn U eine additive Untergruppe von R ist, so dass ur in U für alle u in U und für alle r in R ist, dann heißt U ein richtiges Ideal von R. Wenn R genau zwei richtige Ideale hat, welches der folgenden muss wahr sein?
+I. R ist kommutativ.
+II. R ist ein Divisionsring (d. h. alle Elemente außer der additiven Identität haben multiplikative Inverse).
+III. R ist unendlich.",ich nur,Nur II,Nur III,Nur I und II,B
+"Ein sechsseitiger Würfel (dessen Seiten wie üblich von 1 bis 6 nummeriert sind) gilt als Fälschung: Die Wahrscheinlichkeit, eine gerade Zahl zu würfeln, ist doppelt so hoch wie die Wahrscheinlichkeit, eine ungerade Zahl zu würfeln. Wie hoch ist die Wahrscheinlichkeit, dass bei zweimaligem Würfeln dieser Würfel beim ersten Wurf eine 5 und beim zweiten Wurf eine 6 ergibt?",2/81,1/18,2/27,1/9,A
+"Aussage 1 | Angenommen, {s_n} und {t_n} sind Folgen komplexer Zahlen mit lim_n→∞ s_n = s und lim_n→∞ tn = t. lim_n→∞ s_nt_n = st. Aussage 2 | Es gibt eine beschränkte Folge reeller Zahlen ohne konvergente Teilfolge.","Wahr, wahr",Wahr falsch,Falsch Richtig,"False, False",B
+"Definieren Sie eine binäre Operation auf Z, der Menge der ganzen Zahlen, durch die Gleichung m • n = m + n + mn. Welches von
+die folgenden Aussagen über die binäre Struktur (Z, • ) wahr sind (sind)?
+I. Diese Struktur ist keine Gruppe, da die Operation nicht assoziativ ist.
+II. Diese Struktur ist keine Gruppe, da es kein Identitätselement gibt.
+III. Diese Struktur ist keine Gruppe, da nicht alle Elemente eine Umkehrung haben.
+IV. Diese Struktur ist eine Gruppe.",Nur I und II,Nur I und III,Nur II und III,Nur III,D
+"Kate braucht k Tage, um einen GRE-Mathe-Übungstest zu schreiben. John braucht j Tage, um einen GRE-Mathe-Übungstest zu schreiben. Wenn Kate und John in abwechselnden 2-Tages-Schichten an einem Übungstest arbeiten, benötigen sie 10 Tage, wenn Kate anfängt, und 10,5 Tage, wenn John anfängt. Wie lange würden die beiden brauchen, um einen Übungstest zu absolvieren, wenn Kate und John gleichzeitig arbeiten würden?",9/2 Tage,5 Tage,41/8 Tage,36/7 Tage,D
+Was ist die größtmögliche Fläche einer dreieckigen Region mit einem Scheitelpunkt in der Mitte eines Kreises mit Radius 1 und den anderen beiden Scheitelpunkten auf dem Kreis?,1/2,1,sqrt(2),pi,A
+"Sei f(x,y) = x^2 - 2xy + y^3 für alle reellen x und y. Welche der folgenden Aussagen ist wahr?",f hat alle seine relativen Extrema auf der Geraden x = y.,f hat alle seine relativen Extrema auf der Parabel x = y^2.,"f hat ein relatives Minimum bei (0, 0).","f hat ein absolutes Minimum bei (2/3, 2/3).",A
+Was ist die größte Ordnung eines Elements in der Gruppe der Permutationen von 5 Objekten?,5,6,12,15,B
+"S(n) ist eine Aussage über positive ganze Zahlen n, sodass immer dann, wenn S(k) wahr ist, auch S(k + 1) wahr sein muss. Darüber hinaus gibt es eine positive ganze Zahl n0, so dass S(n0) nicht wahr ist. Welche der folgenden Schlussfolgerungen ist die überzeugendste?",S(n0 + 1) ist nicht wahr.,S(n0 - 1) ist nicht wahr.,S(n) gilt nicht für jedes n <= n0,S(n) gilt nicht für jedes n >= n0,C
+"Welche Koordinaten hat im xyz-Raum der Punkt auf der Ebene 2x + y + 3z = 3, der dem Ursprung am nächsten liegt?","(0, 0, 1)","(3/7, 3/14, 9/14)","(7/15, 8/15, 1/15)","(5/6, 1/3, 1/3)",B
+Für welche ganzen Zahlen n mit 3 <= n <= 11 gibt es nur eine Gruppe der Ordnung n (bis auf Isomorphie)?,Für keine solche ganze Zahl n,"Nur für 3, 5, 7 und 11","Nur für 3, 5, 7, 9 und 11","Nur für 4, 6, 8 und 10",B
+Ein Baum ist ein zusammenhängender Graph ohne Zyklen. Wie viele nichtisomorphe Bäume mit 5 Eckpunkten gibt es?,1,2,3,4,C
+"Angenommen, A und B sind n x n invertierbare Matrizen, wobei n > 1 und I die n x n-Identitätsmatrix ist. Wenn A und B ähnliche Matrizen sind, welche der folgenden Aussagen müssen wahr sein? I. A - 2I und B - 2I sind ähnliche Matrizen. II. A und B haben die gleiche Spur. III. A^-1 und B^-1 sind ähnliche Matrizen.",ich nur,Nur II,Nur III,"I, II und III",D
+"Sei C der Kreis in der yz-Ebene, dessen Gleichung (y - 3)^2 + z^2 = 1 lautet. Wenn C um die z-Achse gedreht wird, ist die erzeugte Oberfläche ein Torus. Wie lautet die Gleichung dieses Torus?",x^a + j^a + g^a + z = falten,(x^2 + y^2 + z^2)^2 = 8 + 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + z^2),(x^2 + y^2 + z^2 + 8)^2 = 36(x^2 + y^2),D
+Welche der folgenden ist eine Gleichung der Tangente an den Graphen von y = x + e^x bei x = 0?,y = 2x + 1,y = 2x,y = x + 2,y = x + 1,A
+"Sei V der reelle Vektorraum aller reellen 2 x 3-Matrizen und W der reelle Vektorraum aller reellen 4 x 1-Spaltenvektoren. Wenn T eine lineare Transformation von V nach W ist, welche Dimension hat dann der Unterraumkern von T?",2,3,4,5,A
+"Aussage 1 | Angenommen ∑|a_i| divergiert und ∑ a_i = 2. Es gibt eine Umordnung a_i_k der Terme, so dass ∑ a_i_k = 4. Aussage 2 | Es gibt metrische Räume X und Y mit X geschlossen und beschränkt und einer stetigen Abbildung f : X → Y, so dass f(X) NICHT „abgeschlossen und beschränkt“ ist.","Wahr, wahr",Wahr falsch,Falsch Richtig,"False, False",A
+Die maximale Anzahl spitzer Winkel in einem konvexen 10-Eck in der euklidischen Ebene beträgt,1,2,3,4,C
+"Wenn f(z) eine analytische Funktion ist, die die gesamte endliche komplexe Ebene auf die reale Achse abbildet, muss die imaginäre Achse darauf abgebildet werden",die gesamte reale Achse,ein Punkt,ein Strahl,ein offenes endliches Intervall,B
+"Eine Gruppe G, in der (ab)^2 = a^2b^2 für alle a, b in G ist, ist notwendig",endlich,zyklisch,der Ordnung zwei,abelisch,D
+"Wenn f eine stetig differenzierbare reelle Funktion ist, die auf dem offenen Intervall (-1, 4) definiert ist, sodass f(3) = 5 und f'(x) ≥ -1 für alle x, was ist der größtmögliche Wert von f? (0)?",3,4,5,8,D
+"Angenommen, A und B sind n × n-Matrizen mit reellen Einträgen. Welche der folgenden Aussagen sind WAHR?
+I. Die Spur von A^2 ist nicht negativ.
+II. Wenn A^2 = A, dann ist die Spur von A nicht negativ.
+III. Die Spur von AB ist das Produkt der Spuren von A und B.",Nur II,Nur III,Nur I und II,Nur II und III,A
+Was ist die Einerstelle in der Standard-Dezimalentwicklung der Zahl 7^25?,1,3,5,7,D
+"Aussage 1 | f : X → Y ist stetig und X ist kompakt. f muss gleichmäßig stetig sein. Aussage 2 | Wenn f(x), g(x) : R → R überall differenzierbar sind, muss f(g(x)) überall differenzierbar sein.","Wahr, wahr",Wahr falsch,Falsch Richtig,"False, False",A
+Der durch die Kurven y = x und y = x^2 begrenzte Bereich im ersten Quadranten der xy-Ebene wird um die y-Achse gedreht. Das Volumen des resultierenden Rotationskörpers beträgt,S. 12,π/6,π/3,2p/3,B
+"In der xy-Ebene hat die Kurve mit den parametrischen Gleichungen x = cos t und y = sin t, 0 <= t <= pi, die Länge",3,pi,3pi,3/2,B
+"Welche der folgenden sind gültige Konvergenzintervalle für eine Potenzreihe?
+(I) [−1, 3)
+(II) (−∞, 0]
+(III) [2, 2] ∪ [3, 3]
+(IV) (−∞,∞)",Nur (II),Nur (IV),(I) und (IV),(II) und (III),C
+"Wenn f: R -> R eine beschränkte Funktion ist, die Lebesgue-integrierbar ist, welche der folgenden Aussagen muss dann wahr sein?",f ist Riemann-integrierbar.,"Es gibt kein abzählbar unendliches E von R, so dass f an jedem x \in E nicht differenzierbar ist.","Es gibt keine überabzählbare Teilmenge E von R, so dass f an jedem x \in E nicht differenzierbar ist.",Nichts des oben Genannten.,D
+In der xy-Ebene ist der Graph x^(log y) = y^log x,der offene erste Quadrant,eine geschlossene Kurve,ein Strahl im offenen ersten Quadranten,ein einziger Punkt,A
+Für welches p ist die Norm ||x||_p als inneres Produkt ausdrückbar?,1,2,p >= 1,Unendlichkeit,B
+"Sei S ein kompakter topologischer Raum, T ein topologischer Raum und f eine Funktion von S auf T. Welche der folgenden Bedingungen für f ist die schwächste, die ausreicht, um die Kompaktheit von T sicherzustellen?",f ist ein Homöomorphismus.,f ist stetig und eins zu eins,f ist stetig.,f ist eins zu eins,C
+"Wie groß ist die Fläche eines gleichseitigen Dreiecks, dessen eingeschriebener Kreis den Radius 2 hat?",12,16,12*Quadrat(3),16*qm(3),C
+Für welchen Wert von n gibt es genau zwei abelsche Gruppen der Ordnung n bis auf Isomorphie?,4,7,8,12,A
+"Welche der folgenden Aussagen gilt nicht immer für x, y, z ∈ R^k?",|x| ≥ 0,|x y| ≤ |x||y|,"|x| = 0 genau dann, wenn x = 0",|x + y| = |x| + |und|,D
+"Sei V der Vektorraum (unter den üblichen Operationen) reeller Polynome, die höchstens den Grad 3 haben. Sei W der Unterraum aller Polynome p (x) in V, so dass p (0) = p(1) = p (-1) = 0. Dann ist dim V + dim W",4,5,6,7,B
+"Wenn V und W zweidimensionale Unterräume von R^4 sind, welche möglichen Dimensionen hat der Unterraum V, der W schneidet?",Nur 1,Nur 2,Nur 0 und 1,"Nur 0, 1 und 2",D
+"Die Kurven y = (sin x + cos x)^4 und y = (sin x - cos x)^4 schneiden sich bei x = 0. Wenn a der kleinste positive Wert von x ist, bei dem sich diese Kurven als nächstes schneiden, bestimmen Sie die Fläche zwischen diesen Kurven von x = 0 bis x = a.",2,π,4,3p/2,C
+"Wenn f eine lineare Transformation von der Ebene in die reellen Zahlen ist und wenn f(1, 1) = 1 und f(-1, 0) = 2, dann ist f(3, 5) =",9,8,0,-5,A
+Wie viele reelle Wurzeln hat das Polynom 2x^5 + 8x - 7?,Keiner,One,Two,Drei,B
+"Die Mathematikabteilung einer Universität hat 10 Professoren und wird im nächsten Semester 20 verschiedene Kurse anbieten. Jedem Professor wird die Aufgabe zugewiesen, genau zwei der Kurse zu unterrichten, und jedem Kurs wird genau ein Professor zugeordnet, der ihn unterrichten soll. Wenn ein Professor für die Lehre einer Lehrveranstaltung eingesetzt werden kann, wie viele verschiedene Gesamtzuordnungen der 10 Professoren zu den 20 Lehrveranstaltungen sind dann möglich?",20!/2^(10),10!/2^9,10^(20) - 2^(10),10^(20) - 100,A
+Welche der folgenden Aussagen sind wahr:,"Es ist möglich, eine lineare Ordnungsrelation ≤ auf die komplexen Zahlen C zu setzen, sodass (C, +, ×, ≤) kein geordneter Körper ist.","Es ist möglich, eine lineare Ordnungsbeziehung auf die komplexen Zahlen C zu legen, die (C, +, ×, ≤) zu einem geordneten Körper machen.",Weder A noch B),Sowohl A als auch B).,A
+"Bei einem Spiel werfen zwei Spieler abwechselnd eine faire Münze; Der Gewinner ist derjenige, der zuerst einen Kopf wirft. Die Wahrscheinlichkeit, dass der Spieler, der zuerst geworfen hat, das Spiel gewinnt, beträgt",1/4,1/3,1/2,2/3,D
+Welche der folgenden Personen ist KEINE Gruppe?,Die ganzen Zahlen unter Addition,Die ganzen Zahlen ungleich Null bei der Multiplikation,Die reellen Zahlen ungleich Null bei der Multiplikation,Die komplexen Zahlen unter Addition,B
+"Seien x und y positive ganze Zahlen, so dass 3x + 7y durch 11 teilbar ist. Welche der folgenden Zahlen muss auch durch 11 teilbar sein?",4 x + falten,x + y + 5,9x + 4J,4x - 9J,D
+"Was ist der Mindestwert des Ausdrucks x + 4z als auf R^3 definierte Funktion, vorbehaltlich der Einschränkung x^2 + y^2 + z^2 <= 2?",0,-2,-sqrt(34),-sqrt(35),C
+"Sei R ein Ring und seien U und V (zweiseitige) Ideale von R. Welche der folgenden müssen auch Ideale von R sein?
+I. {u + v : u \in und v \in V}
+II. {uv : u \in U und v \in V}
+III. {x : x \in U und x \in V}",Nur II,Nur III,Nur I und II,Nur I und III,D
+Der durch die x-Achse und die Funktion f(x) = x/(1 + x^3) begrenzte Bereich wird um die x-Achse gedreht. Wie groß ist das Volumen des erzeugten Feststoffs?,π/3,π/4,π,2π,A
+"Angenommen, heute ist Mittwoch. Welcher Wochentag wird in 10^(10^(10)) Tagen sein?",Sonntag,Montag,Dienstag,Mittwoch,A
+"Aus einem Loch an der Spitze eines umgedrehten Kegels tropft Wasser mit einer Geschwindigkeit von 3 cm^3 pro Minute. Der
+Die Höhe und der Radius des Kegels betragen 2 cm bzw. 1 cm. Mit welcher Geschwindigkeit ändert sich die Höhe des Wassers?
+wenn der Wasserstand einen halben Zentimeter unter der Kegelspitze liegt? Das Volumen eines Kegels ist V = (π/3)*r^2*h,
+Dabei ist r der Radius und h die Höhe des Kegels.",−48/π cm/min,−4/(3π) cm/min,−8/(3π) cm/min,−16/(3π) cm/min,D
+"Betrachten Sie das System linearer Gleichungen
+w + 3x + 2y + 2z = 0
+w + 4x + y = 0
+3w + 5x + 10 Jahre + 14z = 0
+2w + 5x + 5y + 6z = 0
+mit Lösungen der Form (w, x, y, z), wobei w x, y und z reell sind. Welche der folgenden Aussagen ist FALSCH?",Das System ist konsistent.,Das System hat unendlich viele Lösungen.,Die Summe zweier beliebiger Lösungen ist eine Lösung.,"Jede Lösung ist ein skalares Vielfaches von (-5, 1, 1, 0).",D
+"Wenn c > 0 und f(x) = e^x - cx für alle reellen Zahlen x, dann ist der Minimalwert von f",f(c),f(e^c),f(1/c),f(log c),D
+"Angenommen, A ist eine 3 × 3-Matrix mit det(A − λI) = −λ^3 + 3λ^2 + λ − 3, wobei I die 3 × 3-Identitätsmatrix ist. Welche der folgenden Aussagen treffen auf A zu?
+I. Die Spur von A ist 3.
+II. Die Determinate von A ist −3.
+III. Die Matrix A hat die Eigenwerte −3 und 1.",ich nur,Nur II,Nur III,Nur I und II,D
+"Sei y = f(x) eine Lösung der Differentialgleichung x dy + (y - xe^x) dx = 0, so dass y = 0, wenn x = 1. Was ist der Wert von f(2)?",1/(a),1/e,e^2/2,2e,C
+"Eine faire Münze muss 100 Mal geworfen werden, wobei jeder Wurf Kopf oder Zahl ergibt. Wenn H die Gesamtzahl der Köpfe und T die Gesamtzahl der Zahlen ist, welches der folgenden Ereignisse hat die größte Wahrscheinlichkeit?",H = 50,T >= 60,51 <= H <= 55,H >= 48 und T >= 48,D
+"Aussage 1 | Angenommen, f: [a, b] ist eine Funktion und angenommen, f hat ein lokales Maximum. f'(x) muss existieren und gleich 0 sein? Aussage 2 | Es gibt nicht konstante kontinuierliche Abbildungen von R bis Q.","Wahr, wahr",Wahr falsch,Falsch Richtig,"False, False",D
+"Sei I != A != -I, wobei I die Identitätsmatrix und A eine reelle 2 x 2-Matrix ist. Wenn A = A^(-1), dann ist die Spur von A",2,1,0,-1,C
+"Insgesamt x Fuß Zaun sollen drei Seiten eines ebenen rechteckigen Hofes bilden. Was ist die maximal mögliche Fläche des Hofes, ausgedrückt in x?",x^2/9,x^2/8,x^2/4,x^2,B
+"Aussage 1 | Wenn A verbunden ist, muss der Abschluss von A verbunden sein. Aussage 2 | Jede stetige Funktion f : (0, 1) → (0, 1) hat einen Fixpunkt.","Wahr, wahr",Wahr falsch,Falsch Richtig,"False, False",B
+Welche der folgenden Mengen hat die größte Kardinalität?,R,Die Menge aller Funktionen von Z bis Z,"Die Menge aller Funktionen von R bis {0, 1}",Die Menge aller endlichen Teilmengen von R,C
+"Sei f(x) eine Funktion, deren Graph durch den Ursprung verläuft. Wenn f(2n) = n^2 + f[2(n - 1)] für jede ganze Zahl n, welchen Wert hat f(8)?",24,30,32,36,B
+Wie viele strukturell unterschiedliche Abelsche Gruppen haben die Ordnung 72?,4,6,8,9,B
+"Wenn die endliche Gruppe G eine Untergruppe der Ordnung sieben enthält, aber kein Element (außer der Identität) sein eigenes Inverses ist, dann könnte die Ordnung von G sein",27,28,35,37,C
+"Sei f(x, y) = x^3 + y^3 + 3xy für alle reellen x und y. Dann gibt es verschiedene Punkte P und Q, so dass f ein hat",lokales Maximum bei P und bei Q,Sattelpunkt bei P und bei Q,lokales Maximum bei P und einen Sattelpunkt bei Q,lokales Minimum bei P und ein Sattelpunkt bei Q,C
+"Wenn A eine Teilmenge der reellen Geraden R ist und A jede rationale Zahl enthält, welche der folgenden Aussagen muss dann wahr sein?","Wenn A offen ist, dann ist A = R.","Wenn A abgeschlossen ist, dann ist A = R.","Wenn A überzählbar ist, dann ist A = R.","Wenn A überzählbar ist, dann ist A offen.",B
+Sei M eine 5 x 5 reelle Matrix. Genau vier der folgenden fünf Bedingungen auf M sind äquivalent zueinander. Welche der fünf Bedingungen entspricht KEINER der anderen vier?,"Für zwei beliebige unterschiedliche Spaltenvektoren u und v von M ist die Menge {u, v} linear unabhängig.",Das homogene System Mx = 0 hat nur die triviale Lösung.,Das Gleichungssystem Mx = b hat für jeden reellen 5 x 1 Spaltenvektor b eine eindeutige Lösung.,Die Determinante von M ist ungleich Null.,A
+Wie viele positive Zahlen x erfüllen die Gleichung cos(97x) = x?,1,15,31,49,C
+"Für welchen der folgenden Ringe ist es möglich, dass das Produkt zweier von Null verschiedener Elemente Null ist?",Der Ring der komplexen Zahlen,Der Ring der ganzen Zahlen Modulo 11,"Der Ring stetiger reellwertiger Funktionen auf [0, 1]",Der Ring {a + b * sqrt(2): a und b sind rationale Zahlen},C
+"Die Abbildung x -> axa^2 einer Gruppe G in sich selbst ist genau dann ein Homomorphismus, wenn",G ist abelsch,D = {e},a^3 = e,a^2 = a,C
+"Wenn A die 2-mal-2-Matrix ist, deren (i, j)-Eintrag gleich i + j ist, und B die 3-mal-3-Matrix ist, deren (i, j)-Eintrag gleich i + j ist, ermitteln Sie den Wert der Summe detA + detB.",-2,-1,0,2,B
+"Wenn f: (0, 1) → (0, 1], welche der folgenden Aussagen könnte dann WAHR sein?
+I. f ist eins-zu-eins und weiter.
+II. Das Bild von f ist kompakt.
+III. f ist stetig, eins-zu-eins und on.",ich nur,Nur II,Nur I und II,Nur I und III,C
+"Wenn eine reelle Zahl x zufällig im Intervall [0, 3] ausgewählt wird und eine reelle Zahl y zufällig im Intervall [0, 4] ausgewählt wird, wie groß ist dann die Wahrscheinlichkeit, dass x < y?",1/2,7/12,5/8,2/3,C
+"Die Wahrscheinlichkeit, dass ein Punkt (x, y) in R^2 ausgewählt wird, folgt einer gleichmäßigen Zufallsverteilung innerhalb des durch die Ungleichung 0 < |x| beschriebenen Bereichs + |y| < 1 . Wie groß ist die Wahrscheinlichkeit, dass 2(x + y) > 1?",0,1/4,sqrt(2)/4,1/Quadrat(2),B
+(1+i)^10 =,1,i,32,32i,D
+"Wenn U und V dreidimensionale Unterräume von R^5 sind, was sind dann die möglichen Dimensionen von U ∩ V?",0,1,0 oder 1,"1, 2 oder 3",D
+"Sei S die Teilmenge von R^2, die aus allen Punkten (x, y) im Einheitsquadrat [0, 1] × [0, 1] besteht, für die x oder y oder beide irrational sind. In Bezug auf die Standardtopologie auf R^2 ist S",geschlossen,offen,in Verbindung gebracht,völlig unzusammenhängend,C
+Welcher der folgenden Kreise hat die meisten Schnittpunkte mit der Parabel x^2 = y + 4 ?,x^2 + y^2 = 1,x^2 + y^2 = 2,x^2 + y^2 = 9,x^2 + y^2 = 16,C
+"X ist eine endliche Menge mit der folgenden Eigenschaft: Die Anzahl der Teilmengen von X, die genau 3 Elemente enthalten, ist 14 größer als die Anzahl der Teilmengen von X, die genau 2 Elemente enthalten. Wie viele Teilmengen von X enthalten genau 4 Elemente?",24,25,28,35,D
+"Sei T: R^2 -> R^2 die lineare Transformation, die den Punkt (1, 2) auf (2, 3) und den Punkt (-1, 2) auf (2, -3) abbildet. Dann ordnet T den Punkt (2, 1) zu","(1, 6)","(-1, 4)","(3, 2)","(-4, 3)",A
