@@ -1,0 +1,251 @@
+Eingang,Ziel
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [",] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ [",] ] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < { { [ ] } } { < [ { { < > } } [ ( ) ( ) ] [ [ [ [ ( { < ( < ( [ ] ) > ) > } ) ] ] ] ] ] ( ) ( [ ] { } ) > } > [ { ( ( ) ) } ]",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ ] { < ( ) > } [ ] ( { }",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( ( < > ) ) ( { { } [ { } ] [ ] < ( ) > } ) )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ [ [ { } ] ] { < [ < [ { } ] > ] > }",] )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { { } }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( ( [ { } ] )",) ) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < > ] [ [ < > ]",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] ( [ [ { < { { ( < > [ ] ) } } < > > } ] ] { }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ] ( ) ( ( { { } } ) ) < { < > } > [ ] > ] < ( ) > ( ( ( ) ) ) ( < >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { < ( ) > }",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ( ( ) < ( ) > ( { { } } [ [ [ < ( [ ] ) ( ) > ] ] ] { { { { { } } } { { } { < [ [ ] ] > } } { } } } ) ) ] >",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( [ < > { [ { ( ) } ] < { < { } > [ ( < > ) ] } > } [ < > ] ] ) { { ( { ( ( [ ( [ ] ) ] < { } > ) ) { { ( [ [ ] ] ) } [ ( ) ] { { [ ] } } } } ) } ( { } ) }",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] { ( ( < { ( ( ( { < > ( ) } ) ) [ { } ] { { ( ) } } ) } < > >",) ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { < > } { (",) } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ < < { } >",> ] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( )",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( ) ) [ { ( < > ) }",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < < > > < ( < < < [ [ [ [ ] ] ] ] > > > ) [ < < [ ] > > ] { [ < > ] < > [ ( ) ] } { [ ]",} > ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( < [ < > ]",> ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( [ ] )",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( < > ) } ( ( [ ] ) < [ ( [ [ ] ] [ { } ] { } [ < { [ ] } > ] ( ) ) ]",> )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { < [ [ ( { } ) ] ]",> } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( [ [ ] ( ) ]",) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < { [ ] } >",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( < >",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < { ( < ( ) > ) }",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ < [ [ ] ] > ] ] { } { ( { ( ( ) ) ( ) { { [ [ ( { < { [ { [ ( < ( ( < < < [ ( ) ] [ ] > > > ) ) > < [ < { < ( ) > } > ] > ) ] } ] } > ( ( ) ) } ) [ ( ) ] ] ( < > ) ] } } } ) } [",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { } ( ( ) )",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ { { < ( ) > { < { } > ( < ( ) > { < [ ( { { ( < [ ] > ) } } { ( ( [ [ { } [ ] ] ] ) ) } ) ] > } ) } }",} ] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < [ ( )",] > )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ( [ < > ] { < > } [ [ ] ] ) ]",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( [ ( [ ] ) ] ) )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ ]",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { ( { } ) } < < ( ) { { < [ { [ ( ) ] } ] > } } > >",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( { }",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ [ [ < { ( ) } ( ) > { ( ) } ] { ( ) }",] ] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { } < { } < > (",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( [ < < > [ < { } > ] { < [ ] > ( ( ( [ [ { < > } ] ] ) ) ) ( < < > > ) } > ]",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < { } > { (",) } }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ [ { < > { } { } < < < < { } > > ( < ( ( ) ) [ ( [ ] ) ] > ) > > { } } [ < < > > ] < ( ) > ] ]",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < <",> > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { { } }",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { } [ [ ( ( < { < { [ ] } > } > ) )",] ] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { ( ( )",) } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( < { [ ( ) ] } >",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( { < { < { < > } > } > } ) ( ) ( { [ ( < ( < < { ( { < > } ) } > > ) > ) { ( { < ( { [ ] } ( ) ) > } < { < { { ( ) } } > { < [ { ( ) } ] > } } > ) } [ [ ( ) ] ] ]",} ) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] < { < { [ ( ) ] } > }",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ] > ] [ { [ ] }",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < > ( [ ( )",] ) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < { ( ) { } } ( < > ) >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < ( < >",) > >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { } ( ( < > )",) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < { < { } > { { ( [ ( { } ) ( ( [ ( [ ( { [ { } ] } ) ] ) ] ) ) [ < [ [ [ [ [ < > ] [ { [ [ { ( ( < [ ] > ) [ ( [ ] ) ] < { [ ] } > ) } ] ] } ] { < ( < > ) > } ] ] ] ] > ] ] ) } } } >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < < < >",> > )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < [ ( ) ] >",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < > {",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( [ [ [ [ ( ) ] ] { } ] ] )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ < > ]",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ [ [ [ ( ) ] ] ] ]",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < { ( { [ ] } ) } > { } ( [ { { { ( [ < > ] ) } } } ] ) { { ( { } ) } }",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( < [ { { } } ] > { } ) ( < > ) [ ( < > ) ] <",> )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < < { } > < > > ( )",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < ( < < > [ ] ( ) >",) > ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ < [ { < ( ) > } ] >",] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { < > < [ ] > [ < { } > ] [ ( { } ) ] [ ] [ ( ) ] ( ) < { { < { { { { { ( { } ) } ( { < > } ) } } } } > } }",> } ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ < [ ( [ < [ ] > ] ) ] > ] ( { }",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ ( )",] )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( { { < { < > } > } < { } > < < < [ < [ ] > ] > > >",} ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ < [ < { < { } > } > ( ( < { [ ] } > { { } } ) { } ) ] > ]",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( < { [ [ { [ [ ( [ < < > > ( ( [ ( ) ( { ( < [ ] > ) } ) ] ) ) ] ) ] ( ) ] } { [ [ ] ] } ] ] } > [ { < > } ]",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { [ { < { } > } ( ) ]",} }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ ] > ( ( ( { { { { ( ( { { } } ) ) } ( { } ) } } { { { [ { ( ) } ( ) ( ( { [ < < > > ] < < > > } ) ) ] ( { } { } ) } } } } )",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < [ < ( < [ ] > ) < > < { } > { < > { } { { < [ < < { } [ { } ] < > > > ] < > > } < [ [ ] ] > } } > ] [ ( ) ] > } [ { ( < ( ( ( [ { } ] ) ) ) > ) } ] [ < ( ) ( ( { ( ) [ { { ( { } ) } } ] } ) ) >",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < [ < ( ) > [ { [ { ( ) } ] } ] ] > [ { } ] ( < { < [ { } ] > } > ) ) ( ( < ( ) > [ ] [ < { ( ) } > ] [ { } ] [",] ) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { } < > { < { ( < > ) } >",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < [ ] > ( < > ) <",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ { { [ { [ { ( ( ) ) } ] } ( < < ( < > ) > { } [ [ [ ( < { } > ) ] ] ] { } > ) ( { } ) { } ] }",} ] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ ( [ ( ) [ < [ < > ] < > [ ] > ] < < ( ) ( ) > < { } > > [ < > ] ]",) ] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ { { < > [ ( ) ] ( ( ) ) } } ] > ] { { { ( < > )",} } }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < < > ( [ < { { } } ( ) > ] ) [ ( ) ] [ ] [ { } ] >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { ( { } ) < > }",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < [ ]",> }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { } ) < { < { } >",} >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( { < > } )",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( ( ) )",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ < < { [ ] ( [ [ ( [ [ { [ ] } ] ] ) ( ) ] ] ) ( ) [ ] < [ ( ( ( ) ) ) ] < < < > [ ( ) ] > [ ] > > [ < > ] } > >",] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { { < { } < ( ( < > ) ) > > } } { [ [ { } ] ] [ ] < < { } > [ ( ) { ( { } ) } ] > ( [ < [ ( ( { } ( ) < > < [ < < { { ( [ { } ] ) } } { } { } > > ] > ( ) ) ) < > ] > ] )",} }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ { { < ( ) > } } ]",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < ( [ ( ( [ < { ( { } ) } < < > > > ] ) ) ] ) >",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { ( { [ [ { < [ ] > } ] ] } ) [ ( < { < > } > ) ]",} }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ < [ ] > ] ] <",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < > [ [ < [ ] > ]",] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( { < > ( ) [ { < ( < > < ( ( ) ( [ { } ] ) ) > { { } { ( ) } } ) [ ] > } ] { { } } }",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( ( [ < [ < [ ( [ { < ( < ( ( ) ) { } [ ] > ) > } ] ) { < > } ] [ < [ { ( < < { { [ < { [ [ < > [ ] ] ] } > ] { { { } } } } > > ) } ] > { < > { } } ] > ( [ ] ) ] > ] ) ( )",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < { } >",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { ( )",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( ( ( [ [ < [ { { [ ] } } ] > ] ] ( ) ) )",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < ( ( [ ] )",) > >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( { } )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < < { < < > > } > < < { < ( < > ) < > [ [ [ < ( ( ) ) > [ ] [ ] ] ] ] < ( ) > ( ) [ ( [ [ ] ] ) ] > } { } { < [ < { ( { } ) } > ] > } { { } } > >",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { [ ] }",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ { < ( [ ] < > ) > } ]",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { < [ < > ] > }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( [ ( [ < ( ) > [ < { } { [ ] } [ ] [ ] > { ( < { < > } > ) } ] ] ) ] )",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < ( [ ] ) >",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { < ( )",> } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < ( ) ( < [ ] > ( ) < [ [ { } { < > } < > ] ] > ) [ ] > [ ( < { [ ] } [ ] ( { [ < > ] < < > > (( < { } > ) ) } ) [ [ [ < < < ( ( ) ) > > > ] < < { [ ] } > > ( [ < > ] ) ] ] > ) ] < >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( [ [ ] ]",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( ( ) ) { < > { ( [ [ { } ] [ ( ) ] ] ) } [ { { { ( < [ ] > ) } { < > } } }",] } }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( < > ) { < < { ( ( ) { { { < > { } } [ < > ] ( ) } } ( ( ) ) ) < [ { { ( ( < > ) ) } } [ { < { } > } ] ( ) ] > } { [ ] } > > [ ] } > ( [ ] ) [ < { ( ( ( ) ( ) ) ) ( ) } > ] [ < ( )",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( { } )",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { < { ( ) } > } { ( { [ ] } ) }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ [ ] [ ]",] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < [ < ( [ ( ) ] < > < ( { } ) > ) < [ ] > > ] ( ) < [ < > ] >",> )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < < > > [ [ [ { { < { } ( { } ) > } } < { { { } } } < > > ] ] ( )",] )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { ( ( { } ) } ( ) ) < { (",) } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( { [ { } ] } [ ] [ ] )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { [ ( [ { ( { ( [ ( [ ] ) { ( < < [ ] > [ [ ] ] > ) } ] ) [ ] } ) } ] ) ] } { < [ ] > } (",) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ < [ ] > ] } { ( ) [ < > ] [ [ [ ] ]",] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ { ( < ( ( [ < < { } > < < [ ( { < < > > } ) ] > > > ] { } ) ) > ) } ] [ < < { } > ( < < ( ) < ( [ ] ) > > ( ( ) ) > ) > ] > ] < < {",} > >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ]",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { [ < > ] } < [ ( [ { } ] ) ] > < [ < > { } ] < ( [ ] ) > <",> > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( { [ ( ) ] } { { [ ] } } { } < > ) } [ < [ ( ) ]",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( < { < ( ) > } >",) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { < { ( ( { } ) ( ) ) } { } < { } > < > > } { } ( { ( { { } } ) [ ( ) ] } ) ) [ ( [ ]",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { < ( )",> } ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( [ < [ ] > { { [ [ ] ] } } ]",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < ( ) > { < > } ( < > ) < ( ) > [ ] < < < < ( ( ) ) < ( ) > > > > > {",} }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < > ( [ ]",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( < > ) > { } < { [ < > ]",} >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ] > [",] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < { < ( ( < { } { < < { { { } } } > < < < > [ ] > { } ( < { { ( [ ( ) ] ) } } > ) > > } > ) ) > } >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( ( [ { } ] )",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { { } } ] ( < { < [ ( ( ) ) ] > } >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < ( < < < [ < [ [ ] ( ( ) ) ] > < > ] > > > )",> }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( [ ] ) } [ ] ( { < > } ( { } ( { { } } ) ) ( [ ] ) ( ) ( < ( { { ( < { [ ( ) ] } > ) } } [ < [ ( [ { } ] [ < > < < > > ] ) ] > ] { < { } > } < > ) > )",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ < < > [ [ < > ] ] > ] ( < < < ( [ [ ] ] ) [ ( ( [ { { } } ] ) ) ] > >",> ) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ) ( (",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < [ ] > ( { [ ] } <",> ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < ( ) >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( ( ) ( { ( < ( ) > ) }",) ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ [ < > ] ] < ( ) > [ { } ] < [ [ ] ] > ( ) < { < [ ] < < [ [ { [ ] } ] ] > > ( [ ( ( ) ) ] ) > } > [ { { < > } } ] > < ( < { } { [ { [ ] } ] } >",) > ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < < < ( < < > > ) > > >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < >",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { ( ) { [ ] { ( ( { < > } ) ) ( < < > < > > < ( ( ) ) > ) } < ( < < < { } > > > ) > } }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ) ( < < { }",> > )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < ( [ ] ) > {",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < { } [ ] >",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < > } ( ) [ ] {",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ { { [ [ [ < ( < [ ] { [ ( [ ] ) ] [ ] < > } > ) > ] ( [ ] ) ] ] } }",] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { [ ] } > ( ) < [ [ { [ [ ] ] } ] ] ( ) [ < ( [ { } ] ) > ( ( ) ) ]",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { < { [ < { ( [ ] ) } > { ( { } ) } ( ) ] } > } [ < < > > ] { } [ ] < { }",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { [ [ { } ] ] }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( < { [ { } ] } > ) ) < {",} >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < < [ ( ) ] >",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ ] { { } { < ( { } ) > } } > ] ( {",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < < > ( [ [ { ( ( [ ] < > ) ) } ] { [ [ ] { } { [ { < > } ] } ( { { { { } } } } ) ] } ] ) (",) > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( (",) ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( ( { < ( { } ) > } )",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ < < { } > > ]",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ) { <",> }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( [ { ( < [ { ( ) { } } ] > ) < > } ]",) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < < { ( < > ) }",> > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { [ [ ] { { < > [ ( ) ( [ ] ) [ ] { < > } ] } } [ { [ ] } ] { ( ) }",] } }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { {",} }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( [ { ( < > ) } ] ) > { ( [",] ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { [ { ( < < < < > { } > { [ { } ] } > > ) } ] [ ] } ] [ < { { } } [ [ ( ( ) ) ] ] > ] [ ( ( [ ] )",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { < ( ) ( ( < > < ( ( < < > > ) ) { ( ) } > ) ) { { } }",> } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { [ < [ < { } > ] [ ] >",] } ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < [ ( < [ ( { [ ( ) ] [ ( ( { [ ] } ) ] } ) ] > ) ] <",> > >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { { } } ( < [ ] [ { } ] > ) ( { { } { { ( ) } } } ) { < { { [ ] } [ ( ) ] } ( < { [ < > ] } > ) < ( [ ] { ( < < [ ] > > ) [ { [ [ ( ( ) ) ] ] } ] } { } ) > ( { { [ [ ( ) ] ] } } )",> } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( ) { [ ] } [ ] [ ] { < { ( ( { } ) ) { [ { } ] } } > [ ] }",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( { ( < < > > )",} ) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( < >",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] { ( { < > } ) } [ ( ) ] { } [ { { ( < > ) } <",> } ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { { ( ) }",} ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ { [ ] } ] } [ [ { { } } [ < >",] ] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { ( < [ [ ] ] > )",} ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( ( [ ] ) )",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < < > > < > [ ] [",] )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ ( { { ( ( ) ) } } ) [ ( [ { } ] ) ] < { { < < < > [ < [ < ( [ ( { ( ( < < < < > > > { ( { { < ( ) > ( ) } } ) } > { } ) ) } ) ] ) > ] > ] > < { } > > } ( ) < { ( ) } > } > ] [ < ( ) > ]",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ { { { } } }",] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ ( { { ( { } ) } < < ( [ [ { } < [ { < [ { ( ) ( [ { } ] ) } ] < > > } ] ( < { ( [ ] ) } > ) > ] ( [ < ( ) > ] ) ] ) > > }",) ] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ (",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( {",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( < [ [ { [ < [ < ( [ ] ) > ] < > > ( < [ < [ < ( [ ( [ ] ) < ( ) > ] [ ( { ( ) } [ < { { { ( [ ] ) } } } > ] ) ] ) > ] > ] > ) ] } ] ] > ) ( { { { } } }",) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ [ < > ] (",) ] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ) ( { { [ ] } }",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < ( [ ] ) > < >",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [",] )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < [ [ ( ) ( ( { < { < { { } } > } > } ) ) ] ] > ( ) { ( ) }",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < > [ { [ [ ( [ ] ) [ < ( < > ) { [ ( { ( [ ( ( < ( ( < [ ] { < > } > [ ] ) ) > ) [ { } ] ) ] ) } ) ] } > ] ] ] } [ ] ] ) < [",] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( {",} ) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( [",] ) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { < { < > } > } [ ( < < > > ) [ { < ( ) > } ] ] [ ] } < ( { [ < [ { [ ( ) ] } ] > < { ( [ [ [ { } < > { ( < { [ ] } > ( ) ) } ] ] ] ) } > ] } )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ [ [ ( { ( ( < [ { < > } ] > { { [ ] } } ) ) } ( [ [ < > ] ] ) ) ] ] ] ) ( < > < [ ( ) ] > (",) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ) ( [ [ ] ] ) ( { [ { < { ( ) < [ [ < > { [ ( < ( < [ { < < ( [ ( ) ] [ ( < ( { [ ] } ) > ) ] [ < > ] ) > [ { ( < > ) } ] > } ] > ) > ) ] } ] ] > { } [ [ ] ] { } } > ( ( < > ) ) } ] }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( { ( ( { } ) ) ( ( [ ] ) ) } )",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < < > >",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ [ { } ] ]",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ) [ ( [ < { { ( { } ) } } >",] ) ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < > ] [ { < { } > { [ ( [ ( ) ] ) ]",} } ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( < ( [ < < [ ] > > ] )",> )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] { [ [ < { { { } } } > ] ] < [ { }",] > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( [ ( { } ) { < ( ( [ ] ) ) >",} ] )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { { { { { < < ( { ( { { < < [ < [ [ ] ] > ] [ ] > [ [ ] ] > ( < [ { < > < [ ] > } ] > ) } } ) } ) > > } } }",} } )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < ( [ ] ) > ] { [ { }",] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { [ { }",] } )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { [ { [ ] { [ [ ] ] } { ( ) } } { [ [ ( [ ] ) ] ] } ] } { < ( ) { [ [ ( ) { [ { { } } ] < > { < ( < { ( < ( [ ] ) > ) } > ) { [ ( < ( ) > ) ] } [ ] { } > } ( ) } ] [ ( ( { < > } ) ) ] ] } >",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ( ( < > < [ [ ] ] > ) { } )",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ { { { < > } }",} ] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { { < > } } < > < { { ( ) } } > { } } { < ( { [ < > ] [ ( ) < ( ) > { < ( ( ( ) ) ) > [ ] } ] < > ( < { } > ) }",) > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < > { < [ ] >",} ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ [ <",> ] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { }",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ [ < ( < { } > ) > ] ] [ [ ] ]",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < {",} >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < > } [ ( { ( { [ < > ] } ) ( ) } ) ] { [ < > ] } [ [ ( [ ]",) ] ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < { { { < [ ( < > { ( ) } ) ] > } } }",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < < ( )",> > }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ( ) <",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ { ( { [ < ( < [ ( ) ] > ) > ] } ) } ] [ ] [ ( { ( ) } ) ] < { ( ( ( ( ( < > ) ) ) ) ) [ < [ ( < > ) ] > [ [ ] ( ( { } { [ { < [ ] > } ] } < { } > < [ < > ] > [ ] ) ) ] ] } > { [ { ( )",} ] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < { < [ ( < > ) ( ( [ [ ] ] ) ) ( ( { } ) ) { [ ] } < ( < > ) > ] > }",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { < { { [ ] } < > [ ] } [ [ [ < [ [ ] ] > ] ] ] > } [ ] { { { { [ { } ] } ( < [ [ [ ] ] ] > ) < < ( { ( [ ] ) [ { { } } ] { [ ] } } ) [ [ { [ [ { ( { } ) [ ( ) { } ] { } } ] ] < > } ] ] > > }",} } )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < (",) >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { [ < { < ( ( ) ) > } >",] }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] [ ( [ [ ( ) ] ] ) < < [ ] > > < < >",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( { } ) { ( [ { ( ) } ] ( [ ] ) )",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < > { { { } } { } } ] < { } [ { [ ] }",] >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < > { { ( { } ) } { { ( ( ) ) } } }",}
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { { ( [ ] ) { ( )",} } }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( < { [ { } < ( { ( < < < { [ ( [ ( [ { { < [ { } < ( ) > ] > } } ] ) ] ) ] } > < > > ( ( < { } > ) ) > ) } ) > ] } > )",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { [ < > ] ( ( ( ( { { } } ) ) )",) } >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < < [ [ ] ( ) { < > ( [ { } { < > } { } ] ) } [ [ [ ( [ ( ) [ [ { < [ { { } } < { { < ( ) > } } > ] > } ] ] ] ) ] < < [ [ ( < < ( ) > > ) ] ] > > [ ] ] ] ] < ( [ ] ) > { ( ( < { } > ) ) } > >",]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < { [ < > ]",} >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < [ { ( ( < ( ( ) ) > ) ) } ]",>
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < ( ) < > > { < > } { ( ) ( < ( ) > ) } < < { [ ] }",> >
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] [ { } ] ( ( )",)
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ ] < { < > } > { (",) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < > < { { { [ ( ) ] } } } > ( { [ { ( [ ] { } ) } ]",} )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( <",> ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { ( { { { < ( < ( [ < < > > ] < > ) > ) > } [ ] }",} ) }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: { < { { } } > } < { } > { < { { [ < [ [ ] ] > ] } } > } ( ) { { [ { [ { } ] } ] ( [ { } ] )",} }
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: ( ( < < < ( ( ) ) ( [ ] ) > > { [ ] }",> ) )
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: [ < { { } }",> ]
+"Vervollständigen Sie den Rest der Sequenz und stellen Sie sicher, dass die Klammern richtig geschlossen sind. Eingabe: < < < > >",>

@@ -1,0 +1,1403 @@
+Eingang,Ziel
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Welcher ist der älteste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der letzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Tiere sind älter als 5 Jahre?
+Optionen:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist älter als Gwen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie alt sind die Giraffen kumuliert?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt der 70 cm große Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt die letzte Giraffe in alphabetischer Reihenfolge?
+Optionen:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind in der Tabelle?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin trägt den Vornamen eines berühmten Jazzmusikers?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Giraffen sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind jünger als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Giraffen gibt es in den Tabellen?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Tiere sind in der Tabelle aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 5 Jahre und wiegen mehr als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Giraffen sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind in der Tabelle?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie groß sind Pinguine im Durchschnitt?
+Optionen:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(E) 80",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Welcher ist der jüngste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind jünger als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie hoch ist das Gesamtgewicht der Pinguine?
+Optionen:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind älter als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind älter als 5 Jahre und wiegen mehr als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie alt ist Bernard?
+Optionen:
+(A) 7
+(B) 5
+(C) 9
+(D) 8
+(E) 12",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind jünger als 10 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt der letzte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 5 Jahre und wiegen mehr als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie heißt der 60 cm große Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt die letzte Giraffe?
+Optionen:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt das letzte Tier?
+Optionen:
+(A) Bernhard
+(B) Donna
+(C) Gladys
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt die letzte Giraffe in alphabetischer Reihenfolge?
+Optionen:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt der letzte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt die letzte Giraffe?
+Optionen:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Arten sind in der Tabelle aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Tiere sind in der Tabelle aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Welcher ist der älteste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind in der Tabelle?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Giraffen gibt es in den Tabellen?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der 0,6 m große Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind jünger als 8 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Tiere sind in der Tabelle aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Tiere sind älter als 5 Jahre?
+Optionen:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind älter als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie heißt der erste Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Welche ist die älteste Giraffe?
+Optionen:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Pinguine stehen in den Tabellen?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie alt sind die Pinguine insgesamt?
+Optionen:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin hat einen walisischen Namen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt der 70 cm große Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher ist der kleinste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist jünger als 7 Jahre?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der erste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der letzte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Spalten hat die Tabelle?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie groß ist Gwen?
+Optionen:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(E) 90",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie lautet die Nummer der Spalte mit den Namen (1, 2, 3 oder 4)?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der 9 Jahre alte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie schwer ist Louis?
+Optionen:
+(A) 11
+(B) 13
+(C) 15
+(D) 12",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie heißt der letzte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie alt sind die Pinguine insgesamt?
+Optionen:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie lautet die Nummer der Spalte mit den Gewichtungen (1, 2, 3 oder 4)?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind jünger als 10 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie hoch ist das kumulierte Alter der Tiere?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie groß sind Pinguine im Durchschnitt?
+Optionen:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(E) 80",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der erste Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt der letzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind jünger als 8 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der vorletzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Tiere sind in der Tabelle aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist jünger als Vincent und älter als Louis?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher ist der zweitjüngste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin hat den kürzesten Namen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Arten sind in den Tabellen aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Tiere sind in den Tabellen aufgeführt?
+Optionen:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind jünger als 8 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Tiere sind in den Tabellen aufgeführt?
+Optionen:
+(A) 5
+(B) 6
+(C) 7
+(D) 8
+(E) 9",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie alt sind die Pinguine insgesamt?
+Optionen:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt das letzte Tier?
+Optionen:
+(A) Bernhard
+(B) Donna
+(C) Gladys
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der erste Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie hoch ist das Gesamtgewicht der Pinguine?
+Optionen:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 5 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie hoch ist das kumulierte Alter der Pinguine und Giraffen?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der 60 cm große Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der letzte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt das letzte Tier in alphabetischer Reihenfolge?
+Optionen:
+(A) Jody
+(B) Louis
+(C) Louise
+(D) Marian
+(E) Vincent",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist zwei Jahre jünger als Vincent?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind jünger als 10 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind jünger als 8 Jahre und wiegen mehr als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der letzte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der letzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind in der Tabelle?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie alt sind die Pinguine insgesamt?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher ist der zweitschwerste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Welcher ist der älteste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der 60 cm große Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind älter als 5 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Was ist die kürzeste Höhe?
+Optionen:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(E) 90",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie hoch ist das Gesamtgewicht der Pinguine?
+Optionen:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher ist der größte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Arten sind in den Tabellen aufgeführt?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin teilt seinen Vornamen mit einem berühmten Maler?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Welcher ist der älteste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind älter als 5 Jahre und wiegen mehr als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind älter als 5 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist älter als die anderen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie groß sind Pinguine im Durchschnitt?
+Optionen:
+(A) 60
+(B) 65
+(C) 70
+(D) 75
+(E) 80",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist größer als die anderen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Was ist die kürzeste Höhe?
+Optionen:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(E) 90",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt das letzte Tier in alphabetischer Reihenfolge?
+Optionen:
+(A) Jody
+(B) Louis
+(C) Louise
+(D) Marian
+(E) Vincent",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Pinguine sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der zweite Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist jünger als Louis?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Pinguine sind älter als 5 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie viele Pinguine sind jünger als 8 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Welcher ist der älteste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind jünger als 8 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist älter als Bernard und jünger als Gwen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie alt sind die Pinguine insgesamt?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie heißt der letzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welche Tiere sind in der Tabelle aufgeführt?
+Optionen:
+(A) Bären
+(B) Krokodile
+(C) Elefanten
+(D) Giraffen
+(E) Pinguine",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Welche ist die älteste Giraffe?
+Optionen:
+(A) Jody
+(B) Gladys
+(C) Marian
+(D) Donna
+(E) Louise",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind älter als 5 Jahre und wiegen weniger als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie viele Pinguine sind jünger als 8 Jahre und wiegen mehr als 12 kg?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie heißt der letzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Welcher ist der größte Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie viele Pinguine sind jünger als 10 Jahre?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie hoch ist das Gesamtgewicht der Pinguine?
+Optionen:
+(A) 37
+(B) 49
+(C) 50
+(D) 62
+(E) 63",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie alt sind die Giraffen kumuliert?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie hoch ist das kumulierte Alter der Tiere?
+Optionen:
+(A) 26
+(B) 29
+(C) 41
+(D) 55
+(E) 67",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Was ist die größte Höhe?
+Optionen:
+(A) 50
+(B) 80
+(C) 60
+(D) 70
+(E) 90",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Welcher ist der kleinste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(A)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist ein Jahr jünger als Vincent?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher ist der älteste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher ist der schwerste Pinguin?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Anschließend löschen wir den Pinguin namens Bernard aus der Tabelle.
+Wie alt sind die Pinguine insgesamt?
+Optionen:
+(A) 24
+(B) 29
+(C) 36
+(D) 41
+(E) 48",(C)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist jünger, aber größer als Gwen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Und hier ist eine ähnliche Tabelle, jedoch mit Giraffen:
+Name, Alter, Größe (cm), Gewicht (kg)
+Jody, 5, 430, 620
+Gladys, 10, 420, 590
+Marian, 2, 310, 410
+Donna, 9, 440, 650
+Wie viele Pinguine stehen in den Tabellen?
+Optionen:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wie heißt der erste Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(B)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Welcher Pinguin ist ein Weibchen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(D)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Welcher Pinguin ist größer als die anderen?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(UND)
+"Hier ist eine Tabelle, in der die erste Zeile eine Überschrift und jede folgende Zeile ein Pinguin ist: Name, Alter, Größe (cm), Gewicht (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15 Zum Beispiel: Louis ist 7 Jahre alt, Gwen wiegt 15 kg, Bernard ist 80 cm groß. Wir fügen der Tabelle nun einen Pinguin hinzu:
+Jakobus, 12, 90, 12
+Wie heißt der letzte Pinguin in alphabetischer Reihenfolge?
+Optionen:
+(A) Louis
+(B) Bernhard
+(C) Vincent
+(D) Gwen
+(E) James",(C)

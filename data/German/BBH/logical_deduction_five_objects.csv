@@ -1,0 +1,1751 @@
+Eingang,Ziel
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Wachtel, eine Eule, ein Rabe, ein Falke und ein Rotkehlchen. Die Eule ist ganz links. Das Rotkehlchen steht links vom Raben. Die Wachtel ist ganz rechts. Der Rabe ist der Dritte von links.
+Optionen:
+(A) Die Wachtel ist ganz rechts
+(B) Die Eule ist ganz rechts
+(C) Der Rabe ist ganz rechts
+(D) Der Falke ist ganz rechts
+(E) Das Rotkehlchen steht ganz rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Fließheck, einen Bus, ein Cabrio, einen Traktor und einen Minivan. Der Traktor ist älter als der Bus. Der Minivan ist neuer als der Bus. Das Fließheck ist das zweitneueste. Der Minivan ist älter als das Cabrio.
+Optionen:
+(A) Das Fließheck ist das zweitälteste
+(B) Der Bus ist der zweitälteste
+(C) Das Cabriolet ist das zweitälteste
+(D) Der Traktor ist der zweitälteste
+(E) Der Minivan ist der zweitälteste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein grünes Buch, ein graues Buch, ein blaues Buch und ein orangefarbenes Buch. Das graue Buch befindet sich links vom grünen Buch. Das graue Buch ist das zweite von rechts. Das gelbe Buch befindet sich rechts vom orangefarbenen Buch. Das blaue Buch ist das zweite von links.
+Optionen:
+(A) Das gelbe Buch befindet sich ganz links
+(B) Das grüne Buch befindet sich ganz links
+(C) Das graue Buch befindet sich ganz links
+(D) Das blaue Buch befindet sich ganz links
+(E) Das orangefarbene Buch befindet sich ganz links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rabe, eine Eule, ein Kardinal, ein Kolibri und ein Rotkehlchen. Der Kardinal steht ganz rechts. Der Rabe steht links von der Eule. Das Rotkehlchen steht rechts vom Kolibri. Der Kolibri ist der dritte von links.
+Optionen:
+(A) Der Rabe ist der zweite von links
+(B) Die Eule ist die zweite von links
+(C) Der Kardinal ist der Zweite von links
+(D) Der Kolibri ist der zweite von links
+(E) Das Rotkehlchen ist das zweite von links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein orangefarbenes Buch, ein graues Buch, ein gelbes Buch und ein lila Buch. Das grüne Buch befindet sich ganz rechts. Das graue Buch befindet sich rechts vom orangefarbenen Buch. Das violette Buch befindet sich links vom gelben Buch. Das violette Buch befindet sich rechts vom grauen Buch.
+Optionen:
+(A) Das Grünbuch ist das zweite von rechts
+(B) Das orangefarbene Buch ist das zweite von rechts
+(C) Das graue Buch ist das zweite von rechts
+(D) Das gelbe Buch ist das zweite von rechts
+(E) Das lila Buch ist das zweite von rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein weißes Buch, ein grünes Buch, ein braunes Buch, ein graues Buch und ein orangefarbenes Buch. Das graue Buch befindet sich rechts vom orangefarbenen Buch. Das Grünbuch ist das zweite von rechts. Das braune Buch befindet sich rechts vom weißen Buch. Das braune Buch befindet sich links vom orangefarbenen Buch.
+Optionen:
+(A) Das Weißbuch ist das dritte von links
+(B) Das Grünbuch ist das dritte von links
+(C) Das braune Buch ist das dritte von links
+(D) Das graue Buch ist das dritte von links
+(E) Das orangefarbene Buch ist das dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, einen Bus, einen Minivan, einen Lastwagen und eine Limousine. Das Cabrio ist neuer als der LKW. Der Minivan ist der neueste. Der Bus ist der drittneueste. Der LKW ist neuer als die Limousine.
+Optionen:
+(A) Das Cabrio ist das neueste
+(B) Der Bus ist der neueste
+(C) Der Minivan ist der neueste
+(D) Der LKW ist der neueste
+(E) Die Limousine ist die neueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Ada, Dan, Joe und Mel. Ada landete vor Mel. Mel landete vor Dan. Joe landete hinter Dan. Ada wurde Zweite.
+Optionen:
+(A) Rob war Letzter
+(B) Ada ist als Letzte fertig geworden
+(C) Dan wurde Letzter
+(D) Joe wurde Letzter
+(E) Mel war Letzter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein weißes Buch, ein grünes Buch, ein braunes Buch, ein graues Buch und ein orangefarbenes Buch. Das graue Buch befindet sich rechts vom orangefarbenen Buch. Das Grünbuch ist das zweite von rechts. Das braune Buch befindet sich rechts vom weißen Buch. Das braune Buch befindet sich links vom orangefarbenen Buch.
+Optionen:
+(A) Das weiße Buch befindet sich ganz rechts
+(B) Das grüne Buch befindet sich ganz rechts
+(C) Das braune Buch befindet sich ganz rechts
+(D) Das graue Buch befindet sich ganz rechts
+(E) Das orangefarbene Buch befindet sich ganz rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, eine Limousine, einen Traktor, einen Minivan und eine Limousine. Der Traktor ist neuer als der Minivan. Der Traktor ist älter als die Limousine. Das Cabrio ist älter als die Limousine. Das Cabrio ist das zweitneueste.
+Optionen:
+(A) Das Cabriolet ist das zweitälteste
+(B) Die Limousine ist die zweitälteste
+(C) Der Traktor ist der zweitälteste
+(D) Der Minivan ist der zweitälteste
+(E) Die Limousine ist die zweitälteste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Kiwis, Birnen, Pfirsiche, Wollmispeln und Äpfel. Die Wollmispeln sind teurer als die Kiwis. Die Birnen sind teurer als die Pfirsiche. Die Äpfel sind teurer als die Wollmispeln. Die Äpfel sind günstiger als die Pfirsiche.
+Optionen:
+(A) Die Kiwis sind die zweitbilligsten
+(B) Die Birnen sind die zweitbilligsten
+(C) Die Pfirsiche sind die zweitbilligsten
+(D) Die Wollmispeln sind die zweitbilligsten
+(E) Die Äpfel sind die zweitbilligsten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Melonen, Pfirsiche, Wollmispeln und Kiwis. Die Pfirsiche sind teurer als die Orangen. Die Melonen sind teurer als die Pfirsiche. Die Kiwis sind die drittteuersten. Die Wollmispeln sind die zweitbilligsten.
+Optionen:
+(A) Die Orangen sind am teuersten
+(B) Die Melonen sind am teuersten
+(C) Die Pfirsiche sind die teuersten
+(D) Die Wollmispeln sind am teuersten
+(E) Die Kiwis sind die teuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch, ein grünes Buch und ein graues Buch. Das grüne Buch befindet sich links vom grauen Buch. Das braune Buch ist das dritte von links. Das graue Buch ist das zweite von rechts. Das gelbe Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das braune Buch ist das dritte von links
+(B) Das gelbe Buch ist das dritte von links
+(C) Das orangefarbene Buch ist das dritte von links
+(D) Das Grünbuch ist das dritte von links
+(E) Das graue Buch ist das dritte von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ada, Eli, Amy, Joe und Mel. Ada landete vor Eli. Amy landete unter Mel. Ada wurde Zweite. Mel landete vor Eli.
+Optionen:
+(A) Ada war als Erste fertig
+(B) Eli war Erster
+(C) Amy war als Erste fertig
+(D) Joe war Erster
+(E) Mel war als Erster fertig",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Orangen, Wollmispeln, Pflaumen und Kiwis. Die Pflaumen sind günstiger als die Kiwis. Die Pflaumen sind teurer als die Wassermelonen. Die Wollmispeln sind teurer als die Kiwis. Am teuersten sind die Orangen.
+Optionen:
+(A) Die Wassermelonen sind am billigsten
+(B) Die Orangen sind am billigsten
+(C) Die Wollmispeln sind am billigsten
+(D) Die Pflaumen sind am billigsten
+(E) Die Kiwis sind am günstigsten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein graues Buch, ein rotes Buch, ein schwarzes Buch und ein weißes Buch. Das graue Buch befindet sich links vom gelben Buch. Das weiße Buch befindet sich links vom roten Buch. Das schwarze Buch befindet sich rechts vom roten Buch. Das schwarze Buch befindet sich links vom grauen Buch.
+Optionen:
+(A) Das gelbe Buch befindet sich ganz rechts
+(B) Das graue Buch befindet sich ganz rechts
+(C) Das rote Buch befindet sich ganz rechts
+(D) Das schwarze Buch ist ganz rechts
+(E) Das weiße Buch befindet sich ganz rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Fließheck, ein Cabrio, einen Traktor, einen Lastwagen und eine Limousine. Der Traktor ist neuer als das Fließheck. Die Limousine ist die zweitneueste. Der LKW ist älter als das Fließheck. Das Cabriolet ist das zweitälteste.
+Optionen:
+(A) Das Fließheck ist das zweitälteste
+(B) Das Cabriolet ist das zweitälteste
+(C) Der Traktor ist der zweitälteste
+(D) Der LKW ist der zweitälteste
+(E) Die Limousine ist die zweitälteste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Wachtel, eine Eule, ein Rabe, ein Falke und ein Rotkehlchen. Die Eule ist ganz links. Das Rotkehlchen steht links vom Raben. Die Wachtel ist ganz rechts. Der Rabe ist der Dritte von links.
+Optionen:
+(A) Die Wachtel ist die zweite von rechts
+(B) Die Eule ist die zweite von rechts
+(C) Der Rabe ist der zweite von rechts
+(D) Der Falke ist der zweite von rechts
+(E) Das Rotkehlchen ist das zweite von rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Mel, Dan, Amy, Joe und Eve. Amy landete vor Dan. Mel war als Erster fertig. Joe landete vor Dan. Eve war als Letzte fertig.
+Optionen:
+(A) Mel war als Erster fertig
+(B) Dan war Erster
+(C) Amy war als Erste fertig
+(D) Joe war Erster
+(E) Eve war als Erste fertig",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Amy, Joe, Eve und Dan. Rob landete hinter Dan. Joe wurde Zweiter. Joe landete vor Eve. Eve landete vor Dan.
+Optionen:
+(A) Rob wurde Zweiter
+(B) Amy wurde Zweite
+(C) Joe wurde Zweiter
+(D) Eve wurde Zweite
+(E) Dan wurde Zweiter",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Äpfel, Mangos, Birnen und Melonen. Die Wassermelonen sind teurer als die Melonen. Die Mangos sind günstiger als die Birnen. Die Äpfel sind die zweitbilligsten. Die Wassermelonen sind günstiger als die Mangos.
+Optionen:
+(A) Die Wassermelonen sind die zweitbilligsten
+(B) Die Äpfel sind die zweitbilligsten
+(C) Die Mangos sind die zweitbilligsten
+(D) Die Birnen sind die zweitbilligsten
+(E) Die Melonen sind die zweitbilligsten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, ein Cabrio und ein Fließheck. Das Cabrio ist neuer als der LKW. Der Kombi ist neuer als das Fließheck. Das Cabrio ist älter als das Fließheck. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der LKW ist der neueste
+(B) Der Kombi ist der neueste
+(C) Das Motorrad ist das neueste
+(D) Das Cabrio ist das neueste
+(E) Das Fließheck ist das neueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ana, Rob, Amy, Dan und Joe. Rob landete hinter Dan. Joe landete hinter Ana. Joe landete vor Amy. Dan landete unterhalb von Amy.
+Optionen:
+(A) Ana ist als Letzte fertig geworden
+(B) Rob wurde Letzter
+(C) Amy war als Letzte fertig
+(D) Dan wurde Letzter
+(E) Joe wurde Letzter",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Bus, einen Lastwagen, ein Motorrad, eine Limousine und ein Fließheck. Die Limousine ist die zweitälteste. Das Fließheck ist neuer als das Motorrad. Das Motorrad ist neuer als die Limousine. Das Fließheck ist älter als der LKW.
+Optionen:
+(A) Der Bus ist der älteste
+(B) Der LKW ist der älteste
+(C) Das Motorrad ist das älteste
+(D) Die Limousine ist die älteste
+(E) Das Fließheck ist das älteste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein braunes Buch, ein graues Buch, ein schwarzes Buch und ein lila Buch. Das gelbe Buch befindet sich rechts vom violetten Buch. Das schwarze Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das dritte von links. Das braune Buch befindet sich ganz links.
+Optionen:
+(A) Das gelbe Buch ist das dritte von links
+(B) Das braune Buch ist das dritte von links
+(C) Das graue Buch ist das dritte von links
+(D) Das schwarze Buch ist das dritte von links
+(E) Das lila Buch ist das dritte von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Wollmispeln, Birnen, Pflaumen und Äpfel. Die Birnen sind die zweitbilligsten. Die Wollmispeln sind teurer als die Birnen. Die Pflaumen sind die zweitteuersten. Die Wassermelonen sind die teuersten.
+Optionen:
+(A) Die Wassermelonen sind die drittteuersten
+(B) Die Wollmispeln sind die drittteuersten
+(C) Die Birnen sind die drittteuersten
+(D) Die Pflaumen sind die drittteuersten
+(E) Die Äpfel sind die drittteuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Mel, Rob, Joe und Ada. Joe wurde Zweiter. Joe landete hinter Amy. Mel wurde Vorletzter. Ada war als Letzte fertig.
+Optionen:
+(A) Amy war als letzte fertig
+(B) Mel war Letzter
+(C) Rob wurde Letzter
+(D) Joe wurde Letzter
+(E) Ada ist als Letzte fertig geworden",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Eve, Mya, Rob und Dan. Joe landete hinter Dan. Mya war als Erste fertig. Dan landete vor Rob. Eve landete vor Rob.
+Optionen:
+(A) Joe wurde Vorletzter
+(B) Eve wurde Vorletzte
+(C) Mya belegte den vorletzten Platz
+(D) Rob wurde Vorletzter
+(E) Dan wurde Vorletzter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Mel, Rob, Joe und Ada. Joe wurde Zweiter. Joe landete hinter Amy. Mel wurde Vorletzter. Ada war als Letzte fertig.
+Optionen:
+(A) Amy war als Erste fertig
+(B) Mel war als Erster fertig
+(C) Rob war Erster
+(D) Joe war Erster
+(E) Ada war als Erste fertig",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Mel, Dan, Amy, Joe und Eve. Amy landete vor Dan. Mel war als Erster fertig. Joe landete vor Dan. Eve war als Letzte fertig.
+Optionen:
+(A) Mel wurde Zweiter
+(B) Dan wurde Zweiter
+(C) Amy wurde Zweite
+(D) Joe wurde Zweiter
+(E) Eve wurde Zweite",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Wachtel, ein Kolibri, ein Blauhäher, ein Habicht und ein Rotkehlchen. Das Rotkehlchen ist das zweite von links. Die Wachtel ist ganz links. Der Blauhäher befindet sich links vom Kolibri. Der Falke ist der dritte von links.
+Optionen:
+(A) Die Wachtel ist ganz rechts
+(B) Der Kolibri ist ganz rechts
+(C) Der Blauhäher ist ganz rechts
+(D) Der Falke ist ganz rechts
+(E) Das Rotkehlchen steht ganz rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Wachtel, eine Eule, ein Rabe, ein Falke und ein Rotkehlchen. Die Eule ist ganz links. Das Rotkehlchen steht links vom Raben. Die Wachtel ist ganz rechts. Der Rabe ist der Dritte von links.
+Optionen:
+(A) Die Wachtel ist die dritte von links
+(B) Die Eule ist die dritte von links
+(C) Der Rabe ist der Dritte von links
+(D) Der Falke ist der Dritte von links
+(E) Das Rotkehlchen ist das dritte von links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Dan, Mel, Ana, Eli und Rob. Rob landete vor Mel. Mel wurde Zweiter. Ana landete vor Eli. Dan wurde Letzter.
+Optionen:
+(A) Dan wurde Vorletzter
+(B) Mel wurde Vorletzter
+(C) Ana wurde Vorletzte
+(D) Eli wurde Vorletzter
+(E) Rob wurde Vorletzter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein graues Buch, ein rotes Buch, ein gelbes Buch, ein blaues Buch und ein orangefarbenes Buch. Das graue Buch befindet sich rechts vom gelben Buch. Das orangefarbene Buch befindet sich rechts vom roten Buch. Das blaue Buch befindet sich ganz rechts. Das graue Buch befindet sich links vom roten Buch.
+Optionen:
+(A) Das graue Buch ist das zweite von links
+(B) Das rote Buch ist das zweite von links
+(C) Das gelbe Buch ist das zweite von links
+(D) Das blaue Buch ist das zweite von links
+(E) Das orangefarbene Buch ist das zweite von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Eli, Joe, Rob und Mya. Rob landete vor Mya. Eve war als Erste fertig. Joe landete vor Eli. Joe landete unter Mya.
+Optionen:
+(A) Eve wurde Vorletzte
+(B) Eli wurde Vorletzter
+(C) Joe wurde Vorletzter
+(D) Rob wurde Vorletzter
+(E) Mya belegte den vorletzten Platz",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein blaues Buch, ein braunes Buch, ein graues Buch und ein rotes Buch. Das grüne Buch befindet sich links vom braunen Buch. Das graue Buch befindet sich links vom blauen Buch. Das grüne Buch befindet sich rechts vom blauen Buch. Das rote Buch befindet sich ganz links.
+Optionen:
+(A) Das grüne Buch ist das zweite von links
+(B) Das blaue Buch ist das zweite von links
+(C) Das braune Buch ist das zweite von links
+(D) Das graue Buch ist das zweite von links
+(E) Das rote Buch ist das zweite von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Birnen, Mangos, Kiwis, Orangen und Pfirsiche. Die Pfirsiche sind teurer als die Mangos. Die Orangen sind teurer als die Kiwis. Am teuersten sind die Birnen. Die Mangos sind teurer als die Orangen.
+Optionen:
+(A) Die Birnen sind am billigsten
+(B) Die Mangos sind am billigsten
+(C) Die Kiwis sind am günstigsten
+(D) Die Orangen sind am billigsten
+(E) Die Pfirsiche sind am billigsten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein lila Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das gelbe Buch befindet sich ganz rechts. Das schwarze Buch befindet sich links vom orangefarbenen Buch. Das orangefarbene Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das zweite von links.
+Optionen:
+(A) Das schwarze Buch ist das zweite von rechts
+(B) Das lila Buch ist das zweite von rechts
+(C) Das gelbe Buch ist das zweite von rechts
+(D) Das orangefarbene Buch ist das zweite von rechts
+(E) Das rote Buch ist das zweite von rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Eve, Mya, Rob und Dan. Joe landete hinter Dan. Mya war als Erste fertig. Dan landete vor Rob. Eve landete vor Rob.
+Optionen:
+(A) Joe wurde Dritter
+(B) Eve wurde Dritte
+(C) Mya wurde Dritte
+(D) Rob wurde Dritter
+(E) Dan wurde Dritter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kardinal, ein Rotkehlchen, ein Kolibri und eine Krähe. Der Kolibri befindet sich links von der Eule. Der Kolibri befindet sich rechts vom Kardinal. Die Krähe befindet sich links vom Rotkehlchen. Die Eule befindet sich links von der Krähe.
+Optionen:
+(A) Die Eule ist die zweite von links
+(B) Der Kardinal ist der Zweite von links
+(C) Das Rotkehlchen ist das zweite von links
+(D) Der Kolibri ist der zweite von links
+(E) Die Krähe ist die zweite von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Fließheck, ein Cabrio, einen Traktor, einen Lastwagen und eine Limousine. Der Traktor ist neuer als das Fließheck. Die Limousine ist die zweitneueste. Der LKW ist älter als das Fließheck. Das Cabriolet ist das zweitälteste.
+Optionen:
+(A) Das Fließheck ist das älteste
+(B) Das Cabrio ist das älteste
+(C) Der Traktor ist der älteste
+(D) Der LKW ist der älteste
+(E) Die Limousine ist die älteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ada, Eli, Amy, Joe und Mel. Ada landete vor Eli. Amy landete unter Mel. Ada wurde Zweite. Mel landete vor Eli.
+Optionen:
+(A) Ada wurde Dritte
+(B) Eli wurde Dritter
+(C) Amy wurde Dritte
+(D) Joe wurde Dritter
+(E) Mel wurde Dritter",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kardinal, ein Rotkehlchen, ein Kolibri und eine Krähe. Der Kolibri befindet sich links von der Eule. Der Kolibri befindet sich rechts vom Kardinal. Die Krähe befindet sich links vom Rotkehlchen. Die Eule befindet sich links von der Krähe.
+Optionen:
+(A) Die Eule ist ganz rechts
+(B) Der Kardinal steht ganz rechts
+(C) Das Rotkehlchen steht ganz rechts
+(D) Der Kolibri ist ganz rechts
+(E) Die Krähe ist ganz rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, eine Krähe, ein Rabe, ein Rotkehlchen und ein Kardinal. Der Rabe steht rechts von der Eule. Der Rabe ist der zweite von links. Das Rotkehlchen steht links von der Krähe. Das Rotkehlchen ist das zweite von rechts.
+Optionen:
+(A) Die Eule ist die dritte von links
+(B) Die Krähe ist die dritte von links
+(C) Der Rabe ist der Dritte von links
+(D) Das Rotkehlchen ist das dritte von links
+(E) Der Kardinal ist der Dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Kombi, einen Bus, ein Motorrad und einen Minivan. Der Minivan ist älter als das Motorrad. Der Bus ist der neueste. Der Traktor ist der drittneueste. Der Kombi ist der zweitälteste.
+Optionen:
+(A) Der Traktor ist der drittneueste
+(B) Der Kombi ist der drittneueste
+(C) Der Bus ist der drittneueste
+(D) Das Motorrad ist das drittneueste
+(E) Der Minivan ist der drittneueste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Kardinal, eine Krähe, ein Falke, ein Rotkehlchen und ein Blauhäher. Das Rotkehlchen steht rechts vom Kardinal. Der Kardinal steht rechts vom Blauhäher. Der Blauhäher ist der zweite von links. Die Krähe ist ganz rechts.
+Optionen:
+(A) Der Kardinal steht ganz rechts
+(B) Die Krähe ist ganz rechts
+(C) Der Falke ist ganz rechts
+(D) Das Rotkehlchen steht ganz rechts
+(E) Der Blauhäher ist ganz rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Blauhäher, ein Kardinal, ein Habicht, ein Kolibri und eine Wachtel. Die Wachtel befindet sich links vom Blauhäher. Der Kardinal ist der Dritte von links. Die Wachtel ist die zweite von links. Der Blauhäher befindet sich links vom Kolibri.
+Optionen:
+(A) Der Blauhäher ist der zweite von links
+(B) Der Kardinal ist der Zweite von links
+(C) Der Falke ist der zweite von links
+(D) Der Kolibri ist der zweite von links
+(E) Die Wachtel ist die zweite von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, einen Lastwagen, einen Bus, eine Limousine und ein Motorrad. Der Bus ist neuer als der LKW. Der LKW ist neuer als das Cabrio. Die Limousine ist die zweitälteste. Das Motorrad ist neuer als der Bus.
+Optionen:
+(A) Das Cabrio ist das zweitneueste
+(B) Der LKW ist der zweitneueste
+(C) Der Bus ist der zweitneueste
+(D) Die Limousine ist die zweitneueste
+(E) Das Motorrad ist das zweitneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, eine Krähe, ein Rabe, ein Rotkehlchen und ein Kardinal. Der Rabe steht rechts von der Eule. Der Rabe ist der zweite von links. Das Rotkehlchen steht links von der Krähe. Das Rotkehlchen ist das zweite von rechts.
+Optionen:
+(A) Die Eule ist ganz links
+(B) Die Krähe ist ganz links
+(C) Der Rabe ist ganz links
+(D) Das Rotkehlchen ist ganz links
+(E) Der Kardinal steht ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Krähe, ein Falke, ein Habicht, ein Rotkehlchen und eine Wachtel. Das Rotkehlchen steht rechts vom Falken. Die Wachtel steht links vom Habicht. Das Rotkehlchen ist das zweite von links. Der Falke ist der zweite von rechts.
+Optionen:
+(A) Die Krähe ist ganz links
+(B) Der Falke ist ganz links
+(C) Der Falke ist ganz links
+(D) Das Rotkehlchen ist ganz links
+(E) Die Wachtel ist ganz links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein rotes Buch, ein lila Buch, ein graues Buch und ein weißes Buch. Das weiße Buch befindet sich rechts vom grauen Buch. Das blaue Buch befindet sich ganz links. Das rote Buch befindet sich links vom grauen Buch. Das rote Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch ist das zweite von rechts
+(B) Das rote Buch ist das zweite von rechts
+(C) Das lila Buch ist das zweite von rechts
+(D) Das graue Buch ist das zweite von rechts
+(E) Das Weißbuch ist das zweite von rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein schwarzes Buch und ein grünes Buch. Das lila Buch ist das dritte von links. Das gelbe Buch befindet sich links vom schwarzen Buch. Das grüne Buch befindet sich links vom violetten Buch. Das blaue Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das blaue Buch ist das zweite von links
+(B) Das lila Buch ist das zweite von links
+(C) Das gelbe Buch ist das zweite von links
+(D) Das schwarze Buch ist das zweite von links
+(E) Das Grünbuch ist das zweite von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Wollmispeln, Melonen, Wassermelonen und Kiwis. Die Wassermelonen sind teurer als die Wollmispeln. Die Wassermelonen sind günstiger als die Kiwis. Die Wollmispeln sind teurer als die Äpfel. Am günstigsten sind die Melonen.
+Optionen:
+(A) Die Äpfel sind am billigsten
+(B) Die Wollmispeln sind am billigsten
+(C) Die Melonen sind am billigsten
+(D) Die Wassermelonen sind am billigsten
+(E) Die Kiwis sind am günstigsten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Kombi, einen Minivan, eine Limousine und ein Fließheck. Der Minivan ist älter als die Limousine. Der Traktor ist älter als das Fließheck. Der Minivan ist der drittneueste. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der Traktor ist der zweitälteste
+(B) Der Kombi ist der zweitälteste
+(C) Der Minivan ist der zweitälteste
+(D) Die Limousine ist die zweitälteste
+(E) Das Fließheck ist das zweitälteste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein orangefarbenes Buch, ein graues Buch, ein gelbes Buch und ein lila Buch. Das grüne Buch befindet sich ganz rechts. Das graue Buch befindet sich rechts vom orangefarbenen Buch. Das violette Buch befindet sich links vom gelben Buch. Das violette Buch befindet sich rechts vom grauen Buch.
+Optionen:
+(A) Das grüne Buch befindet sich ganz links
+(B) Das orangefarbene Buch befindet sich ganz links
+(C) Das graue Buch befindet sich ganz links
+(D) Das gelbe Buch befindet sich ganz links
+(E) Das violette Buch befindet sich ganz links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Habicht, ein Rotkehlchen, eine Krähe und ein Rabe. Der Habicht befindet sich links von der Eule. Der Rabe ist der zweite von rechts. Das Rotkehlchen steht links vom Raben. Die Eule ist die zweite von links.
+Optionen:
+(A) Die Eule ist ganz rechts
+(B) Der Falke ist ganz rechts
+(C) Das Rotkehlchen steht ganz rechts
+(D) Die Krähe ist ganz rechts
+(E) Der Rabe ist ganz rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Dan, Mya, Eli und Mel. Amy landete vor Mel. Mya war als Erste fertig. Amy kam unter Eli ins Ziel. Dan wurde Letzter.
+Optionen:
+(A) Amy wurde Dritte
+(B) Dan wurde Dritter
+(C) Mya wurde Dritte
+(D) Eli wurde Dritter
+(E) Mel wurde Dritter",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kolibri, eine Krähe, ein Falke und ein Rotkehlchen. Der Habicht befindet sich rechts von der Eule. Der Kolibri befindet sich rechts vom Habicht. Die Krähe ist die zweite von rechts. Das Rotkehlchen ist das zweite von links.
+Optionen:
+(A) Die Eule ist die zweite von links
+(B) Der Kolibri ist der zweite von links
+(C) Die Krähe ist die zweite von links
+(D) Der Falke ist der zweite von links
+(E) Das Rotkehlchen ist das zweite von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rotkehlchen, eine Wachtel, eine Eule, eine Krähe und ein Habicht. Der Falke ist der dritte von links. Der Falke steht rechts von der Krähe. Die Wachtel befindet sich links von der Krähe. Das Rotkehlchen steht rechts von der Eule.
+Optionen:
+(A) Das Rotkehlchen ist ganz links
+(B) Die Wachtel ist ganz links
+(C) Die Eule ist ganz links
+(D) Die Krähe ist ganz links
+(E) Der Falke ist ganz links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Fließheck, eine Limousine, eine Limousine, einen Bus und einen Traktor. Der Traktor ist neuer als das Fließheck. Der Bus ist der zweitälteste. Das Fließheck ist neuer als die Limousine. Die Limousine ist die neueste.
+Optionen:
+(A) Das Fließheck ist das zweitälteste
+(B) Die Limousine ist die zweitälteste
+(C) Die Limousine ist die zweitälteste
+(D) Der Bus ist der zweitälteste
+(E) Der Traktor ist der zweitälteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Kardinal, ein Rotkehlchen, ein Blauhäher, eine Wachtel und ein Rabe. Das Rotkehlchen steht rechts vom Raben. Der Kardinal steht ganz links. Der Rabe befindet sich rechts vom Blauhäher. Der Blauhäher ist der Dritte von links.
+Optionen:
+(A) Der Kardinal steht ganz links
+(B) Das Rotkehlchen ist ganz links
+(C) Der Blauhäher ist ganz links
+(D) Die Wachtel ist ganz links
+(E) Der Rabe ist ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: eine Limousine, ein Cabrio, einen Kombi, einen Bus und ein Motorrad. Die Limousine ist die zweitneueste. Der Kombi ist neuer als das Cabrio. Die Limousine ist älter als das Motorrad. Der Bus ist der älteste.
+Optionen:
+(A) Die Limousine ist die neueste
+(B) Das Cabrio ist das neueste
+(C) Der Kombi ist der neueste
+(D) Der Bus ist der neueste
+(E) Das Motorrad ist das neueste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein blaues Buch, ein weißes Buch, ein lila Buch und ein gelbes Buch. Das blaue Buch befindet sich rechts vom gelben Buch. Das weiße Buch befindet sich links vom gelben Buch. Das blaue Buch ist das zweite von rechts. Das lila Buch ist das zweite von links.
+Optionen:
+(A) Das grüne Buch ist das dritte von links
+(B) Das blaue Buch ist das dritte von links
+(C) Das Weißbuch ist das dritte von links
+(D) Das lila Buch ist das dritte von links
+(E) Das gelbe Buch ist das dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Wachtel, eine Eule, ein Rabe, ein Falke und ein Rotkehlchen. Die Eule ist ganz links. Das Rotkehlchen steht links vom Raben. Die Wachtel ist ganz rechts. Der Rabe ist der Dritte von links.
+Optionen:
+(A) Die Wachtel ist ganz links
+(B) Die Eule ist ganz links
+(C) Der Rabe ist ganz links
+(D) Der Falke ist ganz links
+(E) Das Rotkehlchen ist ganz links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein graues Buch, ein rotes Buch, ein lila Buch, ein blaues Buch und ein schwarzes Buch. Das rote Buch befindet sich rechts vom grauen Buch. Das schwarze Buch befindet sich links vom blauen Buch. Das blaue Buch befindet sich links vom grauen Buch. Das lila Buch ist das zweite von rechts.
+Optionen:
+(A) Das graue Buch befindet sich ganz rechts
+(B) Das rote Buch befindet sich ganz rechts
+(C) Das violette Buch befindet sich ganz rechts
+(D) Das blaue Buch befindet sich ganz rechts
+(E) Das schwarze Buch befindet sich ganz rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch, ein grünes Buch und ein graues Buch. Das grüne Buch befindet sich links vom grauen Buch. Das braune Buch ist das dritte von links. Das graue Buch ist das zweite von rechts. Das gelbe Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das braune Buch ist das zweite von rechts
+(B) Das gelbe Buch ist das zweite von rechts
+(C) Das orangefarbene Buch ist das zweite von rechts
+(D) Das Grünbuch ist das zweite von rechts
+(E) Das graue Buch ist das zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Kombi, einen Minivan, eine Limousine und ein Fließheck. Der Minivan ist älter als die Limousine. Der Traktor ist älter als das Fließheck. Der Minivan ist der drittneueste. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der Traktor ist der älteste
+(B) Der Kombi ist der älteste
+(C) Der Minivan ist der älteste
+(D) Die Limousine ist die älteste
+(E) Das Fließheck ist das älteste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Rotkehlchen, ein Blauhäher, ein Habicht und ein Kolibri. Die Eule ist die zweite von rechts. Das Rotkehlchen ist das zweite von links. Das Rotkehlchen befindet sich rechts vom Blauhäher. Der Kolibri befindet sich rechts vom Habicht.
+Optionen:
+(A) Die Eule ist die zweite von rechts
+(B) Das Rotkehlchen ist das zweite von rechts
+(C) Der Blauhäher ist der zweite von rechts
+(D) Der Falke ist der zweite von rechts
+(E) Der Kolibri ist der zweite von rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: eine Limousine, ein Cabrio, einen Kombi, einen Bus und ein Motorrad. Die Limousine ist die zweitneueste. Der Kombi ist neuer als das Cabrio. Die Limousine ist älter als das Motorrad. Der Bus ist der älteste.
+Optionen:
+(A) Die Limousine ist die älteste
+(B) Das Cabrio ist das älteste
+(C) Der Kombi ist der älteste
+(D) Der Bus ist der älteste
+(E) Das Motorrad ist das älteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Mangos, Orangen, Pflaumen und Birnen. Die Orangen sind teurer als die Mangos. Am günstigsten sind die Pflaumen. Die Äpfel sind günstiger als die Mangos. Die Birnen sind teurer als die Orangen.
+Optionen:
+(A) Die Äpfel sind die zweitbilligsten
+(B) Die Mangos sind die zweitbilligsten
+(C) Die Orangen sind die zweitbilligsten
+(D) Die Pflaumen sind die zweitbilligsten
+(E) Die Birnen sind die zweitbilligsten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch, ein grünes Buch und ein graues Buch. Das grüne Buch befindet sich links vom grauen Buch. Das braune Buch ist das dritte von links. Das graue Buch ist das zweite von rechts. Das gelbe Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das braune Buch befindet sich ganz rechts
+(B) Das gelbe Buch befindet sich ganz rechts
+(C) Das orangefarbene Buch befindet sich ganz rechts
+(D) Das grüne Buch befindet sich ganz rechts
+(E) Das graue Buch befindet sich ganz rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Äpfel, Pfirsiche, Melonen und Wollmispeln. Die Wollmispeln sind günstiger als die Melonen. Die Melonen sind günstiger als die Äpfel. Am teuersten sind die Orangen. Die Äpfel sind die drittteuersten.
+Optionen:
+(A) Die Orangen sind die zweitbilligsten
+(B) Die Äpfel sind die zweitbilligsten
+(C) Die Pfirsiche sind die zweitbilligsten
+(D) Die Melonen sind die zweitbilligsten
+(E) Die Wollmispeln sind die zweitbilligsten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Eve, Mel, Mya und Rob. Eve war als Letzte fertig. Rob landete vor Mel. Amy landete vor Rob. Mya wurde Dritte.
+Optionen:
+(A) Amy wurde Dritte
+(B) Eve wurde Dritte
+(C) Mel wurde Dritter
+(D) Mya wurde Dritte
+(E) Rob wurde Dritter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, eine Limousine, einen Kombi, einen Bus und eine Limousine. Die Limousine ist neuer als der Kombi. Die Limousine ist die neueste. Der Bus ist der zweitneueste. Das Cabriolet ist das zweitälteste.
+Optionen:
+(A) Das Cabrio ist das neueste
+(B) Die Limousine ist die neueste
+(C) Der Kombi ist der neueste
+(D) Der Bus ist der neueste
+(E) Die Limousine ist die neueste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Birnen, Melonen, Wassermelonen und Wollmispeln. Die Mangos sind teurer als die Wollmispeln. Die Melonen sind teurer als die Mangos. Die Wassermelonen sind teurer als die Melonen. Am günstigsten sind die Birnen.
+Optionen:
+(A) Die Mangos sind die drittteuersten
+(B) Die Birnen sind die drittteuersten
+(C) Die Melonen sind die drittteuersten
+(D) Die Wassermelonen sind die drittteuersten
+(E) Die Wollmispeln sind die drittteuersten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Birnen, Melonen, Wassermelonen und Wollmispeln. Die Mangos sind teurer als die Wollmispeln. Die Melonen sind teurer als die Mangos. Die Wassermelonen sind teurer als die Melonen. Am günstigsten sind die Birnen.
+Optionen:
+(A) Die Mangos sind die zweitbilligsten
+(B) Die Birnen sind die zweitbilligsten
+(C) Die Melonen sind die zweitbilligsten
+(D) Die Wassermelonen sind die zweitbilligsten
+(E) Die Wollmispeln sind die zweitbilligsten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Rotkehlchen, ein Blauhäher, ein Habicht und ein Kolibri. Die Eule ist die zweite von rechts. Das Rotkehlchen ist das zweite von links. Das Rotkehlchen befindet sich rechts vom Blauhäher. Der Kolibri befindet sich rechts vom Habicht.
+Optionen:
+(A) Die Eule ist die dritte von links
+(B) Das Rotkehlchen ist das dritte von links
+(C) Der Blauhäher ist der Dritte von links
+(D) Der Falke ist der dritte von links
+(E) Der Kolibri ist der dritte von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, eine Limousine, einen Traktor, einen Minivan und eine Limousine. Der Traktor ist neuer als der Minivan. Der Traktor ist älter als die Limousine. Das Cabrio ist älter als die Limousine. Das Cabrio ist das zweitneueste.
+Optionen:
+(A) Das Cabrio ist das älteste
+(B) Die Limousine ist die älteste
+(C) Der Traktor ist der älteste
+(D) Der Minivan ist der älteste
+(E) Die Limousine ist die älteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Mel, Dan, Amy, Joe und Eve. Amy landete vor Dan. Mel war als Erster fertig. Joe landete vor Dan. Eve war als Letzte fertig.
+Optionen:
+(A) Mel wurde Vorletzter
+(B) Dan wurde Vorletzter
+(C) Amy wurde Vorletzte
+(D) Joe wurde Vorletzter
+(E) Eve wurde Vorletzte",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Wachtel, ein Kolibri, ein Blauhäher, ein Habicht und ein Rotkehlchen. Das Rotkehlchen ist das zweite von links. Die Wachtel ist ganz links. Der Blauhäher befindet sich links vom Kolibri. Der Falke ist der dritte von links.
+Optionen:
+(A) Die Wachtel ist die dritte von links
+(B) Der Kolibri ist der dritte von links
+(C) Der Blauhäher ist der Dritte von links
+(D) Der Falke ist der dritte von links
+(E) Das Rotkehlchen ist das dritte von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein rotes Buch, ein braunes Buch, ein gelbes Buch und ein orangefarbenes Buch. Das rote Buch befindet sich links vom braunen Buch. Das gelbe Buch befindet sich rechts vom orangefarbenen Buch. Das braune Buch ist das zweite von links. Das gelbe Buch befindet sich links vom blauen Buch.
+Optionen:
+(A) Das blaue Buch ist das zweite von links
+(B) Das rote Buch ist das zweite von links
+(C) Das braune Buch ist das zweite von links
+(D) Das gelbe Buch ist das zweite von links
+(E) Das orangefarbene Buch ist das zweite von links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein braunes Buch, ein graues Buch, ein schwarzes Buch und ein lila Buch. Das gelbe Buch befindet sich rechts vom violetten Buch. Das schwarze Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das dritte von links. Das braune Buch befindet sich ganz links.
+Optionen:
+(A) Das gelbe Buch ist das zweite von links
+(B) Das braune Buch ist das zweite von links
+(C) Das graue Buch ist das zweite von links
+(D) Das schwarze Buch ist das zweite von links
+(E) Das lila Buch ist das zweite von links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Äpfel, Mangos, Birnen und Melonen. Die Wassermelonen sind teurer als die Melonen. Die Mangos sind günstiger als die Birnen. Die Äpfel sind die zweitbilligsten. Die Wassermelonen sind günstiger als die Mangos.
+Optionen:
+(A) Die Wassermelonen sind die drittteuersten
+(B) Die Äpfel sind die drittteuersten
+(C) Die Mangos sind die drittteuersten
+(D) Die Birnen sind die drittteuersten
+(E) Die Melonen sind die drittteuersten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Mel, Rob, Joe und Ada. Joe wurde Zweiter. Joe landete hinter Amy. Mel wurde Vorletzter. Ada war als Letzte fertig.
+Optionen:
+(A) Amy wurde Zweite
+(B) Mel wurde Zweiter
+(C) Rob wurde Zweiter
+(D) Joe wurde Zweiter
+(E) Ada wurde Zweite",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Kombi, einen Bus, ein Motorrad und einen Minivan. Der Minivan ist älter als das Motorrad. Der Bus ist der neueste. Der Traktor ist der drittneueste. Der Kombi ist der zweitälteste.
+Optionen:
+(A) Der Traktor ist der zweitneueste
+(B) Der Kombi ist der zweitneueste
+(C) Der Bus ist der zweitneueste
+(D) Das Motorrad ist das zweitneueste
+(E) Der Minivan ist der zweitneueste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Orangen, Wassermelonen, Birnen und Mangos. Die Äpfel sind teurer als die Orangen. Die Orangen sind teurer als die Mangos. Die Äpfel sind die drittteuersten. Die Birnen sind teurer als die Wassermelonen.
+Optionen:
+(A) Die Äpfel sind am teuersten
+(B) Die Orangen sind am teuersten
+(C) Die Wassermelonen sind die teuersten
+(D) Die Birnen sind am teuersten
+(E) Die Mangos sind die teuersten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Kombi, eine Limousine, einen Traktor, ein Motorrad und eine Limousine. Der Traktor ist neuer als das Motorrad. Das Motorrad ist neuer als die Limousine. Die Limousine ist die älteste. Der Kombi ist der neueste.
+Optionen:
+(A) Der Kombi ist der neueste
+(B) Die Limousine ist die neueste
+(C) Der Traktor ist der neueste
+(D) Das Motorrad ist das neueste
+(E) Die Limousine ist die neueste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein rotes Buch, ein lila Buch, ein graues Buch und ein weißes Buch. Das weiße Buch befindet sich rechts vom grauen Buch. Das blaue Buch befindet sich ganz links. Das rote Buch befindet sich links vom grauen Buch. Das rote Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch befindet sich ganz rechts
+(B) Das rote Buch befindet sich ganz rechts
+(C) Das violette Buch befindet sich ganz rechts
+(D) Das graue Buch befindet sich ganz rechts
+(E) Das weiße Buch befindet sich ganz rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Orangen, Wassermelonen, Birnen und Mangos. Die Äpfel sind teurer als die Orangen. Die Orangen sind teurer als die Mangos. Die Äpfel sind die drittteuersten. Die Birnen sind teurer als die Wassermelonen.
+Optionen:
+(A) Die Äpfel sind die zweitteuersten
+(B) Die Orangen sind die zweitteuersten
+(C) Die Wassermelonen sind die zweitteuersten
+(D) Die Birnen sind die zweitteuersten
+(E) Die Mangos sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein orangefarbenes Buch, ein braunes Buch, ein gelbes Buch und ein blaues Buch. Das orangefarbene Buch befindet sich rechts vom gelben Buch. Das grüne Buch befindet sich ganz rechts. Das gelbe Buch befindet sich rechts vom blauen Buch. Das orangefarbene Buch ist das dritte von links.
+Optionen:
+(A) Das grüne Buch ist das zweite von links
+(B) Das orangefarbene Buch ist das zweite von links
+(C) Das braune Buch ist das zweite von links
+(D) Das gelbe Buch ist das zweite von links
+(E) Das blaue Buch ist das zweite von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das schwarze Buch befindet sich links vom gelben Buch. Das rote Buch ist das dritte von links. Das braune Buch ist das zweite von links. Das gelbe Buch befindet sich links vom orangefarbenen Buch.
+Optionen:
+(A) Das schwarze Buch ist das dritte von links
+(B) Das braune Buch ist das dritte von links
+(C) Das gelbe Buch ist das dritte von links
+(D) Das orangefarbene Buch ist das dritte von links
+(E) Das rote Buch ist das dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Kardinal, ein Rotkehlchen, ein Blauhäher, eine Wachtel und ein Rabe. Das Rotkehlchen steht rechts vom Raben. Der Kardinal steht ganz links. Der Rabe befindet sich rechts vom Blauhäher. Der Blauhäher ist der Dritte von links.
+Optionen:
+(A) Der Kardinal steht ganz rechts
+(B) Das Rotkehlchen steht ganz rechts
+(C) Der Blauhäher ist ganz rechts
+(D) Die Wachtel ist ganz rechts
+(E) Der Rabe ist ganz rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Dan, Ana, Eli, Mya und Amy. Amy landete vor Eli. Ana landete vor Amy. Mya landete unter Eli. Dan wurde Letzter.
+Optionen:
+(A) Dan wurde Dritter
+(B) Ana wurde Dritte
+(C) Eli wurde Dritter
+(D) Mya wurde Dritte
+(E) Amy wurde Dritte",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Ada, Dan, Joe und Mel. Ada landete vor Mel. Mel landete vor Dan. Joe landete hinter Dan. Ada wurde Zweite.
+Optionen:
+(A) Rob wurde Dritter
+(B) Ada wurde Dritte
+(C) Dan wurde Dritter
+(D) Joe wurde Dritter
+(E) Mel wurde Dritter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Kardinal, ein Rotkehlchen, ein Blauhäher, eine Wachtel und ein Rabe. Das Rotkehlchen steht rechts vom Raben. Der Kardinal steht ganz links. Der Rabe befindet sich rechts vom Blauhäher. Der Blauhäher ist der Dritte von links.
+Optionen:
+(A) Der Kardinal ist der Dritte von links
+(B) Das Rotkehlchen ist das dritte von links
+(C) Der Blauhäher ist der Dritte von links
+(D) Die Wachtel ist die dritte von links
+(E) Der Rabe ist der Dritte von links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein schwarzes Buch und ein grünes Buch. Das lila Buch ist das dritte von links. Das gelbe Buch befindet sich links vom schwarzen Buch. Das grüne Buch befindet sich links vom violetten Buch. Das blaue Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das blaue Buch befindet sich ganz links
+(B) Das violette Buch befindet sich ganz links
+(C) Das gelbe Buch befindet sich ganz links
+(D) Das schwarze Buch befindet sich ganz links
+(E) Das grüne Buch befindet sich ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Falke, ein Rabe, ein Kardinal, ein Habicht und eine Krähe. Der Kardinal ist der zweite von rechts. Der Falke steht rechts vom Falken. Der Rabe ist der zweite von links. Die Krähe ist ganz rechts.
+Optionen:
+(A) Der Falke ist ganz links
+(B) Der Rabe ist ganz links
+(C) Der Kardinal steht ganz links
+(D) Der Falke ist ganz links
+(E) Die Krähe ist ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Melonen, Pfirsiche, Wollmispeln und Kiwis. Die Pfirsiche sind teurer als die Orangen. Die Melonen sind teurer als die Pfirsiche. Die Kiwis sind die drittteuersten. Die Wollmispeln sind die zweitbilligsten.
+Optionen:
+(A) Die Orangen sind am billigsten
+(B) Die Melonen sind am billigsten
+(C) Die Pfirsiche sind am billigsten
+(D) Die Wollmispeln sind am billigsten
+(E) Die Kiwis sind am günstigsten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Minivan, ein Fließheck, einen Bus, ein Cabrio und ein Motorrad. Das Fließheck ist neuer als das Cabrio. Der Bus ist neuer als das Fließheck. Der Bus ist älter als das Motorrad. Der Minivan ist der neueste.
+Optionen:
+(A) Der Minivan ist der älteste
+(B) Das Fließheck ist das älteste
+(C) Der Bus ist der älteste
+(D) Das Cabrio ist das älteste
+(E) Das Motorrad ist das älteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rabe, eine Eule, ein Kardinal, ein Kolibri und ein Rotkehlchen. Der Kardinal steht ganz rechts. Der Rabe steht links von der Eule. Das Rotkehlchen steht rechts vom Kolibri. Der Kolibri ist der dritte von links.
+Optionen:
+(A) Der Rabe ist ganz links
+(B) Die Eule ist ganz links
+(C) Der Kardinal steht ganz links
+(D) Der Kolibri ist ganz links
+(E) Das Rotkehlchen ist ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Rob, Ana, Eli und Mya. Eli landete unterhalb von Mya. Eve war als Erste fertig. Ana landete unter Eli. Rob wurde Zweiter.
+Optionen:
+(A) Eve war als Erste fertig
+(B) Rob war Erster
+(C) Ana war als Erste fertig
+(D) Eli war Erster
+(E) Mya war als Erste fertig",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, eine Limousine und ein Fließheck. Das Motorrad ist das zweitneueste. Der LKW ist neuer als die Limousine. Das Motorrad ist älter als der Kombi. Die Limousine ist neuer als das Fließheck.
+Optionen:
+(A) Der LKW ist der drittneueste
+(B) Der Kombi ist der drittneueste
+(C) Das Motorrad ist das drittneueste
+(D) Die Limousine ist die drittneueste
+(E) Das Fließheck ist das drittneueste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Ana, Amy, Mya und Eve. Joe wurde Letzter. Ana wurde Zweite. Mya wurde Vorletzte. Eve landete unterhalb von Amy.
+Optionen:
+(A) Joe wurde Dritter
+(B) Ana wurde Dritte
+(C) Amy wurde Dritte
+(D) Mya wurde Dritte
+(E) Eve wurde Dritte",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: eine Limousine, eine Limousine, einen Bus, ein Fließheck und ein Motorrad. Das Fließheck ist älter als die Limousine. Das Fließheck ist das zweitälteste. Die Limousine ist älter als der Bus. Der Bus ist neuer als die Limousine. Der Bus ist der zweitneueste.
+Optionen:
+(A) Die Limousine ist die zweitälteste
+(B) Die Limousine ist die zweitälteste
+(C) Der Bus ist der zweitälteste
+(D) Das Fließheck ist das zweitälteste
+(E) Das Motorrad ist das zweitälteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein rotes Buch, ein lila Buch, ein graues Buch und ein weißes Buch. Das weiße Buch befindet sich rechts vom grauen Buch. Das blaue Buch befindet sich ganz links. Das rote Buch befindet sich links vom grauen Buch. Das rote Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch befindet sich ganz links
+(B) Das rote Buch befindet sich ganz links
+(C) Das violette Buch befindet sich ganz links
+(D) Das graue Buch befindet sich ganz links
+(E) Das weiße Buch befindet sich ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, ein Cabrio und ein Fließheck. Das Cabrio ist neuer als der LKW. Der Kombi ist neuer als das Fließheck. Das Cabrio ist älter als das Fließheck. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der LKW ist der zweitälteste
+(B) Der Kombi ist der zweitälteste
+(C) Das Motorrad ist das zweitälteste
+(D) Das Cabriolet ist das zweitälteste
+(E) Das Fließheck ist das zweitälteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Krähe, ein Falke, ein Habicht, ein Rotkehlchen und eine Wachtel. Das Rotkehlchen steht rechts vom Falken. Die Wachtel steht links vom Habicht. Das Rotkehlchen ist das zweite von links. Der Falke ist der zweite von rechts.
+Optionen:
+(A) Die Krähe ist die zweite von links
+(B) Der Falke ist der zweite von links
+(C) Der Falke ist der zweite von links
+(D) Das Rotkehlchen ist das zweite von links
+(E) Die Wachtel ist die zweite von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Minivan, ein Fließheck, einen Bus, ein Cabrio und ein Motorrad. Das Fließheck ist neuer als das Cabrio. Der Bus ist neuer als das Fließheck. Der Bus ist älter als das Motorrad. Der Minivan ist der neueste.
+Optionen:
+(A) Der Minivan ist der zweitälteste
+(B) Das Fließheck ist das zweitälteste
+(C) Der Bus ist der zweitälteste
+(D) Das Cabriolet ist das zweitälteste
+(E) Das Motorrad ist das zweitälteste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kardinal, ein Rotkehlchen, ein Kolibri und eine Krähe. Der Kolibri befindet sich links von der Eule. Der Kolibri befindet sich rechts vom Kardinal. Die Krähe befindet sich links vom Rotkehlchen. Die Eule befindet sich links von der Krähe.
+Optionen:
+(A) Die Eule ist die zweite von rechts
+(B) Der Kardinal ist der Zweite von rechts
+(C) Das Rotkehlchen ist das zweite von rechts
+(D) Der Kolibri ist der zweite von rechts
+(E) Die Krähe ist die zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Kombi, einen Traktor, einen Lastwagen, ein Fließheck und einen Minivan. Der Kombi ist neuer als der Traktor. Der LKW ist älter als der Traktor. Der Minivan ist neuer als das Fließheck. Das Fließheck ist das zweitneueste.
+Optionen:
+(A) Der Kombi ist der zweitälteste
+(B) Der Traktor ist der zweitälteste
+(C) Der LKW ist der zweitälteste
+(D) Das Fließheck ist das zweitälteste
+(E) Der Minivan ist der zweitälteste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein blaues Buch, ein weißes Buch, ein lila Buch und ein gelbes Buch. Das blaue Buch befindet sich rechts vom gelben Buch. Das weiße Buch befindet sich links vom gelben Buch. Das blaue Buch ist das zweite von rechts. Das lila Buch ist das zweite von links.
+Optionen:
+(A) Das Grünbuch ist das zweite von rechts
+(B) Das blaue Buch ist das zweite von rechts
+(C) Das Weißbuch ist das zweite von rechts
+(D) Das lila Buch ist das zweite von rechts
+(E) Das gelbe Buch ist das zweite von rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Minivan, ein Fließheck, einen Bus, ein Cabrio und ein Motorrad. Das Fließheck ist neuer als das Cabrio. Der Bus ist neuer als das Fließheck. Der Bus ist älter als das Motorrad. Der Minivan ist der neueste.
+Optionen:
+(A) Der Minivan ist der drittneueste
+(B) Das Fließheck ist das drittneueste
+(C) Der Bus ist der drittneueste
+(D) Das Cabriolet ist das drittneueste
+(E) Das Motorrad ist das drittneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein lila Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das gelbe Buch befindet sich ganz rechts. Das schwarze Buch befindet sich links vom orangefarbenen Buch. Das orangefarbene Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das zweite von links.
+Optionen:
+(A) Das schwarze Buch befindet sich ganz rechts
+(B) Das violette Buch befindet sich ganz rechts
+(C) Das gelbe Buch befindet sich ganz rechts
+(D) Das orangefarbene Buch befindet sich ganz rechts
+(E) Das rote Buch befindet sich ganz rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Krähe, ein Rotkehlchen, eine Wachtel, ein Blauhäher und ein Falke. Das Rotkehlchen steht links von der Wachtel. Der Falke ist der Dritte von links. Die Krähe steht links vom Falken. Der Blauhäher ist ganz links.
+Optionen:
+(A) Die Krähe ist die zweite von links
+(B) Das Rotkehlchen ist das zweite von links
+(C) Die Wachtel ist die zweite von links
+(D) Der Blauhäher ist der zweite von links
+(E) Der Falke ist der zweite von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Kombi, eine Limousine, einen Traktor, ein Motorrad und eine Limousine. Der Traktor ist neuer als das Motorrad. Das Motorrad ist neuer als die Limousine. Die Limousine ist die älteste. Der Kombi ist der neueste.
+Optionen:
+(A) Der Kombi ist der zweitälteste
+(B) Die Limousine ist die zweitälteste
+(C) Der Traktor ist der zweitälteste
+(D) Das Motorrad ist das zweitälteste
+(E) Die Limousine ist die zweitälteste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wollmispeln, Pfirsiche, Birnen, Pflaumen und Wassermelonen. Die Wassermelonen sind die teuersten. Die Pfirsiche sind teurer als die Wollmispeln. Die Pflaumen sind die zweitbilligsten. Die Birnen sind die drittteuersten.
+Optionen:
+(A) Die Wollmispeln sind am billigsten
+(B) Die Pfirsiche sind am billigsten
+(C) Die Birnen sind am billigsten
+(D) Die Pflaumen sind am billigsten
+(E) Die Wassermelonen sind am billigsten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Orangen, Wassermelonen, Birnen und Mangos. Die Äpfel sind teurer als die Orangen. Die Orangen sind teurer als die Mangos. Die Äpfel sind die drittteuersten. Die Birnen sind teurer als die Wassermelonen.
+Optionen:
+(A) Die Äpfel sind die zweitbilligsten
+(B) Die Orangen sind die zweitbilligsten
+(C) Die Wassermelonen sind die zweitbilligsten
+(D) Die Birnen sind die zweitbilligsten
+(E) Die Mangos sind die zweitbilligsten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rabe, eine Eule, ein Kardinal, ein Kolibri und ein Rotkehlchen. Der Kardinal steht ganz rechts. Der Rabe steht links von der Eule. Das Rotkehlchen steht rechts vom Kolibri. Der Kolibri ist der dritte von links.
+Optionen:
+(A) Der Rabe ist der zweite von rechts
+(B) Die Eule ist die zweite von rechts
+(C) Der Kardinal ist der Zweite von rechts
+(D) Der Kolibri ist der zweite von rechts
+(E) Das Rotkehlchen ist das zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein weißes Buch, ein graues Buch, ein lila Buch, ein gelbes Buch und ein schwarzes Buch. Das gelbe Buch befindet sich links vom weißen Buch. Das schwarze Buch befindet sich links vom gelben Buch. Das violette Buch befindet sich ganz rechts. Das weiße Buch befindet sich links vom grauen Buch.
+Optionen:
+(A) Das Weißbuch ist das zweite von links
+(B) Das graue Buch ist das zweite von links
+(C) Das lila Buch ist das zweite von links
+(D) Das gelbe Buch ist das zweite von links
+(E) Das schwarze Buch ist das zweite von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Amy, Ada, Rob und Joe. Amy wurde Vorletzte. Rob kam unterhalb von Eve ins Ziel. Ada landete vor Joe. Joe wurde Zweiter.
+Optionen:
+(A) Eve war als Letzte fertig
+(B) Amy war als letzte fertig
+(C) Ada ist als Letzte fertig geworden
+(D) Rob wurde Letzter
+(E) Joe wurde Letzter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein braunes Buch, ein graues Buch, ein schwarzes Buch und ein lila Buch. Das gelbe Buch befindet sich rechts vom violetten Buch. Das schwarze Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das dritte von links. Das braune Buch befindet sich ganz links.
+Optionen:
+(A) Das gelbe Buch ist das zweite von rechts
+(B) Das braune Buch ist das zweite von rechts
+(C) Das graue Buch ist das zweite von rechts
+(D) Das schwarze Buch ist das zweite von rechts
+(E) Das lila Buch ist das zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Mya, Eve, Amy und Ana. Eve landete unter Joe. Ana landete hinter Amy. Eve landete vor Amy. Mya landete vor Joe.
+Optionen:
+(A) Joe wurde Dritter
+(B) Mya wurde Dritte
+(C) Eve wurde Dritte
+(D) Amy wurde Dritte
+(E) Ana wurde Dritte",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wollmispeln, Pfirsiche, Birnen, Pflaumen und Wassermelonen. Die Wassermelonen sind die teuersten. Die Pfirsiche sind teurer als die Wollmispeln. Die Pflaumen sind die zweitbilligsten. Die Birnen sind die drittteuersten.
+Optionen:
+(A) Die Wollmispeln sind am teuersten
+(B) Die Pfirsiche sind am teuersten
+(C) Die Birnen sind die teuersten
+(D) Die Pflaumen sind am teuersten
+(E) Die Wassermelonen sind die teuersten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Rob, Ana, Eli und Mya. Eli landete unterhalb von Mya. Eve war als Erste fertig. Ana landete unter Eli. Rob wurde Zweiter.
+Optionen:
+(A) Eve wurde Vorletzte
+(B) Rob wurde Vorletzter
+(C) Ana wurde Vorletzte
+(D) Eli wurde Vorletzter
+(E) Mya belegte den vorletzten Platz",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Dan, Ana, Eli, Mya und Amy. Amy landete vor Eli. Ana landete vor Amy. Mya landete unter Eli. Dan wurde Letzter.
+Optionen:
+(A) Dan wurde Zweiter
+(B) Ana wurde Zweite
+(C) Eli wurde Zweiter
+(D) Mya wurde Zweite
+(E) Amy wurde Zweite",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Kiwis, Birnen, Pfirsiche, Wollmispeln und Äpfel. Die Wollmispeln sind teurer als die Kiwis. Die Birnen sind teurer als die Pfirsiche. Die Äpfel sind teurer als die Wollmispeln. Die Äpfel sind günstiger als die Pfirsiche.
+Optionen:
+(A) Die Kiwis sind die zweitteuersten
+(B) Die Birnen sind die zweitteuersten
+(C) Die Pfirsiche sind die zweitteuersten
+(D) Die Wollmispeln sind die zweitteuersten
+(E) Die Äpfel sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Eve, Mel, Mya und Rob. Eve war als Letzte fertig. Rob landete vor Mel. Amy landete vor Rob. Mya wurde Dritte.
+Optionen:
+(A) Amy wurde Zweite
+(B) Eve wurde Zweite
+(C) Mel wurde Zweiter
+(D) Mya wurde Zweite
+(E) Rob wurde Zweiter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Habicht, ein Rotkehlchen, eine Krähe und ein Rabe. Der Habicht befindet sich links von der Eule. Der Rabe ist der zweite von rechts. Das Rotkehlchen steht links vom Raben. Die Eule ist die zweite von links.
+Optionen:
+(A) Die Eule ist die zweite von rechts
+(B) Der Falke ist der zweite von rechts
+(C) Das Rotkehlchen ist das zweite von rechts
+(D) Die Krähe ist die zweite von rechts
+(E) Der Rabe ist der zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kolibri, eine Krähe, ein Falke und ein Rotkehlchen. Der Habicht befindet sich rechts von der Eule. Der Kolibri befindet sich rechts vom Habicht. Die Krähe ist die zweite von rechts. Das Rotkehlchen ist das zweite von links.
+Optionen:
+(A) Die Eule ist die dritte von links
+(B) Der Kolibri ist der dritte von links
+(C) Die Krähe ist die dritte von links
+(D) Der Falke ist der dritte von links
+(E) Das Rotkehlchen ist das dritte von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, ein Cabrio und ein Fließheck. Das Cabrio ist neuer als der LKW. Der Kombi ist neuer als das Fließheck. Das Cabrio ist älter als das Fließheck. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der LKW ist der älteste
+(B) Der Kombi ist der älteste
+(C) Das Motorrad ist das älteste
+(D) Das Cabrio ist das älteste
+(E) Das Fließheck ist das älteste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, ein Cabrio und ein Fließheck. Das Cabrio ist neuer als der LKW. Der Kombi ist neuer als das Fließheck. Das Cabrio ist älter als das Fließheck. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der LKW ist der drittneueste
+(B) Der Kombi ist der drittneueste
+(C) Das Motorrad ist das drittneueste
+(D) Das Cabriolet ist das drittneueste
+(E) Das Fließheck ist das drittneueste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein graues Buch, ein rotes Buch, ein lila Buch, ein blaues Buch und ein schwarzes Buch. Das rote Buch befindet sich rechts vom grauen Buch. Das schwarze Buch befindet sich links vom blauen Buch. Das blaue Buch befindet sich links vom grauen Buch. Das lila Buch ist das zweite von rechts.
+Optionen:
+(A) Das graue Buch ist das dritte von links
+(B) Das rote Buch ist das dritte von links
+(C) Das lila Buch ist das dritte von links
+(D) Das blaue Buch ist das dritte von links
+(E) Das schwarze Buch ist das dritte von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein rotes Buch und ein graues Buch. Das gelbe Buch befindet sich rechts vom grauen Buch. Das violette Buch befindet sich links vom grauen Buch. Das rote Buch befindet sich rechts vom blauen Buch. Das lila Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch ist das zweite von rechts
+(B) Das lila Buch ist das zweite von rechts
+(C) Das gelbe Buch ist das zweite von rechts
+(D) Das rote Buch ist das zweite von rechts
+(E) Das graue Buch ist das zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wollmispeln, Pfirsiche, Birnen, Pflaumen und Wassermelonen. Die Wassermelonen sind die teuersten. Die Pfirsiche sind teurer als die Wollmispeln. Die Pflaumen sind die zweitbilligsten. Die Birnen sind die drittteuersten.
+Optionen:
+(A) Die Wollmispeln sind die zweitbilligsten
+(B) Die Pfirsiche sind die zweitbilligsten
+(C) Die Birnen sind die zweitbilligsten
+(D) Die Pflaumen sind die zweitbilligsten
+(E) Die Wassermelonen sind die zweitbilligsten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Dan, Ana, Eli, Mya und Amy. Amy landete vor Eli. Ana landete vor Amy. Mya landete unter Eli. Dan wurde Letzter.
+Optionen:
+(A) Dan wurde Vorletzter
+(B) Ana wurde Vorletzte
+(C) Eli wurde Vorletzter
+(D) Mya belegte den vorletzten Platz
+(E) Amy wurde Vorletzte",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das schwarze Buch befindet sich links vom gelben Buch. Das rote Buch ist das dritte von links. Das braune Buch ist das zweite von links. Das gelbe Buch befindet sich links vom orangefarbenen Buch.
+Optionen:
+(A) Das schwarze Buch ist das zweite von links
+(B) Das braune Buch ist das zweite von links
+(C) Das gelbe Buch ist das zweite von links
+(D) Das orangefarbene Buch ist das zweite von links
+(E) Das rote Buch ist das zweite von links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Amy, Joe, Eve und Dan. Rob landete hinter Dan. Joe wurde Zweiter. Joe landete vor Eve. Eve landete vor Dan.
+Optionen:
+(A) Rob wurde Vorletzter
+(B) Amy wurde Vorletzte
+(C) Joe wurde Vorletzter
+(D) Eve wurde Vorletzte
+(E) Dan wurde Vorletzter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Kombi, einen Traktor, einen Lastwagen, ein Fließheck und einen Minivan. Der Kombi ist neuer als der Traktor. Der LKW ist älter als der Traktor. Der Minivan ist neuer als das Fließheck. Das Fließheck ist das zweitneueste.
+Optionen:
+(A) Der Kombi ist der älteste
+(B) Der Traktor ist der älteste
+(C) Der LKW ist der älteste
+(D) Das Fließheck ist das älteste
+(E) Der Minivan ist der älteste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: eine Limousine, eine Limousine, einen Bus, ein Fließheck und ein Motorrad. Das Fließheck ist älter als die Limousine. Das Fließheck ist das zweitälteste. Die Limousine ist älter als der Bus. Der Bus ist neuer als die Limousine. Der Bus ist der zweitneueste.
+Optionen:
+(A) Die Limousine ist die zweitneueste
+(B) Die Limousine ist die zweitneueste
+(C) Der Bus ist der zweitneueste
+(D) Das Fließheck ist das zweitneueste
+(E) Das Motorrad ist das zweitneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Pflaumen, Äpfel, Pfirsiche und Kiwis. Die Äpfel sind günstiger als die Pfirsiche. Am günstigsten sind die Pflaumen. Die Kiwis sind die zweitgünstigsten. Die Wassermelonen sind teurer als die Pfirsiche.
+Optionen:
+(A) Die Wassermelonen sind die zweitteuersten
+(B) Die Pflaumen sind die zweitteuersten
+(C) Die Äpfel sind die zweitteuersten
+(D) Die Pfirsiche sind die zweitteuersten
+(E) Die Kiwis sind die zweitteuersten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Blauhäher, ein Kardinal, ein Habicht, ein Kolibri und eine Wachtel. Die Wachtel befindet sich links vom Blauhäher. Der Kardinal ist der Dritte von links. Die Wachtel ist die zweite von links. Der Blauhäher befindet sich links vom Kolibri.
+Optionen:
+(A) Der Blauhäher ist der zweite von rechts
+(B) Der Kardinal ist der Zweite von rechts
+(C) Der Falke ist der zweite von rechts
+(D) Der Kolibri ist der zweite von rechts
+(E) Die Wachtel ist die zweite von rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Kiwis, Pflaumen, Birnen und Wassermelonen. Die Kiwis sind günstiger als die Pflaumen. Die Birnen sind die drittteuersten. Die Kiwis sind die zweitgünstigsten. Die Wassermelonen sind die teuersten.
+Optionen:
+(A) Die Mangos sind am billigsten
+(B) Die Kiwis sind am günstigsten
+(C) Die Pflaumen sind am billigsten
+(D) Die Birnen sind am billigsten
+(E) Die Wassermelonen sind am billigsten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein lila Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das gelbe Buch befindet sich ganz rechts. Das schwarze Buch befindet sich links vom orangefarbenen Buch. Das orangefarbene Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das zweite von links.
+Optionen:
+(A) Das schwarze Buch ist das zweite von links
+(B) Das lila Buch ist das zweite von links
+(C) Das gelbe Buch ist das zweite von links
+(D) Das orangefarbene Buch ist das zweite von links
+(E) Das rote Buch ist das zweite von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, eine Krähe, ein Rabe, ein Rotkehlchen und ein Kardinal. Der Rabe steht rechts von der Eule. Der Rabe ist der zweite von links. Das Rotkehlchen steht links von der Krähe. Das Rotkehlchen ist das zweite von rechts.
+Optionen:
+(A) Die Eule ist ganz rechts
+(B) Die Krähe ist ganz rechts
+(C) Der Rabe ist ganz rechts
+(D) Das Rotkehlchen steht ganz rechts
+(E) Der Kardinal steht ganz rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kolibri, eine Krähe, ein Falke und ein Rotkehlchen. Der Habicht befindet sich rechts von der Eule. Der Kolibri befindet sich rechts vom Habicht. Die Krähe ist die zweite von rechts. Das Rotkehlchen ist das zweite von links.
+Optionen:
+(A) Die Eule ist die zweite von rechts
+(B) Der Kolibri ist der zweite von rechts
+(C) Die Krähe ist die zweite von rechts
+(D) Der Falke ist der zweite von rechts
+(E) Das Rotkehlchen ist das zweite von rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Blauhäher, ein Kardinal, ein Habicht, ein Kolibri und eine Wachtel. Die Wachtel befindet sich links vom Blauhäher. Der Kardinal ist der Dritte von links. Die Wachtel ist die zweite von links. Der Blauhäher befindet sich links vom Kolibri.
+Optionen:
+(A) Der Blauhäher ist ganz rechts
+(B) Der Kardinal steht ganz rechts
+(C) Der Falke ist ganz rechts
+(D) Der Kolibri ist ganz rechts
+(E) Die Wachtel ist ganz rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Birnen, Melonen, Wassermelonen und Wollmispeln. Die Mangos sind teurer als die Wollmispeln. Die Melonen sind teurer als die Mangos. Die Wassermelonen sind teurer als die Melonen. Am günstigsten sind die Birnen.
+Optionen:
+(A) Die Mangos sind die zweitteuersten
+(B) Die Birnen sind die zweitteuersten
+(C) Die Melonen sind die zweitteuersten
+(D) Die Wassermelonen sind die zweitteuersten
+(E) Die Wollmispeln sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Eve, Eli, Amy und Dan. Dan wurde Zweiter. Amy war unterhalb von Eve fertig. Dan war schneller als Eve. Amy landete vor Eli.
+Optionen:
+(A) Rob war Erster
+(B) Eve war als Erste fertig
+(C) Eli war Erster
+(D) Amy war als Erste fertig
+(E) Dan war Erster",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Mya, Eve, Amy und Ana. Eve landete unter Joe. Ana landete hinter Amy. Eve landete vor Amy. Mya landete vor Joe.
+Optionen:
+(A) Joe war Letzter
+(B) Mya war zuletzt fertig
+(C) Eve war als Letzte fertig
+(D) Amy war als Letzte fertig
+(E) Ana wurde Letzte",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Äpfel, Pfirsiche, Melonen und Wollmispeln. Die Wollmispeln sind günstiger als die Melonen. Die Melonen sind günstiger als die Äpfel. Am teuersten sind die Orangen. Die Äpfel sind die drittteuersten.
+Optionen:
+(A) Die Orangen sind die zweitteuersten
+(B) Die Äpfel sind die zweitteuersten
+(C) Die Pfirsiche sind die zweitteuersten
+(D) Die Melonen sind die zweitteuersten
+(E) Die Wollmispeln sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Ada, Dan, Joe und Mel. Ada landete vor Mel. Mel landete vor Dan. Joe landete hinter Dan. Ada wurde Zweite.
+Optionen:
+(A) Rob wurde Vorletzter
+(B) Ada wurde Vorletzte
+(C) Dan wurde Vorletzter
+(D) Joe wurde Vorletzter
+(E) Mel wurde Vorletzter",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Habicht, ein Rabe, ein Rotkehlchen, ein Kolibri und eine Krähe. Das Rotkehlchen ist ganz links. Der Rabe ist der zweite von links. Der Falke ist der zweite von rechts. Die Krähe ist die dritte von links.
+Optionen:
+(A) Der Falke ist ganz links
+(B) Der Rabe ist ganz links
+(C) Das Rotkehlchen ist ganz links
+(D) Der Kolibri ist ganz links
+(E) Die Krähe ist ganz links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Birnen, Mangos, Kiwis, Orangen und Pfirsiche. Die Pfirsiche sind teurer als die Mangos. Die Orangen sind teurer als die Kiwis. Am teuersten sind die Birnen. Die Mangos sind teurer als die Orangen.
+Optionen:
+(A) Die Birnen sind die drittteuersten
+(B) Die Mangos sind die drittteuersten
+(C) Die Kiwis sind die drittteuersten
+(D) Die Orangen sind die drittteuersten
+(E) Die Pfirsiche sind die drittteuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Eli, Joe, Rob und Mya. Rob landete vor Mya. Eve war als Erste fertig. Joe landete vor Eli. Joe landete unter Mya.
+Optionen:
+(A) Eve wurde Dritte
+(B) Eli wurde Dritter
+(C) Joe wurde Dritter
+(D) Rob wurde Dritter
+(E) Mya wurde Dritte",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, eine Limousine, einen Kombi, einen Bus und eine Limousine. Die Limousine ist neuer als der Kombi. Die Limousine ist die neueste. Der Bus ist der zweitneueste. Das Cabriolet ist das zweitälteste.
+Optionen:
+(A) Das Cabrio ist das zweitneueste
+(B) Die Limousine ist die zweitneueste
+(C) Der Kombi ist der zweitneueste
+(D) Der Bus ist der zweitneueste
+(E) Die Limousine ist die zweitneueste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Äpfel, Pfirsiche, Melonen und Wollmispeln. Die Wollmispeln sind günstiger als die Melonen. Die Melonen sind günstiger als die Äpfel. Am teuersten sind die Orangen. Die Äpfel sind die drittteuersten.
+Optionen:
+(A) Die Orangen sind am teuersten
+(B) Die Äpfel sind am teuersten
+(C) Die Pfirsiche sind die teuersten
+(D) Die Melonen sind die teuersten
+(E) Die Wollmispeln sind die teuersten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, einen Bus, einen Minivan, einen Lastwagen und eine Limousine. Das Cabrio ist neuer als der LKW. Der Minivan ist der neueste. Der Bus ist der drittneueste. Der LKW ist neuer als die Limousine.
+Optionen:
+(A) Das Cabriolet ist das drittneueste
+(B) Der Bus ist der drittneueste
+(C) Der Minivan ist der drittneueste
+(D) Der LKW ist der drittneueste
+(E) Die Limousine ist die drittneueste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein rotes Buch und ein graues Buch. Das gelbe Buch befindet sich rechts vom grauen Buch. Das violette Buch befindet sich links vom grauen Buch. Das rote Buch befindet sich rechts vom blauen Buch. Das lila Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch ist das dritte von links
+(B) Das lila Buch ist das dritte von links
+(C) Das gelbe Buch ist das dritte von links
+(D) Das rote Buch ist das dritte von links
+(E) Das graue Buch ist das dritte von links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Kiwis, Pflaumen, Birnen und Wassermelonen. Die Kiwis sind günstiger als die Pflaumen. Die Birnen sind die drittteuersten. Die Kiwis sind die zweitgünstigsten. Die Wassermelonen sind die teuersten.
+Optionen:
+(A) Die Mangos sind die zweitbilligsten
+(B) Die Kiwis sind die zweitbilligsten
+(C) Die Pflaumen sind die zweitbilligsten
+(D) Die Birnen sind die zweitbilligsten
+(E) Die Wassermelonen sind die zweitbilligsten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein blaues Buch, ein braunes Buch, ein graues Buch und ein rotes Buch. Das grüne Buch befindet sich links vom braunen Buch. Das graue Buch befindet sich links vom blauen Buch. Das grüne Buch befindet sich rechts vom blauen Buch. Das rote Buch befindet sich ganz links.
+Optionen:
+(A) Das grüne Buch befindet sich ganz links
+(B) Das blaue Buch befindet sich ganz links
+(C) Das braune Buch ist ganz links
+(D) Das graue Buch befindet sich ganz links
+(E) Das rote Buch befindet sich ganz links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Kolibri, eine Krähe, ein Falke und ein Rotkehlchen. Der Habicht befindet sich rechts von der Eule. Der Kolibri befindet sich rechts vom Habicht. Die Krähe ist die zweite von rechts. Das Rotkehlchen ist das zweite von links.
+Optionen:
+(A) Die Eule ist ganz links
+(B) Der Kolibri ist ganz links
+(C) Die Krähe ist ganz links
+(D) Der Falke ist ganz links
+(E) Das Rotkehlchen ist ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Ana, Amy, Mya und Eve. Joe wurde Letzter. Ana wurde Zweite. Mya wurde Vorletzte. Eve landete unterhalb von Amy.
+Optionen:
+(A) Joe wurde Vorletzter
+(B) Ana wurde Vorletzte
+(C) Amy wurde Vorletzte
+(D) Mya belegte den vorletzten Platz
+(E) Eve wurde Vorletzte",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Dan, Mya, Eli und Mel. Amy landete vor Mel. Mya war als Erste fertig. Amy kam unter Eli ins Ziel. Dan wurde Letzter.
+Optionen:
+(A) Amy wurde Zweite
+(B) Dan wurde Zweiter
+(C) Mya wurde Zweite
+(D) Eli wurde Zweiter
+(E) Mel wurde Zweiter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ana, Rob, Amy, Dan und Joe. Rob landete hinter Dan. Joe landete hinter Ana. Joe landete vor Amy. Dan landete unterhalb von Amy.
+Optionen:
+(A) Ana wurde Zweite
+(B) Rob wurde Zweiter
+(C) Amy wurde Zweite
+(D) Dan wurde Zweiter
+(E) Joe wurde Zweiter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, ein Motorrad, eine Limousine, einen Kombi und eine Limousine. Die Limousine ist älter als der Truck. Die Limousine ist neuer als das Motorrad. Der Kombi ist der älteste. Die Limousine ist neuer als die Limousine.
+Optionen:
+(A) Der LKW ist der zweitneueste
+(B) Das Motorrad ist das zweitneueste
+(C) Die Limousine ist die zweitneueste
+(D) Der Kombi ist der zweitneueste
+(E) Die Limousine ist die zweitneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Kombi, einen Minivan, eine Limousine und ein Fließheck. Der Minivan ist älter als die Limousine. Der Traktor ist älter als das Fließheck. Der Minivan ist der drittneueste. Der Kombi ist der zweitneueste.
+Optionen:
+(A) Der Traktor ist der neueste
+(B) Der Kombi ist der neueste
+(C) Der Minivan ist der neueste
+(D) Die Limousine ist die neueste
+(E) Das Fließheck ist das neueste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Habicht, ein Rabe, ein Rotkehlchen, ein Kolibri und eine Krähe. Das Rotkehlchen ist ganz links. Der Rabe ist der zweite von links. Der Falke ist der zweite von rechts. Die Krähe ist die dritte von links.
+Optionen:
+(A) Der Falke ist ganz rechts
+(B) Der Rabe ist ganz rechts
+(C) Das Rotkehlchen steht ganz rechts
+(D) Der Kolibri ist ganz rechts
+(E) Die Krähe ist ganz rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ana, Amy, Dan, Mya und Eve. Ana landete unter Mya. Dan landete vor Amy. Mya wurde Vorletzte. Eve landete unterhalb von Amy.
+Optionen:
+(A) Ana wurde Vorletzte
+(B) Amy wurde Vorletzte
+(C) Dan wurde Vorletzter
+(D) Mya belegte den vorletzten Platz
+(E) Eve wurde Vorletzte",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Bus, einen Lastwagen, ein Motorrad, eine Limousine und ein Fließheck. Die Limousine ist die zweitälteste. Das Fließheck ist neuer als das Motorrad. Das Motorrad ist neuer als die Limousine. Das Fließheck ist älter als der LKW.
+Optionen:
+(A) Der Bus ist der drittneueste
+(B) Der LKW ist der drittneueste
+(C) Das Motorrad ist das drittneueste
+(D) Die Limousine ist die drittneueste
+(E) Das Fließheck ist das drittneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Kombi, einen Bus, ein Motorrad und einen Minivan. Der Minivan ist älter als das Motorrad. Der Bus ist der neueste. Der Traktor ist der drittneueste. Der Kombi ist der zweitälteste.
+Optionen:
+(A) Der Traktor ist der zweitälteste
+(B) Der Kombi ist der zweitälteste
+(C) Der Bus ist der zweitälteste
+(D) Das Motorrad ist das zweitälteste
+(E) Der Minivan ist der zweitälteste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Blauhäher, ein Rotkehlchen, ein Kardinal, ein Habicht und ein Falke. Der Blauhäher ist ganz rechts. Das Rotkehlchen steht rechts vom Falken. Der Kardinal steht links vom Falken. Der Falke steht rechts vom Falken.
+Optionen:
+(A) Der Blauhäher ist ganz links
+(B) Das Rotkehlchen ist ganz links
+(C) Der Kardinal steht ganz links
+(D) Der Falke ist ganz links
+(E) Der Falke ist ganz links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ana, Amy, Dan, Mya und Eve. Ana landete unter Mya. Dan landete vor Amy. Mya wurde Vorletzte. Eve landete unterhalb von Amy.
+Optionen:
+(A) Ana wurde Zweite
+(B) Amy wurde Zweite
+(C) Dan wurde Zweiter
+(D) Mya wurde Zweite
+(E) Eve wurde Zweite",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Melonen, Pfirsiche, Wollmispeln und Kiwis. Die Pfirsiche sind teurer als die Orangen. Die Melonen sind teurer als die Pfirsiche. Die Kiwis sind die drittteuersten. Die Wollmispeln sind die zweitbilligsten.
+Optionen:
+(A) Die Orangen sind die zweitbilligsten
+(B) Die Melonen sind die zweitbilligsten
+(C) Die Pfirsiche sind die zweitbilligsten
+(D) Die Wollmispeln sind die zweitbilligsten
+(E) Die Kiwis sind die zweitbilligsten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein rotes Buch, ein braunes Buch, ein gelbes Buch und ein orangefarbenes Buch. Das rote Buch befindet sich links vom braunen Buch. Das gelbe Buch befindet sich rechts vom orangefarbenen Buch. Das braune Buch ist das zweite von links. Das gelbe Buch befindet sich links vom blauen Buch.
+Optionen:
+(A) Das blaue Buch befindet sich ganz rechts
+(B) Das rote Buch befindet sich ganz rechts
+(C) Das braune Buch befindet sich ganz rechts
+(D) Das gelbe Buch befindet sich ganz rechts
+(E) Das orangefarbene Buch befindet sich ganz rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein graues Buch, ein rotes Buch, ein schwarzes Buch und ein weißes Buch. Das graue Buch befindet sich links vom gelben Buch. Das weiße Buch befindet sich links vom roten Buch. Das schwarze Buch befindet sich rechts vom roten Buch. Das schwarze Buch befindet sich links vom grauen Buch.
+Optionen:
+(A) Das gelbe Buch befindet sich ganz links
+(B) Das graue Buch befindet sich ganz links
+(C) Das rote Buch befindet sich ganz links
+(D) Das schwarze Buch befindet sich ganz links
+(E) Das weiße Buch befindet sich ganz links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das schwarze Buch befindet sich links vom gelben Buch. Das rote Buch ist das dritte von links. Das braune Buch ist das zweite von links. Das gelbe Buch befindet sich links vom orangefarbenen Buch.
+Optionen:
+(A) Das schwarze Buch befindet sich ganz links
+(B) Das braune Buch ist ganz links
+(C) Das gelbe Buch befindet sich ganz links
+(D) Das orangefarbene Buch befindet sich ganz links
+(E) Das rote Buch befindet sich ganz links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Eve, Eli, Amy und Dan. Dan wurde Zweiter. Amy war unterhalb von Eve fertig. Dan war schneller als Eve. Amy landete vor Eli.
+Optionen:
+(A) Rob war Letzter
+(B) Eve war zuletzt fertig
+(C) Eli war Letzter
+(D) Amy war als Letzte fertig
+(E) Dan wurde Letzter",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein blaues Buch, ein weißes Buch, ein lila Buch und ein gelbes Buch. Das blaue Buch befindet sich rechts vom gelben Buch. Das weiße Buch befindet sich links vom gelben Buch. Das blaue Buch ist das zweite von rechts. Das lila Buch ist das zweite von links.
+Optionen:
+(A) Das grüne Buch befindet sich ganz rechts
+(B) Das blaue Buch befindet sich ganz rechts
+(C) Das weiße Buch befindet sich ganz rechts
+(D) Das violette Buch befindet sich ganz rechts
+(E) Das gelbe Buch befindet sich ganz rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Minivan, ein Fließheck, einen Bus, ein Cabrio und ein Motorrad. Das Fließheck ist neuer als das Cabrio. Der Bus ist neuer als das Fließheck. Der Bus ist älter als das Motorrad. Der Minivan ist der neueste.
+Optionen:
+(A) Der Minivan ist der zweitneueste
+(B) Das Fließheck ist das zweitneueste
+(C) Der Bus ist der zweitneueste
+(D) Das Cabrio ist das zweitneueste
+(E) Das Motorrad ist das zweitneueste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Wollmispeln, Birnen, Pflaumen und Äpfel. Die Birnen sind die zweitbilligsten. Die Wollmispeln sind teurer als die Birnen. Die Pflaumen sind die zweitteuersten. Die Wassermelonen sind die teuersten.
+Optionen:
+(A) Die Wassermelonen sind die teuersten
+(B) Die Wollmispeln sind am teuersten
+(C) Die Birnen sind die teuersten
+(D) Die Pflaumen sind am teuersten
+(E) Die Äpfel sind am teuersten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Amy, Eve, Mya und Ana. Mya landete vor Rob. Ana wurde unterhalb von Eve fertig. Amy wurde Zweite. Eve endete unterhalb von Mya.
+Optionen:
+(A) Rob wurde Dritter
+(B) Amy wurde Dritte
+(C) Eve wurde Dritte
+(D) Mya wurde Dritte
+(E) Ana wurde Dritte",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, eine Krähe, ein Rabe, ein Rotkehlchen und ein Kardinal. Der Rabe steht rechts von der Eule. Der Rabe ist der zweite von links. Das Rotkehlchen steht links von der Krähe. Das Rotkehlchen ist das zweite von rechts.
+Optionen:
+(A) Die Eule ist die zweite von rechts
+(B) Die Krähe ist die zweite von rechts
+(C) Der Rabe ist der zweite von rechts
+(D) Das Rotkehlchen ist das zweite von rechts
+(E) Der Kardinal ist der Zweite von rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Mel, Dan, Amy, Joe und Eve. Amy landete vor Dan. Mel war als Erster fertig. Joe landete vor Dan. Eve war als Letzte fertig.
+Optionen:
+(A) Mel wurde Dritter
+(B) Dan wurde Dritter
+(C) Amy wurde Dritte
+(D) Joe wurde Dritter
+(E) Eve wurde Dritte",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Pflaumen, Äpfel, Pfirsiche und Kiwis. Die Äpfel sind günstiger als die Pfirsiche. Am günstigsten sind die Pflaumen. Die Kiwis sind die zweitgünstigsten. Die Wassermelonen sind teurer als die Pfirsiche.
+Optionen:
+(A) Die Wassermelonen sind die drittteuersten
+(B) Die Pflaumen sind die drittteuersten
+(C) Die Äpfel sind die drittteuersten
+(D) Die Pfirsiche sind die drittteuersten
+(E) Die Kiwis sind die drittteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Äpfel, Kiwis, Melonen und Mangos. Die Melonen sind die zweitbilligsten. Die Mangos sind teurer als die Wassermelonen. Die Kiwis sind günstiger als die Äpfel. Die Kiwis sind teurer als die Mangos.
+Optionen:
+(A) Die Wassermelonen sind die teuersten
+(B) Die Äpfel sind am teuersten
+(C) Die Kiwis sind die teuersten
+(D) Die Melonen sind die teuersten
+(E) Die Mangos sind die teuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein schwarzes Buch, ein lila Buch, ein gelbes Buch, ein orangefarbenes Buch und ein rotes Buch. Das gelbe Buch befindet sich ganz rechts. Das schwarze Buch befindet sich links vom orangefarbenen Buch. Das orangefarbene Buch befindet sich links vom violetten Buch. Das schwarze Buch ist das zweite von links.
+Optionen:
+(A) Das schwarze Buch ist das dritte von links
+(B) Das lila Buch ist das dritte von links
+(C) Das gelbe Buch ist das dritte von links
+(D) Das orangefarbene Buch ist das dritte von links
+(E) Das rote Buch ist das dritte von links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein schwarzes Buch und ein grünes Buch. Das lila Buch ist das dritte von links. Das gelbe Buch befindet sich links vom schwarzen Buch. Das grüne Buch befindet sich links vom violetten Buch. Das blaue Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das blaue Buch befindet sich ganz rechts
+(B) Das violette Buch befindet sich ganz rechts
+(C) Das gelbe Buch befindet sich ganz rechts
+(D) Das schwarze Buch ist ganz rechts
+(E) Das grüne Buch befindet sich ganz rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Orangen, Wollmispeln, Pflaumen und Kiwis. Die Pflaumen sind günstiger als die Kiwis. Die Pflaumen sind teurer als die Wassermelonen. Die Wollmispeln sind teurer als die Kiwis. Am teuersten sind die Orangen.
+Optionen:
+(A) Die Wassermelonen sind die zweitteuersten
+(B) Die Orangen sind die zweitteuersten
+(C) Die Wollmispeln sind die zweitteuersten
+(D) Die Pflaumen sind die zweitteuersten
+(E) Die Kiwis sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein schwarzes Buch und ein grünes Buch. Das lila Buch ist das dritte von links. Das gelbe Buch befindet sich links vom schwarzen Buch. Das grüne Buch befindet sich links vom violetten Buch. Das blaue Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das blaue Buch ist das dritte von links
+(B) Das lila Buch ist das dritte von links
+(C) Das gelbe Buch ist das dritte von links
+(D) Das schwarze Buch ist das dritte von links
+(E) Das Grünbuch ist das dritte von links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Eule, ein Habicht, ein Rotkehlchen, eine Krähe und ein Rabe. Der Habicht befindet sich links von der Eule. Der Rabe ist der zweite von rechts. Das Rotkehlchen steht links vom Raben. Die Eule ist die zweite von links.
+Optionen:
+(A) Die Eule ist die zweite von links
+(B) Der Falke ist der zweite von links
+(C) Das Rotkehlchen ist das zweite von links
+(D) Die Krähe ist die zweite von links
+(E) Der Rabe ist der zweite von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, ein Motorrad, eine Limousine, einen Kombi und eine Limousine. Die Limousine ist älter als der Truck. Die Limousine ist neuer als das Motorrad. Der Kombi ist der älteste. Die Limousine ist neuer als die Limousine.
+Optionen:
+(A) Der LKW ist der älteste
+(B) Das Motorrad ist das älteste
+(C) Die Limousine ist die älteste
+(D) Der Kombi ist der älteste
+(E) Die Limousine ist die älteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ana, Rob, Amy, Dan und Joe. Rob landete hinter Dan. Joe landete hinter Ana. Joe landete vor Amy. Dan landete unterhalb von Amy.
+Optionen:
+(A) Ana wurde Vorletzte
+(B) Rob wurde Vorletzter
+(C) Amy wurde Vorletzte
+(D) Dan wurde Vorletzter
+(E) Joe wurde Vorletzter",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Cabrio, einen Bus, einen Minivan, einen Lastwagen und eine Limousine. Das Cabrio ist neuer als der LKW. Der Minivan ist der neueste. Der Bus ist der drittneueste. Der LKW ist neuer als die Limousine.
+Optionen:
+(A) Das Cabriolet ist das zweitälteste
+(B) Der Bus ist der zweitälteste
+(C) Der Minivan ist der zweitälteste
+(D) Der LKW ist der zweitälteste
+(E) Die Limousine ist die zweitälteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wollmispeln, Birnen, Wassermelonen, Kiwis und Pflaumen. Die Wollmispeln sind die drittteuersten. Die Wollmispeln sind teurer als die Wassermelonen. Die Pflaumen sind günstiger als die Wassermelonen. Die Kiwis sind teurer als die Birnen.
+Optionen:
+(A) Die Wollmispeln sind die drittteuersten
+(B) Die Birnen sind die drittteuersten
+(C) Die Wassermelonen sind die drittteuersten
+(D) Die Kiwis sind die drittteuersten
+(E) Die Pflaumen sind die drittteuersten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rotkehlchen, eine Wachtel, eine Eule, eine Krähe und ein Habicht. Der Falke ist der dritte von links. Der Falke steht rechts von der Krähe. Die Wachtel befindet sich links von der Krähe. Das Rotkehlchen steht rechts von der Eule.
+Optionen:
+(A) Das Rotkehlchen ist ganz rechts
+(B) Die Wachtel ist ganz rechts
+(C) Die Eule ist ganz rechts
+(D) Die Krähe ist ganz rechts
+(E) Der Falke ist ganz rechts",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Amy, Ada, Rob und Joe. Amy wurde Vorletzte. Rob kam unterhalb von Eve ins Ziel. Ada landete vor Joe. Joe wurde Zweiter.
+Optionen:
+(A) Eve wurde Dritte
+(B) Amy wurde Dritte
+(C) Ada wurde Dritte
+(D) Rob wurde Dritter
+(E) Joe wurde Dritter",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein graues Buch, ein rotes Buch, ein gelbes Buch, ein blaues Buch und ein orangefarbenes Buch. Das graue Buch befindet sich rechts vom gelben Buch. Das orangefarbene Buch befindet sich rechts vom roten Buch. Das blaue Buch befindet sich ganz rechts. Das graue Buch befindet sich links vom roten Buch.
+Optionen:
+(A) Das graue Buch ist das dritte von links
+(B) Das rote Buch ist das dritte von links
+(C) Das gelbe Buch ist das dritte von links
+(D) Das blaue Buch ist das dritte von links
+(E) Das orangefarbene Buch ist das dritte von links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein weißes Buch, ein orangefarbenes Buch, ein gelbes Buch, ein blaues Buch und ein rotes Buch. Das gelbe Buch befindet sich links vom weißen Buch. Das rote Buch befindet sich rechts vom blauen Buch. Das gelbe Buch befindet sich rechts vom orangefarbenen Buch. Das blaue Buch befindet sich rechts vom weißen Buch.
+Optionen:
+(A) Das weiße Buch befindet sich ganz links
+(B) Das orangefarbene Buch befindet sich ganz links
+(C) Das gelbe Buch befindet sich ganz links
+(D) Das blaue Buch befindet sich ganz links
+(E) Das rote Buch befindet sich ganz links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Blauhäher, ein Rotkehlchen, ein Kardinal, ein Habicht und ein Falke. Der Blauhäher ist ganz rechts. Das Rotkehlchen steht rechts vom Falken. Der Kardinal steht links vom Falken. Der Falke steht rechts vom Falken.
+Optionen:
+(A) Der Blauhäher ist der Dritte von links
+(B) Das Rotkehlchen ist das dritte von links
+(C) Der Kardinal ist der Dritte von links
+(D) Der Falke ist der dritte von links
+(E) Der Falke ist der Dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Äpfel, Kiwis, Melonen und Mangos. Die Melonen sind die zweitbilligsten. Die Mangos sind teurer als die Wassermelonen. Die Kiwis sind günstiger als die Äpfel. Die Kiwis sind teurer als die Mangos.
+Optionen:
+(A) Die Wassermelonen sind die drittteuersten
+(B) Die Äpfel sind die drittteuersten
+(C) Die Kiwis sind die drittteuersten
+(D) Die Melonen sind die drittteuersten
+(E) Die Mangos sind die drittteuersten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Mya, Eve, Amy und Ana. Eve landete unter Joe. Ana landete hinter Amy. Eve landete vor Amy. Mya landete vor Joe.
+Optionen:
+(A) Joe wurde Zweiter
+(B) Mya wurde Zweite
+(C) Eve wurde Zweite
+(D) Amy wurde Zweite
+(E) Ana wurde Zweite",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Amy, Joe, Eve und Dan. Rob landete hinter Dan. Joe wurde Zweiter. Joe landete vor Eve. Eve landete vor Dan.
+Optionen:
+(A) Rob war Letzter
+(B) Amy war als letzte fertig
+(C) Joe war Letzter
+(D) Eve war als Letzte fertig
+(E) Dan wurde Letzter",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: ein Fließheck, einen Bus, ein Cabrio, einen Traktor und einen Minivan. Der Traktor ist älter als der Bus. Der Minivan ist neuer als der Bus. Das Fließheck ist das zweitneueste. Der Minivan ist älter als das Cabrio.
+Optionen:
+(A) Das Fließheck ist das älteste
+(B) Der Bus ist der älteste
+(C) Das Cabrio ist das älteste
+(D) Der Traktor ist der älteste
+(E) Der Minivan ist der älteste",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Melonen, Pflaumen, Orangen und Wassermelonen. Die Orangen sind teurer als die Wassermelonen. Die Wassermelonen sind die zweitgünstigsten. Die Pflaumen sind günstiger als die Melonen. Die Pflaumen sind die zweitteuersten.
+Optionen:
+(A) Die Mangos sind die drittteuersten
+(B) Die Melonen sind die drittteuersten
+(C) Die Pflaumen sind die drittteuersten
+(D) Die Orangen sind die drittteuersten
+(E) Die Wassermelonen sind die drittteuersten",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Joe, Eve, Mya, Rob und Dan. Joe landete hinter Dan. Mya war als Erste fertig. Dan landete vor Rob. Eve landete vor Rob.
+Optionen:
+(A) Joe wurde Zweiter
+(B) Eve wurde Zweite
+(C) Mya wurde Zweite
+(D) Rob wurde Zweiter
+(E) Dan wurde Zweiter",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Melonen, Pflaumen, Orangen und Wassermelonen. Die Orangen sind teurer als die Wassermelonen. Die Wassermelonen sind die zweitgünstigsten. Die Pflaumen sind günstiger als die Melonen. Die Pflaumen sind die zweitteuersten.
+Optionen:
+(A) Die Mangos sind die teuersten
+(B) Die Melonen sind am teuersten
+(C) Die Pflaumen sind am teuersten
+(D) Die Orangen sind am teuersten
+(E) Die Wassermelonen sind die teuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Kardinal, ein Habicht, ein Kolibri, ein Rabe und eine Eule. Der Rabe befindet sich links vom Kolibri. Der Habicht befindet sich links von der Eule. Der Kardinal steht links vom Falken. Der Rabe ist der zweite von rechts.
+Optionen:
+(A) Der Kardinal ist der Zweite von rechts
+(B) Der Falke ist der zweite von rechts
+(C) Der Kolibri ist der zweite von rechts
+(D) Der Rabe ist der zweite von rechts
+(E) Die Eule ist die zweite von rechts",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein lila Buch, ein gelbes Buch, ein rotes Buch und ein graues Buch. Das gelbe Buch befindet sich rechts vom grauen Buch. Das violette Buch befindet sich links vom grauen Buch. Das rote Buch befindet sich rechts vom blauen Buch. Das lila Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch befindet sich ganz rechts
+(B) Das violette Buch befindet sich ganz rechts
+(C) Das gelbe Buch befindet sich ganz rechts
+(D) Das rote Buch befindet sich ganz rechts
+(E) Das graue Buch befindet sich ganz rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ada, Eli, Amy, Joe und Mel. Ada landete vor Eli. Amy landete unter Mel. Ada wurde Zweite. Mel landete vor Eli.
+Optionen:
+(A) Ada wurde Vorletzte
+(B) Eli wurde Vorletzter
+(C) Amy wurde Vorletzte
+(D) Joe wurde Vorletzter
+(E) Mel wurde Vorletzter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Blauhäher, ein Rabe, eine Krähe, ein Falke und eine Wachtel. Die Krähe ist links von der Wachtel. Der Falke ist ganz links. Der Blauhäher befindet sich rechts von der Wachtel. Der Rabe ist der zweite von links.
+Optionen:
+(A) Der Blauhäher ist der zweite von rechts
+(B) Der Rabe ist der zweite von rechts
+(C) Die Krähe ist die zweite von rechts
+(D) Der Falke ist der zweite von rechts
+(E) Die Wachtel ist die zweite von rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, eine Limousine und ein Fließheck. Das Motorrad ist das zweitneueste. Der LKW ist neuer als die Limousine. Das Motorrad ist älter als der Kombi. Die Limousine ist neuer als das Fließheck.
+Optionen:
+(A) Der LKW ist der älteste
+(B) Der Kombi ist der älteste
+(C) Das Motorrad ist das älteste
+(D) Die Limousine ist die älteste
+(E) Das Fließheck ist das älteste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Bus, einen Lastwagen, ein Motorrad, eine Limousine und ein Fließheck. Die Limousine ist die zweitälteste. Das Fließheck ist neuer als das Motorrad. Das Motorrad ist neuer als die Limousine. Das Fließheck ist älter als der LKW.
+Optionen:
+(A) Der Bus ist der neueste
+(B) Der LKW ist der neueste
+(C) Das Motorrad ist das neueste
+(D) Die Limousine ist die neueste
+(E) Das Fließheck ist das neueste",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Wollmispeln, Melonen, Wassermelonen und Kiwis. Die Wassermelonen sind teurer als die Wollmispeln. Die Wassermelonen sind günstiger als die Kiwis. Die Wollmispeln sind teurer als die Äpfel. Am günstigsten sind die Melonen.
+Optionen:
+(A) Die Äpfel sind die drittteuersten
+(B) Die Wollmispeln sind die drittteuersten
+(C) Die Melonen sind die drittteuersten
+(D) Die Wassermelonen sind die drittteuersten
+(E) Die Kiwis sind die drittteuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Eve, Mel, Mya und Rob. Eve war als Letzte fertig. Rob landete vor Mel. Amy landete vor Rob. Mya wurde Dritte.
+Optionen:
+(A) Amy wurde Vorletzte
+(B) Eve wurde Vorletzte
+(C) Mel wurde Vorletzter
+(D) Mya belegte den vorletzten Platz
+(E) Rob wurde Vorletzter",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Pfirsiche, Wassermelonen, Birnen, Äpfel und Melonen. Die Wassermelonen sind die zweitgünstigsten. Die Äpfel sind am billigsten. Am teuersten sind die Pfirsiche. Die Birnen sind günstiger als die Melonen.
+Optionen:
+(A) Die Pfirsiche sind die zweitbilligsten
+(B) Die Wassermelonen sind die zweitbilligsten
+(C) Die Birnen sind die zweitbilligsten
+(D) Die Äpfel sind die zweitbilligsten
+(E) Die Melonen sind die zweitbilligsten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Traktor, einen Lastwagen, einen Bus, einen Minivan und ein Cabrio. Der Bus ist neuer als der Traktor. Das Cabrio ist älter als der Traktor. Der LKW ist der zweitneueste. Der Minivan ist älter als das Cabrio.
+Optionen:
+(A) Der Traktor ist der zweitälteste
+(B) Der LKW ist der zweitälteste
+(C) Der Bus ist der zweitälteste
+(D) Der Minivan ist der zweitälteste
+(E) Das Cabriolet ist das zweitälteste",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Amy, Ada, Rob und Joe. Amy wurde Vorletzte. Rob kam unterhalb von Eve ins Ziel. Ada landete vor Joe. Joe wurde Zweiter.
+Optionen:
+(A) Eve wurde Zweite
+(B) Amy wurde Zweite
+(C) Ada wurde Zweite
+(D) Rob wurde Zweiter
+(E) Joe wurde Zweiter",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Kiwis, Pflaumen, Birnen und Wassermelonen. Die Kiwis sind günstiger als die Pflaumen. Die Birnen sind die drittteuersten. Die Kiwis sind die zweitgünstigsten. Die Wassermelonen sind die teuersten.
+Optionen:
+(A) Die Mangos sind die zweitteuersten
+(B) Die Kiwis sind die zweitteuersten
+(C) Die Pflaumen sind die zweitteuersten
+(D) Die Birnen sind die zweitteuersten
+(E) Die Wassermelonen sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Wollmispeln, Melonen, Wassermelonen und Kiwis. Die Wassermelonen sind teurer als die Wollmispeln. Die Wassermelonen sind günstiger als die Kiwis. Die Wollmispeln sind teurer als die Äpfel. Am günstigsten sind die Melonen.
+Optionen:
+(A) Die Äpfel sind am teuersten
+(B) Die Wollmispeln sind am teuersten
+(C) Die Melonen sind die teuersten
+(D) Die Wassermelonen sind die teuersten
+(E) Die Kiwis sind die teuersten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein orangefarbenes Buch, ein braunes Buch, ein gelbes Buch und ein blaues Buch. Das orangefarbene Buch befindet sich rechts vom gelben Buch. Das grüne Buch befindet sich ganz rechts. Das gelbe Buch befindet sich rechts vom blauen Buch. Das orangefarbene Buch ist das dritte von links.
+Optionen:
+(A) Das grüne Buch ist das dritte von links
+(B) Das orangefarbene Buch ist das dritte von links
+(C) Das braune Buch ist das dritte von links
+(D) Das gelbe Buch ist das dritte von links
+(E) Das blaue Buch ist das dritte von links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Dan, Mel, Ana, Eli und Rob. Rob landete vor Mel. Mel wurde Zweiter. Ana landete vor Eli. Dan wurde Letzter.
+Optionen:
+(A) Dan war Erster
+(B) Mel war als Erster fertig
+(C) Ana war als Erste fertig
+(D) Eli war Erster
+(E) Rob war Erster",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Äpfel, Pfirsiche, Melonen und Wollmispeln. Die Wollmispeln sind günstiger als die Melonen. Die Melonen sind günstiger als die Äpfel. Am teuersten sind die Orangen. Die Äpfel sind die drittteuersten.
+Optionen:
+(A) Die Orangen sind am billigsten
+(B) Die Äpfel sind am billigsten
+(C) Die Pfirsiche sind am billigsten
+(D) Die Melonen sind am billigsten
+(E) Die Wollmispeln sind am billigsten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein blaues Buch, ein rotes Buch, ein lila Buch, ein graues Buch und ein weißes Buch. Das weiße Buch befindet sich rechts vom grauen Buch. Das blaue Buch befindet sich ganz links. Das rote Buch befindet sich links vom grauen Buch. Das rote Buch ist das dritte von links.
+Optionen:
+(A) Das blaue Buch ist das zweite von links
+(B) Das rote Buch ist das zweite von links
+(C) Das lila Buch ist das zweite von links
+(D) Das graue Buch ist das zweite von links
+(E) Das Weißbuch ist das zweite von links",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Lastwagen, einen Kombi, ein Motorrad, eine Limousine und ein Fließheck. Das Motorrad ist das zweitneueste. Der LKW ist neuer als die Limousine. Das Motorrad ist älter als der Kombi. Die Limousine ist neuer als das Fließheck.
+Optionen:
+(A) Der LKW ist der zweitneueste
+(B) Der Kombi ist der zweitneueste
+(C) Das Motorrad ist das zweitneueste
+(D) Die Limousine ist die zweitneueste
+(E) Das Fließheck ist das zweitneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Falke, ein Rabe, ein Kardinal, ein Habicht und eine Krähe. Der Kardinal ist der zweite von rechts. Der Falke steht rechts vom Falken. Der Rabe ist der zweite von links. Die Krähe ist ganz rechts.
+Optionen:
+(A) Der Falke ist der zweite von rechts
+(B) Der Rabe ist der zweite von rechts
+(C) Der Kardinal ist der Zweite von rechts
+(D) Der Falke ist der zweite von rechts
+(E) Die Krähe ist die zweite von rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Mangos, Kiwis, Wassermelonen, Orangen und Äpfel. Am günstigsten sind die Orangen. Die Kiwis sind günstiger als die Mangos. Die Wassermelonen sind teurer als die Äpfel. Die Wassermelonen sind günstiger als die Kiwis.
+Optionen:
+(A) Die Mangos sind die zweitteuersten
+(B) Die Kiwis sind die zweitteuersten
+(C) Die Wassermelonen sind die zweitteuersten
+(D) Die Orangen sind die zweitteuersten
+(E) Die Äpfel sind die zweitteuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein grünes Buch, ein orangefarbenes Buch, ein braunes Buch, ein gelbes Buch und ein blaues Buch. Das orangefarbene Buch befindet sich rechts vom gelben Buch. Das grüne Buch befindet sich ganz rechts. Das gelbe Buch befindet sich rechts vom blauen Buch. Das orangefarbene Buch ist das dritte von links.
+Optionen:
+(A) Das grüne Buch befindet sich ganz links
+(B) Das orangefarbene Buch befindet sich ganz links
+(C) Das braune Buch ist ganz links
+(D) Das gelbe Buch befindet sich ganz links
+(E) Das blaue Buch befindet sich ganz links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: einen Minivan, eine Limousine, eine Limousine, einen Traktor und ein Fließheck. Der Traktor ist der zweitneueste. Die Limousine ist neuer als das Fließheck. Die Limousine ist älter als die Limousine. Der Minivan ist neuer als die Limousine.
+Optionen:
+(A) Der Minivan ist der drittneueste
+(B) Die Limousine ist die drittneueste
+(C) Die Limousine ist die drittneueste
+(D) Der Traktor ist der drittneueste
+(E) Das Fließheck ist das drittneueste",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rotkehlchen, eine Eule, eine Wachtel, ein Kolibri und eine Krähe. Die Krähe steht rechts vom Rotkehlchen. Die Wachtel ist ganz links. Der Kolibri befindet sich rechts von der Eule. Die Krähe ist die dritte von links.
+Optionen:
+(A) Das Rotkehlchen ist das dritte von links
+(B) Die Eule ist die dritte von links
+(C) Die Wachtel ist die dritte von links
+(D) Der Kolibri ist der dritte von links
+(E) Die Krähe ist die dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Mangos, Orangen, Pflaumen und Birnen. Die Orangen sind teurer als die Mangos. Am günstigsten sind die Pflaumen. Die Äpfel sind günstiger als die Mangos. Die Birnen sind teurer als die Orangen.
+Optionen:
+(A) Die Äpfel sind am teuersten
+(B) Die Mangos sind die teuersten
+(C) Die Orangen sind am teuersten
+(D) Die Pflaumen sind am teuersten
+(E) Die Birnen sind die teuersten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Orangen, Wollmispeln, Pflaumen und Kiwis. Die Pflaumen sind günstiger als die Kiwis. Die Pflaumen sind teurer als die Wassermelonen. Die Wollmispeln sind teurer als die Kiwis. Am teuersten sind die Orangen.
+Optionen:
+(A) Die Wassermelonen sind die teuersten
+(B) Die Orangen sind am teuersten
+(C) Die Wollmispeln sind am teuersten
+(D) Die Pflaumen sind am teuersten
+(E) Die Kiwis sind die teuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Melonen, Kiwis, Orangen, Mangos und Pfirsiche. Die Kiwis sind günstiger als die Mangos. Die Pfirsiche sind günstiger als die Orangen. Die Orangen sind die zweitteuersten. Die Mangos sind die zweitbilligsten.
+Optionen:
+(A) Die Melonen sind die teuersten
+(B) Die Kiwis sind die teuersten
+(C) Die Orangen sind am teuersten
+(D) Die Mangos sind die teuersten
+(E) Die Pfirsiche sind die teuersten",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Dan, Mel, Ana, Eli und Rob. Rob landete vor Mel. Mel wurde Zweiter. Ana landete vor Eli. Dan wurde Letzter.
+Optionen:
+(A) Dan wurde Zweiter
+(B) Mel wurde Zweiter
+(C) Ana wurde Zweite
+(D) Eli wurde Zweiter
+(E) Rob wurde Zweiter",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Orangen, Melonen, Pfirsiche, Wollmispeln und Kiwis. Die Pfirsiche sind teurer als die Orangen. Die Melonen sind teurer als die Pfirsiche. Die Kiwis sind die drittteuersten. Die Wollmispeln sind die zweitbilligsten.
+Optionen:
+(A) Die Orangen sind die zweitteuersten
+(B) Die Melonen sind die zweitteuersten
+(C) Die Pfirsiche sind die zweitteuersten
+(D) Die Wollmispeln sind die zweitteuersten
+(E) Die Kiwis sind die zweitteuersten",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: eine Krähe, ein Rotkehlchen, eine Wachtel, ein Blauhäher und ein Falke. Das Rotkehlchen steht links von der Wachtel. Der Falke ist der Dritte von links. Die Krähe steht links vom Falken. Der Blauhäher ist ganz links.
+Optionen:
+(A) Die Krähe ist ganz links
+(B) Das Rotkehlchen ist ganz links
+(C) Die Wachtel ist ganz links
+(D) Der Blauhäher ist ganz links
+(E) Der Falke ist ganz links",(D)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. In einer Oldtimer-Show gibt es fünf Fahrzeuge: eine Limousine, ein Cabrio, einen Kombi, einen Bus und ein Motorrad. Die Limousine ist die zweitneueste. Der Kombi ist neuer als das Cabrio. Die Limousine ist älter als das Motorrad. Der Bus ist der älteste.
+Optionen:
+(A) Die Limousine ist die zweitneueste
+(B) Das Cabrio ist das zweitneueste
+(C) Der Kombi ist der zweitneueste
+(D) Der Bus ist der zweitneueste
+(E) Das Motorrad ist das zweitneueste",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein braunes Buch, ein gelbes Buch, ein orangefarbenes Buch, ein grünes Buch und ein graues Buch. Das grüne Buch befindet sich links vom grauen Buch. Das braune Buch ist das dritte von links. Das graue Buch ist das zweite von rechts. Das gelbe Buch befindet sich links vom grünen Buch.
+Optionen:
+(A) Das braune Buch befindet sich ganz links
+(B) Das gelbe Buch befindet sich ganz links
+(C) Das orangefarbene Buch befindet sich ganz links
+(D) Das grüne Buch befindet sich ganz links
+(E) Das graue Buch befindet sich ganz links",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Äpfel, Mangos, Orangen, Pflaumen und Birnen. Die Orangen sind teurer als die Mangos. Am günstigsten sind die Pflaumen. Die Äpfel sind günstiger als die Mangos. Die Birnen sind teurer als die Orangen.
+Optionen:
+(A) Die Äpfel sind die drittteuersten
+(B) Die Mangos sind die drittteuersten
+(C) Die Orangen sind die drittteuersten
+(D) Die Pflaumen sind die drittteuersten
+(E) Die Birnen sind die drittteuersten",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Rotkehlchen, eine Eule, eine Wachtel, ein Kolibri und eine Krähe. Die Krähe steht rechts vom Rotkehlchen. Die Wachtel ist ganz links. Der Kolibri befindet sich rechts von der Eule. Die Krähe ist die dritte von links.
+Optionen:
+(A) Das Rotkehlchen ist das zweite von rechts
+(B) Die Eule ist die zweite von rechts
+(C) Die Wachtel ist die zweite von rechts
+(D) Der Kolibri ist der zweite von rechts
+(E) Die Krähe ist die zweite von rechts",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Eve, Amy, Ada, Rob und Joe. Amy wurde Vorletzte. Rob kam unterhalb von Eve ins Ziel. Ada landete vor Joe. Joe wurde Zweiter.
+Optionen:
+(A) Eve war als Erste fertig
+(B) Amy war als Erste fertig
+(C) Ada war als Erste fertig
+(D) Rob war Erster
+(E) Joe war Erster",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Kiwis, Birnen, Pfirsiche, Wollmispeln und Äpfel. Die Wollmispeln sind teurer als die Kiwis. Die Birnen sind teurer als die Pfirsiche. Die Äpfel sind teurer als die Wollmispeln. Die Äpfel sind günstiger als die Pfirsiche.
+Optionen:
+(A) Die Kiwis sind die drittteuersten
+(B) Die Birnen sind die drittteuersten
+(C) Die Pfirsiche sind die drittteuersten
+(D) Die Wollmispeln sind die drittteuersten
+(E) Die Äpfel sind die drittteuersten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein gelbes Buch, ein grünes Buch, ein graues Buch, ein blaues Buch und ein orangefarbenes Buch. Das graue Buch befindet sich links vom grünen Buch. Das graue Buch ist das zweite von rechts. Das gelbe Buch befindet sich rechts vom orangefarbenen Buch. Das blaue Buch ist das zweite von links.
+Optionen:
+(A) Das gelbe Buch ist das zweite von rechts
+(B) Das Grünbuch ist das zweite von rechts
+(C) Das graue Buch ist das zweite von rechts
+(D) Das blaue Buch ist das zweite von rechts
+(E) Das orangefarbene Buch ist das zweite von rechts",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Falke, ein Rabe, ein Kardinal, ein Habicht und eine Krähe. Der Kardinal ist der zweite von rechts. Der Falke steht rechts vom Falken. Der Rabe ist der zweite von links. Die Krähe ist ganz rechts.
+Optionen:
+(A) Der Falke ist ganz rechts
+(B) Der Rabe ist ganz rechts
+(C) Der Kardinal steht ganz rechts
+(D) Der Falke ist ganz rechts
+(E) Die Krähe ist ganz rechts",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Rob, Ada, Dan, Joe und Mel. Ada landete vor Mel. Mel landete vor Dan. Joe landete hinter Dan. Ada wurde Zweite.
+Optionen:
+(A) Rob wurde Zweiter
+(B) Ada wurde Zweite
+(C) Dan wurde Zweiter
+(D) Joe wurde Zweiter
+(E) Mel wurde Zweiter",(B)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Amy, Mel, Rob, Joe und Ada. Joe wurde Zweiter. Joe landete hinter Amy. Mel wurde Vorletzter. Ada war als Letzte fertig.
+Optionen:
+(A) Amy wurde Dritte
+(B) Mel wurde Dritter
+(C) Rob wurde Dritter
+(D) Joe wurde Dritter
+(E) Ada wurde Dritte",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. An einem Golfturnier nahmen fünf Golfer teil: Ana, Amy, Dan, Mya und Eve. Ana landete unter Mya. Dan landete vor Amy. Mya wurde Vorletzte. Eve landete unterhalb von Amy.
+Optionen:
+(A) Ana war als Erste fertig
+(B) Amy war als Erste fertig
+(C) Dan war Erster
+(D) Mya war als Erste fertig
+(E) Eve war als Erste fertig",(C)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Regal liegen fünf Bücher: ein weißes Buch, ein orangefarbenes Buch, ein gelbes Buch, ein blaues Buch und ein rotes Buch. Das gelbe Buch befindet sich links vom weißen Buch. Das rote Buch befindet sich rechts vom blauen Buch. Das gelbe Buch befindet sich rechts vom orangefarbenen Buch. Das blaue Buch befindet sich rechts vom weißen Buch.
+Optionen:
+(A) Das Weißbuch ist das dritte von links
+(B) Das orangefarbene Buch ist das dritte von links
+(C) Das gelbe Buch ist das dritte von links
+(D) Das blaue Buch ist das dritte von links
+(E) Das rote Buch ist das dritte von links",(A)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Ein Obststand verkauft fünf Früchte: Wassermelonen, Orangen, Wollmispeln, Pflaumen und Kiwis. Die Pflaumen sind günstiger als die Kiwis. Die Pflaumen sind teurer als die Wassermelonen. Die Wollmispeln sind teurer als die Kiwis. Am teuersten sind die Orangen.
+Optionen:
+(A) Die Wassermelonen sind die drittteuersten
+(B) Die Orangen sind die drittteuersten
+(C) Die Wollmispeln sind die drittteuersten
+(D) Die Pflaumen sind die drittteuersten
+(E) Die Kiwis sind die drittteuersten",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Habicht, ein Rabe, ein Rotkehlchen, ein Kolibri und eine Krähe. Das Rotkehlchen ist ganz links. Der Rabe ist der zweite von links. Der Falke ist der zweite von rechts. Die Krähe ist die dritte von links.
+Optionen:
+(A) Der Falke ist der dritte von links
+(B) Der Rabe ist der Dritte von links
+(C) Das Rotkehlchen ist das dritte von links
+(D) Der Kolibri ist der dritte von links
+(E) Die Krähe ist die dritte von links",(UND)
+"Die folgenden Absätze beschreiben jeweils einen Satz von fünf Objekten, die in einer festen Reihenfolge angeordnet sind. Die Aussagen sind innerhalb jedes Absatzes logisch konsistent. Auf einem Ast sitzen fünf Vögel: ein Habicht, ein Rabe, ein Rotkehlchen, ein Kolibri und eine Krähe. Das Rotkehlchen ist ganz links. Der Rabe ist der zweite von links. Der Falke ist der zweite von rechts. Die Krähe ist die dritte von links.
+Optionen:
+(A) Der Falke ist der zweite von links
+(B) Der Rabe ist der zweite von links
+(C) Das Rotkehlchen ist das zweite von links
+(D) Der Kolibri ist der zweite von links
+(E) Die Krähe ist die zweite von links",(B)

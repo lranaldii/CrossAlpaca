@@ -1,0 +1,3984 @@
+Eingang,Ziel
+"Auf dem Boden liegen ein lila Katzenspielzeug, zwei lila Katzenspielzeuge, drei graue Katzenspielzeuge, zwei malvenfarbene Notizbücher, drei graue Notizbücher, drei burgunderrote Katzenspielzeuge und ein lila Notizbuch. Wenn ich alle Notizbücher vom Boden entferne, wie viele graue Objekte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Schreibtisch sehen Sie in einer Reihe angeordnete Dinge: eine graue Tasse, eine lila Tasse und einen blauen Teddybären. Welche Farbe hat das Ding direkt rechts neben der Tasse?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Nachttisch sehen Sie eine Reihe von Gegenständen: einen goldenen Teller, einen silbernen Stressball, ein fuchsiafarbenes Notizbuch, ein malvenfarbenes Armband, einen grünen Krug und einen gelben Fidget Spinner. Welche Farbe hat der Artikel direkt links neben der Kanne?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Tisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: einen fuchsiafarbenen Teddybären, einen roten Krug, ein goldenes Puzzle, ein burgunderfarbenes Armband und ein grünes Notizbuch. Wie viele nicht-magentafarbene Elemente sehen Sie rechts neben dem roten Element?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Schreibtisch sieht man eine Menge Dinge in einer Reihe angeordnet: einen malvenfarbenen Teller, einen orangefarbenen Krug, eine burgunderrote Sonnenbrille, einen grünen Stift und einen lila Stressball. Welche Farbe hat das Ding direkt links vom burgunderroten Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(B)
+"Auf dem Boden sehen Sie ein grünes Armband, ein lila Katzenspielzeug, eine braune Sonnenbrille, einen schwarzen Fidget Spinner, eine rote Hundeleine und einen orangefarbenen Stift. Wie viele Objekte sind weder schwarz noch blau?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(F)
+"Auf dem Boden sieht man mehrere Dinge in einer Reihe angeordnet: einen blauen Buntstift, einen lila Stressball und eine burgunderrote Hundeleine. Welche Farbe hat das Ding ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Boden sehe ich einen türkisfarbenen Umschlag, einen grauen Teller, einen silbernen Bleistift und eine blaugrüne Tasse. Welche Farbe hat der Umschlag?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(K)
+"Auf dem Tisch stehen ein roter Buntstift, ein rosa Notizbuch, eine gelbe Kanne und eine magentafarbene Tasse. Ist die Tasse grau?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Boden sieht man eine Reihe aufgereihter Dinge: einen blauen Umschlag, eine orangefarbene Tasse und einen grauen Stift. Welche Farbe hat das Ding, das am weitesten vom grauen Ding entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein blauer Stressball, ein lila Katzenspielzeug und ein rotes Puzzle. Welche Farbe hat das Objekt, das am weitesten vom roten Objekt entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Tisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: einen goldenen Stift, eine lila Tasse, einen blaugrünen Umschlag, einen roten Schlüsselbund und einen türkisfarbenen Fidget Spinner. Welche Farbe hat das Objekt direkt links vom blaugrünen Objekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Boden sieht man mehrere Dinge in einer Reihe angeordnet: eine orangefarbene Hundeleine, eine burgunderrote Tasse, einen blauen Schlüsselanhänger und ein lila Notizbuch. Welche Farbe hat das Ding direkt links vom blauen Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Schreibtisch sehen Sie drei magentafarbene Tassen, drei rote Fidget Spinner, drei rote Schlüsselanhänger und zwei magentafarbene Tassen. Wenn ich alle roten Gegenstände vom Schreibtisch entferne, wie viele Tassen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Tisch liegen zwei gelbe Sonnenbrillen, zwei rote Sonnenbrillen, drei rote Scrunchiephone-Ladegeräte, drei graue Scrunchiephone-Ladegeräte, ein gelber Schlüsselanhänger, zwei graue Sonnenbrillen und ein roter Schlüsselanhänger. Wenn ich alle Schlüsselanhänger vom Tisch entferne, wie viele gelbe Dinge verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Tisch sehe ich eine türkisfarbene Tasse, einen burgunderfarbenen Teller, einen roten Fidget Spinner, einen silbernen Stift, eine gelbe Sonnenbrille und einen magentafarbenen Krug. Welche Farbe hat der Stift?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen: einen lila Schlüsselanhänger, eine grüne Hundeleine, ein orangefarbenes Katzenspielzeug, einen silbernen Stift und einen schwarzen Buntstift. Welche Farbe hat der Gegenstand, der am weitesten vom Stift entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein gelber Schlüsselbund, ein silberner Umschlag, ein schwarzes Büchlein und ein blaugrüner Teller. Welche Farbe hat das Objekt ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(J)
+"Auf dem Tisch liegen drei rosa Scrunchiephone-Ladegeräte, zwei orangefarbene Buntstifte und zwei schwarze Scrunchiephone-Ladegeräte. Wenn ich alle schwarzen Gegenstände vom Tisch entferne, wie viele Scrunchiephone-Ladegeräte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Nachttisch liegen drei braune Hundeleinen, eine silberne Hundeleine, zwei braune Puzzles, ein silberner Schlüsselanhänger und drei silberne Buntstifte. Wenn ich alle Schlüsselanhänger vom Nachttisch entferne, wie viele Silbergegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(UND)
+"Auf dem Nachttisch liegen eine schwarze Halskette, ein grüner Fidget Spinner, ein blauer Schlüsselanhänger, ein gelbes Blatt Papier und ein roter Stressball. Wie viele Objekte sind weder gelb noch grün?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: eine burgunderrote Halskette, eine türkisfarbene Tasse, eine schwarze Tasse, ein blaugrünes Lehrbuch und eine lila Kanne. Wie viele nicht-lila Objekte sehen Sie links vom Lehrbuch?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Nachttisch sehen Sie mehrere Dinge in einer Reihe angeordnet: ein blaugrünes Armband, einen türkisfarbenen Stressball, ein burgunderfarbenes Lehrbuch, ein schwarzes Puzzle, einen rosafarbenen Krug und eine grüne Halskette. Welche Farbe hat das Ding direkt links neben dem Lehrbuch?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(K)
+"Auf dem Tisch sehen Sie einen grünen Stift und eine lila Hundeleine. Welche Farbe hat der Bleistift?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Tisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: ein gelbes Katzenspielzeug, einen rosa Stressball, einen silbernen Teddybären und ein braunes Büchlein. Wie viele nicht-blaugrüne Objekte sehen Sie links vom gelben Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Boden sehe ich drei silberne Bleistifte, einen blaugrünen Bleistift, einen türkisfarbenen Becher, zwei gelbe Bleistifte, drei blaugrüne Armbänder, zwei silberne Becher, einen türkisfarbenen Krug, drei türkisfarbene Bleistifte und zwei türkisfarbene Armbänder. Wenn ich alle Silbergegenstände vom Boden entferne, wie viele Tassen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Schreibtisch sehen Sie mehrere Dinge in einer Reihe angeordnet: einen fuchsiafarbenen Bleistift, einen malvenfarbenen Stressball, einen blauen Teddybären und eine goldene Halskette. Welche Farbe hat das Ding direkt rechts vom lila Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Tisch sehen Sie mehrere Dinge in einer Reihe angeordnet: einen blauen Teller, eine graue Tasse, einen rosa Umschlag, eine burgunderrote Büroklammer, ein malvenfarbenes Büchlein und einen goldenen Schlüsselanhänger. Wie viele Nicht-Burgunder-Artikel sehen Sie rechts in der Broschüre?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Boden sehe ich zwei blaue Stifte, drei rote Stifte, einen silbernen Stift, zwei rote Stressbälle, zwei rote Büroklammern und eine silberne Büroklammer. Wenn ich alle Büroklammern vom Boden entferne, wie viele silberne Dinge bleiben dann darauf zurück?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Boden sehen Sie drei gelbe Büroklammern, drei gelbe Notizbücher, drei blaue Büroklammern und ein blaues Notizbuch. Wenn ich alle Notizbücher vom Boden entferne, wie viele türkisfarbene Gegenstände bleiben dann darauf zurück?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein lila Blatt Papier, ein lila Büchlein und eine blaue Halskette. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Schreibtisch sehe ich ein lila Blatt Papier, eine burgunderrote Halskette, einen magentafarbenen Stift, eine grüne Büroklammer und ein braunes Notizbuch. Ist die Büroklammer fuchsia?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Nachttisch sehen Sie die folgenden Dinge in einer Reihe angeordnet: eine silberne Hundeleine, ein malvenfarbenes Armband, ein rosafarbenes Lehrbuch und einen fuchsiafarbenen Bleistift. Welche Farbe hat das Ding ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(H)
+"Auf dem Tisch sehen Sie drei grüne Armbänder, eine blaugrüne Hundeleine, eine grüne Hundeleine und drei grüne Büroklammern. Wenn ich alle blaugrünen Gegenstände vom Tisch entferne, wie viele Büroklammern verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Schreibtisch liegen ein türkisfarbener Bleistift, ein blauer Stift, ein lila Blatt Papier, eine graue Büroklammer und ein rosa Lehrbuch. Welche Farbe hat das Blatt Papier?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Nachttisch sehe ich ein grünes Notizbuch, zwei lila Teddybären, zwei orangefarbene Fidget Spinner, zwei lila Notizbücher, zwei grüne Fidget Spinner und drei lila Fidget Spinner. Wenn ich alle orangefarbenen Gegenstände vom Nachttisch entferne, wie viele Teddybären verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Boden sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: ein orangefarbenes Scrunchiephone-Ladegerät, einen rosa Bleistift, ein grünes Büchlein, eine braune Tasse und eine lila Büroklammer. Welche Farbe hat der Artikel direkt rechts neben dem Scrunchiephone-Ladegerät?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Tisch sieht man mehrere Dinge in einer Reihe angeordnet: einen schwarzen Bleistift, eine türkisfarbene Büroklammer und einen gelben Stressball. Welche Farbe hat das Ding direkt links von der Büroklammer?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Schreibtisch liegen mehrere Dinge in einer Reihe angeordnet: ein Silberstift, eine grüne Hundeleine und ein burgunderrotes Büchlein. Welche Farbe hat das Ding ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Nachttisch sehen Sie ein braunes Notizbuch, einen gelben Schlüsselbund, einen orangefarbenen Fidget Spinner, einen lila Stift und ein blaues Armband. Wie viele Gegenstände sind weder rot noch braun?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Boden sehen Sie einen gelben Teller, drei türkisfarbene Teller, drei türkisfarbene Lehrbücher, zwei gelbe Lehrbücher, einen burgunderroten Teller und drei burgunderrote Lehrbücher. Wenn ich alle Platten vom Boden entferne, wie viele gelbe Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Schreibtisch liegen ein lila Stift, ein blaues Armband, ein rotes Katzenspielzeug, ein grüner Teller und ein gelber Umschlag. Wie viele Artikel sind weder orange noch braun?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(F)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen grünen Teller, einen fuchsiafarbenen Teddybären, ein braunes Scrunchiephone-Ladegerät, einen goldenen Buntstift, eine burgunderrote Halskette und ein türkisfarbenes Blatt Papier. Welche Farbe hat der Artikel, der am weitesten vom türkisfarbenen Artikel entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Boden liegen ein silbernes Büchlein, ein rosa Teddybär, ein braunes Scrunchie-Telefonladegerät und ein rotes Armband. Ist der Teddybär orange?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein lila Puzzle, ein schwarzer Umschlag und ein blaues Lehrbuch. Welche Farbe hat der Gegenstand, der am weitesten vom Puzzle entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Schreibtisch liegen ein orangefarbenes Scrunchiephone-Ladegerät, ein türkisfarbenes Armband, ein goldenes Blatt Papier und ein roter Umschlag. Ist das Armband türkis?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Boden liegen ein lila Stift, ein grünes Katzenspielzeug und ein malvenfarbenes Büchlein. Ist das Heft lila?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen: einen goldenen Becher, eine blaugrüne Büroklammer, einen blauen Teller und ein orangefarbenes Notizbuch. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(N)
+"Auf dem Schreibtisch sehe ich zwei braune Tassen, ein braunes Blatt Papier, ein fuchsiafarbenes Blatt Papier, einen braunen Stift, drei graue Tassen, einen grauen Stift, zwei fuchsiafarbene Büroklammern, eine fuchsiafarbene Tasse und drei graue Blätter Papier. Wenn ich alle grauen Gegenstände vom Schreibtisch entferne, wie viele Tassen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Boden sieht man eine Reihe von Gegenständen in einer Reihe angeordnet: einen silbernen Krug, ein gelbes Scrunchiephone-Ladegerät, einen roten Teller, einen lila Fidget Spinner, eine fuchsiafarbene Tasse und einen rosa Stift. Welche Farbe hat das Objekt, das am weitesten vom Fidget Spinner entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Schreibtisch liegen ein orangefarbenes Scrunchiephone-Ladegerät, zwei silberne Schlüsselanhänger, zwei orangefarbene Buntstifte, drei silberne Hundeleinen, zwei silberne Buntstifte und drei silberne Scrunchiephone-Ladegeräte. Wenn ich alle silbernen Gegenstände vom Schreibtisch entferne, wie viele Scrunchiephone-Ladegeräte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Nachttisch sehe ich einen lila Bleistift, ein braunes Büchlein, einen grauen Schlüsselanhänger und eine magentafarbene Sonnenbrille. Ist die Sonnenbrille rosa?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein gelber Teller, eine silberne Hundeleine, ein burgunderfarbener Stressball, ein blaues Puzzle und ein orangefarbener Stift. Welche Farbe hat das Objekt direkt links vom Puzzle?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Tisch sehe ich ein rotes Notizbuch, eine lila Hundeleine, einen orangefarbenen Krug, einen braunen Buntstift und eine gelbe Tasse. Wie viele Artikel sind weder gelb noch schwarz?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Boden sieht man eine Menge Dinge in einer Reihe angeordnet: einen roten Schlüsselbund, einen blauen Bleistift und einen lila Teller. Welche Farbe hat das Ding ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Boden sieht man eine Reihe aufgereihter Dinge: eine türkisfarbene Büroklammer, ein orangefarbenes Armband, einen grünen Schlüsselanhänger und einen silbernen Stift. Welche Farbe hat das Ding direkt links vom silbernen Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Nachttisch sehen Sie in einer Reihe angeordnete Gegenstände: einen silbernen Buntstift, ein gelbes Katzenspielzeug und ein rosa Blatt Papier. Welche Farbe hat der Gegenstand, der am weitesten vom Blatt Papier entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Boden sehe ich drei malvenfarbene Katzenspielzeuge, drei malvenfarbene Stressbälle, zwei malvenfarbene Notizbücher, drei gelbe Notizbücher, ein gelbes Katzenspielzeug, ein rosa Katzenspielzeug, einen gelben Stressball, zwei rosa Notizbücher und zwei rosa Stressbälle. Wenn ich alle lilafarbenen Gegenstände vom Boden entferne, wie viele Notizbücher verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(F)
+"Auf dem Tisch liegen eine schwarze Tasse, drei schwarze Puzzles, ein rosa Schlüsselanhänger, drei malvenfarbene Schlüsselanhänger, drei rosa Puzzles, zwei schwarze Hundeleinen, ein schwarzer Schlüsselanhänger, drei malvenfarbene Tassen und ein malvenfarbenes Puzzle. Wenn ich alle Hundeleinen vom Tisch entferne, wie viele lila Dinge bleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(H)
+"Auf dem Tisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen goldenen Bleistift, einen roten Krug, ein graues Armband und eine lila Hundeleine. Welche Farbe hat das Objekt direkt links vom Armband?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen: eine rote Tasse, ein türkises Scrunchiephone-Ladegerät, eine gelbe Hundeleine, eine blaue Sonnenbrille und einen grünen Stressball. Wie viele nicht-türkisfarbene Artikel sehen Sie links neben dem gelben Artikel?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Dingen, die in einer Reihe angeordnet sind: ein magentafarbenes Blatt Papier, ein rosa Fidget Spinner, ein türkiser Schlüsselanhänger und ein grüner Stift. Wie viele nicht-türkisfarbene Dinge sehen Sie links vom Blatt Papier?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Nachttisch stehen ein silberner Krug, eine blaue Sonnenbrille, ein fuchsiafarbener Stressball und ein lila Blatt Papier. Welche Farbe hat der Stressball?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(H)
+"Auf dem Schreibtisch sehen Sie in einer Reihe angeordnete Dinge: ein grünes Armband, ein rosa Lehrbuch, eine graue Büroklammer und eine blaugrüne Tasse. Welche Farbe hat das Ding, das am weitesten von der Büroklammer entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Nachttisch sehen Sie die folgenden Dinge in einer Reihe angeordnet: einen blaugrünen Stressball, eine lila Büroklammer, ein goldenes Scrunchiephone-Ladegerät und eine schwarze Hundeleine. Welche Farbe hat das Ding direkt rechts neben dem blaugrünen Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen: ein rotes Armband, einen gelben Buntstift, ein silbernes Notizbuch und eine lila Hundeleine. Wie viele nicht-silberne Artikel sehen Sie links neben dem lilafarbenen Artikel?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(C)
+"Auf dem Nachttisch sehen Sie drei schwarze Umschläge, einen schwarzen Teddybär, drei schwarze Buntstifte, drei blaugrüne Buntstifte, drei grüne Buntstifte und einen grünen Umschlag. Wenn ich alle Teddybären vom Nachttisch entferne, wie viele grüne Dinge bleiben dann darauf übrig?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(UND)
+"Auf dem Nachttisch liegen zwei grüne Blätter Papier, zwei lila Katzenspielzeuge, zwei grüne Katzenspielzeuge und drei lila Blätter Papier. Wenn ich alle Katzenspielzeuge vom Nachttisch entferne, wie viele lila Dinge bleiben darauf zurück?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen in einer Reihe: ein goldenes Lehrbuch, ein lila Puzzle, eine blaugrüne Halskette und einen silbernen Bleistift. Wie viele Gegenstände, die nicht aus Gold bestehen, sehen Sie rechts neben dem Bleistift?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Dingen: eine gelbe Tasse, ein türkisfarbenes Notizbuch, einen schwarzen Buntstift, eine braune Sonnenbrille und eine goldene Büroklammer. Welche Farbe hat das Ding direkt links von der Sonnenbrille?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Nachttisch liegen eine rote Tasse, ein rosa Blatt Papier und ein silberner Schlüsselanhänger. Ist die Tasse rot?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Boden sehe ich einen blauen Fidget Spinner, einen lila Teddybär, ein gelbes Blatt Papier, einen grünen Buntstift und ein rosa Notizbuch. Welche Farbe hat der Teddybär?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Tisch liegen eine braune Sonnenbrille, ein grüner Krug, ein lila Lehrbuch, ein schwarzes Büchlein, ein gelber Umschlag und ein rotes Notizbuch. Wie viele Dinge sind weder schwarz noch grün?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Boden liegen drei gelbe Sonnenbrillen, ein Silberteller, drei gelbe Katzenspielzeuge und zwei gelbe Umschläge. Wenn ich alle Umschläge vom Boden entferne, wie viele gelbe Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(G)
+"Auf dem Schreibtisch liegen drei türkisfarbene Teller, ein rosa Teller und drei rosa Broschüren. Wenn ich alle rosa Sachen vom Schreibtisch entferne, wie viele Hefte bleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Nachttisch sehen Sie drei burgunderrote Bleistifte, drei magentafarbene Bleistifte und drei magentafarbene Krüge. Wenn ich alle Krüge vom Nachttisch entferne, wie viele fuchsiafarbene Dinge bleiben darauf übrig?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Tisch sieht man eine Reihe von Dingen in einer Reihe angeordnet: eine gelbe Sonnenbrille, einen braunen Fidget Spinner, eine silberne Tasse und einen malvenfarbenen Teddybären. Wie viele nicht-gelbe Dinge sehen Sie rechts vom silbernen Ding?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Nachttisch sehen Sie einen silbernen Teddybären, einen goldenen Buntstift und ein orangefarbenes Scrunchie-Telefonladegerät. Ist der Teddybär lila?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Tisch sehe ich zwei fuchsiafarbene Scrunchiephone-Ladegeräte, drei burgunderfarbene Schlüsselanhänger, drei burgunderfarbene Katzenspielzeuge, drei fuchsiafarbene Schlüsselanhänger, zwei burgunderrote Tassen und zwei burgunderrote Scrunchiephone-Ladegeräte. Wenn ich alle Schlüsselanhänger vom Tisch entferne, wie viele fuchsiafarbene Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: eine lila Kanne, einen grauen Schlüsselanhänger, ein türkisfarbenes Notizbuch, ein grünes Scrunchiephone-Ladegerät und einen orangefarbenen Stift. Welche Farbe hat der Gegenstand, der am weitesten vom violetten Gegenstand entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(B)
+"Auf dem Boden sieht man eine Reihe von Dingen in einer Reihe angeordnet: ein lila Scrunchiephone-Ladegerät, eine türkisfarbene Hundeleine, einen magentafarbenen Schlüsselanhänger, einen silbernen Stressball und einen blauen Buntstift. Welche Farbe hat das Ding direkt links vom Stressball?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(G)
+"Auf dem Nachttisch sehen Sie in einer Reihe angeordnete Dinge: eine braune Sonnenbrille, einen silbernen Teddybären und ein magentafarbenes Notizbuch. Welche Farbe hat das Ding direkt rechts vom braunen Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein silbernes Puzzle, ein grüner Schlüsselanhänger und ein fuchsiafarbener Umschlag. Welche Farbe hat das Objekt ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Boden sehe ich einen magentafarbenen Stift und einen malvenfarbenen Teddybären. Ist der Stift magenta?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Schreibtisch sieht man eine Reihe von Dingen in einer Reihe angeordnet: einen rosafarbenen Krug, ein türkisfarbenes Blatt Papier, einen magentafarbenen Stift und einen burgunderroten Stressball. Welche Farbe hat das Ding ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Schreibtisch stehen ein blauer Krug, zwei burgunderrote Halsketten, eine blaue Halskette, drei blaue Schlüsselanhänger, drei blaue Teddybären und zwei burgunderrote Krüge. Wenn ich alle burgunderroten Gegenstände vom Schreibtisch entferne, wie viele Halsketten verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Tisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen silbernen Teller, ein schwarzes Notizbuch, eine rote Sonnenbrille, eine magentafarbene Kanne und ein blaugrünes Blatt Papier. Welche Farbe hat das Objekt, das am weitesten vom magentafarbenen Objekt entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Boden sehen Sie eine magentafarbene Büroklammer, eine blaugrüne Büroklammer, einen grauen Teller, drei magentafarbene Teller, ein magentafarbenes Lehrbuch und drei blaugrüne Lehrbücher. Wenn ich alle grauen Gegenstände vom Boden entferne, wie viele Büroklammern verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Nachttisch sieht man mehrere Dinge in einer Reihe angeordnet: ein orangefarbenes Katzenspielzeug, einen malvenfarbenen Bleistift, einen schwarzen Buntstift und eine gelbe Sonnenbrille. Wie viele nicht-lila Dinge sehen Sie rechts vom gelben Ding?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Tisch sieht man eine Reihe von Dingen in einer Reihe angeordnet: einen rosa Buntstift, eine schwarze Sonnenbrille und ein orangefarbenes Scrunchiephone-Ladegerät. Welche Farbe hat das Ding direkt rechts vom Buntstift?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Boden sehen Sie eine blaue Tasse, einen grünen Teddybären, ein silbernes Scrunchiephone-Ladegerät, eine braune Hundeleine, ein malvenfarbenes Blatt Papier und einen fuchsiafarbenen Umschlag. Welche Farbe hat das Scrunchiephone-Ladegerät?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Tisch sehe ich drei blaugrüne Armbänder und zwei graue Hundeleinen. Wenn ich alle Hundeleinen vom Tisch entferne, wie viele blaugrüne Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein lila Schlüsselanhänger, ein silbernes Puzzle, ein braunes Armband, ein rotes Büchlein, ein türkises Scrunchiephone-Ladegerät und eine burgunderrote Halskette. Welche Farbe hat das Objekt direkt links vom türkisfarbenen Objekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein malvenfarbener Bleistift, ein silbernes Lehrbuch, ein blauer Umschlag und eine türkisfarbene Halskette. Welche Farbe hat das Objekt direkt links vom silbernen Objekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Schreibtisch liegen drei graue Hundeleinen, zwei graue Notizbücher, zwei goldene Hundeleinen, ein goldenes Notizbuch, drei graue Bleistifte, zwei graue Hefte, ein goldenes Heft und drei goldene Bleistifte. Wenn ich alle Hundeleinen vom Schreibtisch entferne, wie viele Goldgegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(F)
+"Auf dem Nachttisch liegen ein gelbes Notizbuch, ein blauer Krug, ein roter Schlüsselanhänger, ein orangefarbener Bleistift und ein lila Fidget Spinner. Wie viele Objekte sind weder lila noch blau?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Tisch sehen Sie in einer Reihe angeordnete Gegenstände: eine lila Hundeleine, einen silbernen Bleistift und ein schwarzes Armband. Welche Farbe hat der Artikel, der am weitesten von der Hundeleine entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Schreibtisch sehen Sie drei silberne Sonnenbrillen, zwei blaugrüne Umschläge, drei rosa Sonnenbrillen, einen silbernen Umschlag, zwei rosa Umschläge, drei blaugrüne Sonnenbrillen, zwei blaugrüne Scrunchiephone-Ladegeräte und drei rosa Scrunchiephone-Ladegeräte. Wenn ich alle Umschläge vom Schreibtisch entferne, wie viele rosa Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(G)
+"Auf dem Nachttisch sehen Sie eine grüne Halskette, zwei grüne Lehrbücher und zwei blaue Lehrbücher. Wenn ich alle Lehrbücher vom Nachttisch entferne, wie viele grüne Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Boden sehen Sie ein magentafarbenes Puzzle, eine goldene Halskette, einen gelben Teller, einen braunen Umschlag und einen grünen Krug. Welche Farbe hat die Platte?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(C)
+"Auf dem Schreibtisch sehen Sie mehrere Dinge in einer Reihe angeordnet: ein burgunderfarbenes Armband, eine graue Tasse, eine grüne Halskette und ein magentafarbenes Lehrbuch. Welche Farbe hat das Ding direkt links von der Halskette?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(P)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen: einen roten Buntstift, eine gelbe Büroklammer, eine magentafarbene Halskette, ein graues Lehrbuch und ein silbernes Katzenspielzeug. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Tisch sehen Sie mehrere Gegenstände in einer Reihe angeordnet: eine lila Hundeleine, ein magentafarbenes Katzenspielzeug und eine türkisfarbene Sonnenbrille. Welche Farbe hat der Artikel, der am weitesten von der Hundeleine entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(K)
+"Auf dem Tisch sehen Sie die folgenden Dinge in einer Reihe angeordnet: eine silberne Büroklammer, einen orangefarbenen Schlüsselbund, einen magentafarbenen Umschlag, einen fuchsiafarbenen Stressball und einen grauen Stift. Wie viele nicht orangefarbene Dinge sehen Sie links vom grauen Ding?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen in einer Reihe: ein grünes Katzenspielzeug, ein orangefarbenes Armband, eine lila Halskette, ein rosa Lehrbuch, ein silbernes Blatt Papier und ein goldenes Notizbuch. Wie viele Nicht-Burgunder-Artikel sehen Sie rechts neben dem Goldartikel?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen: ein braunes Katzenspielzeug, ein türkisfarbenes Puzzle, einen grünen Umschlag, ein lila Blatt Papier, eine gelbe Halskette und ein lila Armband. Welche Farbe hat der Gegenstand, der am weitesten vom violetten Gegenstand entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(F)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein türkisfarbener Umschlag, eine blaugrüne Hundeleine und ein lila Bleistift. Wie viele nicht-türkisfarbene Objekte sehen Sie rechts vom violetten Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Nachttisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein rosa Stift, ein lila Notizbuch, ein grüner Schlüsselanhänger, ein rotes Katzenspielzeug und eine türkisfarbene Sonnenbrille. Welche Farbe hat das Objekt direkt links vom violetten Objekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Boden sehen Sie mehrere in einer Reihe angeordnete Gegenstände: einen rosa Umschlag, ein schwarzes Armband, einen lila Fidget Spinner, eine braune Büroklammer, einen grauen Buntstift und ein magentafarbenes Katzenspielzeug. Welche Farbe hat der Gegenstand direkt rechts neben dem violetten Gegenstand?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(F)
+"Auf dem Tisch sehen Sie mehrere Dinge in einer Reihe angeordnet: eine blaue Sonnenbrille, ein türkisfarbenes Armband, einen schwarzen Teddybär, eine lila Tasse, ein goldenes Scrunchiephone-Ladegerät und ein orangefarbenes Lehrbuch. Wie viele nicht schwarze Dinge sehen Sie links vom Lehrbuch?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Nachttisch sehen Sie ein blaues Büchlein, eine braune Halskette, ein grünes Katzenspielzeug, eine burgunderrote Tasse, einen orangefarbenen Schlüsselanhänger und ein magentafarbenes Lehrbuch. Welche Farbe hat das Katzenspielzeug?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Nachttisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein grüner Fidget Spinner, ein burgunderroter Krug, ein goldener Schlüsselanhänger, ein graues Scrunchiephone-Ladegerät und ein blaues Büchlein. Welche Farbe hat das Objekt ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Tisch sehe ich einen gelben Umschlag, einen goldenen Stressball, ein magentafarbenes Büchlein, ein blaues Armband, eine malvenfarbene Halskette und eine blaugrüne Tasse. Welche Farbe hat der Umschlag?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(C)
+"Auf dem Tisch sehe ich eine gelbe Tasse, eine lila Büroklammer, ein braunes Lehrbuch und einen rosa Buntstift. Ist das Lehrbuch Gold?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Schreibtisch sehe ich drei graue Stressbälle, zwei lila Stressbälle, drei fuchsiafarbene Bleistifte, ein lila Blatt Papier, einen fuchsiafarbenen Stressball, zwei graue Bleistifte und zwei lila Bleistifte. Wenn ich alle fuchsiafarbenen Gegenstände vom Schreibtisch entferne, wie viele Blätter Papier verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Boden sehen Sie ein burgunderfarbenes Scrunchie-Telefonladegerät und ein blaugrünes Armband. Welche Farbe hat das Scrunchiephone-Ladegerät?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Boden liegen eine grüne Sonnenbrille, eine silberne Halskette, eine burgunderrote Hundeleine und ein malvenfarbener Krug. Ist die Kanne lila?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Tisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen braunen Buntstift, eine blaue Tasse, eine schwarze Hundeleine, einen lila Stressball und ein silbernes Lehrbuch. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(F)
+"Auf dem Tisch sehen Sie zwei burgunderrote Tassen, einen burgunderroten Schlüsselanhänger, zwei goldene Schlüsselanhänger, zwei burgunderrote Notizbücher, einen goldenen Bleistift und ein goldenes Notizbuch. Wenn ich alle Goldgegenstände vom Tisch entferne, wie viele Notizbücher verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Boden sehe ich zwei magentafarbene Scrunchiephone-Ladegeräte, einen goldenen Fidget Spinner, drei goldene Broschüren, drei silberne Scrunchiephone-Ladegeräte, zwei silberne Broschüren und zwei magentafarbene Broschüren. Wenn ich alle magentafarbenen Gegenstände vom Boden entferne, wie viele Scrunchiephone-Ladegeräte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Tisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen braunen Krug, ein blaues Notizbuch und eine lila Büroklammer. Welche Farbe hat das Objekt, das am weitesten vom violetten Objekt entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(F)
+"Auf dem Boden sehen Sie einen silbernen Becher, ein orangefarbenes Lehrbuch, eine braune Sonnenbrille, eine türkisfarbene Büroklammer und ein gelbes Notizbuch. Welche Farbe hat die Tasse?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Tisch sieht man mehrere in einer Reihe angeordnete Gegenstände: einen silbernen Bleistift, ein braunes Armband, einen grünen Teller und einen blauen Stift. Wie viele nichtgrüne Objekte sehen Sie rechts vom Stift?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Boden sehen Sie ein lila Armband und ein rotes Scrunchie-Telefonladegerät. Wie viele Dinge sind weder rot noch lila?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Nachttisch sehen Sie eine Reihe von Dingen in einer Reihe: eine silberne Tasse, eine rosa Hundeleine, ein rotes Büchlein, einen braunen Teller und einen blaugrünen Bleistift. Welche Farbe hat das Ding direkt rechts neben der Tasse?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Nachttisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: eine schwarze Sonnenbrille, eine türkisfarbene Hundeleine, eine graue Tasse, einen braunen Stressball, eine rosa Kanne und ein fuchsiafarbenes Lehrbuch. Welche Farbe hat das Objekt direkt rechts vom türkisfarbenen Objekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(P)
+"Auf dem Boden liegen ein magentafarbenes Scrunchiephone-Ladegerät und drei graue Stifte. Wenn ich alle Stifte vom Boden entferne, wie viele burgunderfarbene Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Boden liegen ein gelbes Lehrbuch, eine blaugrüne Halskette, drei gelbe Puzzles, drei blaugrüne Puzzles, zwei lila Lehrbücher, zwei magentafarbene Bleistifte, ein gelber Bleistift, zwei gelbe Halsketten und eine lila Halskette. Wenn ich alle magentafarbenen Dinge vom Boden entferne, wie viele Rätsel verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(G)
+"Auf dem Tisch sehe ich eine blaugrüne Tasse, eine braune Büroklammer, einen silbernen Fidget Spinner, eine schwarze Sonnenbrille, einen gelben Teddybären und einen goldenen Teller. Welche Farbe hat der Fidget Spinner?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Tisch liegen eine braune Halskette, ein blaues Puzzle und ein roter Buntstift. Wie viele Objekte sind weder orange noch lila?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Tisch liegen eine rote Hundeleine, ein brauner Teddybär, ein silberner Bleistift und eine blaugrüne Büroklammer. Welche Farbe hat die Büroklammer?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(J)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen magentafarbenen Buntstift, ein graues Katzenspielzeug, einen rosa Fidget Spinner, ein gelbes Büchlein und einen goldenen Krug. Welche Farbe hat das Objekt, das am weitesten vom gelben Objekt entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(G)
+"Auf dem Nachttisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: einen burgunderfarbenen Bleistift, einen blaugrünen Stift, einen blauen Fidget Spinner, ein schwarzes Armband, eine rote Tasse und eine grüne Halskette. Welche Farbe hat das Objekt, das am weitesten vom roten Objekt entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Tisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: eine burgunderrote Büroklammer, eine lila Tasse, einen malvenfarbenen Bleistift, einen gelben Schlüsselanhänger und einen silbernen Teddybären. Welche Farbe hat das Objekt, das am weitesten vom Teddybären entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Nachttisch stehen eine schwarze Kanne und ein blaugrünes Scrunchiephone-Ladegerät. Wenn ich alle Krüge vom Nachttisch entferne, wie viele schwarze Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Schreibtisch sehe ich ein schwarzes Notizbuch, einen rosa Stift, eine burgunderrote Sonnenbrille, einen goldenen Buntstift und einen grünen Schlüsselanhänger. Ist die Kreide türkis?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein rosa Teddybär, ein türkisfarbenes Lehrbuch, ein goldener Bleistift, ein grauer Umschlag und ein burgunderrotes Blatt Papier. Welche Farbe hat das Objekt, das am weitesten vom Blatt Papier entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Nachttisch sehen Sie eine gelbe Tasse, eine rosa Sonnenbrille, einen blauen Bleistift, einen grünen Buntstift und ein lila Puzzle. Ist die Sonnenbrille silbern?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein blaugrüner Teller, eine schwarze Tasse, ein brauner Stressball und eine rosa Hundeleine. Wie viele nicht-magentafarbene Objekte sehen Sie rechts vom braunen Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen: einen orangefarbenen Stift, eine türkisfarbene Sonnenbrille, ein goldenes Haargummi-Ladegerät, einen gelben Umschlag und ein fuchsiafarbenes Armband. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(B)
+"Auf dem Nachttisch sehen Sie mehrere Gegenstände in einer Reihe angeordnet: einen goldenen Umschlag, ein orangefarbenes Scrunchiephone-Ladegerät, eine braune Sonnenbrille und eine rosa Hundeleine. Wie viele nicht-türkisfarbene Artikel sehen Sie rechts neben dem rosafarbenen Artikel?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Tisch sehen Sie ein grünes Puzzle, eine schwarze Tasse, einen grauen Umschlag und ein türkisfarbenes Scrunchie-Telefonladegerät. Ist der Umschlag grau?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Tisch sehe ich eine blaue Sonnenbrille und einen silbernen Schlüsselanhänger. Ist die Sonnenbrille grün?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Schreibtisch liegen in einer Reihe die folgenden Dinge: ein blauer Stift, ein burgunderrotes Notizbuch und ein rosa Stressball. Wie viele nicht-braune Dinge sehen Sie links von dem burgunderroten Ding?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Schreibtisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: eine fuchsiafarbene Tasse, einen roten Stift, einen türkisfarbenen Fidget Spinner, eine blaugrüne Büroklammer und einen silbernen Teddybären. Wie viele nicht-gelbe Gegenstände sehen Sie rechts neben dem Fidget Spinner?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(C)
+"Auf dem Schreibtisch sehe ich zwei magentafarbene Tassen, eine burgunderrote Kanne, zwei silberne Tassen, eine blaugrüne Kanne, drei magentafarbene Kannen und eine burgunderfarbene Tasse. Wenn ich alle Silbergegenstände vom Schreibtisch entferne, wie viele Tassen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Boden liegen ein goldener Stift, ein grüner Stift und zwei grüne Bleistifte. Wenn ich alle Stifte vom Boden entferne, wie viele Goldgegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Nachttisch sehen Sie die folgenden Dinge in einer Reihe angeordnet: eine rosa Tasse, ein orangefarbenes Büchlein, eine türkisfarbene Halskette und ein lila Lehrbuch. Wie viele nicht-magentafarbene Dinge sehen Sie links von der Halskette?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(C)
+"Auf dem Schreibtisch sehe ich zwei silberne Hefte, ein gelbes Blatt Papier, eine silberne Sonnenbrille, zwei gelbe Hefte, eine gelbe Sonnenbrille, drei lila Hefte, ein lila Blatt Papier und zwei silberne Blätter Papier. Wenn ich alle silbernen Gegenstände vom Schreibtisch entferne, wie viele Sonnenbrillen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Schreibtisch sehe ich einen lila Stift, einen grünen Teddybär, eine schwarze Tasse, eine gelbe Sonnenbrille und einen blauen Buntstift. Wie viele Artikel sind weder rot noch orange?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(F)
+"Auf dem Tisch liegen zwei grüne Stifte, ein grüner Fidget Spinner, drei blaugrüne Fidget Spinner, ein grüner Stressball, zwei blaugrüne Katzenspielzeuge und drei grüne Katzenspielzeuge. Wenn ich alle Fidget Spinner vom Tisch entferne, wie viele grüne Objekte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(G)
+"Auf dem Schreibtisch liegen drei orangefarbene Puzzles, drei orangefarbene Hundeleinen, ein orangefarbener Umschlag, ein silbernes Puzzle, drei silberne Fidget Spinner, zwei grüne Fidget Spinner, drei silberne Hundeleinen, ein roter Umschlag, eine rote Hundeleine und ein grüner Hund Leine, zwei silberne Umschläge, ein grüner Umschlag, zwei grüne Puzzles und ein rotes Puzzle. Wenn ich alle Silbergegenstände vom Schreibtisch entferne, wie viele Hundeleinen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(F)
+"Auf dem Schreibtisch sehe ich eine lila Halskette, ein goldenes Scrunchie-Telefonladegerät und einen roten Stressball. Ist der Stressball rot?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein blaugrüner Teddybär, eine braune Kanne und ein lila Bleistift. Welche Farbe hat der Gegenstand direkt links neben der Kanne?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(J)
+"Auf dem Boden sehen Sie drei goldene Scrunchiephone-Ladegeräte und drei orangefarbene Lehrbücher. Wenn ich alle Scrunchiephone-Ladegeräte vom Boden entferne, wie viele orangefarbene Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Tisch sehe ich drei schwarze Stressbälle, einen orangefarbenen Stressball, zwei lila Schlüsselanhänger, eine schwarze Hundeleine, einen orangefarbenen Schlüsselanhänger, drei orangefarbene Katzenspielzeuge, einen schwarzen Schlüsselanhänger und einen lila Stressball. Wenn ich alle Katzenspielzeuge vom Tisch entferne, wie viele orangefarbene Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Tisch sehen Sie einen blauen Umschlag, einen blauen Teller, drei rote Halsketten, zwei rote Teller, drei silberne Teller, drei blaue Halsketten, einen goldenen Teller und drei silberne Halsketten. Wenn ich alle Teller vom Tisch entferne, wie viele Silbergegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Nachttisch sehen Sie mehrere Dinge in einer Reihe angeordnet: ein rosa Armband, eine grüne Tasse, eine silberne Kanne, einen lila Stift und ein lila Puzzle. Welche Farbe hat das Ding, das am weitesten vom Armband entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Nachttisch sehe ich ein gelbes Katzenspielzeug, einen silbernen Bleistift, einen goldenen Krug, ein rotes Lehrbuch und eine braune Hundeleine. Ist das Katzenspielzeug gelb?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Boden sehen Sie einen lila Fidget Spinner, einen roten Stift, einen grünen Buntstift, eine rosa Büroklammer und ein blaugrünes Scrunchie-Telefonladegerät. Ist das Scrunchie-Telefonladegerät grau?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Boden sehe ich zwei goldene Armbänder, einen lila Stressball, zwei braune Stressbälle, drei lila Fidget Spinner, drei lila Umschläge und drei braune Umschläge. Wenn ich alle Armbänder vom Boden entferne, wie viele braune Dinge bleiben dann darauf zurück?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(F)
+"Auf dem Boden sieht man in einer Reihe angeordnete Dinge: einen schwarzen Krug, eine grüne Hundeleine, ein türkisfarbenes Blatt Papier, ein burgunderrotes Puzzle und eine rosa Halskette. Welche Farbe hat das Ding direkt rechts vom burgunderroten Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Nachttisch sehen Sie ein gelbes Blatt Papier, drei braune Bleistifte und drei braune Lehrbücher. Wenn ich alle gelben Gegenstände vom Nachttisch entferne, wie viele Blätter Papier verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Tisch liegen ein schwarzer Teddybär, ein grüner Fidget Spinner, ein malvenfarbenes Scrunchiephone-Ladegerät und ein gelber Buntstift. Welche Farbe hat der Fidget Spinner?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Tisch sehen Sie drei braune Büroklammern, zwei braune Stifte und zwei orangefarbene Büroklammern. Wenn ich alle orangefarbenen Dinge vom Tisch entferne, wie viele Stifte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Nachttisch sehen Sie eine braune Tasse, ein grünes Scrunchiephone-Ladegerät und einen gelben Teddybären. Wie viele Artikel sind weder lila noch schwarz?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Nachttisch sehe ich ein braunes Katzenspielzeug und ein grünes Armband. Wie viele Dinge sind weder grün noch braun?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein grünes Scrunchiephone-Ladegerät, eine rote Tasse, ein silbernes Katzenspielzeug, eine graue Büroklammer und ein fuchsiafarbenes Blatt Papier. Welche Farbe hat der Gegenstand, der am weitesten von der Tasse entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(H)
+"Auf dem Schreibtisch sieht man folgende Dinge in einer Reihe angeordnet: einen roten Fidget Spinner, einen goldenen Teller, einen grünen Bleistift und einen blauen Teddybären. Welche Farbe hat das Ding, das am weitesten vom grünen Ding entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Nachttisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: einen blauen Bleistift, einen roten Schlüsselbund, einen schwarzen Teddybär, eine braune Halskette, eine magentafarbene Tasse und ein lila Katzenspielzeug. Welche Farbe hat das Objekt direkt rechts vom Bleistift?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Schreibtisch sehen Sie ein gelbes Puzzle, eine rosa Büroklammer, eine braune Sonnenbrille, ein goldenes Blatt Papier, einen blauen Fidget Spinner und ein grünes Katzenspielzeug. Welche Farbe hat die Büroklammer?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Schreibtisch sehen Sie zwei blaugrüne Puzzles, zwei rote Puzzles, drei graue Krüge, zwei blaugrüne Teller, zwei blaue Puzzles, drei rote Krüge, zwei blaue Krüge und zwei graue Teller. Wenn ich alle blauen Gegenstände vom Schreibtisch entferne, wie viele Rätsel verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(UND)
+"Auf dem Schreibtisch sehen Sie einen türkisfarbenen Teddybären, ein blaugrünes Notizbuch und ein silbernes Lehrbuch. Welche Farbe hat das Lehrbuch?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Schreibtisch sehen Sie eine fuchsiafarbene Hundeleine und eine blaugrüne Halskette. Ist die Hundeleine türkis?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Tisch sehen Sie mehrere in einer Reihe angeordnete Gegenstände: ein lila Lehrbuch, einen schwarzen Fidget Spinner und ein magentafarbenes Katzenspielzeug. Wie viele nicht-lila Objekte sehen Sie links vom magentafarbenen Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Boden sieht man in einer Reihe angeordnete Dinge: einen grauen Stift, eine burgunderrote Hundeleine, einen goldenen Bleistift, einen rosa Teller und einen schwarzen Umschlag. Wie viele nicht-lila Dinge sehen Sie rechts vom grauen Ding?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: eine graue Sonnenbrille, ein lila Teddybär und ein orangefarbenes Notizbuch. Wie viele nichtbraune Objekte sehen Sie rechts vom lila Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Dingen: ein rosa Notizbuch, einen grünen Schlüsselbund, eine graue Tasse, eine lila Tasse, einen blauen Stift und einen silbernen Umschlag. Welche Farbe hat das Ding ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen in einer Reihe angeordnet: einen blauen Schlüsselbund, einen rosa Fidget Spinner, einen türkisfarbenen Krug, ein malvenfarbenes Lehrbuch, eine braune Büroklammer und einen blaugrünen Umschlag. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Nachttisch sehen Sie eine gelbe Halskette, einen blauen Stressball, ein braunes Lehrbuch und einen schwarzen Stift. Wie viele Gegenstände sind weder rot noch grün?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Boden sieht man in einer Reihe angeordnete Dinge: eine graue Tasse, ein rosa Notizbuch, ein silbernes Büchlein, einen burgunderroten Bleistift, einen magentafarbenen Teddybären und einen türkisfarbenen Stift. Welche Farbe hat das Ding ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(P)
+"Auf dem Schreibtisch sieht man mehrere in einer Reihe angeordnete Gegenstände: einen roten Umschlag, einen magentafarbenen Teddybären, ein graues Büchlein, eine türkisfarbene Hundeleine und ein grünes Katzenspielzeug. Welche Farbe hat das Objekt direkt links vom grauen Objekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(G)
+"Auf dem Boden sieht man eine Menge Dinge in einer Reihe angeordnet: eine malvenfarbene Sonnenbrille, ein blaues Büchlein, eine rote Büroklammer, einen goldenen Becher, einen burgunderfarbenen Stressball und ein schwarzes Armband. Welche Farbe hat das Ding, das am weitesten vom blauen Ding entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein rosa Umschlag, eine rote Büroklammer, ein burgunderrotes Puzzle, eine orangefarbene Hundeleine, ein grüner Fidget Spinner und ein malvenfarbener Buntstift. Welche Farbe hat das Objekt ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Tisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen burgunderfarbenen Teller, einen türkisfarbenen Schlüsselanhänger und ein goldenes Puzzle. Welche Farbe hat das Objekt direkt links vom Goldobjekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(K)
+"Auf dem Tisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: ein graues Puzzle, einen goldenen Bleistift und einen gelben Teddybären. Welche Farbe hat das Objekt direkt rechts vom Goldobjekt?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(C)
+"Auf dem Nachttisch sehen Sie ein magentafarbenes Notizbuch, einen grauen Schlüsselanhänger, einen schwarzen Bleistift, einen goldenen Kugelschreiber, ein lila Büchlein und ein blaues Blatt Papier. Welche Farbe hat das Heft?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Nachttisch sehen Sie eine Reihe von Gegenständen: ein burgunderrotes Armband, eine türkisfarbene Tasse, einen rosa Buntstift, ein silbernes Blatt Papier, einen braunen Teller und ein grünes Katzenspielzeug. Welche Farbe hat das Element ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(L)
+"Auf dem Nachttisch sehen Sie in einer Reihe angeordnete Dinge: einen türkisfarbenen Bleistift, ein gelbes Puzzle, einen burgunderroten Umschlag und einen goldenen Schlüsselanhänger. Welche Farbe hat das Ding direkt rechts vom burgunderroten Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(N)
+"Auf dem Nachttisch liegen eine graue Büroklammer, eine rote Tasse, ein goldenes Armband, eine blaue Halskette, ein blaugrüner Schlüsselanhänger und ein burgunderfarbenes Puzzle. Ist die Büroklammer grau?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Schreibtisch liegen zwei türkisfarbene Fidget Spinner, eine rote Sonnenbrille, drei lila Fidget Spinner und drei türkisfarbene Sonnenbrillen. Wenn ich alle türkisfarbenen Dinge vom Schreibtisch entferne, wie viele Sonnenbrillen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: ein fuchsiafarbenes Blatt Papier, ein lila Lehrbuch und eine orangefarbene Tasse. Welche Farbe hat der Artikel direkt links neben der Tasse?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Nachttisch sehe ich ein grünes Scrunchiephone-Ladegerät, ein silbernes Scrunchiephone-Ladegerät, drei magentafarbene Scrunchiephone-Ladegeräte, drei braune Scrunchiephone-Ladegeräte, zwei braune Hundeleinen, drei magentafarbene Krüge und drei grüne Krüge. Wenn ich alle Scrunchiephone-Ladegeräte vom Nachttisch entferne, wie viele magentafarbene Gegenstände verbleiben darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(D)
+"Auf dem Schreibtisch sehen Sie einen lila Bleistift, einen orangefarbenen Umschlag, eine silberne Sonnenbrille und eine magentafarbene Büroklammer. Welche Farbe hat die Büroklammer?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(G)
+"Auf dem Boden liegen ein burgunderrotes Armband und eine gelbe Tasse. Ist das Armband fuchsia?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Nachttisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein blaugrünes Puzzle, ein gelbes Katzenspielzeug, ein blauer Fidget Spinner, ein orangefarbenes Notizbuch und ein rosa Umschlag. Welche Farbe hat das Objekt ganz rechts?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Boden liegen drei fuchsiafarbene Stifte, zwei gelbe Umschläge, drei fuchsiafarbene Umschläge, zwei blaue Umschläge, ein gelber Stift, zwei blaue Armbänder und drei blaue Stifte. Wenn ich alle fuchsiafarbenen Gegenstände vom Boden entferne, wie viele Umschläge verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(UND)
+"Auf dem Schreibtisch sehen Sie mehrere Dinge in einer Reihe angeordnet: einen silbernen Teller, ein burgunderfarbenes Lehrbuch, ein rosa Puzzle und ein grünes Scrunchie-Telefon-Ladegerät. Welche Farbe hat das Ding, das am weitesten vom Teller entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Boden sieht man mehrere in einer Reihe angeordnete Gegenstände: einen grünen Fidget Spinner, ein gelbes Lehrbuch, einen goldenen Teddybär, einen roten Schlüsselanhänger, eine magentafarbene Tasse und einen türkisfarbenen Teller. Welche Farbe hat das Objekt direkt rechts vom Teddybären?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Boden sieht man eine Reihe von Gegenständen in einer Reihe angeordnet: einen fuchsiafarbenen Krug, einen schwarzen Teddybären, einen blauen Umschlag, eine silberne Büroklammer, einen blaugrünen Bleistift und einen gelben Schlüsselanhänger. Welche Farbe hat das Objekt, das am weitesten vom silbernen Objekt entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(H)
+"Auf dem Boden sehen Sie drei türkisfarbene Schlüsselanhänger, drei türkisfarbene Büroklammern, zwei malvenfarbene Lehrbücher, einen malvenfarbenen Schlüsselanhänger und drei malvenfarbene Büroklammern. Wenn ich alle Schlüsselanhänger vom Boden entferne, wie viele lila Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(F)
+"Auf dem Nachttisch sehe ich eine lila Halskette, einen schwarzen Teller und ein blaues Puzzle. Wie viele Objekte sind weder schwarz noch lila?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: eine rote Tasse, ein goldenes Armband, ein fuchsiafarbenes Puzzle, ein lila Stressball und ein burgunderroter Fidget Spinner. Welche Farbe hat das Objekt direkt rechts neben der Tasse?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(N)
+"Auf dem Boden sehe ich einen rosa Schlüsselanhänger und einen türkisfarbenen Krug. Welche Farbe hat der Krug?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(K)
+"Auf dem Tisch sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein graues Armband, ein magentafarbener Fidget Spinner, ein grünes Notizbuch und ein orangefarbenes Blatt Papier. Welche Farbe hat das Objekt direkt rechts neben dem Notizbuch?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(B)
+"Auf dem Schreibtisch liegen ein blaues Lehrbuch, eine graue Hundeleine, eine burgunderfarbene Büroklammer, ein schwarzer Buntstift, ein blaugrüner Umschlag und ein lila Puzzle. Welche Farbe hat die Hundeleine?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(P)
+"Auf dem Boden liegen ein brauner Krug, ein schwarzer Umschlag, ein silberner Stressball und ein türkisfarbener Teller. Welche Farbe hat die Platte?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(K)
+"Auf dem Boden liegen ein grüner Bleistift, eine gelbe Tasse, ein fuchsiafarbenes Büchlein und ein rosa Stift. Ist das Heft fuchsia?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Tisch sehe ich eine burgunderrote Hundeleine, einen roten Buntstift, ein gelbes Blatt Papier und einen grünen Schlüsselanhänger. Welche Farbe hat der Schlüsselanhänger?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(D)
+"Auf dem Nachttisch sehen Sie mehrere Gegenstände in einer Reihe angeordnet: ein türkisfarbenes Scrunchiephone-Ladegerät, ein rotes Armband, einen grauen Schlüsselanhänger und eine goldene Tasse. Wie viele nicht-blaugrüne Artikel sehen Sie links neben dem Scrunchiephone-Ladegerät?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Tisch liegen ein blaues Heft und eine lila Büroklammer. Wie viele Dinge sind weder blau noch schwarz?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Tisch sehen Sie einen silbernen Stift, einen blaugrünen Bleistift, ein rotes Büchlein, ein schwarzes Puzzle und ein orangefarbenes Katzenspielzeug. Ist das Heft rot?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Nachttisch sehe ich einen orangefarbenen Stressball, ein braunes Armband, eine lila Halskette, ein gelbes Büchlein, ein grünes Puzzle und einen blauen Stift. Wie viele Gegenstände sind weder rot noch braun?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(F)
+"Auf dem Tisch sehen Sie die folgenden Dinge in einer Reihe angeordnet: einen goldenen Becher, einen blauen Bleistift, eine blaugrüne Büroklammer, einen burgunderfarbenen Teller, eine fuchsiafarbene Halskette und ein rotes Büchlein. Welche Farbe hat das Ding, das am weitesten von der Büroklammer entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(A)
+"Auf dem Boden sehen Sie eine Reihe von Dingen: ein fuchsiafarbenes Katzenspielzeug, eine silberne Tasse, eine rosa Büroklammer, einen schwarzen Fidget Spinner, ein lila Büchlein und eine blaugrüne Hundeleine. Welche Farbe hat das Ding direkt rechts neben dem rosa Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Nachttisch sehen Sie ein goldenes Notizbuch, ein gelbes Notizbuch, zwei gelbe Schlüsselanhänger, zwei goldene Schlüsselanhänger, drei gelbe Tassen und ein goldenes Scrunchiephone-Ladegerät. Wenn ich alle gelben Gegenstände vom Nachttisch entferne, wie viele Scrunchiephone-Ladegeräte verbleiben darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Nachttisch sehen Sie eine Reihe von Gegenständen: eine blaue Büroklammer, einen grauen Umschlag und einen braunen Schlüsselbund. Welche Farbe hat der Gegenstand direkt rechts neben der Büroklammer?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(P)
+"Auf dem Schreibtisch sehe ich eine magentafarbene Sonnenbrille, ein rosa Lehrbuch, einen lila Fidget Spinner und ein türkisfarbenes Büchlein. Welche Farbe hat der Fidget Spinner?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(ICH)
+"Auf dem Tisch liegen ein schwarzer Stift, ein braunes Armband, ein roter Teddybär, ein gelbes Lehrbuch und ein orangefarbenes Heft. Wie viele Gegenstände sind weder braun noch schwarz?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(D)
+"Auf dem Schreibtisch sehe ich einen burgunderroten Stressball, einen roten Teller, ein blaugrünes Blatt Papier und eine fuchsiafarbene Tasse. Ist der Stressball burgunderrot?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Tisch sehe ich drei burgunderrote Büroklammern, drei magentafarbene Büroklammern, ein rosa Katzenspielzeug, drei magentafarbene Sonnenbrillen, zwei rosa Büroklammern, zwei rosa Notizbücher, ein braunes Notizbuch, ein magentafarbenes Katzenspielzeug, drei braune Katzenspielzeuge, drei braune Büroklammern , drei burgunderrote Sonnenbrillen, drei burgunderrote Notizbücher, zwei burgunderrote Katzenspielzeuge und drei magentafarbene Notizbücher. Wenn ich alle Notizbücher vom Tisch entferne, wie viele burgunderrote Dinge bleiben dann darauf übrig?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(ICH)
+"Auf dem Nachttisch sieht man eine Menge Dinge in einer Reihe angeordnet: eine türkisfarbene Sonnenbrille, ein fuchsiafarbenes Armband, eine braune Halskette, ein malvenfarbenes Puzzle und eine lila Hundeleine. Wie viele nicht-gelbe Dinge sehen Sie links von der Sonnenbrille?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Boden sehen Sie zwei blaue Lehrbücher, ein blaues Blatt Papier, zwei goldene Tassen, ein orangefarbenes Blatt Papier, ein blaues Heft, zwei goldene Blätter Papier und zwei goldene Hefte. Wenn ich alle blauen Gegenstände vom Boden entferne, wie viele Lehrbücher verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: einen blaugrünen Fidget Spinner, eine goldene Sonnenbrille, ein malvenfarbenes Scrunchiephone-Ladegerät und ein braunes Notizbuch. Welche Farbe hat der Artikel, der am weitesten vom Scrunchiephone-Ladegerät entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(J)
+"Auf dem Tisch sehe ich einen orangefarbenen Teddybären, zwei orangefarbene Umschläge und drei grüne Umschläge. Wenn ich alle Umschläge vom Tisch entferne, wie viele orangefarbene Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(B)
+"Auf dem Schreibtisch sehe ich einen grünen Buntstift, ein burgunderfarbenes Notizbuch und eine braune Hundeleine. Ist das Notizbuch schwarz?
+Optionen:
+(A) ja
+(B) nein",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen: eine schwarze Büroklammer, einen goldenen Schlüsselanhänger und eine silberne Halskette. Welche Farbe hat der Gegenstand, der am weitesten von der Büroklammer entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Boden sehen Sie eine Reihe von Gegenständen, die in einer Reihe angeordnet sind: ein orangefarbenes Scrunchiephone-Ladegerät, eine blaue Tasse, eine türkisfarbene Hundeleine, einen gelben Fidget Spinner, einen braunen Stressball und ein burgunderrotes Lehrbuch. Wie viele nichtgraue Objekte sehen Sie links vom blauen Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(B)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Gegenständen in einer Reihe angeordnet: ein rotes Katzenspielzeug, eine blaugrüne Tasse, einen gelben Buntstift, ein fuchsiafarbenes Büchlein, eine grüne Halskette und einen malvenfarbenen Teller. Wie viele nicht-braune Gegenstände sehen Sie links von der Halskette?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Dingen, die in einer Reihe angeordnet sind: eine rosa Tasse, ein fuchsiafarbener Buntstift und ein silbernes Blatt Papier. Welche Farbe hat das Ding ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(R)
+"Auf dem Tisch liegen eine orange Hundeleine, ein schwarzes Katzenspielzeug, ein blauer Bleistift, ein lila Fidget Spinner, ein magentafarbenes Puzzle und ein silberner Stift. Ist der Bleistift blau?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Nachttisch liegen ein fuchsiafarbener Krug, ein orangefarbenes Büchlein, ein schwarzes Katzenspielzeug, ein türkisfarbener Buntstift, eine gelbe Büroklammer und ein malvenfarbenes Puzzle. Ist die Broschüre orange?
+Optionen:
+(A) ja
+(B) nein",(A)
+"Auf dem Tisch sehen Sie eine Reihe von Dingen: einen türkisfarbenen Teller, ein braunes Scrunchiephone-Ladegerät, ein orangefarbenes Lehrbuch, einen magentafarbenen Stressball, eine rosa Sonnenbrille und einen silbernen Schlüsselanhänger. Wie viele nicht-fuchsiafarbene Dinge sehen Sie links vom Schlüsselbund?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(F)
+"Auf dem Boden sehen Sie mehrere in einer Reihe angeordnete Gegenstände: ein grünes Scrunchiephone-Ladegerät, ein silbernes Armband und einen goldenen Stressball. Welche Farbe hat der Gegenstand direkt links neben dem goldenen Gegenstand?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(M)
+"Auf dem Schreibtisch sehen Sie die folgenden Gegenstände in einer Reihe angeordnet: ein graues Lehrbuch, einen gelben Bleistift, ein goldenes Katzenspielzeug, ein grünes Blatt Papier, ein türkisfarbenes Büchlein und einen fuchsiafarbenen Teddybären. Wie viele nichtrote Objekte sehen Sie rechts vom grauen Objekt?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(F)
+"Auf dem Boden sehen Sie eine graue Tasse, drei goldene Teddybären, zwei gelbe Tassen, eine goldene Tasse und einen grauen Teddybären. Wenn ich alle gelben Gegenstände vom Boden entferne, wie viele Tassen verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Tisch sieht man eine Reihe von Dingen in einer Reihe angeordnet: ein grünes Scrunchiephone-Ladegerät, einen burgunderroten Bleistift, ein schwarzes Büchlein, eine fuchsiafarbene Tasse und ein goldenes Katzenspielzeug. Welche Farbe hat das Ding, das am weitesten vom Burgunderrot entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(N)
+"Auf dem Tisch liegen ein fuchsiafarbenes Blatt Papier, ein magentafarbener Bleistift, eine blaugrüne Sonnenbrille, ein schwarzer Schlüsselanhänger und ein burgunderfarbener Fidget Spinner. Welche Farbe hat der Schlüsselanhänger?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Ö)
+"Auf dem Schreibtisch liegen drei schwarze Blätter Papier, zwei schwarze Umschläge, eine braune Tasse, ein brauner Stressball, ein brauner Umschlag, ein braunes Blatt Papier und eine schwarze Tasse. Wenn ich alle braunen Gegenstände vom Schreibtisch entferne, wie viele Umschläge verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(C)
+"Auf dem Schreibtisch sehen Sie eine Reihe von Dingen, die in einer Reihe angeordnet sind: ein blaues Notizbuch, eine blaugrüne Kanne, eine grüne Tasse und ein magentafarbenes Blatt Papier. Welche Farbe hat das Ding ganz links?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Tisch liegen ein goldener Buntstift, ein gelber Umschlag, eine grüne Tasse, eine magentafarbene Sonnenbrille und ein orangefarbener Bleistift. Welche Farbe hat die Sonnenbrille?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(G)
+"Auf dem Boden sehen Sie ein grünes Katzenspielzeug, einen silbernen Fidget Spinner und eine lila Halskette. Welche Farbe hat die Halskette?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Schreibtisch sieht man eine Reihe von Dingen in einer Reihe angeordnet: einen türkisfarbenen Teddybären, ein rosa Blatt Papier, ein grünes Notizbuch, eine schwarze Kanne, ein fuchsiafarbenes Armband und einen lila Schlüsselanhänger. Welche Farbe hat das Ding direkt rechts neben dem fuchsiafarbenen Ding?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(Q)
+"Auf dem Schreibtisch sehen Sie zwei burgunderfarbene Armbänder, zwei rote Büroklammern, drei orangefarbene Teller, einen fuchsiafarbenen Teller, einen burgunderfarbenen Teller, einen roten Teller, eine orangefarbene Büroklammer und drei orangefarbene Armbänder. Wenn ich alle Teller vom Schreibtisch entferne, wie viele fuchsiafarbene Gegenstände verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)
+"Auf dem Boden sehen Sie mehrere in einer Reihe angeordnete Gegenstände: einen Silberteller, einen magentafarbenen Stift, einen rosa Fidget Spinner und einen malvenfarbenen Krug. Wie viele nicht schwarze Elemente sehen Sie rechts neben dem lila Element?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(A)
+"Auf dem Schreibtisch sieht man mehrere Dinge in einer Reihe angeordnet: ein braunes Scrunchiephone-Ladegerät, einen malvenfarbenen Schlüsselanhänger, einen türkisfarbenen Bleistift und eine orangefarbene Tasse. Welche Farbe hat das Ding, das am weitesten vom Scrunchiephone-Ladegerät entfernt ist?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(B)
+"Auf dem Nachttisch sehen Sie eine Reihe von Dingen: einen rosa Bleistift, ein blaugrünes Armband, eine burgunderrote Halskette, eine fuchsiafarbene Tasse, eine türkisfarbene Sonnenbrille und einen goldenen Schlüsselanhänger. Wie viele nicht schwarze Dinge sehen Sie links vom türkisfarbenen Ding?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs",(UND)
+"Auf dem Tisch sehen Sie einen orangefarbenen Fidget Spinner, eine blaugrüne Sonnenbrille und einen braunen Stift. Welche Farbe hat die Sonnenbrille?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(J)
+"Auf dem Tisch sehen Sie die folgenden Dinge in einer Reihe angeordnet: eine fuchsiafarbene Tasse, einen magentafarbenen Stressball, einen lila Umschlag, ein gelbes Notizbuch, eine blaue Büroklammer und einen silbernen Stift. Welche Farbe hat das Ding direkt rechts neben dem Notizbuch?
+Optionen:
+(A) rot
+(B) orange
+(C) gelb
+(D) grün
+(E) blau
+(F) braun
+(G) Magenta
+(H) Fuchsia
+(I) lila
+(J) blaugrün
+(K) Türkis
+(L) Burgunderrot
+(M) Silber
+(N) Gold
+(O) schwarz
+(P) grau
+(Q) lila
+(R) rosa",(UND)
+"Auf dem Tisch liegen zwei magentafarbene Büroklammern, ein goldenes Büchlein, drei blaue Büchlein und drei grüne Büchlein. Wenn ich alle Büroklammern vom Tisch entferne, wie viele magentafarbene Objekte verbleiben dann darauf?
+Optionen:
+(A) Null
+(Knochen
+(C) zwei
+(D) drei
+(E) vier
+(F) fünf
+(G) sechs
+(H) sieben
+(I) acht
+(J) neun
+(K) zehn
+(L) elf
+(M) zwölf
+(N) dreizehn
+(O) vierzehn
+(P) fünfzehn
+(Q) sechzehn",(A)

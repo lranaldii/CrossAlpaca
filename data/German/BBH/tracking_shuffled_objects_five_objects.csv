@@ -1,0 +1,2001 @@
+Eingang,Ziel
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Patrick, Bob tanzt mit Sam, Claire tanzt mit Jamie, Dave tanzt mit Lola und Eve tanzt mit Melissa.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Claire und Bob den Partner. Schließlich wechseln Dave und Alice den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Patrick
+(B) Sam
+(C) Jamie
+(D) Lola
+(E) Melissa",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Jamie, Claire tanzt mit Melissa, Dave tanzt mit Rodrigo und Eve tanzt mit Patrick.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Bob den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Claire und Bob den Partner. Dann wechseln Eve und Dave den Partner. Schließlich wechseln Claire und Alice den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Ophelia
+(B) Jamie
+(C) Melissa
+(D) Rodrigo
+(E) Patrick",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Lola, Claire tanzt mit Izzi, Dave tanzt mit Rodrigo und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Eve den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Dave und Claire den Partner. Schließlich wechseln Bob und Claire den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Jamie
+(B) Lola
+(C) Izzi
+(D) Rodrigo
+(E) Ophelia",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt Hound of the Baskervilles, Claire bekommt Frankenstein, Dave bekommt The Pearl und Eve bekommt The Fellowship of the Ring.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Alice Bücher. Dann tauschen Alice und Claire Bücher. Dann tauschen Alice und Bob Bücher. Dann tauschen Dave und Alice Bücher. Schließlich tauschen Dave und Claire Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Catch-22
+(B) Hund der Baskervilles
+(C) Frankenstein
+(D) Die Perle
+(E) Die Gefährten des Rings",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Moby Dick, Bob bekommt Ulysses, Claire bekommt Die Gefährten, Dave bekommt Lolita und Eve bekommt Catch-22.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Bob Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Eve und Dave Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Moby Dick
+(B) Odysseus
+(C) Die Gefährten des Rings
+(D) Lolita
+(E) Catch-22",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Torwartin, Bob spielt den linken Mittelfeldspieler, Claire spielt den rechten Flügelspieler, Dave spielt den Stürmer und Eve spielt den mittleren Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Claire ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(Ein Torwart
+(B) linker Mittelfeldspieler
+(C) Rechtsaußen
+(D) Stürmer
+(E) mittlerer Mittelfeldspieler",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Jamie, Claire tanzt mit Ophelia, Dave tanzt mit Karl und Eve tanzt mit Rodrigo.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Bob den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Claire und Bob den Partner. Dann wechseln Dave und Alice den Partner. Schließlich wechseln Claire und Eve den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Helga
+(B) Jamie
+(C) Ophelia
+(D) Karl
+(E) Rodrigo",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein lila Geschenk, Claire hat ein blaues Geschenk, Dave hat einen schwarzen Ball und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Bob ihre Geschenke aus. Dann tauschen Claire und Alice ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Schließlich tauschen Alice und Eva ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) grün vorhanden
+(B) lila vorhanden
+(C) blau vorhanden
+(D) schwarzer Ball
+(E) weiß vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Gefährten“, Bob bekommt „Die Odyssee“, Claire bekommt „Frankenstein“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Claire Bücher. Dann tauschen Alice und Eva Bücher. Dann tauschen Dave und Claire Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Dave und Alice Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Die Gefährten des Rings
+(B) Die Odyssee
+(C) Frankenstein
+(D) Hund der Baskervilles
+(E) Odysseus",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Bankspielerin, Bob spielt den linken Mittelfeldspieler, Claire spielt den linken Flügelspieler, Dave spielt den mittleren Mittelfeldspieler und Eve spielt die Stürmerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Dave ihre Positionen. Dann tauschen Dave und Alice ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Alice und Dave ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) Bankwärmer
+(B) linker Mittelfeldspieler
+(C) linker Flügelspieler
+(D) mittlerer Mittelfeldspieler
+(E) Stürmer",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen roten Ball, Bob hat einen schwarzen Ball, Claire hat einen blauen Ball, Dave hat einen gelben Ball und Eve hat einen braunen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Eve die Bälle. Dann tauschen Alice und Bob die Bälle. Dann tauschen Eve und Dave die Bälle. Dann tauschen Claire und Dave die Bälle. Schließlich tauschen Claire und Alice die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) rote Kugel
+(B) schwarze Kugel
+(C) blaue Kugel
+(D) gelber Ball
+(E) braune Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen braunen Ball, Bob hat einen schwarzen Ball, Claire hat einen roten Ball, Dave hat einen rosa Ball und Eve hat einen blauen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Bob die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Claire die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Alice und Dave die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) braune Kugel
+(B) schwarze Kugel
+(C) rote Kugel
+(D) rosa Kugel
+(E) blaue Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Jamie, Claire tanzt mit Melissa, Dave tanzt mit Lola und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Claire den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Bob und Alice den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Eve und Alice den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Karl
+(B) Jamie
+(C) Melissa
+(D) Lola
+(E) Ophelia",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den Bankspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den Torwart und Eve spielt die Cheerleaderin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Bob und Alice ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Schließlich tauschen Dave und Bob ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Rechtsaußen
+(B) Bankwärmer
+(C) rechter Mittelfeldspieler
+(D) Torwart
+(E) Cheerleaderin",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Izzi, Claire tanzt mit Lola, Dave tanzt mit Sam und Eve tanzt mit Melissa.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Bob den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Bob und Dave den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Alice und Eve den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Ophelia
+(B) Izzi
+(C) Lola
+(D) Sam
+(E) Melissa",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball in der Hand: Alice hat einen rosa Ball, Bob hat einen braunen Ball, Claire hat einen schwarzen Ball, Dave hat einen orangefarbenen Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Alice die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Eve und Bob die Bälle. Dann tauschen Bob und Alice die Bälle. Schließlich tauschen Eve und Claire die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) rosa Kugel
+(B) braune Kugel
+(C) schwarze Kugel
+(D) orangefarbene Kugel
+(E) gelber Ball",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Torwart, Claire spielt den rechten Flügelspieler, Dave spielt den Außenverteidiger und Eve spielt den rechten Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Alice ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Dann tauschen Bob und Claire ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Schließlich tauschen Claire und Bob ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) linker Flügelspieler
+(B) Torwart
+(C) Rechtsaußen
+(D) Außenverteidiger
+(E) rechter Mittelfeldspieler",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Frankenstein“, Claire bekommt „Moby Dick“, Dave bekommt „Die Gefährten“ und Eve bekommt „Catch-22“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Eve und Alice Bücher. Dann tauschen Dave und Eve Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Der große Gatsby
+(B) Frankenstein
+(C) Moby Dick
+(D) Die Gefährten des Rings
+(E) Catch-22",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den Torwart, Claire spielt den Bankspieler, Dave spielt den mittleren Mittelfeldspieler und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Eve ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Alice und Claire ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Rechtsaußen
+(B) Torwart
+(C) Bankwärmer
+(D) mittlerer Mittelfeldspieler
+(E) linker Mittelfeldspieler",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen orangefarbenen Ball, Claire hat ein lila Geschenk, Dave hat ein gelbes Geschenk und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Schließlich tauschen Alice und Bob ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) Braun vorhanden
+(B) orangefarbene Kugel
+(C) lila vorhanden
+(D) Gelb vorhanden
+(E) weiß vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Ulysses, Bob bekommt Moby Dick, Claire bekommt The Pearl, Dave bekommt The Odyssey und Eve bekommt The Fellowship of the Ring.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Claire Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Claire und Bob Bücher. Dann tauschen Dave und Claire Bücher. Schließlich tauschen Bob und Dave ihre Bücher aus. Am Ende des Semesters hat Dave
+Optionen:
+(A) Odysseus
+(B) Moby Dick
+(C) Die Perle
+(D) Die Odyssee
+(E) Die Gefährten des Rings",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Moby Dick, Bob bekommt Lolita, Claire bekommt The Great Gatsby, Dave bekommt Catch-22 und Eve bekommt Ulysses.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Dave Bücher. Dann tauschen Bob und Claire Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Dave und Claire Bücher. Schließlich tauschen Claire und Eve Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Moby Dick
+(B) Lolita
+(C) Der große Gatsby
+(D) Catch-22
+(E) Odysseus",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Frankenstein, Bob bekommt Ulysses, Claire bekommt Lolita, Dave bekommt Die Odyssee und Eve bekommt Die Gefährten.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Dave Bücher. Dann tauschen Claire und Alice Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Alice und Claire Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Frankenstein
+(B) Odysseus
+(C) Lolita
+(D) Die Odyssee
+(E) Die Gefährten des Rings",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen braunen Ball, Bob hat einen lila Ball, Claire hat einen schwarzen Ball, Dave hat einen grünen Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Alice die Bälle. Dann tauschen Bob und Alice die Bälle. Dann tauschen Eve und Dave die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Alice und Bob die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) braune Kugel
+(B) lila Kugel
+(C) schwarze Kugel
+(D) grüner Ball
+(E) gelber Ball",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Lola, Claire tanzt mit Ophelia, Dave tanzt mit Melissa und Eve tanzt mit Sam.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Alice und Dave den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Alice und Eve den Partner. Dann wechseln Bob und Dave den Partner. Schließlich wechseln Dave und Claire den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Karl
+(B) Lola
+(C) Ophelia
+(D) Melissa
+(E) Sam",(C)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Torwartin, Bob spielt den linken Flügelspieler, Claire spielt den Bankspieler, Dave spielt die Cheerleaderin und Eve spielt die linke Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Alice ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Eve und Claire ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(Ein Torwart
+(B) linker Flügelspieler
+(C) Bankwärmer
+(D) Cheerleader
+(E) linker Mittelfeldspieler",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat einen rosa Ball, Bob hat ein rotes Geschenk, Claire hat ein grünes Geschenk, Dave hat einen orangefarbenen Ball und Eve hat einen schwarzen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) rosa Kugel
+(B) rot vorhanden
+(C) grün vorhanden
+(D) orangefarbene Kugel
+(E) schwarzer Ball",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Bankspielerin, Bob spielt den rechten Mittelfeldspieler, Claire spielt die Cheerleaderin, Dave spielt den Stürmer und Eve spielt den linken Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Eve ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Bankwärmer
+(B) rechter Mittelfeldspieler
+(C) Cheerleaderin
+(D) Stürmer
+(E) linker Flügelspieler",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen lila Ball, Bob hat einen schwarzen Ball, Claire hat einen roten Ball, Dave hat einen gelben Ball und Eve hat einen braunen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Alice und Dave die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Eve und Claire die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) lila Kugel
+(B) schwarze Kugel
+(C) rote Kugel
+(D) gelber Ball
+(E) braune Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den linken Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den Stürmer und Eve spielt den Außenverteidiger.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Claire ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Schließlich tauschen Bob und Eve ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Rechtsaußen
+(B) linker Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) Stürmer
+(E) Außenverteidiger",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Patrick, Claire tanzt mit Karl, Dave tanzt mit Helga und Eve tanzt mit Izzi.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Alice den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Dave und Bob den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Jamie
+(B) Patrick
+(C) Karl
+(D) Helga
+(E) Izzi",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt The Fellowship of the Ring, Claire bekommt Lolita, Dave bekommt Frankenstein und Eve bekommt The Odyssey.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Alice und Dave Bücher. Dann tauschen Alice und Claire Bücher. Dann tauschen Bob und Eve Bücher. Schließlich tauschen Alice und Dave Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Catch-22
+(B) Die Gefährten des Rings
+(C) Lolita
+(D) Frankenstein
+(E) Die Odyssee",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein grünes Geschenk, Dave hat ein lila Geschenk und Eve hat ein gelbes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Schließlich tauschen Alice und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) Braun vorhanden
+(B) schwarze Kugel
+(C) grün vorhanden
+(D) lila vorhanden
+(E) gelb vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Melissa, Claire tanzt mit Sam, Dave tanzt mit Karl und Eve tanzt mit Helga.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Alice den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Bob und Alice den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Lola
+(B) Melissa
+(C) Sam
+(D) Karl
+(E) Helga",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein blaues Geschenk, Bob hat ein gelbes Geschenk, Claire hat einen schwarzen Ball, Dave hat ein lila Geschenk und Eve hat ein rotes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Claire und Alice ihre Geschenke aus. Schließlich tauschen Eve und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) blau vorhanden
+(B) Gelb vorhanden
+(C) schwarze Kugel
+(D) lila vorhanden
+(E) rot vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Ulysses, Bob bekommt Moby Dick, Claire bekommt The Pearl, Dave bekommt The Odyssey und Eve bekommt The Fellowship of the Ring.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Claire Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Claire und Bob Bücher. Dann tauschen Dave und Claire Bücher. Schließlich tauschen Bob und Dave ihre Bücher aus. Am Ende des Semesters hat Eve
+Optionen:
+(A) Odysseus
+(B) Moby Dick
+(C) Die Perle
+(D) Die Odyssee
+(E) Die Gefährten des Rings",(A)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen blauen Ball, Claire hat einen orangefarbenen Ball, Dave hat einen rosa Ball und Eve hat einen weißen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Bob die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Dave und Alice die Bälle. Dann tauschen Eve und Claire die Bälle. Schließlich tauschen Claire und Alice die Bälle. Am Ende des Spiels hat Eve das
+Optionen:
+(A) schwarzer Ball
+(B) blaue Kugel
+(C) orangefarbene Kugel
+(D) rosa Kugel
+(E) weiße Kugel",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Frankenstein, Bob bekommt The Pearl, Claire bekommt Hound of the Baskervilles, Dave bekommt Ulysses und Eve bekommt The Great Gatsby.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Dave und Claire Bücher. Dann tauschen Bob und Claire Bücher. Dann tauschen Claire und Eve Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Alice und Claire Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Frankenstein
+(B) Die Perle
+(C) Hund der Baskervilles
+(D) Odysseus
+(E) Der große Gatsby",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein gelbes Geschenk, Claire hat einen orangefarbenen Ball, Dave hat ein weißes Geschenk und Eve hat ein braunes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Schließlich tauschen Eve und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) grün vorhanden
+(B) Gelb vorhanden
+(C) orangefarbene Kugel
+(D) weiß vorhanden
+(E) braun vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Die Perle“, Claire bekommt „Ulysses“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Moby Dick“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Dave und Claire Bücher. Dann tauschen Claire und Eve Bücher. Dann tauschen Alice und Claire Bücher. Dann tauschen Claire und Bob Bücher. Schließlich tauschen Dave und Eve Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Der große Gatsby
+(B) Die Perle
+(C) Odysseus
+(D) Hund der Baskervilles
+(E) Moby Dick",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen rosa Ball, Dave hat einen weißen Ball und Eve hat einen roten Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Alice und Dave die Bälle. Dann tauschen Bob und Claire die Bälle. Dann tauschen Claire und Dave die Bälle. Dann tauschen Dave und Bob die Bälle. Schließlich tauschen Alice und Eva die Bälle. Am Ende des Spiels hat Eve das
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) rosa Kugel
+(D) weiße Kugel
+(E) rote Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Moby Dick, Bob bekommt Ulysses, Claire bekommt Die Gefährten, Dave bekommt Lolita und Eve bekommt Catch-22.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Bob Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Eve und Dave Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Moby Dick
+(B) Odysseus
+(C) Die Gefährten des Rings
+(D) Lolita
+(E) Catch-22",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die mittlere Mittelfeldspielerin, Bob spielt den Außenverteidiger, Claire spielt den Torwart, Dave spielt den linken Flügelspieler und Eve spielt den rechten Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Claire ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Schließlich tauschen Claire und Eve ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) mittlerer Mittelfeldspieler
+(B) Außenverteidiger
+(C) Torwart
+(D) linker Flügelspieler
+(E) Rechtsaußen",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Gefährten“, Bob bekommt „Die Odyssee“, Claire bekommt „Catch-22“, Dave bekommt „Der große Gatsby“ und Eve bekommt „Lolita“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Eva Bücher. Dann tauschen Claire und Eve Bücher. Dann tauschen Alice und Eva Bücher. Dann tauschen Eve und Dave Bücher. Schließlich tauschen Alice und Bob Bücher. Am Ende des Semesters hat Bob
+Optionen:
+(A) Die Gefährten des Rings
+(B) Die Odyssee
+(C) Catch-22
+(D) Der große Gatsby
+(E) Lolita",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Rodrigo, Claire tanzt mit Melissa, Dave tanzt mit Patrick und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Bob den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Dave und Eve den Partner. Dann wechseln Eve und Claire den Partner. Schließlich wechseln Alice und Claire den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Helga
+(B) Rodrigo
+(C) Melissa
+(D) Patrick
+(E) Jamie",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen lila Ball, Claire hat einen grünen Ball, Dave hat einen braunen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Claire die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Bob und Alice die Bälle. Schließlich tauschen Eve und Bob die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) blaue Kugel
+(B) lila Kugel
+(C) grüner Ball
+(D) braune Kugel
+(E) orangefarbene Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Jamie, Claire tanzt mit Sam, Dave tanzt mit Melissa und Eve tanzt mit Rodrigo.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zunächst wechseln Eve und Dave den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Dave und Bob den Partner. Dann wechseln Bob und Alice den Partner. Schließlich wechseln Alice und Claire den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Ophelia
+(B) Jamie
+(C) Sam
+(D) Melissa
+(E) Rodrigo",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat ein lila Geschenk, Claire hat einen orangefarbenen Ball, Dave hat einen rosa Ball und Eve hat ein blaues Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Eve ihre Geschenke aus. Dann tauschen Claire und Bob ihre Geschenke aus. Dann tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Schließlich tauschen Bob und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) Braun vorhanden
+(B) lila vorhanden
+(C) orangefarbene Kugel
+(D) rosa Kugel
+(E) blau vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Rodrigo, Claire tanzt mit Patrick, Dave tanzt mit Izzi und Eve tanzt mit Melissa.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Bob und Claire den Partner. Dann wechseln Bob und Eve den Partner. Dann wechseln Claire und Alice den Partner. Schließlich wechseln Claire und Bob den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Jamie
+(B) Rodrigo
+(C) Patrick
+(D) Izzi
+(E) Melissa",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein lila Geschenk, Claire hat ein blaues Geschenk, Dave hat einen schwarzen Ball und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Bob ihre Geschenke aus. Dann tauschen Claire und Alice ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Schließlich tauschen Alice und Eva ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) grün vorhanden
+(B) lila vorhanden
+(C) blau vorhanden
+(D) schwarzer Ball
+(E) weiß vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt die Odyssee, Claire bekommt Moby Dick, Dave bekommt Lolita und Eve bekommt Frankenstein.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Eve Bücher. Dann tauschen Alice und Bob Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Eve und Alice Bücher. Schließlich tauschen Bob und Dave ihre Bücher aus. Am Ende des Semesters hat Claire
+Optionen:
+(A) Catch-22
+(B) Die Odyssee
+(C) Moby Dick
+(D) Lolita
+(E) Frankenstein",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Außenverteidiger, Claire spielt den Bankspieler, Dave spielt den Torwart und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zunächst tauschen Bob und Claire ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Schließlich tauschen Alice und Dave ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) linker Flügelspieler
+(B) Außenverteidiger
+(C) Bankwärmer
+(D) Torwart
+(E) linker Mittelfeldspieler",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Mittelfeldspieler, Bob spielt den Bankspieler, Claire spielt den linken Mittelfeldspieler, Dave spielt den rechten Flügelspieler und Eve spielt die Stürmerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Claire ihre Positionen. Dann tauschen Eve und Bob ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Schließlich tauschen Claire und Alice ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) rechter Mittelfeldspieler
+(B) Bankwärmer
+(C) linker Mittelfeldspieler
+(D) Rechtsaußen
+(E) Stürmer",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die mittlere Mittelfeldspielerin, Bob spielt den Außenverteidiger, Claire spielt den Torwart, Dave spielt den linken Flügelspieler und Eve spielt den rechten Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Claire ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Schließlich tauschen Claire und Eve ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) mittlerer Mittelfeldspieler
+(B) Außenverteidiger
+(C) Torwart
+(D) linker Flügelspieler
+(E) Rechtsaußen",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein lila Geschenk, Bob hat ein blaues Geschenk, Claire hat ein braunes Geschenk, Dave hat ein gelbes Geschenk und Eve hat einen schwarzen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Bob ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Claire und Bob ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Schließlich tauschen Dave und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) lila vorhanden
+(B) blau vorhanden
+(C) braun vorhanden
+(D) Gelb vorhanden
+(E) schwarzer Ball",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den linken Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den Stürmer und Eve spielt den Außenverteidiger.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Claire ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Schließlich tauschen Bob und Eve ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) Rechtsaußen
+(B) linker Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) Stürmer
+(E) Außenverteidiger",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Bankspielerin, Bob spielt den linken Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den Torwart und Eve spielt den mittleren Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Dann tauschen Eve und Bob ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Schließlich tauschen Eve und Claire ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) Bankwärmer
+(B) linker Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) Torwart
+(E) mittlerer Mittelfeldspieler",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein braunes Geschenk, Claire hat ein weißes Geschenk, Dave hat einen schwarzen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Alice und Claire ihre Geschenke aus. Dann tauschen Eve und Alice ihre Geschenke aus. Schließlich tauschen Bob und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) grün vorhanden
+(B) braun vorhanden
+(C) weiß vorhanden
+(D) schwarzer Ball
+(E) orangefarbene Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Rodrigo, Bob tanzt mit Sam, Claire tanzt mit Karl, Dave tanzt mit Izzi und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Bob den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Eve und Claire den Partner. Schließlich wechseln Alice und Bob den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Rodrigo
+(B) Sam
+(C) Karl
+(D) Izzi
+(E) Jamie",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein grünes Geschenk, Dave hat ein lila Geschenk und Eve hat ein gelbes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Schließlich tauschen Alice und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) Braun vorhanden
+(B) schwarze Kugel
+(C) grün vorhanden
+(D) lila vorhanden
+(E) gelb vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Karl, Claire tanzt mit Lola, Dave tanzt mit Jamie und Eve tanzt mit Izzi.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Alice den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Dave und Bob den Partner. Schließlich wechseln Claire und Alice den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Ophelia
+(B) Karl
+(C) Lola
+(D) Jamie
+(E) Izzi",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Patrick, Claire tanzt mit Jamie, Dave tanzt mit Rodrigo und Eve tanzt mit Lola.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Claire den Partner. Dann wechseln Bob und Alice den Partner. Dann wechseln Dave und Bob den Partner. Dann wechseln Dave und Eve den Partner. Schließlich wechseln Claire und Eve den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Karl
+(B) Patrick
+(C) Jamie
+(D) Rodrigo
+(E) Lola",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen grünen Ball, Dave hat einen braunen Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Alice die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Alice und Eva die Bälle. Schließlich tauschen Dave und Claire die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) grüner Ball
+(D) braune Kugel
+(E) gelber Ball",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Sam, Bob tanzt mit Karl, Claire tanzt mit Izzi, Dave tanzt mit Patrick und Eve tanzt mit Helga.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Claire den Partner. Dann wechseln Eve und Dave den Partner. Dann wechseln Bob und Dave den Partner. Dann wechseln Alice und Bob den Partner. Schließlich wechseln Bob und Eve den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Sam
+(B) Karl
+(C) Izzi
+(D) Patrick
+(E) Helga",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein braunes Geschenk, Claire hat ein lila Geschenk, Dave hat ein weißes Geschenk und Eve hat ein blaues Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Bob ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Alice und Claire ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) grün vorhanden
+(B) braun vorhanden
+(C) lila vorhanden
+(D) weiß vorhanden
+(E) blau vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Moby Dick“, Claire bekommt „Die Perle“, Dave bekommt „Lolita“ und Eve bekommt „Die Odyssee“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Claire Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Alice und Dave Bücher. Schließlich tauschen Bob und Eve Bücher. Am Ende des Semesters hat Bob
+Optionen:
+(A) Der große Gatsby
+(B) Moby Dick
+(C) Die Perle
+(D) Lolita
+(E) Die Odyssee",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Außenverteidigerin, Bob spielt den mittleren Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den linken Flügelspieler und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zunächst tauschen Dave und Eve ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Schließlich tauschen Bob und Alice ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) Außenverteidiger
+(B) mittlerer Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) linker Flügelspieler
+(E) Torwart",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Patrick, Claire tanzt mit Jamie, Dave tanzt mit Rodrigo und Eve tanzt mit Lola.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Claire den Partner. Dann wechseln Bob und Alice den Partner. Dann wechseln Dave und Bob den Partner. Dann wechseln Dave und Eve den Partner. Schließlich wechseln Claire und Eve den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Karl
+(B) Patrick
+(C) Jamie
+(D) Rodrigo
+(E) Lola",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen grünen Ball, Claire hat einen blauen Ball, Dave hat einen rosa Ball und Eve hat einen lila Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Dave und Alice die Bälle. Dann tauschen Bob und Claire die Bälle. Dann tauschen Bob und Alice die Bälle. Dann tauschen Alice und Claire die Bälle. Schließlich tauschen Eve und Bob die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) orangefarbene Kugel
+(B) grüner Ball
+(C) blaue Kugel
+(D) rosa Kugel
+(E) lila Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Melissa, Claire tanzt mit Lola, Dave tanzt mit Sam und Eve tanzt mit Izzi.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Dave den Partner. Dann wechseln Eve und Bob den Partner. Dann wechseln Claire und Alice den Partner. Dann wechseln Eve und Alice den Partner. Schließlich wechseln Claire und Dave den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Karl
+(B) Melissa
+(C) Lola
+(D) Sam
+(E) Izzi",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Cheerleaderin, Bob spielt Torwart, Claire spielt Stürmer, Dave spielt linken Mittelfeldspieler und Eve spielt rechten Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Eve ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Dann tauschen Eve und Claire ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Schließlich tauschen Bob und Dave ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(Ein Cheerleader
+(B) Torwart
+(C) Stürmer
+(D) linker Mittelfeldspieler
+(E) Rechtsaußen",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Außenverteidigerin, Bob spielt den rechten Flügelspieler, Claire spielt den mittleren Mittelfeldspieler, Dave spielt den Stürmer und Eve spielt die Bankspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Bob ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Bob und Claire ihre Positionen. Schließlich tauschen Alice und Eve ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) Außenverteidiger
+(B) Rechtsaußen
+(C) mittlerer Mittelfeldspieler
+(D) Stürmer
+(E) Bankwärmer",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen braunen Ball, Claire hat einen blauen Ball, Dave hat einen grünen Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Claire die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Eve und Alice die Bälle. Dann tauschen Claire und Bob die Bälle. Schließlich tauschen Alice und Eva die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) schwarzer Ball
+(B) braune Kugel
+(C) blaue Kugel
+(D) grüner Ball
+(E) gelber Ball",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Stürmerin, Bob spielt Rechtsaußen, Claire spielt Torwart, Dave spielt Linksaußen und Eve spielt linke Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Schließlich tauschen Claire und Alice ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Stürmer
+(B) Rechtsaußen
+(C) Torwart
+(D) linker Flügelspieler
+(E) linker Mittelfeldspieler",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Sam, Bob tanzt mit Izzi, Claire tanzt mit Karl, Dave tanzt mit Helga und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Alice den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Alice und Eve den Partner. Schließlich wechseln Dave und Claire den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Sam
+(B) Izzi
+(C) Karl
+(D) Helga
+(E) Ophelia",(C)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den Stürmer, Claire spielt den Bankspieler, Dave spielt den Außenverteidiger und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Claire und Eve ihre Positionen. Dann tauschen Eve und Bob ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Schließlich tauschen Alice und Dave ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Rechtsaußen
+(B) Stürmer
+(C) Bankwärmer
+(D) Außenverteidiger
+(E) linker Mittelfeldspieler",(A)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen roten Ball, Dave hat einen rosa Ball und Eve hat einen blauen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Bob die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Eve und Alice die Bälle. Schließlich tauschen Dave und Bob die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) rote Kugel
+(D) rosa Kugel
+(E) blaue Kugel",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen braunen Ball, Claire hat einen blauen Ball, Dave hat einen weißen Ball und Eve hat einen grünen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Dave und Eve die Bälle. Dann tauschen Bob und Claire die Bälle. Dann tauschen Claire und Alice die Bälle. Dann tauschen Dave und Eve die Bälle. Schließlich tauschen Eve und Claire die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) schwarzer Ball
+(B) braune Kugel
+(C) blaue Kugel
+(D) weiße Kugel
+(E) grüner Ball",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Lola, Claire tanzt mit Izzi, Dave tanzt mit Karl und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Claire den Partner. Dann wechseln Eve und Dave den Partner. Dann wechseln Eve und Claire den Partner. Dann wechseln Alice und Eve den Partner. Schließlich wechseln Alice und Bob den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Ophelia
+(B) Lola
+(C) Izzi
+(D) Karl
+(E) Jamie",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der Hund der Baskervilles“, Bob bekommt „Moby Dick“, Claire bekommt „Die Gefährten“, Dave bekommt „Catch-22“ und Eve bekommt „Frankenstein“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Dave Bücher. Dann tauschen Alice und Eva Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Alice und Dave Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Hund der Baskervilles
+(B) Moby Dick
+(C) Die Gefährten des Rings
+(D) Catch-22
+(E) Frankenstein",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Mittelfeldspieler, Bob spielt den Bankspieler, Claire spielt den linken Mittelfeldspieler, Dave spielt den rechten Flügelspieler und Eve spielt die Stürmerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Claire ihre Positionen. Dann tauschen Eve und Bob ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Schließlich tauschen Claire und Alice ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) rechter Mittelfeldspieler
+(B) Bankwärmer
+(C) linker Mittelfeldspieler
+(D) Rechtsaußen
+(E) Stürmer",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Die Odyssee“, Claire bekommt „Die Gefährten“, Dave bekommt „Moby Dick“ und Eve bekommt „Lolita“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Eve und Bob Bücher. Dann tauschen Bob und Claire Bücher. Dann tauschen Alice und Claire Bücher. Schließlich tauschen Dave und Claire Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Der große Gatsby
+(B) Die Odyssee
+(C) Die Gefährten des Rings
+(D) Moby Dick
+(E) Lolita",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Izzi, Claire tanzt mit Helga, Dave tanzt mit Patrick und Eve tanzt mit Lola.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Claire den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Claire und Alice den Partner. Dann wechseln Bob und Alice den Partner. Schließlich wechseln Dave und Claire den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Ophelia
+(B) Izzi
+(C) Helga
+(D) Patrick
+(E) Lola",(A)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein gelbes Geschenk, Claire hat einen orangefarbenen Ball, Dave hat ein weißes Geschenk und Eve hat ein braunes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Schließlich tauschen Eve und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) grün vorhanden
+(B) Gelb vorhanden
+(C) orangefarbene Kugel
+(D) weiß vorhanden
+(E) braun vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Der Hund der Baskervilles, Bob bekommt Moby Dick, Claire bekommt Die Gefährten, Dave bekommt Die Odyssee und Eve bekommt Frankenstein.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Alice Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Alice und Eva Bücher. Schließlich tauschen Claire und Bob Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Hund der Baskervilles
+(B) Moby Dick
+(C) Die Gefährten des Rings
+(D) Die Odyssee
+(E) Frankenstein",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Mittelfeldspieler, Bob spielt den Torwart, Claire spielt den Außenverteidiger, Dave spielt den Stürmer und Eve spielt den linken Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Dave ihre Positionen. Dann tauschen Dave und Alice ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Schließlich tauschen Claire und Alice ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) linker Mittelfeldspieler
+(B) Torwart
+(C) Außenverteidiger
+(D) Stürmer
+(E) linker Flügelspieler",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Die Perle“, Claire bekommt „Der Hund der Baskervilles“, Dave bekommt „Die Gefährten“ und Eve bekommt „Die Odyssee“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Eve Bücher. Dann tauschen Alice und Dave Bücher. Dann tauschen Eve und Alice Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Dave und Alice Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Der große Gatsby
+(B) Die Perle
+(C) Hund der Baskervilles
+(D) Die Gefährten des Rings
+(E) Die Odyssee",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein blaues Geschenk, Bob hat ein grünes Geschenk, Claire hat einen rosa Ball, Dave hat ein gelbes Geschenk und Eve hat einen schwarzen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Alice ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Schließlich tauschen Eve und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) blau vorhanden
+(B) grün vorhanden
+(C) rosa Kugel
+(D) Gelb vorhanden
+(E) schwarzer Ball",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Jamie, Claire tanzt mit Ophelia, Dave tanzt mit Karl und Eve tanzt mit Rodrigo.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Bob den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Claire und Bob den Partner. Dann wechseln Dave und Alice den Partner. Schließlich wechseln Claire und Eve den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Helga
+(B) Jamie
+(C) Ophelia
+(D) Karl
+(E) Rodrigo",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Stürmerin, Bob spielt Außenverteidiger, Claire spielt Cheerleaderin, Dave spielt Bankspielerin und Eve spielt Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Eve ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) Stürmer
+(B) Außenverteidiger
+(C) Cheerleaderin
+(D) Bankwärmer
+(E) Torwart",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Sam, Bob tanzt mit Izzi, Claire tanzt mit Jamie, Dave tanzt mit Ophelia und Eve tanzt mit Patrick.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Dave den Partner. Dann wechseln Alice und Eve den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Alice und Bob den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Sam
+(B) Izzi
+(C) Jamie
+(D) Ophelia
+(E) Patrick",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat ein weißes Geschenk, Claire hat einen schwarzen Ball, Dave hat ein rotes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Eve und Alice ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Schließlich tauschen Eve und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) Braun vorhanden
+(B) weiß vorhanden
+(C) schwarze Kugel
+(D) rot vorhanden
+(E) lila vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat einen rosa Ball, Bob hat ein rotes Geschenk, Claire hat ein grünes Geschenk, Dave hat einen orangefarbenen Ball und Eve hat einen schwarzen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) rosa Kugel
+(B) rot vorhanden
+(C) grün vorhanden
+(D) orangefarbene Kugel
+(E) schwarzer Ball",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Karl, Claire tanzt mit Melissa, Dave tanzt mit Ophelia und Eve tanzt mit Sam.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Alice und Dave den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Bob und Claire den Partner. Dann wechseln Alice und Claire den Partner. Schließlich wechseln Dave und Eve den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Helga
+(B) Karl
+(C) Melissa
+(D) Ophelia
+(E) Sam",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Melissa, Bob tanzt mit Lola, Claire tanzt mit Jamie, Dave tanzt mit Patrick und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Dave den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Eve und Bob den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Melissa
+(B) Lola
+(C) Jamie
+(D) Patrick
+(E) Ophelia",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein lila Geschenk, Bob hat ein grünes Geschenk, Claire hat ein braunes Geschenk, Dave hat ein rotes Geschenk und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Claire ihre Geschenke aus. Dann tauschen Claire und Bob ihre Geschenke aus. Dann tauschen Bob und Alice ihre Geschenke aus. Dann tauschen Eve und Alice ihre Geschenke aus. Schließlich tauschen Bob und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) lila vorhanden
+(B) grün vorhanden
+(C) braun vorhanden
+(D) rot vorhanden
+(E) weiß vorhanden",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen braunen Ball, Bob hat einen blauen Ball, Claire hat einen orangefarbenen Ball, Dave hat einen rosa Ball und Eve hat einen weißen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Dave und Alice die Bälle. Dann tauschen Alice und Claire die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Eve und Bob die Bälle. Schließlich tauschen Alice und Dave die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) braune Kugel
+(B) blaue Kugel
+(C) orangefarbene Kugel
+(D) rosa Kugel
+(E) weiße Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Ulysses, Bob bekommt Moby Dick, Claire bekommt The Pearl, Dave bekommt The Odyssey und Eve bekommt The Fellowship of the Ring.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Claire Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Claire und Bob Bücher. Dann tauschen Dave und Claire Bücher. Schließlich tauschen Bob und Dave ihre Bücher aus. Am Ende des Semesters hat Alice
+Optionen:
+(A) Odysseus
+(B) Moby Dick
+(C) Die Perle
+(D) Die Odyssee
+(E) Die Gefährten des Rings",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „The Great Gatsby“, Bob bekommt „Frankenstein“, Claire bekommt „The Pearl“, Dave bekommt „Catch-22“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Dave Bücher. Dann tauschen Bob und Alice Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Dave und Eve Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Der große Gatsby
+(B) Frankenstein
+(C) Die Perle
+(D) Catch-22
+(E) Odysseus",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat einen rosa Ball, Bob hat ein braunes Geschenk, Claire hat ein grünes Geschenk, Dave hat ein rotes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Bob ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Bob und Alice ihre Geschenke aus. Dann tauschen Alice und Eva ihre Geschenke aus. Schließlich tauschen Dave und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) rosa Kugel
+(B) braun vorhanden
+(C) grün vorhanden
+(D) rot vorhanden
+(E) lila vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Bankspieler, Claire spielt den Stürmer, Dave spielt den Außenverteidiger und Eve spielt die mittlere Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Claire ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Claire und Bob ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) linker Flügelspieler
+(B) Bankwärmer
+(C) Stürmer
+(D) Außenverteidiger
+(E) mittlerer Mittelfeldspieler",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Melissa, Claire tanzt mit Lola, Dave tanzt mit Sam und Eve tanzt mit Izzi.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Dave den Partner. Dann wechseln Eve und Bob den Partner. Dann wechseln Claire und Alice den Partner. Dann wechseln Eve und Alice den Partner. Schließlich wechseln Claire und Dave den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Karl
+(B) Melissa
+(C) Lola
+(D) Sam
+(E) Izzi",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Torwartin, Bob spielt den linken Flügelspieler, Claire spielt den Bankspieler, Dave spielt die Cheerleaderin und Eve spielt die linke Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Alice ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Eve und Claire ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(Ein Torwart
+(B) linker Flügelspieler
+(C) Bankwärmer
+(D) Cheerleader
+(E) linker Mittelfeldspieler",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen grünen Ball, Bob hat einen lila Ball, Claire hat einen schwarzen Ball, Dave hat einen blauen Ball und Eve hat einen roten Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Dave und Eve die Bälle. Dann tauschen Bob und Alice die Bälle. Dann tauschen Eve und Claire die Bälle. Dann tauschen Bob und Dave die Bälle. Schließlich tauschen Dave und Claire die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) grüner Ball
+(B) lila Kugel
+(C) schwarze Kugel
+(D) blaue Kugel
+(E) rote Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen blauen Ball, Claire hat einen schwarzen Ball, Dave hat einen weißen Ball und Eve hat einen lila Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Dave die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Claire und Dave die Bälle. Schließlich tauschen Alice und Bob die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) orangefarbene Kugel
+(B) blaue Kugel
+(C) schwarze Kugel
+(D) weiße Kugel
+(E) lila Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen roten Ball, Bob hat einen grünen Ball, Claire hat einen braunen Ball, Dave hat einen schwarzen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Alice die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Claire die Bälle. Schließlich tauschen Alice und Claire die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) rote Kugel
+(B) grüner Ball
+(C) braune Kugel
+(D) schwarzer Ball
+(E) orangefarbene Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Bankspielerin, Bob spielt den linken Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den Torwart und Eve spielt den mittleren Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Dann tauschen Eve und Bob ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Schließlich tauschen Eve und Claire ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Bankwärmer
+(B) linker Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) Torwart
+(E) mittlerer Mittelfeldspieler",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die rechte Mittelfeldspielerin, Bob spielt die Cheerleaderin, Claire spielt die linke Mittelfeldspielerin, Dave spielt den linken Flügelspieler und Eve spielt die Bankspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Schließlich tauschen Eve und Alice ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) rechter Mittelfeldspieler
+(B) Cheerleader
+(C) linker Mittelfeldspieler
+(D) linker Flügelspieler
+(E) Bankwärmer",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen lila Ball, Claire hat einen grünen Ball, Dave hat einen braunen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Claire die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Bob und Alice die Bälle. Schließlich tauschen Eve und Bob die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) blaue Kugel
+(B) lila Kugel
+(C) grüner Ball
+(D) braune Kugel
+(E) orangefarbene Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den mittleren Mittelfeldspieler, Bob spielt den linken Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den Bankspieler und Eve spielt den linken Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Bob ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Alice
+Optionen:
+(A) mittlerer Mittelfeldspieler
+(B) linker Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) Bankwärmer
+(E) linker Flügelspieler",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen roten Ball, Dave hat einen rosa Ball und Eve hat einen blauen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Bob die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Eve und Alice die Bälle. Schließlich tauschen Dave und Bob die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) rote Kugel
+(D) rosa Kugel
+(E) blaue Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat einen orangefarbenen Ball, Claire hat ein weißes Geschenk, Dave hat ein rotes Geschenk und Eve hat einen rosa Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Alice ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Schließlich tauschen Bob und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) grün vorhanden
+(B) orangefarbene Kugel
+(C) weiß vorhanden
+(D) rot vorhanden
+(E) rosa Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Izzi, Bob tanzt mit Lola, Claire tanzt mit Sam, Dave tanzt mit Patrick und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Eve den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Claire und Alice den Partner. Schließlich wechseln Bob und Eve den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Izzi
+(B) Lola
+(C) Sam
+(D) Patrick
+(E) Jamie",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Melissa, Bob tanzt mit Patrick, Claire tanzt mit Izzi, Dave tanzt mit Lola und Eve tanzt mit Rodrigo.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Alice und Claire den Partner. Dann wechseln Dave und Eve den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Alice und Eve den Partner. Schließlich wechseln Dave und Bob den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Melissa
+(B) Patrick
+(C) Izzi
+(D) Lola
+(E) Rodrigo",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Moby Dick, Bob bekommt Catch-22, Claire bekommt Die Gefährten, Dave bekommt Ulysses und Eve bekommt die Odyssee.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Bob Bücher. Dann tauschen Claire und Alice Bücher. Dann tauschen Dave und Claire Bücher. Dann tauschen Eve und Dave Bücher. Schließlich tauschen Eve und Alice Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Moby Dick
+(B) Catch-22
+(C) Die Gefährten des Rings
+(D) Odysseus
+(E) Die Odyssee",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der Hund der Baskervilles“, Bob bekommt „Die Gefährten“, Claire bekommt „Ulysses“, Dave bekommt „Lolita“ und Eve bekommt „Moby Dick“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Bob und Alice Bücher. Dann tauschen Claire und Eve Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Bob und Dave Bücher. Schließlich tauschen Claire und Eve Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Hund der Baskervilles
+(B) Die Gefährten des Rings
+(C) Odysseus
+(D) Lolita
+(E) Moby Dick",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Catch-22“, Claire bekommt „Die Perle“, Dave bekommt „Die Gefährten“ und Eve bekommt „Der Hund der Baskervilles“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Claire Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Bob und Eve Bücher. Schließlich tauschen Alice und Bob Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Der große Gatsby
+(B) Catch-22
+(C) Die Perle
+(D) Die Gefährten des Rings
+(E) Hund der Baskervilles",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Lolita“, Bob bekommt „Der große Gatsby“, Claire bekommt „Frankenstein“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Alice Bücher. Dann tauschen Dave und Bob Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Bob und Alice Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Lolita
+(B) Der große Gatsby
+(C) Frankenstein
+(D) Hund der Baskervilles
+(E) Odysseus",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Sam, Bob tanzt mit Izzi, Claire tanzt mit Jamie, Dave tanzt mit Ophelia und Eve tanzt mit Patrick.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Dave den Partner. Dann wechseln Alice und Eve den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Alice und Bob den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Sam
+(B) Izzi
+(C) Jamie
+(D) Ophelia
+(E) Patrick",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen rosa Ball, Bob hat einen weißen Ball, Claire hat einen roten Ball, Dave hat einen lila Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Alice und Dave die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Alice und Bob die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Alice und Claire die Bälle. Am Ende des Spiels hat Eve das
+Optionen:
+(A) rosa Kugel
+(B) weiße Kugel
+(C) rote Kugel
+(D) lila Kugel
+(E) gelber Ball",(C)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den Torwart, Claire spielt den Bankspieler, Dave spielt den mittleren Mittelfeldspieler und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Eve ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Alice und Claire ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(A) Rechtsaußen
+(B) Torwart
+(C) Bankwärmer
+(D) mittlerer Mittelfeldspieler
+(E) linker Mittelfeldspieler",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Karl, Claire tanzt mit Izzi, Dave tanzt mit Sam und Eve tanzt mit Melissa.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Alice den Partner. Dann wechseln Bob und Claire den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Eve und Dave den Partner. Schließlich wechseln Bob und Alice den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Helga
+(B) Karl
+(C) Izzi
+(D) Sam
+(E) Melissa",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Cheerleaderin, Bob spielt den Außenverteidiger, Claire spielt den mittleren Mittelfeldspieler, Dave spielt den linken Mittelfeldspieler und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Alice ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Dave und Eve ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Schließlich tauschen Alice und Claire ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(Ein Cheerleader
+(B) Außenverteidiger
+(C) mittlerer Mittelfeldspieler
+(D) linker Mittelfeldspieler
+(E) Torwart",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Außenverteidigerin, Bob spielt den rechten Flügelspieler, Claire spielt den mittleren Mittelfeldspieler, Dave spielt den Stürmer und Eve spielt die Bankspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Bob ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Bob und Claire ihre Positionen. Schließlich tauschen Alice und Eve ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(A) Außenverteidiger
+(B) Rechtsaußen
+(C) mittlerer Mittelfeldspieler
+(D) Stürmer
+(E) Bankwärmer",(A)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein rotes Geschenk, Dave hat ein weißes Geschenk und Eve hat ein blaues Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Schließlich tauschen Bob und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) grün vorhanden
+(B) schwarze Kugel
+(C) rot vorhanden
+(D) weiß vorhanden
+(E) blau vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein weißes Geschenk, Claire hat einen schwarzen Ball, Dave hat einen orangefarbenen Ball und Eve hat ein gelbes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Alice ihre Geschenke aus. Dann tauschen Alice und Eva ihre Geschenke aus. Dann tauschen Claire und Eve ihre Geschenke aus. Dann tauschen Alice und Dave ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) grün vorhanden
+(B) weiß vorhanden
+(C) schwarze Kugel
+(D) orangefarbene Kugel
+(E) gelb vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Die Perle“, Claire bekommt „Der Hund der Baskervilles“, Dave bekommt „Die Gefährten“ und Eve bekommt „Die Odyssee“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Eve Bücher. Dann tauschen Alice und Dave Bücher. Dann tauschen Eve und Alice Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Dave und Alice Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Der große Gatsby
+(B) Die Perle
+(C) Hund der Baskervilles
+(D) Die Gefährten des Rings
+(E) Die Odyssee",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Melissa, Bob tanzt mit Lola, Claire tanzt mit Jamie, Dave tanzt mit Patrick und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Dave den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Eve und Bob den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Melissa
+(B) Lola
+(C) Jamie
+(D) Patrick
+(E) Ophelia",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein weißes Geschenk, Bob hat ein grünes Geschenk, Claire hat ein gelbes Geschenk, Dave hat ein lila Geschenk und Eve hat einen rosa Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Schließlich tauschen Dave und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Alice die
+Optionen:
+(A) weiß vorhanden
+(B) grün vorhanden
+(C) Gelb vorhanden
+(D) lila vorhanden
+(E) rosa Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen grünen Ball, Claire hat einen orangefarbenen Ball, Dave hat einen gelben Ball und Eve hat einen roten Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Alice und Eva die Bälle. Dann tauschen Dave und Claire die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Claire und Eve die Bälle. Schließlich tauschen Bob und Eve die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) schwarzer Ball
+(B) grüner Ball
+(C) orangefarbene Kugel
+(D) gelber Ball
+(E) rote Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball in der Hand: Alice hat einen schwarzen Ball, Bob hat einen lila Ball, Claire hat einen grünen Ball, Dave hat einen braunen Ball und Eve hat einen weißen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Bob die Bälle. Dann tauschen Dave und Claire die Bälle. Dann tauschen Dave und Alice die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Alice und Claire die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) schwarzer Ball
+(B) lila Kugel
+(C) grüner Ball
+(D) braune Kugel
+(E) weiße Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen orangefarbenen Ball, Claire hat einen rosa Ball, Dave hat einen grünen Ball und Eve hat einen braunen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Eve die Bälle. Dann tauschen Eve und Dave die Bälle. Dann tauschen Dave und Alice die Bälle. Dann tauschen Alice und Claire die Bälle. Schließlich tauschen Bob und Claire die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) blaue Kugel
+(B) orangefarbene Kugel
+(C) rosa Kugel
+(D) grüner Ball
+(E) braune Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen roten Ball, Bob hat einen grünen Ball, Claire hat einen braunen Ball, Dave hat einen schwarzen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Alice die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Claire die Bälle. Schließlich tauschen Alice und Claire die Bälle. Am Ende des Spiels hat Eve das
+Optionen:
+(A) rote Kugel
+(B) grüner Ball
+(C) braune Kugel
+(D) schwarzer Ball
+(E) orangefarbene Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Odyssee“, Bob bekommt „Moby Dick“, Claire bekommt „Lolita“, Dave bekommt „Die Gefährten“ und Eve bekommt „Frankenstein“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Bob Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Dave und Bob Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Alice und Dave Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Die Odyssee
+(B) Moby Dick
+(C) Lolita
+(D) Die Gefährten des Rings
+(E) Frankenstein",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen braunen Ball, Bob hat einen schwarzen Ball, Claire hat einen weißen Ball, Dave hat einen gelben Ball und Eve hat einen lila Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Dave die Bälle. Dann tauschen Alice und Eva die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Alice und Eva die Bälle. Schließlich tauschen Claire und Eve die Bälle. Am Ende des Spiels hat Eve das
+Optionen:
+(A) braune Kugel
+(B) schwarze Kugel
+(C) weiße Kugel
+(D) gelber Ball
+(E) lila Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Gefährten“, Bob bekommt „Moby Dick“, Claire bekommt „Die Perle“, Dave bekommt „Ulysses“ und Eve bekommt Frankenstein.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Dave und Eve Bücher. Dann tauschen Bob und Dave Bücher. Dann tauschen Claire und Bob Bücher. Dann tauschen Alice und Bob Bücher. Schließlich tauschen Claire und Eve Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Die Gefährten des Rings
+(B) Moby Dick
+(C) Die Perle
+(D) Odysseus
+(E) Frankenstein",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Frankenstein, Bob bekommt Ulysses, Claire bekommt Lolita, Dave bekommt Die Odyssee und Eve bekommt Die Gefährten.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Dave Bücher. Dann tauschen Claire und Alice Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Alice und Claire Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Frankenstein
+(B) Odysseus
+(C) Lolita
+(D) Die Odyssee
+(E) Die Gefährten des Rings",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein blaues Geschenk, Dave hat einen orangefarbenen Ball und Eve hat ein rotes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Alice ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Dann tauschen Alice und Claire ihre Geschenke aus. Schließlich tauschen Eve und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) Braun vorhanden
+(B) schwarze Kugel
+(C) blau vorhanden
+(D) orangefarbene Kugel
+(E) rot vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Bankspieler, Claire spielt den Stürmer, Dave spielt den Außenverteidiger und Eve spielt die mittlere Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Claire ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Claire und Bob ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(A) linker Flügelspieler
+(B) Bankwärmer
+(C) Stürmer
+(D) Außenverteidiger
+(E) mittlerer Mittelfeldspieler",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Izzi, Claire tanzt mit Sam, Dave tanzt mit Patrick und Eve tanzt mit Karl.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Bob den Partner. Dann wechseln Claire und Alice den Partner. Dann wechseln Bob und Claire den Partner. Dann wechseln Eve und Bob den Partner. Schließlich wechseln Dave und Claire den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Lola
+(B) Izzi
+(C) Sam
+(D) Patrick
+(E) Karl",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Ophelia, Claire tanzt mit Patrick, Dave tanzt mit Helga und Eve tanzt mit Sam.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Eve den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Bob und Dave den Partner. Dann wechseln Alice und Eve den Partner. Schließlich wechseln Dave und Alice den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Karl
+(B) Ophelia
+(C) Patrick
+(D) Helga
+(E) Sam",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein grünes Geschenk, Dave hat ein lila Geschenk und Eve hat ein gelbes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Schließlich tauschen Alice und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) Braun vorhanden
+(B) schwarze Kugel
+(C) grün vorhanden
+(D) lila vorhanden
+(E) gelb vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen weißen Ball, Claire hat einen gelben Ball, Dave hat einen roten Ball und Eve hat einen braunen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Dave die Bälle. Dann tauschen Alice und Dave die Bälle. Dann tauschen Alice und Claire die Bälle. Dann tauschen Dave und Bob die Bälle. Schließlich tauschen Eve und Dave die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) orangefarbene Kugel
+(B) weiße Kugel
+(C) gelber Ball
+(D) rote Kugel
+(E) braune Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die rechte Flügelspielerin, Bob spielt den rechten Mittelfeldspieler, Claire spielt den linken Flügelspieler, Dave spielt die Cheerleaderin und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Eve ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) Rechtsaußen
+(B) rechter Mittelfeldspieler
+(C) linker Flügelspieler
+(D) Cheerleader
+(E) Torwart",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Melissa, Claire tanzt mit Patrick, Dave tanzt mit Rodrigo und Eve tanzt mit Karl.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Alice und Claire den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Dave und Bob den Partner. Dann wechseln Dave und Claire den Partner. Schließlich wechseln Dave und Eve den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Jamie
+(B) Melissa
+(C) Patrick
+(D) Rodrigo
+(E) Karl",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Stürmerin, Bob spielt Außenverteidiger, Claire spielt Cheerleaderin, Dave spielt Bankspielerin und Eve spielt Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Eve ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Stürmer
+(B) Außenverteidiger
+(C) Cheerleaderin
+(D) Bankwärmer
+(E) Torwart",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Lolita“, Bob bekommt „Der große Gatsby“, Claire bekommt „Frankenstein“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Alice Bücher. Dann tauschen Dave und Bob Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Bob und Alice Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Lolita
+(B) Der große Gatsby
+(C) Frankenstein
+(D) Hund der Baskervilles
+(E) Odysseus",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Karl, Claire tanzt mit Izzi, Dave tanzt mit Sam und Eve tanzt mit Melissa.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Alice den Partner. Dann wechseln Bob und Claire den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Eve und Dave den Partner. Schließlich wechseln Bob und Alice den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Helga
+(B) Karl
+(C) Izzi
+(D) Sam
+(E) Melissa",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein blaues Geschenk, Bob hat einen schwarzen Ball, Claire hat ein braunes Geschenk, Dave hat einen orangefarbenen Ball und Eve hat ein rotes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Dann tauschen Alice und Bob ihre Geschenke aus. Schließlich tauschen Dave und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Alice die
+Optionen:
+(A) blau vorhanden
+(B) schwarze Kugel
+(C) braun vorhanden
+(D) orangefarbene Kugel
+(E) rot vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen braunen Ball, Claire hat einen roten Ball, Dave hat einen weißen Ball und Eve hat einen grünen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Alice die Bälle. Dann tauschen Alice und Claire die Bälle. Dann tauschen Eve und Alice die Bälle. Dann tauschen Claire und Bob die Bälle. Schließlich tauschen Claire und Dave die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) schwarzer Ball
+(B) braune Kugel
+(C) rote Kugel
+(D) weiße Kugel
+(E) grüner Ball",(A)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein braunes Geschenk, Claire hat ein lila Geschenk, Dave hat ein weißes Geschenk und Eve hat ein blaues Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Bob ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Alice und Claire ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) grün vorhanden
+(B) braun vorhanden
+(C) lila vorhanden
+(D) weiß vorhanden
+(E) blau vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Gefährten“, Bob bekommt „Die Odyssee“, Claire bekommt „Frankenstein“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Claire Bücher. Dann tauschen Alice und Eva Bücher. Dann tauschen Dave und Claire Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Dave und Alice Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Die Gefährten des Rings
+(B) Die Odyssee
+(C) Frankenstein
+(D) Hund der Baskervilles
+(E) Odysseus",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat ein weißes Geschenk, Claire hat einen schwarzen Ball, Dave hat ein rotes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Eve und Alice ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Schließlich tauschen Eve und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) Braun vorhanden
+(B) weiß vorhanden
+(C) schwarze Kugel
+(D) rot vorhanden
+(E) lila vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Stürmerin, Bob spielt Außenverteidiger, Claire spielt linken Flügelspieler, Dave spielt zentralen Mittelfeldspieler und Eve spielt Bankspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Bob ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Schließlich tauschen Alice und Dave ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Stürmer
+(B) Außenverteidiger
+(C) linker Flügelspieler
+(D) mittlerer Mittelfeldspieler
+(E) Bankwärmer",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Torwartin, Bob spielt den Stürmer, Claire spielt die Cheerleaderin, Dave spielt den mittleren Mittelfeldspieler und Eve spielt den rechten Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Dave ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Schließlich tauschen Alice und Bob ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(Ein Torwart
+(B) Stürmer
+(C) Cheerleaderin
+(D) mittlerer Mittelfeldspieler
+(E) rechter Mittelfeldspieler",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein rotes Geschenk, Bob hat einen rosa Ball, Claire hat einen schwarzen Ball, Dave hat ein braunes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Schließlich tauschen Alice und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Alice die
+Optionen:
+(A) rot vorhanden
+(B) rosa Kugel
+(C) schwarze Kugel
+(D) braun vorhanden
+(E) lila vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen braunen Ball, Claire hat einen grünen Ball, Dave hat einen weißen Ball und Eve hat einen roten Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Claire die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Alice und Eva die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Bob und Dave die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) blaue Kugel
+(B) braune Kugel
+(C) grüner Ball
+(D) weiße Kugel
+(E) rote Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein rotes Geschenk, Bob hat ein gelbes Geschenk, Claire hat ein grünes Geschenk, Dave hat einen rosa Ball und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Alice ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Schließlich tauschen Dave und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) rot vorhanden
+(B) Gelb vorhanden
+(C) grün vorhanden
+(D) rosa Kugel
+(E) weiß vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den Stürmer, Claire spielt die Cheerleaderin, Dave spielt den rechten Mittelfeldspieler und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Alice und Eve ihre Positionen. Dann tauschen Bob und Claire ihre Positionen. Schließlich tauschen Eve und Claire ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(A) Rechtsaußen
+(B) Stürmer
+(C) Cheerleaderin
+(D) rechter Mittelfeldspieler
+(E) linker Mittelfeldspieler",(B)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen blauen Ball, Claire hat einen schwarzen Ball, Dave hat einen weißen Ball und Eve hat einen lila Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Dave die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Claire und Dave die Bälle. Schließlich tauschen Alice und Bob die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) orangefarbene Kugel
+(B) blaue Kugel
+(C) schwarze Kugel
+(D) weiße Kugel
+(E) lila Kugel",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen braunen Ball, Bob hat einen schwarzen Ball, Claire hat einen roten Ball, Dave hat einen rosa Ball und Eve hat einen blauen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Bob die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Claire die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Alice und Dave die Bälle. Am Ende des Spiels hat Eve das
+Optionen:
+(A) braune Kugel
+(B) schwarze Kugel
+(C) rote Kugel
+(D) rosa Kugel
+(E) blaue Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Ophelia, Claire tanzt mit Patrick, Dave tanzt mit Helga und Eve tanzt mit Sam.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Eve den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Bob und Dave den Partner. Dann wechseln Alice und Eve den Partner. Schließlich wechseln Dave und Alice den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Karl
+(B) Ophelia
+(C) Patrick
+(D) Helga
+(E) Sam",(A)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen grünen Ball, Claire hat einen gelben Ball, Dave hat einen braunen Ball und Eve hat einen schwarzen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Bob die Bälle. Dann tauschen Alice und Claire die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Alice und Dave die Bälle. Schließlich tauschen Dave und Eve die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) blaue Kugel
+(B) grüner Ball
+(C) gelber Ball
+(D) braune Kugel
+(E) schwarzer Ball",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen roten Ball, Bob hat einen grünen Ball, Claire hat einen braunen Ball, Dave hat einen schwarzen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Alice die Bälle. Dann tauschen Dave und Eve die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Claire die Bälle. Schließlich tauschen Alice und Claire die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) rote Kugel
+(B) grüner Ball
+(C) braune Kugel
+(D) schwarzer Ball
+(E) orangefarbene Kugel",(C)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Cheerleaderin, Bob spielt den rechten Mittelfeldspieler, Claire spielt den linken Mittelfeldspieler, Dave spielt den linken Flügelspieler und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Claire ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Schließlich tauschen Bob und Eve ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(Ein Cheerleader
+(B) rechter Mittelfeldspieler
+(C) linker Mittelfeldspieler
+(D) linker Flügelspieler
+(E) Torwart",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein gelbes Geschenk, Claire hat einen orangefarbenen Ball, Dave hat ein weißes Geschenk und Eve hat ein braunes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Schließlich tauschen Eve und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) grün vorhanden
+(B) Gelb vorhanden
+(C) orangefarbene Kugel
+(D) weiß vorhanden
+(E) braun vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „The Pearl“, Bob bekommt „Frankenstein“, Claire bekommt „Ulysses“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Moby Dick“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Bob und Dave Bücher. Dann tauschen Bob und Claire Bücher. Dann tauschen Dave und Claire Bücher. Dann tauschen Claire und Bob Bücher. Schließlich tauschen Alice und Eva Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Die Perle
+(B) Frankenstein
+(C) Odysseus
+(D) Hund der Baskervilles
+(E) Moby Dick",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Izzi, Bob tanzt mit Patrick, Claire tanzt mit Helga, Dave tanzt mit Rodrigo und Eve tanzt mit Karl.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Eve den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Eve und Bob den Partner. Schließlich wechseln Claire und Eve den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Izzi
+(B) Patrick
+(C) Helga
+(D) Rodrigo
+(E) Karl",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Odyssee“, Bob bekommt „Moby Dick“, Claire bekommt „Lolita“, Dave bekommt „Die Gefährten“ und Eve bekommt „Frankenstein“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Bob Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Dave und Bob Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Alice und Dave Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Die Odyssee
+(B) Moby Dick
+(C) Lolita
+(D) Die Gefährten des Rings
+(E) Frankenstein",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Mittelfeldspieler, Bob spielt den Stürmer, Claire spielt den Torwart, Dave spielt den linken Flügelspieler und Eve spielt die Cheerleaderin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Claire ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Dann tauschen Eve und Alice ihre Positionen. Schließlich tauschen Eve und Bob ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) linker Mittelfeldspieler
+(B) Stürmer
+(C) Torwart
+(D) linker Flügelspieler
+(E) Cheerleaderin",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt Lolita, Claire bekommt Ulysses, Dave bekommt Frankenstein und Eve bekommt The Pearl.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Bob und Claire Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Dave und Alice Bücher. Schließlich tauschen Dave und Bob Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Catch-22
+(B) Lolita
+(C) Odysseus
+(D) Frankenstein
+(E) Die Perle",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Frankenstein, Bob bekommt The Pearl, Claire bekommt Hound of the Baskervilles, Dave bekommt Ulysses und Eve bekommt The Great Gatsby.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Dave und Claire Bücher. Dann tauschen Bob und Claire Bücher. Dann tauschen Claire und Eve Bücher. Dann tauschen Bob und Claire Bücher. Schließlich tauschen Alice und Claire Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Frankenstein
+(B) Die Perle
+(C) Hund der Baskervilles
+(D) Odysseus
+(E) Der große Gatsby",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Patrick, Claire tanzt mit Karl, Dave tanzt mit Helga und Eve tanzt mit Izzi.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Alice den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Dave und Bob den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Jamie
+(B) Patrick
+(C) Karl
+(D) Helga
+(E) Izzi",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Cheerleaderin, Bob spielt den mittleren Mittelfeldspieler, Claire spielt den rechten Flügelspieler, Dave spielt den linken Flügelspieler und Eve spielt die Außenverteidigerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Bob ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Schließlich tauschen Alice und Dave ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(Ein Cheerleader
+(B) mittlerer Mittelfeldspieler
+(C) Rechtsaußen
+(D) linker Flügelspieler
+(E) Außenverteidiger",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Stürmer, Claire spielt den Bankspieler, Dave spielt den linken Mittelfeldspieler und Eve spielt die Cheerleaderin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Alice ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Schließlich tauschen Claire und Eve ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) linker Flügelspieler
+(B) Stürmer
+(C) Bankwärmer
+(D) linker Mittelfeldspieler
+(E) Cheerleaderin",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein lila Geschenk, Claire hat ein blaues Geschenk, Dave hat einen schwarzen Ball und Eve hat ein rotes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Bob und Alice ihre Geschenke aus. Dann tauschen Eve und Bob ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) grün vorhanden
+(B) lila vorhanden
+(C) blau vorhanden
+(D) schwarzer Ball
+(E) rot vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Die Odyssee“, Claire bekommt „Die Gefährten“, Dave bekommt „Moby Dick“ und Eve bekommt „Lolita“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Eve und Bob Bücher. Dann tauschen Bob und Claire Bücher. Dann tauschen Alice und Claire Bücher. Schließlich tauschen Dave und Claire Bücher. Am Ende des Semesters hat Bob
+Optionen:
+(A) Der große Gatsby
+(B) Die Odyssee
+(C) Die Gefährten des Rings
+(D) Moby Dick
+(E) Lolita",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein gelbes Geschenk, Bob hat ein rotes Geschenk, Claire hat ein grünes Geschenk, Dave hat einen orangefarbenen Ball und Eve hat einen schwarzen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Alice und Eva ihre Geschenke aus. Schließlich tauschen Claire und Bob ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) Gelb vorhanden
+(B) rot vorhanden
+(C) grün vorhanden
+(D) orangefarbene Kugel
+(E) schwarzer Ball",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein gelbes Geschenk, Bob hat einen orangefarbenen Ball, Claire hat ein rotes Geschenk, Dave hat ein lila Geschenk und Eve hat ein grünes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Eva ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Claire und Eve ihre Geschenke aus. Schließlich tauschen Dave und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) Gelb vorhanden
+(B) orangefarbene Kugel
+(C) rot vorhanden
+(D) lila vorhanden
+(E) grün vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Lolita“, Bob bekommt „Der große Gatsby“, Claire bekommt „Frankenstein“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Alice Bücher. Dann tauschen Dave und Bob Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Bob und Alice Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Lolita
+(B) Der große Gatsby
+(C) Frankenstein
+(D) Hund der Baskervilles
+(E) Odysseus",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein rotes Geschenk, Bob hat einen schwarzen Ball, Claire hat einen rosa Ball, Dave hat einen orangefarbenen Ball und Eve hat ein braunes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Alice ihre Geschenke aus. Dann tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Alice und Bob ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Schließlich tauschen Bob und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) rot vorhanden
+(B) schwarze Kugel
+(C) rosa Kugel
+(D) orangefarbene Kugel
+(E) braun vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen roten Ball, Dave hat einen rosa Ball und Eve hat einen blauen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Bob die Bälle. Dann tauschen Claire und Eve die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Eve und Alice die Bälle. Schließlich tauschen Dave und Bob die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) rote Kugel
+(D) rosa Kugel
+(E) blaue Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die rechte Flügelspielerin, Bob spielt den rechten Mittelfeldspieler, Claire spielt den linken Flügelspieler, Dave spielt die Cheerleaderin und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Eve ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) Rechtsaußen
+(B) rechter Mittelfeldspieler
+(C) linker Flügelspieler
+(D) Cheerleader
+(E) Torwart",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Rodrigo, Claire tanzt mit Melissa, Dave tanzt mit Helga und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Alice und Claire den Partner. Dann wechseln Dave und Bob den Partner. Dann wechseln Alice und Eve den Partner. Schließlich wechseln Eve und Dave den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Lola
+(B) Rodrigo
+(C) Melissa
+(D) Helga
+(E) Jamie",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Mittelfeldspieler, Bob spielt den Außenverteidiger, Claire spielt den Stürmer, Dave spielt den Torwart und Eve spielt die Bankspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Bob ihre Positionen. Dann tauschen Bob und Claire ihre Positionen. Dann tauschen Dave und Alice ihre Positionen. Dann tauschen Eve und Claire ihre Positionen. Schließlich tauschen Alice und Bob ihre Positionen. Am Ende des Spiels spielt Alice
+Optionen:
+(A) rechter Mittelfeldspieler
+(B) Außenverteidiger
+(C) Stürmer
+(D) Torwart
+(E) Bankwärmer",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Gefährten“, Bob bekommt „Die Odyssee“, Claire bekommt „Frankenstein“, Dave bekommt „Der Hund der Baskervilles“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Claire Bücher. Dann tauschen Alice und Eva Bücher. Dann tauschen Dave und Claire Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Dave und Alice Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Die Gefährten des Rings
+(B) Die Odyssee
+(C) Frankenstein
+(D) Hund der Baskervilles
+(E) Odysseus",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Melissa, Bob tanzt mit Rodrigo, Claire tanzt mit Lola, Dave tanzt mit Patrick und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Bob den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Eve und Dave den Partner. Dann wechseln Claire und Alice den Partner. Schließlich wechseln Bob und Eve den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Melissa
+(B) Rodrigo
+(C) Lola
+(D) Patrick
+(E) Jamie",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die linke Flügelspielerin, Bob spielt den Stürmer, Claire spielt den linken Mittelfeldspieler, Dave spielt die Cheerleaderin und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Bob ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Schließlich tauschen Eve und Bob ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(A) linker Flügelspieler
+(B) Stürmer
+(C) linker Mittelfeldspieler
+(D) Cheerleader
+(E) Torwart",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Frankenstein“, Claire bekommt „Moby Dick“, Dave bekommt „Die Gefährten“ und Eve bekommt „Catch-22“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Eve und Alice Bücher. Dann tauschen Dave und Eve Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Der große Gatsby
+(B) Frankenstein
+(C) Moby Dick
+(D) Die Gefährten des Rings
+(E) Catch-22",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein lila Geschenk, Bob hat ein braunes Geschenk, Claire hat ein weißes Geschenk, Dave hat ein blaues Geschenk und Eve hat einen orangefarbenen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Alice ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Alice ihre Geschenke aus. Dann tauschen Claire und Eve ihre Geschenke aus. Schließlich tauschen Alice und Eva ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) lila vorhanden
+(B) braun vorhanden
+(C) weiß vorhanden
+(D) blau vorhanden
+(E) orangefarbene Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Außenverteidigerin, Bob spielt den mittleren Mittelfeldspieler, Claire spielt den rechten Mittelfeldspieler, Dave spielt den linken Flügelspieler und Eve spielt die Torwartin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zunächst tauschen Dave und Eve ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Schließlich tauschen Bob und Alice ihre Positionen. Am Ende des Spiels spielt Alice
+Optionen:
+(A) Außenverteidiger
+(B) mittlerer Mittelfeldspieler
+(C) rechter Mittelfeldspieler
+(D) linker Flügelspieler
+(E) Torwart",(A)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein blaues Geschenk, Bob hat ein gelbes Geschenk, Claire hat einen schwarzen Ball, Dave hat ein lila Geschenk und Eve hat ein rotes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Claire und Alice ihre Geschenke aus. Schließlich tauschen Eve und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) blau vorhanden
+(B) Gelb vorhanden
+(C) schwarze Kugel
+(D) lila vorhanden
+(E) rot vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen orangefarbenen Ball, Claire hat ein grünes Geschenk, Dave hat ein blaues Geschenk und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Bob ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Schließlich tauschen Claire und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Alice die
+Optionen:
+(A) Braun vorhanden
+(B) orangefarbene Kugel
+(C) grün vorhanden
+(D) blau vorhanden
+(E) weiß vorhanden",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein lila Geschenk, Bob hat ein weißes Geschenk, Claire hat ein braunes Geschenk, Dave hat ein rotes Geschenk und Eve hat ein gelbes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Claire und Eve ihre Geschenke aus. Schließlich tauschen Alice und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) lila vorhanden
+(B) weiß vorhanden
+(C) braun vorhanden
+(D) rot vorhanden
+(E) gelb vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Patrick, Bob tanzt mit Jamie, Claire tanzt mit Izzi, Dave tanzt mit Karl und Eve tanzt mit Rodrigo.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Eve und Claire den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Eve und Bob den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Patrick
+(B) Jamie
+(C) Izzi
+(D) Karl
+(E) Rodrigo",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein lila Geschenk, Bob hat ein rotes Geschenk, Claire hat einen rosa Ball, Dave hat ein braunes Geschenk und Eve hat einen orangefarbenen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Claire ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Schließlich tauschen Claire und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) lila vorhanden
+(B) rot vorhanden
+(C) rosa Kugel
+(D) braun vorhanden
+(E) orangefarbene Kugel",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Stürmer, Claire spielt den Bankspieler, Dave spielt den linken Mittelfeldspieler und Eve spielt die Cheerleaderin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Alice ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Schließlich tauschen Claire und Eve ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(A) linker Flügelspieler
+(B) Stürmer
+(C) Bankwärmer
+(D) linker Mittelfeldspieler
+(E) Cheerleaderin",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen roten Ball, Bob hat einen blauen Ball, Claire hat einen braunen Ball, Dave hat einen schwarzen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Dave und Claire die Bälle. Dann tauschen Alice und Bob die Bälle. Dann tauschen Eve und Dave die Bälle. Dann tauschen Claire und Bob die Bälle. Schließlich tauschen Dave und Eve die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) rote Kugel
+(B) blaue Kugel
+(C) braune Kugel
+(D) schwarzer Ball
+(E) orangefarbene Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Stürmerin, Bob spielt Rechtsaußen, Claire spielt Torwart, Dave spielt Linksaußen und Eve spielt linke Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Bob ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Schließlich tauschen Claire und Alice ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(A) Stürmer
+(B) Rechtsaußen
+(C) Torwart
+(D) linker Flügelspieler
+(E) linker Mittelfeldspieler",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Melissa, Claire tanzt mit Jamie, Dave tanzt mit Rodrigo und Eve tanzt mit Helga.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Eve den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Eve und Bob den Partner. Dann wechseln Eve und Claire den Partner. Schließlich wechseln Dave und Bob den Partner. Am Ende des Tanzes tanzt Eve mit
+Optionen:
+(A) Lola
+(B) Melissa
+(C) Jamie
+(D) Rodrigo
+(E) Helga",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen weißen Ball, Bob hat einen gelben Ball, Claire hat einen blauen Ball, Dave hat einen orangefarbenen Ball und Eve hat einen braunen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Alice die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Claire und Alice die Bälle. Dann tauschen Alice und Dave die Bälle. Schließlich tauschen Eve und Alice die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) weiße Kugel
+(B) gelber Ball
+(C) blaue Kugel
+(D) orangefarbene Kugel
+(E) braune Kugel",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen lila Ball, Claire hat einen grünen Ball, Dave hat einen braunen Ball und Eve hat einen orangefarbenen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Bob und Claire die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Bob und Alice die Bälle. Schließlich tauschen Eve und Bob die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) blaue Kugel
+(B) lila Kugel
+(C) grüner Ball
+(D) braune Kugel
+(E) orangefarbene Kugel",(C)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein rotes Geschenk, Dave hat ein weißes Geschenk und Eve hat ein blaues Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Dave ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Schließlich tauschen Bob und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Dave die
+Optionen:
+(A) grün vorhanden
+(B) schwarze Kugel
+(C) rot vorhanden
+(D) weiß vorhanden
+(E) blau vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „The Pearl“, Bob bekommt „Catch-22“, Claire bekommt „The Fellowship of the Ring“, Dave bekommt „Lolita“ und Eve bekommt „Ulysses“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Alice Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Eve und Bob Bücher. Dann tauschen Dave und Bob Bücher. Schließlich tauschen Bob und Claire Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Die Perle
+(B) Catch-22
+(C) Die Gefährten des Rings
+(D) Lolita
+(E) Odysseus",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein lila Geschenk, Bob hat ein rotes Geschenk, Claire hat einen rosa Ball, Dave hat ein braunes Geschenk und Eve hat einen orangefarbenen Ball.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Claire ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Dann tauschen Bob und Claire ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Schließlich tauschen Claire und Alice ihre Geschenke aus. Am Ende der Veranstaltung hat Alice die
+Optionen:
+(A) lila vorhanden
+(B) rot vorhanden
+(C) rosa Kugel
+(D) braun vorhanden
+(E) orangefarbene Kugel",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein grünes Geschenk, Bob hat ein braunes Geschenk, Claire hat ein lila Geschenk, Dave hat ein weißes Geschenk und Eve hat ein blaues Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Bob ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Alice und Claire ihre Geschenke aus. Schließlich tauschen Bob und Eve ihre Geschenke aus. Am Ende der Veranstaltung hat Bob die
+Optionen:
+(A) grün vorhanden
+(B) braun vorhanden
+(C) lila vorhanden
+(D) weiß vorhanden
+(E) blau vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen braunen Ball, Bob hat einen schwarzen Ball, Claire hat einen weißen Ball, Dave hat einen gelben Ball und Eve hat einen lila Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Dave die Bälle. Dann tauschen Alice und Eva die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Alice und Eva die Bälle. Schließlich tauschen Claire und Eve die Bälle. Am Ende des Spiels hat Alice das
+Optionen:
+(A) braune Kugel
+(B) schwarze Kugel
+(C) weiße Kugel
+(D) gelber Ball
+(E) lila Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Melissa, Bob tanzt mit Sam, Claire tanzt mit Helga, Dave tanzt mit Ophelia und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Alice und Eve den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Dave und Eve den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Melissa
+(B) Sam
+(C) Helga
+(D) Ophelia
+(E) Jamie",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Karl, Bob tanzt mit Jamie, Claire tanzt mit Melissa, Dave tanzt mit Lola und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Claire den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Bob und Alice den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Eve und Alice den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Karl
+(B) Jamie
+(C) Melissa
+(D) Lola
+(E) Ophelia",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Lolita“, Bob bekommt „Catch-22“, Claire bekommt „The Pearl“, Dave bekommt Frankenstein und Eve bekommt „The Great Gatsby“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Alice Bücher. Dann tauschen Alice und Bob Bücher. Dann tauschen Claire und Bob Bücher. Dann tauschen Eve und Dave Bücher. Schließlich tauschen Bob und Claire Bücher. Am Ende des Semesters hat Eve
+Optionen:
+(A) Lolita
+(B) Catch-22
+(C) Die Perle
+(D) Frankenstein
+(E) Der große Gatsby",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein rotes Geschenk, Bob hat einen rosa Ball, Claire hat einen schwarzen Ball, Dave hat ein braunes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Claire und Dave ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Schließlich tauschen Alice und Claire ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) rot vorhanden
+(B) rosa Kugel
+(C) schwarze Kugel
+(D) braun vorhanden
+(E) lila vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Ophelia, Bob tanzt mit Izzi, Claire tanzt mit Helga, Dave tanzt mit Patrick und Eve tanzt mit Lola.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Claire den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Claire und Alice den Partner. Dann wechseln Bob und Alice den Partner. Schließlich wechseln Dave und Claire den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Ophelia
+(B) Izzi
+(C) Helga
+(D) Patrick
+(E) Lola",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen blauen Ball, Claire hat einen orangefarbenen Ball, Dave hat einen rosa Ball und Eve hat einen weißen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Bob die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Dave und Alice die Bälle. Dann tauschen Eve und Claire die Bälle. Schließlich tauschen Claire und Alice die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) schwarzer Ball
+(B) blaue Kugel
+(C) orangefarbene Kugel
+(D) rosa Kugel
+(E) weiße Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Cheerleaderin, Bob spielt Rechtsaußen, Claire spielt Linksaußen, Dave spielt Torwart und Eve spielt Stürmerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zunächst tauschen Bob und Dave ihre Positionen. Dann tauschen Alice und Eve ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Schließlich tauschen Eve und Bob ihre Positionen. Am Ende des Spiels spielt Dave
+Optionen:
+(Ein Cheerleader
+(B) Rechtsaußen
+(C) linker Flügelspieler
+(D) Torwart
+(E) Stürmer",(C)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Frankenstein“, Claire bekommt „Moby Dick“, Dave bekommt „Die Gefährten“ und Eve bekommt „Catch-22“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Eve und Alice Bücher. Dann tauschen Dave und Eve Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Der große Gatsby
+(B) Frankenstein
+(C) Moby Dick
+(D) Die Gefährten des Rings
+(E) Catch-22",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein blaues Geschenk, Bob hat ein rotes Geschenk, Claire hat ein weißes Geschenk, Dave hat ein gelbes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Dave und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Schließlich tauschen Eve und Bob ihre Geschenke aus. Am Ende der Veranstaltung hat Alice die
+Optionen:
+(A) blau vorhanden
+(B) rot vorhanden
+(C) weiß vorhanden
+(D) Gelb vorhanden
+(E) lila vorhanden",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Melissa, Bob tanzt mit Sam, Claire tanzt mit Helga, Dave tanzt mit Ophelia und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Alice und Eve den Partner. Dann wechseln Claire und Eve den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Dave und Eve den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Melissa
+(B) Sam
+(C) Helga
+(D) Ophelia
+(E) Jamie",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Rodrigo, Claire tanzt mit Sam, Dave tanzt mit Helga und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zunächst wechseln Eve und Alice den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Claire und Alice den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Jamie
+(B) Rodrigo
+(C) Sam
+(D) Helga
+(E) Ophelia",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den linken Flügelspieler, Bob spielt den Außenverteidiger, Claire spielt den Bankspieler, Dave spielt den Torwart und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zunächst tauschen Bob und Claire ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Dann tauschen Eve und Dave ihre Positionen. Dann tauschen Dave und Claire ihre Positionen. Schließlich tauschen Alice und Dave ihre Positionen. Am Ende des Spiels spielt Alice
+Optionen:
+(A) linker Flügelspieler
+(B) Außenverteidiger
+(C) Bankwärmer
+(D) Torwart
+(E) linker Mittelfeldspieler",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Cheerleaderin, Bob spielt Bankspielerin, Claire spielt mittleres Mittelfeld, Dave spielt Stürmer und Eve spielt linke Mittelfeldspielerin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Alice ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Bob und Alice ihre Positionen. Schließlich tauschen Eve und Bob ihre Positionen. Am Ende des Spiels spielt Bob
+Optionen:
+(Ein Cheerleader
+(B) Bankwärmer
+(C) mittlerer Mittelfeldspieler
+(D) Stürmer
+(E) linker Mittelfeldspieler",(UND)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Sam, Bob tanzt mit Izzi, Claire tanzt mit Jamie, Dave tanzt mit Ophelia und Eve tanzt mit Patrick.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Dave den Partner. Dann wechseln Alice und Eve den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Alice und Bob den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Sam
+(B) Izzi
+(C) Jamie
+(D) Ophelia
+(E) Patrick",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat einen rosa Ball, Bob hat einen orangefarbenen Ball, Claire hat ein grünes Geschenk, Dave hat ein braunes Geschenk und Eve hat ein lila Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Alice und Bob ihre Geschenke aus. Dann tauschen Claire und Bob ihre Geschenke aus. Dann tauschen Claire und Eve ihre Geschenke aus. Dann tauschen Bob und Dave ihre Geschenke aus. Schließlich tauschen Eve und Bob ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) rosa Kugel
+(B) orangefarbene Kugel
+(C) grün vorhanden
+(D) braun vorhanden
+(E) lila vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen grünen Ball, Dave hat einen braunen Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Alice die Bälle. Dann tauschen Claire und Bob die Bälle. Dann tauschen Dave und Bob die Bälle. Dann tauschen Alice und Eva die Bälle. Schließlich tauschen Dave und Claire die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) grüner Ball
+(D) braune Kugel
+(E) gelber Ball",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt die Odyssee, Claire bekommt Moby Dick, Dave bekommt Lolita und Eve bekommt Frankenstein.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Claire und Eve Bücher. Dann tauschen Alice und Bob Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Eve und Alice Bücher. Schließlich tauschen Bob und Dave ihre Bücher aus. Am Ende des Semesters hat Alice
+Optionen:
+(A) Catch-22
+(B) Die Odyssee
+(C) Moby Dick
+(D) Lolita
+(E) Frankenstein",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Flügelspieler, Bob spielt den Torwart, Claire spielt den Bankspieler, Dave spielt den mittleren Mittelfeldspieler und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Claire und Eve ihre Positionen. Dann tauschen Claire und Alice ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Dann tauschen Bob und Eve ihre Positionen. Schließlich tauschen Alice und Claire ihre Positionen. Am Ende des Spiels spielt Alice
+Optionen:
+(A) Rechtsaußen
+(B) Torwart
+(C) Bankwärmer
+(D) mittlerer Mittelfeldspieler
+(E) linker Mittelfeldspieler",(A)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Bankspielerin, Bob spielt den rechten Mittelfeldspieler, Claire spielt den rechten Flügelspieler, Dave spielt den mittleren Mittelfeldspieler und Eve spielt den linken Flügelspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Dave und Bob ihre Positionen. Dann tauschen Alice und Claire ihre Positionen. Dann tauschen Claire und Eve ihre Positionen. Dann tauschen Bob und Claire ihre Positionen. Schließlich tauschen Dave und Eve ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) Bankwärmer
+(B) rechter Mittelfeldspieler
+(C) Rechtsaußen
+(D) mittlerer Mittelfeldspieler
+(E) linker Flügelspieler",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Frankenstein“, Claire bekommt „Moby Dick“, Dave bekommt „Die Gefährten“ und Eve bekommt „Catch-22“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Alice und Bob Bücher. Dann tauschen Dave und Eve Bücher. Dann tauschen Eve und Alice Bücher. Dann tauschen Dave und Eve Bücher. Schließlich tauschen Claire und Dave Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Der große Gatsby
+(B) Frankenstein
+(C) Moby Dick
+(D) Die Gefährten des Rings
+(E) Catch-22",(B)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt den rechten Mittelfeldspieler, Bob spielt den rechten Flügelspieler, Claire spielt den Außenverteidiger, Dave spielt den linken Mittelfeldspieler und Eve spielt die Cheerleaderin.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Eve und Bob ihre Positionen. Dann tauschen Eve und Claire ihre Positionen. Dann tauschen Claire und Dave ihre Positionen. Dann tauschen Alice und Dave ihre Positionen. Schließlich tauschen Dave und Claire ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) rechter Mittelfeldspieler
+(B) Rechtsaußen
+(C) Außenverteidiger
+(D) linker Mittelfeldspieler
+(E) Cheerleaderin",(A)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen schwarzen Ball, Bob hat einen braunen Ball, Claire hat einen blauen Ball, Dave hat einen grünen Ball und Eve hat einen gelben Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Eve und Claire die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Eve und Alice die Bälle. Dann tauschen Claire und Bob die Bälle. Schließlich tauschen Alice und Eva die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) schwarzer Ball
+(B) braune Kugel
+(C) blaue Kugel
+(D) grüner Ball
+(E) gelber Ball",(D)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt die Bankspielerin, Bob spielt den Torwart, Claire spielt den linken Mittelfeldspieler, Dave spielt den Außenverteidiger und Eve spielt den mittleren Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Bob ihre Positionen. Dann tauschen Alice und Eve ihre Positionen. Dann tauschen Dave und Bob ihre Positionen. Dann tauschen Dave und Eve ihre Positionen. Schließlich tauschen Claire und Bob ihre Positionen. Am Ende des Spiels spielt Eve
+Optionen:
+(A) Bankwärmer
+(B) Torwart
+(C) linker Mittelfeldspieler
+(D) Außenverteidiger
+(E) mittlerer Mittelfeldspieler",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt Lolita, Claire bekommt Ulysses, Dave bekommt Frankenstein und Eve bekommt The Pearl.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Bob und Claire Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Dave und Alice Bücher. Schließlich tauschen Dave und Bob Bücher. Am Ende des Semesters hat Alice
+Optionen:
+(A) Catch-22
+(B) Lolita
+(C) Odysseus
+(D) Frankenstein
+(E) Die Perle",(D)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Karl, Claire tanzt mit Patrick, Dave tanzt mit Sam und Eve tanzt mit Helga.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Alice den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Bob und Dave den Partner. Dann wechseln Bob und Eve den Partner. Schließlich wechseln Bob und Claire den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Lola
+(B) Karl
+(C) Patrick
+(D) Sam
+(E) Helga",(C)
+"Alice, Bob, Claire, Dave und Eve spielen in einem Fußballspiel im selben Team. Zu Beginn des Spiels wird ihnen jeweils eine Position zugewiesen: Alice spielt Stürmerin, Bob spielt den mittleren Mittelfeldspieler, Claire spielt den Außenverteidiger, Dave spielt den rechten Flügelspieler und Eve spielt den linken Mittelfeldspieler.
+Im Verlauf des Spiels tauschen Spielerpaare gelegentlich ihre Positionen. Zuerst tauschen Alice und Eve ihre Positionen. Dann tauschen Claire und Bob ihre Positionen. Dann tauschen Eve und Bob ihre Positionen. Dann tauschen Bob und Dave ihre Positionen. Schließlich tauschen Eve und Dave ihre Positionen. Am Ende des Spiels spielt Claire
+Optionen:
+(A) Stürmer
+(B) mittlerer Mittelfeldspieler
+(C) Außenverteidiger
+(D) Rechtsaußen
+(E) linker Mittelfeldspieler",(B)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen schwarzen Ball, Claire hat ein grünes Geschenk, Dave hat ein lila Geschenk und Eve hat ein gelbes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Bob und Dave ihre Geschenke aus. Dann tauschen Bob und Eve ihre Geschenke aus. Dann tauschen Dave und Claire ihre Geschenke aus. Dann tauschen Dave und Bob ihre Geschenke aus. Schließlich tauschen Alice und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Eve die
+Optionen:
+(A) Braun vorhanden
+(B) schwarze Kugel
+(C) grün vorhanden
+(D) lila vorhanden
+(E) gelb vorhanden",(D)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Der große Gatsby“, Bob bekommt „Catch-22“, Claire bekommt „Die Perle“, Dave bekommt „Die Gefährten“ und Eve bekommt „Der Hund der Baskervilles“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Claire Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Bob und Eve Bücher. Schließlich tauschen Alice und Bob Bücher. Am Ende des Semesters hat Bob
+Optionen:
+(A) Der große Gatsby
+(B) Catch-22
+(C) Die Perle
+(D) Die Gefährten des Rings
+(E) Hund der Baskervilles",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Rodrigo, Claire tanzt mit Melissa, Dave tanzt mit Patrick und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Eve und Bob den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Dave und Eve den Partner. Dann wechseln Eve und Claire den Partner. Schließlich wechseln Alice und Claire den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Helga
+(B) Rodrigo
+(C) Melissa
+(D) Patrick
+(E) Jamie",(UND)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen gelben Ball, Bob hat einen blauen Ball, Claire hat einen rosa Ball, Dave hat einen weißen Ball und Eve hat einen roten Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Alice die Bälle. Dann tauschen Eve und Bob die Bälle. Dann tauschen Bob und Dave die Bälle. Dann tauschen Claire und Eve die Bälle. Schließlich tauschen Alice und Dave die Bälle. Am Ende des Spiels hat Dave die
+Optionen:
+(A) gelber Ball
+(B) blaue Kugel
+(C) rosa Kugel
+(D) weiße Kugel
+(E) rote Kugel",(C)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen blauen Ball, Bob hat einen lila Ball, Claire hat einen roten Ball, Dave hat einen braunen Ball und Eve hat einen schwarzen Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Claire und Dave die Bälle. Dann tauschen Eve und Claire die Bälle. Dann tauschen Bob und Alice die Bälle. Dann tauschen Dave und Claire die Bälle. Schließlich tauschen Eve und Bob die Bälle. Am Ende des Spiels hat Bob das
+Optionen:
+(A) blaue Kugel
+(B) lila Kugel
+(C) rote Kugel
+(D) braune Kugel
+(E) schwarzer Ball",(D)
+"Alice, Bob, Claire, Dave und Eve spielen ein Spiel. Zu Beginn des Spiels hält jeder einen Ball: Alice hat einen orangefarbenen Ball, Bob hat einen schwarzen Ball, Claire hat einen rosa Ball, Dave hat einen weißen Ball und Eve hat einen roten Ball.
+Im Verlauf des Spiels tauschen Spielerpaare Bälle. Zuerst tauschen Alice und Dave die Bälle. Dann tauschen Bob und Claire die Bälle. Dann tauschen Claire und Dave die Bälle. Dann tauschen Dave und Bob die Bälle. Schließlich tauschen Alice und Eva die Bälle. Am Ende des Spiels hat Claire das
+Optionen:
+(A) orangefarbene Kugel
+(B) schwarze Kugel
+(C) rosa Kugel
+(D) weiße Kugel
+(E) rote Kugel",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Die Perle“, Bob bekommt „Der Hund der Baskervilles“, Claire bekommt „Moby Dick“, Dave bekommt „Lolita“ und Eve bekommt „Die Odyssee“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Bob und Alice Bücher. Dann tauschen Claire und Dave Bücher. Dann tauschen Eve und Dave Bücher. Dann tauschen Bob und Dave Bücher. Schließlich tauschen Eve und Bob Bücher. Am Ende des Semesters hat Claire
+Optionen:
+(A) Die Perle
+(B) Hund der Baskervilles
+(C) Moby Dick
+(D) Lolita
+(E) Die Odyssee",(D)
+"Alice, Bob, Claire, Dave und Eve veranstalten einen Geschenkaustausch mit weißen Elefanten. Zu Beginn der Veranstaltung hält jeder ein Geschenk in einer anderen Farbe in der Hand: Alice hat ein braunes Geschenk, Bob hat einen orangefarbenen Ball, Claire hat ein grünes Geschenk, Dave hat ein blaues Geschenk und Eve hat ein weißes Geschenk.
+Im Verlauf der Veranstaltung tauschen Paare Geschenke aus. Zuerst tauschen Eve und Bob ihre Geschenke aus. Dann tauschen Eve und Claire ihre Geschenke aus. Dann tauschen Eve und Dave ihre Geschenke aus. Dann tauschen Dave und Alice ihre Geschenke aus. Schließlich tauschen Claire und Dave ihre Geschenke aus. Am Ende der Veranstaltung hat Claire das
+Optionen:
+(A) Braun vorhanden
+(B) orangefarbene Kugel
+(C) grün vorhanden
+(D) blau vorhanden
+(E) weiß vorhanden",(A)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Ulysses, Bob bekommt Moby Dick, Claire bekommt Catch-22, Dave bekommt Frankenstein und Eve bekommt Hound of the Baskervilles.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Claire Bücher. Dann tauschen Alice und Bob Bücher. Dann tauschen Dave und Alice Bücher. Dann tauschen Bob und Dave Bücher. Schließlich tauschen Eve und Bob Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Odysseus
+(B) Moby Dick
+(C) Catch-22
+(D) Frankenstein
+(E) Hund der Baskervilles",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Karl, Claire tanzt mit Patrick, Dave tanzt mit Melissa und Eve tanzt mit Jamie.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Claire und Eve den Partner. Dann wechseln Eve und Dave den Partner. Dann wechseln Dave und Claire den Partner. Dann wechseln Claire und Bob den Partner. Schließlich wechseln Dave und Alice den Partner. Am Ende des Tanzes tanzt Bob mit
+Optionen:
+(A) Lola
+(B) Karl
+(C) Patrick
+(D) Melissa
+(E) Jamie",(C)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Patrick, Bob tanzt mit Sam, Claire tanzt mit Jamie, Dave tanzt mit Lola und Eve tanzt mit Melissa.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Eve den Partner. Dann wechseln Dave und Alice den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Claire und Bob den Partner. Schließlich wechseln Dave und Alice den Partner. Am Ende des Tanzes tanzt Claire mit
+Optionen:
+(A) Patrick
+(B) Sam
+(C) Jamie
+(D) Lola
+(E) Melissa",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt „Catch-22“, Bob bekommt „Moby Dick“, Claire bekommt „Der Hund der Baskervilles“, Dave bekommt „Lolita“ und Eve bekommt „Die Odyssee“.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Eve und Bob Bücher. Dann tauschen Alice und Claire Bücher. Dann tauschen Alice und Dave Bücher. Dann tauschen Claire und Dave Bücher. Schließlich tauschen Bob und Claire Bücher. Am Ende des Semesters hat Dave
+Optionen:
+(A) Catch-22
+(B) Moby Dick
+(C) Hund der Baskervilles
+(D) Lolita
+(E) Die Odyssee",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Jamie, Bob tanzt mit Patrick, Claire tanzt mit Ophelia, Dave tanzt mit Melissa und Eve tanzt mit Rodrigo.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Dave und Bob den Partner. Dann wechseln Claire und Dave den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Claire und Eve den Partner. Schließlich wechseln Alice und Eve den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Jamie
+(B) Patrick
+(C) Ophelia
+(D) Melissa
+(E) Rodrigo",(B)
+"Alice, Bob, Claire, Dave und Eve sind Freunde und begeisterte Leser, die gelegentlich Bücher tauschen. Zu Beginn des Semesters kaufen sie jeweils ein neues Buch: Alice bekommt Catch-22, Bob bekommt Lolita, Claire bekommt Ulysses, Dave bekommt Frankenstein und Eve bekommt The Pearl.
+Im Laufe des Semesters beginnen sie mit dem Handel mit den neuen Büchern. Zuerst tauschen Bob und Claire Bücher. Dann tauschen Eve und Claire Bücher. Dann tauschen Bob und Eve Bücher. Dann tauschen Dave und Alice Bücher. Schließlich tauschen Dave und Bob Bücher. Am Ende des Semesters hat Bob
+Optionen:
+(A) Catch-22
+(B) Lolita
+(C) Odysseus
+(D) Frankenstein
+(E) Die Perle",(A)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Helga, Bob tanzt mit Karl, Claire tanzt mit Melissa, Dave tanzt mit Ophelia und Eve tanzt mit Sam.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Alice und Dave den Partner. Dann wechseln Eve und Alice den Partner. Dann wechseln Bob und Claire den Partner. Dann wechseln Alice und Claire den Partner. Schließlich wechseln Dave und Eve den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Helga
+(B) Karl
+(C) Melissa
+(D) Ophelia
+(E) Sam",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Lola, Bob tanzt mit Melissa, Claire tanzt mit Jamie, Dave tanzt mit Rodrigo und Eve tanzt mit Helga.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Eve den Partner. Dann wechseln Alice und Dave den Partner. Dann wechseln Eve und Bob den Partner. Dann wechseln Eve und Claire den Partner. Schließlich wechseln Dave und Bob den Partner. Am Ende des Tanzes tanzt Dave mit
+Optionen:
+(A) Lola
+(B) Melissa
+(C) Jamie
+(D) Rodrigo
+(E) Helga",(B)
+"Alice, Bob, Claire, Dave und Eve sind Tänzer bei einem Square Dance. Zu Beginn eines Liedes haben sie jeweils einen Partner: Alice tanzt mit Rodrigo, Bob tanzt mit Sam, Claire tanzt mit Izzi, Dave tanzt mit Jamie und Eve tanzt mit Ophelia.
+Während des Liedes tauschen die Tänzer oft ihre Partner. Zuerst wechseln Bob und Eve den Partner. Dann wechseln Alice und Bob den Partner. Dann wechseln Eve und Bob den Partner. Dann wechseln Dave und Alice den Partner. Schließlich wechseln Eve und Claire den Partner. Am Ende des Tanzes tanzt Alice mit
+Optionen:
+(A) Rodrigo
+(B) Sam
+(C) Izzi
+(D) Jamie
+(E) Ophelia",(D)

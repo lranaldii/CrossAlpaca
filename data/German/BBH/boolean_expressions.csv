@@ -1,0 +1,251 @@
+Eingang,Ziel
+nicht (True) und (True) ist,FALSCH
+Wahr und nicht nicht (nicht falsch) ist,WAHR
+nicht wahr oder falsch oder (falsch) ist,FALSCH
+Falsch oder nicht (True) und False ist,FALSCH
+Wahr oder nicht Falsch und Wahr und Falsch ist,WAHR
+Falsch oder nicht nicht falsch und wahr ist,WAHR
+nicht wahr und (falsch oder wahr) ist,FALSCH
+Wahr und nicht Falsch oder (True) ist,WAHR
+nicht wahr oder (falsch und wahr) ist,FALSCH
+nicht wahr oder (wahr oder falsch) ist,WAHR
+False oder (False) und nicht False ist,FALSCH
+nicht Falsch oder Wahr und Falsch und Falsch ist,WAHR
+nicht wahr oder falsch oder nicht nicht wahr ist,WAHR
+Wahr und wahr und falsch und nicht wahr ist,FALSCH
+nicht nicht wahr und nicht wahr oder wahr ist,WAHR
+nicht nicht nicht (wahr und falsch) ist,WAHR
+nicht nicht falsch und nicht nicht nicht falsch ist,FALSCH
+(Wahr und nicht Wahr und Falsch) ist,FALSCH
+Falsch und Falsch und Falsch oder nicht Falsch ist,WAHR
+Falsch oder (falsch und nicht falsch) ist,FALSCH
+Wahr und Falsch oder (nicht wahr) ist,FALSCH
+nicht nicht (wahr) und nicht falsch ist,WAHR
+nicht Falsch oder (True) und Wahr ist,WAHR
+nicht (True) oder False oder True ist,WAHR
+(Wahr und nicht nicht nicht wahr) ist,FALSCH
+(Falsch oder nicht Falsch oder Falsch) ist,WAHR
+Falsch und Falsch oder Wahr und nicht Falsch ist,WAHR
+nicht nicht falsch oder nicht falsch oder wahr ist,WAHR
+Wahr und nicht Wahr oder Falsch oder Wahr ist,WAHR
+nicht Falsch oder Wahr und Falsch oder Falsch ist,WAHR
+Falsch und (nicht Falsch) oder Falsch ist,FALSCH
+nicht nicht nicht nicht (nicht falsch) ist,WAHR
+(Wahr) und Wahr oder nicht Wahr ist,WAHR
+"nicht Wahr oder Falsch, sondern Falsch und Falsch",FALSCH
+nicht nicht nicht nicht nicht nicht nicht Falsch ist,WAHR
+nicht wahr oder nicht falsch und nicht falsch ist,WAHR
+Falsch oder wahr oder falsch und nicht falsch ist,WAHR
+nicht (True oder True) und False ist,FALSCH
+nicht nicht nicht nicht wahr und nicht wahr ist,FALSCH
+(False) oder False und nicht True ist,FALSCH
+(Falsch und Wahr oder nicht Falsch) ist,WAHR
+nicht nicht nicht (falsch und wahr) ist,WAHR
+nicht nicht wahr und nicht falsch oder wahr ist,WAHR
+nicht falsch oder wahr und nicht nicht wahr ist,WAHR
+Wahr oder wahr oder nicht falsch oder falsch ist,WAHR
+(nicht Falsch und Falsch und Falsch) ist,FALSCH
+( (nicht wahr) oder wahr) ist,WAHR
+nicht nicht (nicht falsch oder wahr) ist,WAHR
+nicht wahr oder falsch oder (wahr) ist,WAHR
+Falsch oder (nicht Falsch) und Wahr ist,WAHR
+nicht False oder False oder ( False ) ist,WAHR
+nicht nicht falsch oder falsch und nicht wahr ist,FALSCH
+Wahr oder ((nicht wahr)) ist,WAHR
+nicht falsch und nicht falsch und nicht falsch ist,WAHR
+(False) und nicht False und True ist,FALSCH
+(True) und False oder nicht False ist,WAHR
+(nicht False und (True)) ist,WAHR
+Falsch oder nicht (False) oder True ist,WAHR
+Wahr und nicht falsch und nicht nicht wahr ist,WAHR
+nicht wahr und wahr und wahr oder falsch ist,FALSCH
+nicht nicht (falsch und nicht wahr) ist,FALSCH
+Wahr oder nicht ((False)) ist,WAHR
+Falsch oder nicht wahr oder falsch oder falsch ist,FALSCH
+Falsch oder nicht. Wahr oder nicht. Falsch ist,WAHR
+nicht (Wahr oder Wahr oder Falsch) ist,FALSCH
+Falsch oder nicht nicht nicht nicht nicht falsch ist,WAHR
+nicht (falsch) oder nicht nicht wahr ist,WAHR
+Wahr und nicht Falsch oder Falsch und Falsch ist,WAHR
+Wahr oder (nicht (Wahr)) ist,WAHR
+(Falsch oder Wahr und nicht Wahr) ist,FALSCH
+Falsch oder nicht wahr und wahr oder wahr ist,WAHR
+nicht nicht nicht nicht nicht nicht nicht wahr ist,FALSCH
+(nicht False) und False oder True ist,WAHR
+Falsch und Falsch oder nicht (True) ist,FALSCH
+(nicht Falsch oder Wahr) und Wahr ist,WAHR
+nicht (Falsch) und (Falsch) ist,FALSCH
+Falsch oder wahr und nicht nicht nicht falsch ist,WAHR
+(True) und True und nicht True ist,FALSCH
+(nicht wahr) und wahr und falsch ist,FALSCH
+(nicht nicht wahr und nicht falsch) ist,WAHR
+Wahr und (falsch) bzw. nicht falsch ist,WAHR
+nicht nicht nicht falsch oder falsch und falsch ist,WAHR
+nicht nicht nicht falsch und wahr oder falsch ist,WAHR
+Wahr oder (wahr oder nicht falsch) ist,WAHR
+nicht False oder ( (False) ) ist,WAHR
+nicht nicht (Falsch und nicht Falsch) ist,FALSCH
+nicht nicht nicht nicht wahr oder nicht wahr ist,WAHR
+Falsch und nicht (False oder False) ist,FALSCH
+Wahr und wahr und wahr oder nicht falsch ist,WAHR
+Falsch oder nicht Falsch oder wahr und wahr ist,WAHR
+nicht Falsch und Falsch und Falsch oder Falsch ist,FALSCH
+(Falsch) oder nicht Falsch oder Wahr ist,WAHR
+(nicht False) oder (True) ist,WAHR
+nicht nicht (falsch oder nicht wahr) ist,FALSCH
+Falsch oder nicht Falsch oder Falsch oder Falsch ist,WAHR
+Falsch oder nicht Falsch und (Falsch) ist,FALSCH
+Falsch oder (falsch) oder nicht wahr ist,FALSCH
+nicht wahr oder falsch und wahr und wahr ist,FALSCH
+Wahr oder (wahr oder nicht wahr) ist,WAHR
+Wahr und nicht Falsch und Wahr oder Wahr ist,WAHR
+Falsch oder nicht Falsch oder nicht wahr ist,WAHR
+(Wahr oder nicht Falsch) oder Falsch ist,WAHR
+Falsch oder nicht (True) und True ist,FALSCH
+nicht falsch und nicht wahr und nicht falsch ist,FALSCH
+Falsch und (wahr und nicht falsch) ist,FALSCH
+nicht False oder (False) oder True ist,WAHR
+Falsch und nicht (False and True) ist,FALSCH
+"(Wahr oder nicht, nicht, nicht, nicht falsch) ist",WAHR
+Falsch und (Falsch oder nicht Falsch) ist,FALSCH
+Falsch oder nicht wahr oder wahr und falsch ist,FALSCH
+Wahr und nicht wahr oder wahr und wahr ist,WAHR
+(nicht False oder (True)) ist,WAHR
+( (nicht (Wahr))) ist,FALSCH
+Falsch und Falsch und nicht (False) ist,FALSCH
+nicht wahr und nicht wahr und nicht wahr ist,FALSCH
+nicht (wahr oder falsch) oder wahr ist,WAHR
+Falsch oder (wahr) oder nicht wahr ist,WAHR
+Falsch oder Falsch und Falsch oder nicht Wahr ist,FALSCH
+Wahr oder falsch oder nicht wahr oder falsch ist,WAHR
+nicht wahr und (wahr und wahr) ist,FALSCH
+nicht wahr und wahr oder wahr und falsch ist,FALSCH
+nicht Falsch oder (True oder True) ist,WAHR
+nicht ( False oder ( False ) ) ist,WAHR
+nicht (True oder True) und True ist,FALSCH
+Falsch oder nicht Falsch oder wahr oder wahr ist,WAHR
+Falsch oder falsch und nicht nicht nicht falsch ist,FALSCH
+nicht (Wahr oder Falsch oder Wahr) ist,FALSCH
+(Falsch) oder nicht Wahr und Falsch ist,FALSCH
+Wahr und wahr und nicht nicht nicht falsch ist,WAHR
+(Wahr) oder Wahr und nicht Wahr ist,WAHR
+Falsch und Falsch und nicht Wahr und Falsch ist,FALSCH
+(True) und nicht True oder True ist,WAHR
+nicht nicht nicht wahr und falsch und falsch ist,FALSCH
+Falsch und Falsch und nicht nicht wahr ist,FALSCH
+Falsch und Falsch oder Falsch oder nicht Wahr ist,FALSCH
+Falsch oder (nicht (False)) ist,WAHR
+nicht wahr und wahr und nicht nicht falsch ist,FALSCH
+(Falsch) und (nicht Falsch) ist,FALSCH
+(nicht wahr) und wahr oder wahr ist,WAHR
+Falsch und Wahr und (nicht Falsch) ist,FALSCH
+( (True)) oder nicht False ist,WAHR
+nicht wahr und falsch oder falsch oder wahr ist,WAHR
+Wahr und nicht wahr und wahr und wahr ist,FALSCH
+(Wahr oder Wahr oder nicht Falsch) ist,WAHR
+Wahr oder nicht Falsch und Wahr oder Wahr ist,WAHR
+(nicht (Falsch) oder Falsch) ist,WAHR
+Wahr und nicht (wahr oder falsch) ist,FALSCH
+nicht (falsch und wahr) und wahr ist,WAHR
+nicht (Wahr und Wahr) oder Falsch ist,FALSCH
+Falsch oder nicht wahr und nicht nicht falsch ist,FALSCH
+nicht Wahr und Falsch oder Falsch und Falsch ist,FALSCH
+nicht Wahr oder Wahr und Falsch oder Falsch ist,FALSCH
+(nicht (Falsch) und Falsch) ist,FALSCH
+Falsch oder (wahr und nicht wahr) ist,FALSCH
+nicht falsch und nicht wahr bzw. nicht wahr ist,FALSCH
+(Falsch oder nicht nicht nicht falsch) ist,WAHR
+(nicht Falsch) oder Wahr und Falsch ist,WAHR
+(nicht nicht wahr) oder nicht falsch ist,WAHR
+Wahr oder nicht ((True)) ist,WAHR
+(False) und False oder nicht False ist,WAHR
+nicht Falsch und Wahr oder (True) ist,WAHR
+Wahr oder nicht (nicht falsch) ist,WAHR
+Falsch und nicht wahr und Falsch und Wahr ist,FALSCH
+nicht nicht wahr und wahr und nicht wahr ist,FALSCH
+nicht falsch oder nicht (not False) ist,WAHR
+nicht nicht (wahr) oder nicht wahr ist,WAHR
+(Wahr und nicht Wahr und Wahr) ist,FALSCH
+Wahr oder falsch oder nicht wahr oder wahr ist,WAHR
+nicht Wahr oder Wahr und Falsch und Falsch ist,FALSCH
+Wahr und nicht nicht nicht nicht nicht wahr ist,FALSCH
+nicht Wahr und (Falsch) und Falsch ist,FALSCH
+Falsch und falsch oder nicht wahr und falsch ist,FALSCH
+Wahr oder Falsch und nicht Wahr und Falsch,WAHR
+nicht (Falsch oder Falsch oder Wahr) ist,FALSCH
+nicht Falsch oder Wahr oder Wahr und Falsch ist,WAHR
+nicht Falsch und Falsch oder Falsch oder Falsch ist,FALSCH
+(nicht wahr) und (falsch) ist,FALSCH
+Wahr und nicht falsch und nicht falsch ist,FALSCH
+nicht (nicht nicht falsch) und wahr ist,WAHR
+not ( not False ) und not False ist,FALSCH
+„Falsch“ oder „Wahr“ und nicht „Falsch“ oder „Wahr“ ist,WAHR
+(nicht nicht nicht wahr und wahr) ist,FALSCH
+Falsch und nicht (True) oder True ist,WAHR
+(nicht wahr und falsch oder wahr) ist,WAHR
+nicht (nicht nicht wahr) oder falsch ist,FALSCH
+(nicht False) oder (False) ist,WAHR
+nicht nicht nicht falsch und wahr und falsch ist,FALSCH
+Wahr oder nicht. Wahr oder nicht. Wahr ist,WAHR
+nicht falsch oder nicht nicht falsch und falsch ist,WAHR
+nicht False und ( False oder False ) ist,FALSCH
+Falsch und Wahr oder (nicht Falsch) ist,WAHR
+Falsch und nicht Falsch und (Falsch) ist,FALSCH
+nicht ( (Falsch und Wahr)) ist,WAHR
+Falsch oder (nicht Falsch) und Falsch ist,FALSCH
+Falsch und nicht Falsch oder Falsch und Wahr ist,FALSCH
+nicht falsch und nicht nicht wahr und wahr ist,WAHR
+Wahr und wahr oder falsch und nicht wahr ist,WAHR
+"nicht Wahr oder Falsch, sondern Wahr oder Falsch",FALSCH
+Wahr oder falsch oder nicht wahr und wahr ist,WAHR
+Falsch oder falsch oder nicht wahr oder falsch ist,FALSCH
+Falsch oder Falsch oder Wahr und nicht Falsch ist,WAHR
+(nicht (wahr oder falsch)) ist,FALSCH
+nicht Falsch und Falsch oder Wahr und Wahr ist,WAHR
+Wahr und Falsch oder (nicht Falsch) ist,WAHR
+nicht falsch oder nicht nicht nicht wahr ist,WAHR
+Wahr und (nicht (Wahr)) ist,FALSCH
+Wahr und Falsch und nicht Wahr oder Falsch ist,FALSCH
+( (nicht False)) und True ist,WAHR
+nicht (True) und (False) ist,FALSCH
+Wahr oder nicht Falsch und Falsch und Falsch ist,WAHR
+Wahr und nicht (falsch oder falsch) ist,WAHR
+nicht wahr und falsch oder falsch und wahr ist,FALSCH
+nicht wahr oder nicht falsch und nicht wahr ist,FALSCH
+nicht wahr oder falsch oder wahr und wahr ist,WAHR
+nicht wahr und wahr und falsch und wahr ist,FALSCH
+Falsch und falsch oder nicht wahr und wahr ist,FALSCH
+(nicht Falsch oder Falsch und Wahr) ist,WAHR
+(Wahr oder Falsch) oder nicht Wahr ist,WAHR
+nicht nicht nicht (Falsch) und Falsch ist,FALSCH
+nicht Falsch und Falsch und Falsch und Wahr ist,FALSCH
+Falsch und nicht wahr und wahr oder falsch ist,FALSCH
+(Falsch oder nicht Falsch und Falsch) ist,FALSCH
+Falsch oder (Falsch oder nicht Falsch) ist,WAHR
+nicht Falsch oder Wahr oder Falsch und Falsch ist,WAHR
+Wahr oder (nicht falsch) oder wahr ist,WAHR
+nicht Falsch und Falsch oder Wahr oder Falsch ist,WAHR
+Falsch und nicht (not not False) ist,FALSCH
+nicht nicht (nicht wahr) oder falsch ist,FALSCH
+"Falsch und nicht wahr, und wahr und falsch ist",FALSCH
+Wahr oder Falsch und nicht (True) ist,WAHR
+nicht (False) und (True) ist,WAHR
+Falsch und nicht ( (True)) ist,FALSCH
+not False oder ( not not False ) ist,WAHR
+( ( (nicht False) und False) ist,FALSCH
+Wahr oder Falsch und nicht Falsch und Wahr ist,WAHR
+( (nicht wahr und wahr)) ist,FALSCH
+nicht (False) oder nicht nicht falsch ist,WAHR
+nicht (Falsch oder Falsch und Falsch) ist,WAHR
+Falsch und nicht (not not True) ist,FALSCH
+Falsch und Falsch und nicht (True) ist,FALSCH
+Falsch oder (nicht Falsch und Falsch) ist,FALSCH
+Falsch oder (nicht nicht nicht wahr) ist,FALSCH
+(nicht falsch) oder nicht nicht falsch ist,WAHR
+nicht Falsch und Falsch und Wahr oder Falsch ist,FALSCH
+Wahr oder nicht Falsch und (Falsch) ist,WAHR
+(nicht (Falsch)) oder Falsch ist,WAHR
+Wahr und nicht wahr oder falsch und wahr ist,FALSCH
+nicht (nicht nicht nicht nicht falsch) ist,WAHR
+Wahr und (nicht wahr oder falsch) ist,FALSCH
+(nicht nicht nicht falsch oder wahr) ist,WAHR

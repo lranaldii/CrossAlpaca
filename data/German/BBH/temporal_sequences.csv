@@ -1,0 +1,3499 @@
+Eingang,Ziel
+"Heute war Susan im Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 7 Uhr morgens auf.
+Linda sah Susan von 7 bis 11 Uhr zum Wasserpark fahren.
+John sah, wie Susan von 11 bis 12 Uhr im Einkaufszentrum Kleidung kaufte.
+Jessica sah, wie Susan von 12 bis 13 Uhr in der Nähe des Eiffelturms Fotos machte.
+Steven sah, wie Susan von 13.00 bis 14.00 Uhr im Feinkostladen das Mittagessen kaufte.
+Thomas sah Susan von 14 bis 18 Uhr in der Bibliothek lesen.
+Das Café war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan ins Café gegangen sein?
+Optionen:
+(A) 18:00 bis 21:00 Uhr
+(B) 7.00 bis 11.00 Uhr
+(C) 13 bis 14 Uhr
+(D) 14:00 bis 18:00 Uhr",(A)
+"Heute war Emily auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 10 Uhr auf.
+Linda sah Emily von 10 bis 12 Uhr am Bahnhof warten.
+Ashley sah, wie Emily von 12 bis 13 Uhr im Elektronikladen ihren Computer reparierte.
+John sah Emily zwischen 13 und 14 Uhr auf die Freiheitsstatue zulaufen.
+Der Fußballplatz wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(B) 10 bis 12 Uhr
+(C) 14:00 bis 20:00 Uhr
+(D) 13:00 bis 14:00 Uhr",(C)
+"Heute war Susan im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 11 Uhr auf.
+Lisa sah, wie Susan von 11 bis 13 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+William sah, wie Susan von 13.00 bis 15.00 Uhr Kekse in einer Bäckerei kaufte.
+Jennifer sah Susan von 15 bis 18 Uhr im Büro arbeiten.
+Jason sah Susan von 18 bis 19 Uhr auf die Freiheitsstatue zulaufen.
+Ashley sah Susan von 19 bis 21 Uhr am Flughafen warten.
+Das Restaurant war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan ins Restaurant gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 11 bis 13 Uhr
+(D) 19:00 bis 21:00 Uhr",(B)
+"Heute ging James an den Strand. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 5 Uhr morgens auf.
+Sean sah, wie James von 5 bis 6 Uhr morgens auf die Freiheitsstatue zuging.
+Michael sah, wie James von 6 bis 7 Uhr morgens zum Wasserpark fuhr.
+Anthony sah James von 7 bis 15 Uhr in der Bibliothek lesen.
+William sah James von 16 bis 21 Uhr im Café einen Kaffee trinken.
+Der Strand war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James an den Strand gegangen sein?
+Optionen:
+(A) 7 bis 15 Uhr
+(F) 5 bis 6 Uhr
+(C) 16:00 bis 21:00 Uhr
+(D) 15:00 bis 16:00 Uhr",(D)
+"Heute ging Jason ins Kino. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 10 Uhr auf.
+Linda sah, wie Jason von 10 bis 15 Uhr im Café einen Kaffee trank.
+Jennifer sah Jason von 18 bis 19 Uhr auf die Freiheitsstatue zulaufen.
+Sean sah, wie Jason von 19 bis 22 Uhr im Elektronikladen ein Telefon kaufte.
+Das Kino war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason ins Kino gegangen sein?
+Optionen:
+(A) 15:00 bis 18:00 Uhr
+(B) 10 bis 15 Uhr
+(C) 19:00 bis 22:00 Uhr
+(D) 18:00 bis 19:00 Uhr",(A)
+"Heute war Elizabeth im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 6 Uhr morgens auf.
+Sarah sah, wie Elizabeth von 8 bis 9 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Jessica sah Elizabeth von 9 bis 15 Uhr im Fitnessstudio trainieren.
+Betty sah, wie Elizabeth von 15 bis 19 Uhr einen Film im Kino sah.
+James sah, wie Elizabeth von 19 bis 20 Uhr in einem Yoga-Studio Dehnübungen machte.
+Der Vergnügungspark war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 8 bis 9 Uhr
+(B) 6 bis 8 Uhr
+(C) 15:00 bis 19:00 Uhr
+(D) 19:00 bis 20:00 Uhr",(B)
+"Heute ist Ashley in die Buchhandlung gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 7 Uhr morgens auf.
+Leslie sah, wie Ashley von 11 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+Susan sah, wie Ashley von 12 bis 16 Uhr im Fitnessstudio trainierte.
+Elizabeth sah Ashley von 16 bis 19 Uhr am Bahnhof warten.
+Emily sah, wie Ashley von 19 bis 21 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Buchladen war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley in die Buchhandlung gegangen sein?
+Optionen:
+(A) 19:00 bis 21:00 Uhr
+(F) 11 bis 12 Uhr
+(C) 12 bis 16 Uhr
+(D) 7.00 bis 11.00 Uhr",(D)
+"Heute war Sarah auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 6 Uhr morgens auf.
+Nancy sah, wie Sarah von 8 bis 14 Uhr im Elektronikladen ihren Computer reparierte.
+Betty sah Sarah von 14 bis 15 Uhr zum Wasserpark fahren.
+Kimberly sah, wie Sarah von 15 bis 16 Uhr im Einkaufszentrum Kleidung kaufte.
+Emily sah, wie Sarah von 16 bis 18 Uhr Kekse in einer Bäckerei kaufte.
+David sah, wie Sarah von 18 bis 20 Uhr den Unterricht in der Schule besuchte.
+Die Baustelle wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah auf die Baustelle gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 6 bis 8 Uhr
+(D) 8:00 bis 14:00 Uhr",(C)
+"Heute ging Leslie in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 7 Uhr morgens auf.
+Richard sah Leslie von 7 bis 8 Uhr morgens im Garten spazieren gehen.
+Leslie sah, wie Leslie von 8 bis 9 Uhr morgens Kekse in einer Bäckerei kaufte.
+Jason sah, wie Leslie von 9 bis 10 Uhr ein Fahrrad im Fahrradladen kaufte.
+Samantha sah, wie Leslie von 10 bis 15 Uhr in der Nähe des Eiffelturms Fotos machte.
+Linda sah, wie Leslie von 18 bis 20 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Orchestersaal wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Leslie in den Orchestersaal gegangen sein?
+Optionen:
+(A) 15:00 bis 18:00 Uhr
+(B) 9.00 bis 10.00 Uhr
+(C) 7 bis 8 Uhr
+(D) 10 bis 15 Uhr",(A)
+"Heute war Sarah im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 9 Uhr auf.
+Richard sah, wie Sarah von 9 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+Betty sah Sarah von 12 bis 13 Uhr am Bahnhof warten.
+Michael sah, wie Sarah von 13 bis 15 Uhr im Einkaufszentrum Kleidung kaufte.
+Jennifer sah Sarah von 15 bis 18 Uhr im Fitnessstudio trainieren.
+Hannah sah, wie Sarah von 18 bis 20 Uhr im Elektronikladen ein Telefon kaufte.
+Das Kunstatelier war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah ins Kunstatelier gegangen sein?
+Optionen:
+(A) 9.00 bis 12.00 Uhr
+(F) 15:00 bis 18:00 Uhr
+(C) 12 bis 13 Uhr
+(D) 20:00 bis 22:00 Uhr",(D)
+"Heute war Sarah im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 9 Uhr auf.
+William sah, wie Sarah von 9 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+Emily sah Sarah von 12 bis 13 Uhr am Flughafen warten.
+Jennifer sah, wie Sarah von 14 bis 17 Uhr in der Nähe des Eiffelturms Fotos machte.
+Jason sah Sarah von 17 bis 18 Uhr zum Wasserpark fahren.
+Das Bekleidungsgeschäft war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 13:00 bis 14:00 Uhr
+(B) 17:00 bis 18:00 Uhr
+(C) 9.00 bis 12.00 Uhr
+(D) 12 bis 13 Uhr",(A)
+"Heute ging Richard in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Richard wachte um 7 Uhr auf.
+David sah Richard von 10 bis 11 Uhr in der Bibliothek lesen.
+Samantha sah Richard von 11 bis 14 Uhr auf einem Dach sitzen.
+Ashley sah Richard von 14 bis 16 Uhr im Büro arbeiten.
+Hannah sah, wie Richard von 16:00 bis 20:00 Uhr im Elektronikladen ihren Computer reparierte.
+Der Physikunterricht war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Richard in den Physikunterricht gegangen sein?
+Optionen:
+(A) 7.00 bis 10.00 Uhr
+(F) 14:00 bis 16:00 Uhr
+(C) 11 bis 14 Uhr
+(D) 16:00 bis 20:00 Uhr",(A)
+"Heute ist Hannah in den Park gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 11 Uhr auf.
+Michael sah Hannah von 11 bis 15 Uhr im Café einen Kaffee trinken.
+James sah, wie Hannah von 15 bis 16 Uhr im Einkaufszentrum Kleidung kaufte.
+Hannah sah Hannah von 18 bis 20 Uhr im Garten spazieren gehen.
+Lisa sah Hannah von 20 bis 21 Uhr auf einem Dach sitzen.
+Tiffany sah Hannah von 21 bis 22 Uhr am Bahnhof warten.
+Der Park wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Hannah in den Park gegangen sein?
+Optionen:
+(A) 16:00 bis 18:00 Uhr
+(F) 18:00 bis 20:00 Uhr
+(C) 20:00 bis 21:00 Uhr
+(D) 15:00 bis 16:00 Uhr",(A)
+"Heute war Betty zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Betty wachte um 8 Uhr auf.
+Elizabeth sah, wie Betty von 8 bis 10 Uhr im Feinkostladen das Mittagessen kaufte.
+Tiffany sah, wie Betty von 10 bis 13 Uhr im Elektronikladen ihren Computer reparierte.
+Susan sah, wie Betty von 13 bis 14 Uhr in der Nähe des Eiffelturms Fotos machte.
+Betty sah, wie Betty von 19 bis 22 Uhr im Café einen Kaffee trank.
+Die Kunstausstellung wurde nach 22 Uhr geschlossen.
+Wann könnte Betty zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 14:00 bis 19:00 Uhr
+(B) 19:00 bis 22:00 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 13:00 bis 14:00 Uhr",(A)
+"Heute war Leslie im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 5 Uhr morgens auf.
+Richard sah, wie Leslie von 5 bis 7 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Jason sah Leslie von 11 bis 18 Uhr am Flughafen warten.
+David sah, wie Leslie von 18 bis 22 Uhr den Unterricht in der Schule besuchte.
+Das Bekleidungsgeschäft war nach 22 Uhr geschlossen.
+Wann könnte Leslie zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 11 bis 18 Uhr
+(B) 5 bis 7 Uhr
+(C) 7.00 bis 11.00 Uhr
+(D) 18:00 bis 22:00 Uhr",(C)
+"Heute ging Sean in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 5 Uhr morgens auf.
+Sarah sah, wie Sean von 5 bis 6 Uhr morgens im Elektronikladen ihren Computer reparierte.
+Ashley sah, wie Sean von 6 bis 7 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Jessica sah Sean von 7 bis 9 Uhr morgens auf einem Dach sitzen.
+Steven sah Sean zwischen 17 und 20 Uhr auf die Freiheitsstatue zulaufen.
+Michael sah Sean von 20 bis 21 Uhr in der Bibliothek lesen.
+Der Orchestersaal wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean in den Orchestersaal gegangen sein?
+Optionen:
+(A) 9.00 bis 17.00 Uhr
+(F) 5 bis 6 Uhr
+(C) 6 bis 7 Uhr
+(D) 20:00 bis 21:00 Uhr",(A)
+"Heute ging Jessica auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 5 Uhr morgens auf.
+Michael sah, wie Jessica von 5 bis 6 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Steven sah, wie Jessica von 6 bis 7 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Sean sah Jessica von 7 bis 14 Uhr am Bahnhof warten.
+Elizabeth sah, wie Jessica von 14 bis 18 Uhr in der Nähe des Eiffelturms Fotos machte.
+Sarah sah Jessica zwischen 18 und 21 Uhr auf die Freiheitsstatue zulaufen.
+Der Basketballplatz war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 18:00 bis 21:00 Uhr
+(F) 5 bis 6 Uhr
+(C) 21:00 bis 22:00 Uhr
+(D) 14:00 bis 18:00 Uhr",(C)
+"Heute ist Jessica an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 5 Uhr morgens auf.
+Emily sah, wie Jessica von 5 bis 8 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Thomas sah, wie Jessica von 8 bis 9 Uhr morgens in der Nähe des Eiffelturms Fotos machte.
+Richard sah, wie Jessica von 12 bis 15 Uhr im Elektronikladen ihren Computer reparierte.
+Kimberly sah, wie Jessica sich von 15 bis 19 Uhr einen Film im Kino ansah.
+Sarah sah, wie Jessica von 19 bis 22 Uhr zum Wasserpark fuhr.
+Der Strand war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica an den Strand gegangen sein?
+Optionen:
+(A) 8 bis 9 Uhr
+(B) 12:00 bis 15:00 Uhr
+(C) 9.00 bis 12.00 Uhr
+(D) 5 bis 8 Uhr",(C)
+"Heute war Lisa auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Lisa wachte um 6 Uhr auf.
+Emily sah Lisa von 8 bis 10 Uhr am Flughafen warten.
+David sah, wie Lisa von 10 bis 13 Uhr am Unterricht in der Schule teilnahm.
+Linda sah, wie Lisa von 13.00 bis 15.00 Uhr im Elektronikladen ihren Computer reparierte.
+Hannah sah Lisa von 15 bis 20 Uhr im Café einen Kaffee trinken.
+William sah, wie Lisa von 20 bis 22 Uhr im Einkaufszentrum Kleidung kaufte.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Lisa auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 13:00 bis 15:00 Uhr
+(B) 6 bis 8 Uhr
+(C) 10 bis 13 Uhr
+(D) 20:00 bis 22:00 Uhr",(B)
+"Heute ist Ashley in die Buchhandlung gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+Jason sah, wie Ashley von 11 bis 13 Uhr im Feinkostladen das Mittagessen kaufte.
+Emily sah Ashley von 13.00 bis 15.00 Uhr zum Wasserpark fahren.
+Kimberly sah Ashley von 15 bis 18 Uhr in einem Yoga-Studio Dehnübungen machen.
+Der Buchladen war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley in die Buchhandlung gegangen sein?
+Optionen:
+(A) 13:00 bis 15:00 Uhr
+(B) 11 bis 13 Uhr
+(C) 15:00 bis 18:00 Uhr
+(D) 5:00 bis 11:00 Uhr",(D)
+"Heute ist Tiffany auf den Markt gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Tiffany wachte um 6 Uhr morgens auf.
+Sarah sah Tiffany von 6 bis 9 Uhr morgens in der Bibliothek lesen.
+Betty sah Tiffany von 9 bis 10 Uhr zum Wasserpark fahren.
+Linda sah, wie Tiffany von 12 bis 18 Uhr im Elektronikladen ein Telefon kaufte.
+Mary sah Tiffany von 18 bis 22 Uhr im Fitnessstudio trainieren.
+Der Markt war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Tiffany auf den Markt gegangen sein?
+Optionen:
+(A) 6 bis 9 Uhr
+(B) 10 bis 12 Uhr
+(C) 18:00 bis 22:00 Uhr
+(D) 12 bis 18 Uhr",(B)
+"Heute war Betty in der Buchhandlung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Betty wachte um 8 Uhr auf.
+Nancy sah Betty von 8 bis 10 Uhr am Flughafen warten.
+Tiffany sah, wie Betty von 10 bis 14 Uhr in einem Yoga-Studio Dehnübungen machte.
+James sah Betty von 14 bis 16 Uhr in der Bibliothek lesen.
+Steven sah, wie Betty von 16 bis 17 Uhr im Fahrradladen ein Fahrrad kaufte.
+Mary sah, wie Betty von 17 bis 18 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Buchladen war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Betty in die Buchhandlung gegangen sein?
+Optionen:
+(A) 14:00 bis 16:00 Uhr
+(B) 10 bis 14 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 18:00 bis 20:00 Uhr",(D)
+"Heute ist Linda an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Linda wachte um 10 Uhr auf.
+Elizabeth sah Linda von 10 bis 12 Uhr am Bahnhof warten.
+David sah Linda von 14 bis 16 Uhr im Büro arbeiten.
+Sarah sah Linda von 16 bis 17 Uhr am Flughafen warten.
+Ashley sah, wie Linda von 17:00 bis 21:00 Uhr den Unterricht in der Schule besuchte.
+Betty sah Linda von 21 bis 22 Uhr im Garten spazieren gehen.
+Der Strand war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Linda an den Strand gegangen sein?
+Optionen:
+(A) 12 bis 14 Uhr
+(B) 10 bis 12 Uhr
+(C) 14:00 bis 16:00 Uhr
+(D) 16:00 bis 17:00 Uhr",(A)
+"Heute ging William ins Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 6 Uhr morgens auf.
+William sah, wie William von 6 bis 7 Uhr morgens im Fitnessstudio trainierte.
+Sean sah, wie William von 9 bis 12 Uhr in der Nähe des Eiffelturms Fotos machte.
+Susan sah William von 12 bis 20 Uhr im Büro arbeiten.
+Nancy sah, wie William von 20 bis 22 Uhr im Fahrradladen ein Fahrrad kaufte.
+Das Kunstatelier war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Kunstatelier gegangen sein?
+Optionen:
+(A) 20:00 bis 22:00 Uhr
+(F) 9.00 bis 12.00 Uhr
+(C) 6 bis 7 Uhr
+(D) 7.00 bis 9.00 Uhr",(D)
+"Heute ging Andrew ins Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 8 Uhr auf.
+Richard sah, wie Andrew von 8 bis 10 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Samantha sah, wie Andrew von 10 bis 14 Uhr im Elektronikladen ihren Computer reparierte.
+Michael sah Andrew von 15 bis 16 Uhr in der Bibliothek lesen.
+Sarah sah, wie Andrew von 16 bis 18 Uhr im Feinkostladen das Mittagessen kaufte.
+Das Kunstatelier war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew ins Kunstatelier gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 16:00 bis 18:00 Uhr
+(D) 15:00 bis 16:00 Uhr",(B)
+"Heute ging Sean zum Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 5 Uhr morgens auf.
+James sah, wie Sean von 5 bis 6 Uhr morgens einen Film im Kino sah.
+David sah, wie Sean von 6 bis 7 Uhr morgens Kekse in einer Bäckerei kaufte.
+Sarah sah, wie Sean von 7 bis 9 Uhr morgens im Fitnessstudio trainierte.
+William sah, wie Sean von 11 bis 14 Uhr am Unterricht in der Schule teilnahm.
+Richard sah Sean zwischen 14 und 16 Uhr in der Nähe des Schiefen Turms von Pisa fotografieren.
+Der Basketballplatz wurde nach 16 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 9.00 bis 11.00 Uhr
+(F) 14:00 bis 16:00 Uhr
+(C) 6 bis 7 Uhr
+(D) 11 bis 14 Uhr",(A)
+"Heute ging David zur Tankstelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 7 Uhr morgens auf.
+Michael sah David von 7 bis 12 Uhr am Bahnhof warten.
+Thomas sah David von 12 bis 14 Uhr auf einem Dach sitzen.
+Tiffany sah David von 14 bis 15 Uhr im Café einen Kaffee trinken.
+James sah, wie David von 15 bis 17 Uhr im Elektronikladen ihren Computer reparierte.
+Mark sah David von 17 bis 18 Uhr in der Bibliothek lesen.
+Die Tankstelle war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David zur Tankstelle gegangen sein?
+Optionen:
+(A) 14:00 bis 15:00 Uhr
+(F) 18:00 bis 20:00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 7:00 bis 12:00 Uhr",(B)
+"Heute war Samantha in der Bäckerei. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 5 Uhr morgens auf.
+Sarah sah, wie Samantha von 5 bis 6 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Richard sah Samantha von 6 bis 12 Uhr am Flughafen warten.
+John sah, wie Samantha von 12 bis 14 Uhr im Einkaufszentrum Kleidung kaufte.
+Anthony sah Samantha von 14 bis 15 Uhr auf einem Dach sitzen.
+Die Bäckerei war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha zum Bäcker gegangen sein?
+Optionen:
+(A) 6:00 bis 12:00 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 5 bis 6 Uhr
+(D) 15:00 bis 21:00 Uhr",(D)
+"Heute ging William ins Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 9 Uhr auf.
+Linda sah William von 9 bis 11 Uhr auf dem Tennisplatz Tennis spielen.
+Emily sah, wie William von 11 bis 13 Uhr am Unterricht in der Schule teilnahm.
+Nancy sah William von 18 bis 19 Uhr im Garten spazieren gehen.
+Das Café war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Café gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(F) 9.00 bis 11.00 Uhr
+(C) 11 bis 13 Uhr
+(D) 13:00 bis 18:00 Uhr",(D)
+"Heute ist Hannah an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 5 Uhr morgens auf.
+Richard sah Hannah von 5 bis 7 Uhr morgens auf einem Dach sitzen.
+Ashley sah, wie Hannah von 9 bis 19 Uhr im Café einen Kaffee trank.
+Jennifer sah, wie Hannah von 19 bis 20 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Strand war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Hannah an den Strand gegangen sein?
+Optionen:
+(A) 19:00 bis 20:00 Uhr
+(B) 7.00 bis 9.00 Uhr
+(C) 9 bis 19 Uhr
+(D) 5 bis 7 Uhr",(B)
+"Heute ist Richard ins Café gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Richard wachte um 10 Uhr auf.
+Jason sah Richard von 10 bis 12 Uhr am Bahnhof warten.
+Sean sah Richard von 12 bis 15 Uhr im Garten spazieren gehen.
+David sah, wie Richard von 15 bis 17 Uhr im Elektronikladen ihren Computer reparierte.
+Das Café war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Richard ins Café gegangen sein?
+Optionen:
+(A) 17:00 bis 19:00 Uhr
+(F) 15:00 bis 17:00 Uhr
+(C) 12 bis 15 Uhr
+(D) 10 bis 12 Uhr",(A)
+"Heute war Sarah beim Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 9 Uhr auf.
+John sah Sarah von 10 bis 12 Uhr im Café einen Kaffee trinken.
+Thomas sah, wie Sarah von 12 bis 16 Uhr im Feinkostladen das Mittagessen kaufte.
+Richard sah Sarah von 16 bis 17 Uhr zum Wasserpark fahren.
+Die Bäckerei war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zum Bäcker gegangen sein?
+Optionen:
+(A) 16:00 bis 17:00 Uhr
+(B) 12 bis 16 Uhr
+(C) 9.00 bis 10.00 Uhr
+(D) 10 bis 12 Uhr",(C)
+"Heute ging Samantha ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 6 Uhr morgens auf.
+James sah, wie Samantha von 6 bis 13 Uhr im Feinkostladen das Mittagessen kaufte.
+Emily sah Samantha von 13.00 bis 14.00 Uhr auf dem Tennisplatz Tennis spielen.
+Kimberly sah Samantha von 16 bis 17 Uhr im Fitnessstudio trainieren.
+Das Schwimmbad war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha ins Schwimmbad gegangen sein?
+Optionen:
+(A) 16:00 bis 17:00 Uhr
+(F) 14:00 bis 16:00 Uhr
+(C) 6 bis 13 Uhr
+(D) 13:00 bis 14:00 Uhr",(B)
+"Heute war Ashley im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 7 Uhr morgens auf.
+Kimberly sah Ashley von 7 bis 8 Uhr morgens zum Wasserpark fahren.
+Lisa sah, wie Ashley von 8 bis 10 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Hannah sah, wie Ashley von 10 bis 15 Uhr in der Nähe des Eiffelturms Fotos machte.
+Jessica sah Ashley von 15 bis 16 Uhr im Garten spazieren gehen.
+William sah Ashley von 16 bis 19 Uhr im Café einen Kaffee trinken.
+Der Vergnügungspark war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 7 bis 8 Uhr
+(B) 8.00 bis 10.00 Uhr
+(C) 16:00 bis 19:00 Uhr
+(D) 19:00 bis 21:00 Uhr",(D)
+"Heute ging David zur Tankstelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+Jennifer sah, wie David von 7 bis 9 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Kimberly sah, wie David von 9 bis 15 Uhr im Fahrradladen ein Fahrrad kaufte.
+Linda sah David von 15 bis 21 Uhr auf die Freiheitsstatue zulaufen.
+Die Tankstelle war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David zur Tankstelle gegangen sein?
+Optionen:
+(A) 5 bis 7 Uhr
+(B) 7.00 bis 9.00 Uhr
+(C) 15:00 bis 21:00 Uhr
+(D) 9.00 bis 15.00 Uhr",(A)
+"Heute war David im Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+Betty sah David von 5 bis 8 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Anthony sah David von 8 bis 11 Uhr auf die Freiheitsstatue zulaufen.
+Lisa sah, wie David von 12 bis 17 Uhr in der Nähe des Eiffelturms Fotos machte.
+Das Tanzstudio war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David ins Tanzstudio gegangen sein?
+Optionen:
+(A) 12 bis 17 Uhr
+(F) 11 bis 12 Uhr
+(C) 5 bis 8 Uhr
+(D) 8.00 bis 11.00 Uhr",(B)
+"Heute ging Anthony in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 6 Uhr morgens auf.
+Samantha sah, wie Anthony von 6 bis 12 Uhr in einem Yoga-Studio Dehnübungen machte.
+Nancy sah, wie Anthony von 12 bis 14 Uhr zum Wasserpark fuhr.
+David sah, wie Anthony sich von 14 bis 15 Uhr einen Film im Kino ansah.
+William sah, wie Anthony von 17:00 bis 18:00 Uhr im Elektronikladen seinen Computer reparierte.
+Sarah sah Anthony von 18 bis 19 Uhr in der Bibliothek lesen.
+Der Orchestersaal wurde nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony in den Orchestersaal gegangen sein?
+Optionen:
+(A) 12 bis 14 Uhr
+(F) 18:00 bis 19:00 Uhr
+(C) 15:00 bis 17:00 Uhr
+(D) 14:00 bis 15:00 Uhr",(C)
+"Heute ging James ins Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 7 Uhr morgens auf.
+Thomas sah, wie James von 7 bis 12 Uhr in der Nähe des Eiffelturms Fotos machte.
+Mark sah, wie James von 12 bis 14 Uhr zum Wasserpark fuhr.
+Anthony sah, wie James von 14 bis 16 Uhr im Elektronikladen ein Telefon kaufte.
+Sarah sah, wie James von 17:00 bis 18:00 Uhr im Feinkostladen das Mittagessen kaufte.
+Das Tanzstudio war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James ins Tanzstudio gegangen sein?
+Optionen:
+(A) 14:00 bis 16:00 Uhr
+(B) 7:00 bis 12:00 Uhr
+(C) 16:00 bis 17:00 Uhr
+(D) 12 bis 14 Uhr",(C)
+"Heute war David im Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 8 Uhr auf.
+Elizabeth sah David von 10 bis 13 Uhr am Flughafen warten.
+David sah David von 13.00 bis 14.00 Uhr auf dem Tennisplatz Tennis spielen.
+Jessica sah, wie David von 14 bis 15 Uhr im Fitnessstudio trainierte.
+Susan sah David von 15 bis 16 Uhr am Bahnhof warten.
+Sean sah David von 16 bis 18 Uhr auf einem Dach sitzen.
+Das Café war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David ins Café gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(F) 10 bis 13 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 13:00 bis 14:00 Uhr",(C)
+"Heute ging Andrew ins Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 8 Uhr auf.
+Elizabeth sah, wie Andrew von 11 bis 15 Uhr im Elektronikladen ihren Computer reparierte.
+Jennifer sah, wie Andrew von 15 bis 16 Uhr im Fahrradladen ein Fahrrad kaufte.
+Anthony sah, wie Andrew von 16 bis 18 Uhr Kekse in einer Bäckerei kaufte.
+Betty sah, wie Andrew von 18 bis 20 Uhr einen Film im Kino sah.
+Das Café war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew ins Café gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(F) 18:00 bis 20:00 Uhr
+(C) 8.00 bis 11.00 Uhr
+(D) 11 bis 15 Uhr",(C)
+"Heute war Susan im Park. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 7 Uhr morgens auf.
+Mary sah, wie Susan von 13.00 bis 14.00 Uhr im Elektronikladen ihren Computer reparierte.
+Michael sah Susan von 14 bis 15 Uhr im Café einen Kaffee trinken.
+Richard sah Susan von 15 bis 17 Uhr am Bahnhof warten.
+Linda sah, wie Susan von 17 bis 18 Uhr in der Nähe des Eiffelturms Fotos machte.
+Der Park wurde nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan in den Park gegangen sein?
+Optionen:
+(A) 17:00 bis 18:00 Uhr
+(F) 15:00 bis 17:00 Uhr
+(C) 7 bis 13 Uhr
+(D) 14:00 bis 15:00 Uhr",(C)
+"Heute war Betty in der Buchhandlung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Betty wachte um 6 Uhr auf.
+Ashley sah, wie Betty von 6 bis 7 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Anthony sah, wie Betty von 8 bis 17 Uhr Kekse in einer Bäckerei kaufte.
+Thomas sah Betty von 17 bis 20 Uhr am Bahnhof warten.
+Der Buchladen war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Betty in die Buchhandlung gegangen sein?
+Optionen:
+(A) 7 bis 8 Uhr
+(B) 6 bis 7 Uhr
+(C) 8.00 bis 17.00 Uhr
+(D) 17:00 bis 20:00 Uhr",(A)
+"Heute war David im Museum. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 8 Uhr auf.
+Steven sah David von 10 bis 11 Uhr auf dem Tennisplatz Tennis spielen.
+James sah, wie David von 11 bis 16 Uhr in einem Yoga-Studio Dehnübungen machte.
+Nancy sah David von 16 bis 17 Uhr im Fitnessstudio trainieren.
+Richard sah, wie David von 17 bis 18 Uhr im Feinkostladen das Mittagessen kaufte.
+Das Museum war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David ins Museum gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(B) 11 bis 16 Uhr
+(C) 10 bis 11 Uhr
+(D) 17:00 bis 18:00 Uhr",(A)
+"Heute war Sean im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 11 Uhr auf.
+Leslie sah Sean von 11 bis 13 Uhr am Bahnhof warten.
+William sah, wie Sean von 13 bis 15 Uhr im Einkaufszentrum Kleidung kaufte.
+Jennifer sah Sean von 18 bis 20 Uhr auf einem Dach sitzen.
+Der Vergnügungspark war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 18:00 bis 20:00 Uhr
+(B) 13:00 bis 15:00 Uhr
+(C) 11 bis 13 Uhr
+(D) 15:00 bis 18:00 Uhr",(D)
+"Heute ging Michael in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 5 Uhr morgens auf.
+Samantha sah, wie Michael von 5 bis 8 Uhr morgens im Feinkostladen das Mittagessen kaufte.
+Jennifer sah, wie Michael von 8 bis 9 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Andrew sah, wie Michael von 13 bis 22 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Physikunterricht war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael in den Physikunterricht gegangen sein?
+Optionen:
+(A) 9.00 bis 13.00 Uhr
+(B) 13:00 bis 22:00 Uhr
+(C) 5 bis 8 Uhr
+(D) 8 bis 9 Uhr",(A)
+"Heute war Jessica im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 15 Uhr auf.
+Mary sah Jessica von 15 bis 16 Uhr zum Wasserpark fahren.
+Lisa sah, wie Jessica zwischen 16 und 17 Uhr auf die Freiheitsstatue zuging.
+Leslie sah, wie Jessica von 19 bis 22 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Das Restaurant war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica ins Restaurant gegangen sein?
+Optionen:
+(A) 19:00 bis 22:00 Uhr
+(F) 16:00 bis 17:00 Uhr
+(C) 15 bis 16 Uhr
+(D) 17:00 bis 19:00 Uhr",(D)
+"Heute war Mark im Buchladen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mark wachte um 5 Uhr morgens auf.
+Mary sah Mark von 5 bis 10 Uhr morgens in einem Yoga-Studio Dehnübungen machen.
+Betty sah Mark von 10 bis 17 Uhr am Unterricht in der Schule teilnehmen.
+Emily sah Mark von 17 bis 20 Uhr auf einem Dach sitzen.
+Jessica sah Mark von 21 bis 22 Uhr im Garten spazieren gehen.
+Der Buchladen war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Mark in die Buchhandlung gegangen sein?
+Optionen:
+(A) 20:00 bis 21:00 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 17:00 bis 20:00 Uhr
+(D) 10 bis 17 Uhr",(A)
+"Heute war Lisa beim Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Lisa wachte um 5 Uhr morgens auf.
+Sean sah Lisa von 5 bis 10 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Thomas sah, wie Lisa von 10 bis 11 Uhr im Elektronikladen ihren Computer reparierte.
+William sah Lisa von 15 bis 20 Uhr im Kino einen Film schauen.
+John sah Lisa von 20 bis 22 Uhr im Garten spazieren gehen.
+Die Bäckerei war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Lisa zum Bäcker gegangen sein?
+Optionen:
+(A) 10 bis 11 Uhr
+(B) 5 bis 10 Uhr
+(C) 11 bis 15 Uhr
+(D) 20:00 bis 22:00 Uhr",(C)
+"Heute war Thomas im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 6 Uhr auf.
+James sah Thomas von 6 bis 9 Uhr morgens im Garten spazieren gehen.
+Andrew sah, wie Thomas von 12 bis 19 Uhr im Feinkostladen das Mittagessen kaufte.
+Sarah sah, wie Thomas sich von 19 bis 20 Uhr einen Film im Kino ansah.
+Das Bekleidungsgeschäft war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 19:00 bis 20:00 Uhr
+(F) 9.00 bis 12.00 Uhr
+(C) 6 bis 9 Uhr
+(D) 12 bis 19 Uhr",(B)
+"Heute ist Leslie ins Schwimmbad gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 5 Uhr morgens auf.
+Sarah sah Leslie von 5 bis 8 Uhr morgens auf einem Dach sitzen.
+William sah Leslie von 8 bis 12 Uhr auf die Freiheitsstatue zulaufen.
+Susan sah, wie Leslie von 12 bis 14 Uhr in einem Yoga-Studio Dehnübungen machte.
+John sah Leslie von 16 bis 18 Uhr im Büro arbeiten.
+Emily sah Leslie von 18 bis 22 Uhr im Café einen Kaffee trinken.
+Das Schwimmbad war nach 22 Uhr geschlossen.
+Wann könnte Leslie ins Schwimmbad gegangen sein?
+Optionen:
+(A) 18:00 bis 22:00 Uhr
+(F) 14:00 bis 16:00 Uhr
+(C) 5 bis 8 Uhr
+(D) 8.00 bis 12.00 Uhr",(B)
+"Heute war Tiffany im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Tiffany wachte um 6 Uhr morgens auf.
+Michael sah, wie Tiffany von 12 bis 17 Uhr im Feinkostladen das Mittagessen kaufte.
+Andrew sah Tiffany von 17:00 bis 18:00 Uhr auf dem Tennisplatz Tennis spielen.
+John sah Tiffany von 18 bis 20 Uhr zum Wasserpark fahren.
+Sarah sah, wie Tiffany von 20 bis 22 Uhr einen Film im Kino sah.
+Das Bekleidungsgeschäft war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Tiffany zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 17:00 bis 18:00 Uhr
+(F) 18:00 bis 20:00 Uhr
+(C) 6:00 bis 12:00 Uhr
+(D) 20:00 bis 22:00 Uhr",(C)
+"Heute ging William in die Buchhandlung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 7 Uhr morgens auf.
+Tiffany sah, wie William von 7 bis 8 Uhr morgens im Fitnessstudio trainierte.
+Sean sah, wie William von 12 bis 13 Uhr zum Wasserpark fuhr.
+Anthony sah William von 13.00 bis 15.00 Uhr am Bahnhof warten.
+James sah, wie William von 15 bis 17 Uhr in der Nähe des Eiffelturms Fotos machte.
+Jessica sah William von 17 bis 19 Uhr im Büro arbeiten.
+Der Buchladen war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William in die Buchhandlung gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(B) 13:00 bis 15:00 Uhr
+(C) 15:00 bis 17:00 Uhr
+(D) 8.00 bis 12.00 Uhr",(D)
+"Heute ist Leslie an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 7 Uhr morgens auf.
+Ashley sah, wie Leslie von 7 bis 9 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Andrew sah Leslie von 9 bis 11 Uhr auf dem Tennisplatz Tennis spielen.
+Jason sah Leslie von 11 bis 16 Uhr auf die Freiheitsstatue zulaufen.
+Der Strand war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Leslie an den Strand gegangen sein?
+Optionen:
+(A) 9.00 bis 11.00 Uhr
+(F) 16:00 bis 20:00 Uhr
+(C) 7.00 bis 9.00 Uhr
+(D) 11 bis 16 Uhr",(B)
+"Heute ging Thomas in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 6 Uhr auf.
+Mary sah Thomas von 12 bis 13 Uhr auf dem Tennisplatz Tennis spielen.
+Linda sah Thomas von 13 bis 15 Uhr auf einem Dach sitzen.
+Jason sah Thomas von 15 bis 19 Uhr im Fitnessstudio trainieren.
+Michael sah, wie Thomas von 19 bis 22 Uhr im Fahrradladen ein Fahrrad kaufte.
+Der Physikunterricht war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas in den Physikunterricht gegangen sein?
+Optionen:
+(A) 6:00 bis 12:00 Uhr
+(F) 12 bis 13 Uhr
+(C) 15:00 bis 19:00 Uhr
+(D) 19:00 bis 22:00 Uhr",(A)
+"Heute ist Emily zum Bäcker gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 5 Uhr morgens auf.
+Nancy sah Emily von 6 bis 7 Uhr morgens auf einem Dach sitzen.
+Betty sah Emily von 7 bis 8 Uhr morgens in der Bibliothek lesen.
+Jason sah, wie Emily von 8 bis 18 Uhr im Feinkostladen das Mittagessen kaufte.
+David sah, wie Emily von 18 bis 19 Uhr den Unterricht in der Schule besuchte.
+Samantha sah, wie Emily von 19 bis 22 Uhr zum Wasserpark fuhr.
+Die Bäckerei war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily zum Bäcker gegangen sein?
+Optionen:
+(A) 5 bis 6 Uhr
+(B) 8.00 bis 18.00 Uhr
+(C) 18:00 bis 19:00 Uhr
+(D) 7 bis 8 Uhr",(A)
+"Heute war Emily auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 8 Uhr auf.
+Emily sah, wie Emily von 9 bis 10 Uhr in der Nähe des Eiffelturms Fotos machte.
+Andrew sah, wie Emily von 10 bis 11 Uhr im Einkaufszentrum Kleidung kaufte.
+Leslie sah Emily von 11 bis 13 Uhr auf einem Dach sitzen.
+Linda sah Emily von 13 bis 16 Uhr im Büro arbeiten.
+William sah, wie Emily von 16 bis 22 Uhr im Fahrradladen ein Fahrrad kaufte.
+Die Baustelle wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily auf die Baustelle gegangen sein?
+Optionen:
+(A) 10 bis 11 Uhr
+(B) 9.00 bis 10.00 Uhr
+(C) 8 bis 9 Uhr
+(D) 16:00 bis 22:00 Uhr",(C)
+"Heute ging David ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 9 Uhr auf.
+Kimberly sah, wie David von 9 bis 10 Uhr im Fitnessstudio trainierte.
+Michael sah, wie David von 11 bis 12 Uhr einen Film im Kino sah.
+Jennifer sah, wie David von 12 bis 13 Uhr am Unterricht in der Schule teilnahm.
+Jason sah, wie David von 13 bis 14 Uhr im Elektronikladen ein Telefon kaufte.
+William sah David von 14 bis 22 Uhr auf einem Dach sitzen.
+Das Schwimmbad war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David ins Schwimmbad gegangen sein?
+Optionen:
+(A) 10 bis 11 Uhr
+(F) 12 bis 13 Uhr
+(C) 14:00 bis 22:00 Uhr
+(D) 9.00 bis 10.00 Uhr",(A)
+"Heute war Michael auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 10 Uhr auf.
+John sah, wie Michael von 12 bis 14 Uhr in der Nähe des Eiffelturms Fotos machte.
+Samantha sah, wie Michael von 14 bis 16 Uhr einen Film im Kino sah.
+Thomas sah Michael von 16 bis 20 Uhr auf einem Dach sitzen.
+Der Fußballplatz wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 12 bis 14 Uhr
+(B) 10 bis 12 Uhr
+(C) 14:00 bis 16:00 Uhr
+(D) 16:00 bis 20:00 Uhr",(B)
+"Heute war Richard im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Richard wachte um 5 Uhr morgens auf.
+Mary sah, wie Richard von 11 bis 18 Uhr im Elektronikladen ein Telefon kaufte.
+Leslie sah, wie Richard von 18 bis 20 Uhr im Fitnessstudio trainierte.
+Kimberly sah, wie Richard von 20 bis 21 Uhr den Unterricht in der Schule besuchte.
+Nancy sah, wie Richard von 21 bis 22 Uhr Kekse in einer Bäckerei kaufte.
+Der Vergnügungspark war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Richard in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 18:00 bis 20:00 Uhr
+(F) 5:00 bis 11:00 Uhr
+(C) 11 bis 18 Uhr
+(D) 20:00 bis 21:00 Uhr",(B)
+"Heute ist Richard zum Bäcker gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Richard wachte um 8 Uhr auf.
+Betty sah Richard von 9 bis 14 Uhr in der Bibliothek lesen.
+David sah, wie Richard von 14 bis 16 Uhr im Elektronikladen seinen Computer reparierte.
+Mary sah, wie Richard zwischen 16 und 17 Uhr in der Nähe des Eiffelturms Fotos machte.
+Hannah sah Richard von 17 bis 18 Uhr auf einem Dach sitzen.
+Susan sah Richard von 18 bis 19 Uhr zum Wasserpark fahren.
+Die Bäckerei war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Richard zum Bäcker gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(B) 9.00 bis 14.00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 8 bis 9 Uhr",(D)
+"Heute war Thomas zur Tankstelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 8 Uhr auf.
+Samantha sah, wie Thomas von 9 bis 12 Uhr in einem Yoga-Studio Dehnübungen machte.
+Thomas sah, wie Thomas von 12 bis 13 Uhr Kekse in einer Bäckerei kaufte.
+Kimberly sah Thomas von 13 bis 16 Uhr im Büro arbeiten.
+Andrew sah Thomas von 16 bis 17 Uhr am Bahnhof warten.
+Ashley sah, wie Thomas von 17 bis 20 Uhr im Einkaufszentrum Kleidung kaufte.
+Die Tankstelle war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas zur Tankstelle gegangen sein?
+Optionen:
+(A) 8 bis 9 Uhr
+(F) 12 bis 13 Uhr
+(C) 17:00 bis 20:00 Uhr
+(D) 13:00 bis 16:00 Uhr",(A)
+"Heute ist Nancy an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 6 Uhr morgens auf.
+John sah Nancy von 6 bis 10 Uhr morgens im Garten spazieren gehen.
+Tiffany sah Nancy von 10 bis 11 Uhr im Büro arbeiten.
+Leslie sah, wie Nancy von 11 bis 12 Uhr im Einkaufszentrum Kleidung kaufte.
+Michael sah, wie Nancy von 13 bis 18 Uhr Fotos in der Nähe des Schiefen Turms von Pisa machte.
+Der Strand war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy an den Strand gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(B) 10 bis 11 Uhr
+(C) 6 bis 10 Uhr
+(D) 13:00 bis 18:00 Uhr",(A)
+"Heute ging Andrew ins Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 8 Uhr auf.
+Thomas sah Andrew von 8 bis 11 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Mary sah Andrew von 11 bis 13 Uhr in der Bibliothek lesen.
+Michael sah, wie Andrew von 20:00 bis 22:00 Uhr im Elektronikladen ihren Computer reparierte.
+Das Tanzstudio war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew ins Tanzstudio gegangen sein?
+Optionen:
+(A) 20:00 bis 22:00 Uhr
+(B) 11 bis 13 Uhr
+(C) 8.00 bis 11.00 Uhr
+(D) 13:00 bis 20:00 Uhr",(D)
+"Heute ist Samantha ins Café gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 6 Uhr morgens auf.
+Richard sah, wie Samantha von 6 bis 10 Uhr morgens einen Film im Kino sah.
+Mark sah, wie Samantha von 10 bis 11 Uhr zum Wasserpark fuhr.
+John sah, wie Samantha von 11 bis 18 Uhr in einem Yoga-Studio Dehnübungen machte.
+Das Café war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha ins Café gegangen sein?
+Optionen:
+(A) 11 bis 18 Uhr
+(B) 10 bis 11 Uhr
+(C) 6 bis 10 Uhr
+(D) 18:00 bis 20:00 Uhr",(D)
+"Heute war Betty im Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Betty wachte um 7 Uhr auf.
+Samantha sah, wie Betty von 7 bis 9 Uhr morgens im Café einen Kaffee trank.
+Leslie sah Betty von 9 bis 14 Uhr am Flughafen warten.
+Susan sah Betty von 17 bis 18 Uhr im Büro arbeiten.
+Richard sah Betty von 18 bis 20 Uhr am Bahnhof warten.
+Das Tanzstudio war nach 20 Uhr geschlossen.
+Wann könnte Betty ins Tanzstudio gegangen sein?
+Optionen:
+(A) 14:00 bis 17:00 Uhr
+(B) 7.00 bis 9.00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 9:00 bis 14:00 Uhr",(A)
+"Heute war William zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 5 Uhr morgens auf.
+Betty sah, wie William von 8 bis 13 Uhr am Unterricht in der Schule teilnahm.
+Linda sah William von 13 bis 18 Uhr im Büro arbeiten.
+Kimberly sah, wie William von 18 bis 19 Uhr im Café einen Kaffee trank.
+Steven sah William von 19 bis 21 Uhr am Bahnhof warten.
+Die Kunstausstellung wurde nach 21 Uhr geschlossen.
+Wann könnte William zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 8 bis 13 Uhr
+(F) 18:00 bis 19:00 Uhr
+(C) 5 bis 8 Uhr
+(D) 13:00 bis 18:00 Uhr",(C)
+"Heute ging James zum Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 6 Uhr morgens auf.
+Kimberly sah, wie James von 6 bis 8 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Lisa sah James von 8 bis 14 Uhr in der Bibliothek lesen.
+Nancy sah James von 15 bis 18 Uhr auf dem Tennisplatz Tennis spielen.
+Das Bekleidungsgeschäft war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 6 bis 8 Uhr
+(F) 15:00 bis 18:00 Uhr
+(C) 8 bis 14 Uhr
+(D) 14:00 bis 15:00 Uhr",(D)
+"Heute ging Samantha ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 5 Uhr morgens auf.
+Thomas sah Samantha von 5 bis 8 Uhr morgens im Garten spazieren gehen.
+David sah, wie Samantha von 9 bis 10 Uhr in einem Yoga-Studio Dehnübungen machte.
+Nancy sah, wie Samantha von 10 bis 11 Uhr im Fahrradladen ein Fahrrad kaufte.
+Betty sah, wie Samantha von 11 bis 15 Uhr im Fitnessstudio trainierte.
+John sah, wie Samantha von 15 bis 17 Uhr Kekse in einer Bäckerei kaufte.
+Das Schwimmbad war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha ins Schwimmbad gegangen sein?
+Optionen:
+(A) 8 bis 9 Uhr
+(F) 5 bis 8 Uhr
+(C) 9.00 bis 10.00 Uhr
+(D) 11 bis 15 Uhr",(A)
+"Heute ging William ins Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 6 Uhr morgens auf.
+Susan sah William von 6 bis 9 Uhr morgens in der Bibliothek lesen.
+Linda sah William von 9 bis 15 Uhr am Flughafen warten.
+Mark sah William von 16 bis 18 Uhr auf dem Tennisplatz Tennis spielen.
+Samantha sah William von 18 bis 21 Uhr im Büro arbeiten.
+Ashley sah, wie William von 21 bis 22 Uhr im Fitnessstudio trainierte.
+Das Café war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Café gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(F) 16:00 bis 18:00 Uhr
+(C) 18:00 bis 21:00 Uhr
+(D) 9.00 bis 15.00 Uhr",(A)
+"Heute ist Kimberly auf den Markt gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Kimberly wachte um 5 Uhr morgens auf.
+Nancy sah, wie Kimberly von 5 bis 15 Uhr im Café einen Kaffee trank.
+Anthony sah, wie Kimberly von 15 bis 17 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Andrew sah, wie Kimberly von 17 bis 18 Uhr im Fahrradladen ein Fahrrad kaufte.
+Samantha sah, wie Kimberly von 18 bis 19 Uhr im Elektronikladen ihren Computer reparierte.
+Der Markt war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Kimberly auf den Markt gegangen sein?
+Optionen:
+(A) 15:00 bis 17:00 Uhr
+(B) 17:00 bis 18:00 Uhr
+(C) 19:00 bis 21:00 Uhr
+(D) 18:00 bis 19:00 Uhr",(C)
+"Heute war Susan im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 5 Uhr morgens auf.
+Anthony sah Susan von 5 bis 8 Uhr morgens am Bahnhof warten.
+James sah, wie Susan sich von 11 bis 17 Uhr einen Film im Kino ansah.
+Mary sah Susan von 17 bis 21 Uhr auf einem Dach sitzen.
+Der Vergnügungspark war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 8.00 bis 11.00 Uhr
+(F) 5 bis 8 Uhr
+(C) 17:00 bis 21:00 Uhr
+(D) 11 bis 17 Uhr",(A)
+"Heute ging James ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 12 Uhr auf.
+John sah, wie James zwischen 14 und 16 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+William sah, wie James von 16 bis 17 Uhr im Fahrradladen ein Fahrrad kaufte.
+Jennifer sah, wie James von 17 bis 20 Uhr im Café einen Kaffee trank.
+Das Schwimmbad war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James ins Schwimmbad gegangen sein?
+Optionen:
+(A) 16:00 bis 17:00 Uhr
+(B) 17:00 bis 20:00 Uhr
+(C) 12 bis 14 Uhr
+(D) 14:00 bis 16:00 Uhr",(C)
+"Heute ist Ashley ins Kunstatelier gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+Mary sah Ashley von 5 bis 6 Uhr morgens im Café einen Kaffee trinken.
+William sah, wie Ashley von 6 bis 16 Uhr im Elektronikladen ein Telefon kaufte.
+Jennifer sah, wie Ashley von 16 bis 17 Uhr im Fahrradladen ein Fahrrad kaufte.
+Anthony sah Ashley von 17 bis 18 Uhr am Bahnhof warten.
+Das Kunstatelier war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley ins Kunstatelier gegangen sein?
+Optionen:
+(A) 16:00 bis 17:00 Uhr
+(F) 6 bis 16 Uhr
+(C) 18:00 bis 20:00 Uhr
+(D) 5 bis 6 Uhr",(C)
+"Heute war Jennifer im Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 8 Uhr auf.
+Linda sah, wie Jennifer von 8 bis 10 Uhr in einer Bäckerei Kekse kaufte.
+William sah Jennifer von 10 bis 14 Uhr im Garten spazieren gehen.
+Tiffany sah Jennifer von 14 bis 18 Uhr am Bahnhof warten.
+Das Tanzstudio war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer ins Tanzstudio gegangen sein?
+Optionen:
+(A) 14:00 bis 18:00 Uhr
+(F) 18:00 bis 22:00 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 10 bis 14 Uhr",(B)
+"Heute ging James in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 8 Uhr auf.
+Emily sah, wie James von 8 bis 9 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Lisa sah, wie James von 9 bis 16 Uhr im Elektronikladen ein Telefon kaufte.
+Steven sah, wie James von 17 bis 18 Uhr zum Wasserpark fuhr.
+Der Physikunterricht war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James in den Physikunterricht gegangen sein?
+Optionen:
+(A) 8 bis 9 Uhr
+(B) 9.00 bis 16.00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 16:00 bis 17:00 Uhr",(D)
+"Heute ist Anthony zum Bäcker gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 6 Uhr morgens auf.
+John sah, wie Anthony von 6 bis 10 Uhr morgens im Fitnessstudio trainierte.
+Jennifer sah Anthony von 10 bis 12 Uhr auf die Freiheitsstatue zulaufen.
+Sarah sah, wie Anthony von 12 bis 13 Uhr im Feinkostladen das Mittagessen kaufte.
+Andrew sah, wie Anthony von 15 bis 17 Uhr im Fahrradladen ein Fahrrad kaufte.
+Die Bäckerei war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony zum Bäcker gegangen sein?
+Optionen:
+(A) 13:00 bis 15:00 Uhr
+(B) 10 bis 12 Uhr
+(C) 12 bis 13 Uhr
+(D) 15:00 bis 17:00 Uhr",(A)
+"Heute war Thomas auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 8 Uhr auf.
+David sah, wie Thomas von 8 bis 10 Uhr morgens im Elektronikladen seinen Computer reparierte.
+Jennifer sah, wie Thomas von 10 bis 12 Uhr im Feinkostladen das Mittagessen kaufte.
+Lisa sah, wie Thomas von 12 bis 14 Uhr auf die Freiheitsstatue zuging.
+Sarah sah, wie Thomas von 14 bis 17 Uhr im Elektronikladen ein Telefon kaufte.
+Kimberly sah, wie Thomas von 18 bis 21 Uhr im Fahrradladen ein Fahrrad kaufte.
+Der Fußballplatz wurde nach 21 Uhr geschlossen.
+Ab wann könnte Thomas auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 12 bis 14 Uhr
+(B) 8.00 bis 10.00 Uhr
+(C) 14:00 bis 17:00 Uhr
+(D) 17:00 bis 18:00 Uhr",(D)
+"Heute ging Jennifer auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 6 Uhr morgens auf.
+Thomas sah, wie Jennifer von 6 bis 9 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Samantha sah Jennifer von 9 bis 10 Uhr zum Wasserpark fahren.
+Steven sah, wie Jennifer von 10 bis 13 Uhr im Elektronikladen ihren Computer reparierte.
+Mark sah Jennifer von 15 bis 17 Uhr in einem Yoga-Studio Dehnübungen machen.
+Der Basketballplatz wurde nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 9.00 bis 10.00 Uhr
+(B) 6 bis 9 Uhr
+(C) 15:00 bis 17:00 Uhr
+(D) 13:00 bis 15:00 Uhr",(D)
+"Heute war Sarah zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 11 Uhr auf.
+Lisa sah Sarah von 11 bis 14 Uhr im Büro arbeiten.
+Hannah sah Sarah von 14 bis 16 Uhr in der Bibliothek lesen.
+Elizabeth sah, wie Sarah von 16 bis 19 Uhr im Elektronikladen ihren Computer reparierte.
+Die Kunstausstellung wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 11 bis 14 Uhr
+(F) 19:00 bis 21:00 Uhr
+(C) 14:00 bis 16:00 Uhr
+(D) 16:00 bis 19:00 Uhr",(B)
+"Heute war Susan im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 5 Uhr morgens auf.
+Kimberly sah Susan von 5 bis 6 Uhr morgens am Bahnhof warten.
+Lisa sah Susan von 6 bis 11 Uhr im Fitnessstudio trainieren.
+Betty sah Susan von 11 bis 12 Uhr in der Bibliothek lesen.
+Das Kunstatelier war nach 13 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan ins Kunstatelier gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(F) 11 bis 12 Uhr
+(C) 6:00 bis 11:00 Uhr
+(D) 5 bis 6 Uhr",(A)
+"Heute ging William ins Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 6 Uhr morgens auf.
+Anthony sah, wie William von 6 bis 7 Uhr morgens im Café einen Kaffee trank.
+John sah, wie William von 8 bis 10 Uhr morgens einen Film im Kino sah.
+Hannah sah William von 10 bis 12 Uhr am Bahnhof warten.
+Mark sah, wie William von 12 bis 13 Uhr auf die Freiheitsstatue zuging.
+William sah, wie William von 13 bis 18 Uhr im Fitnessstudio trainierte.
+Das Kunstatelier war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Kunstatelier gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(F) 7 bis 8 Uhr
+(C) 13 bis 18 Uhr
+(D) 12 bis 13 Uhr",(B)
+"Heute war Jessica im Buchladen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 6 Uhr morgens auf.
+Steven sah Jessica von 7 bis 14 Uhr im Fitnessstudio trainieren.
+Jason sah, wie Jessica von 14 bis 15 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Emily sah, wie Jessica von 15 bis 21 Uhr in der Nähe des Eiffelturms Fotos machte.
+Der Buchladen war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica in die Buchhandlung gegangen sein?
+Optionen:
+(A) 14:00 bis 15:00 Uhr
+(B) 6 bis 7 Uhr
+(C) 7:00 bis 14:00 Uhr
+(D) 15:00 bis 21:00 Uhr",(B)
+"Heute ging Kimberly auf den Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Kimberly wachte um 6 Uhr morgens auf.
+William sah, wie Kimberly von 6 bis 8 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Jason sah Kimberly von 8 bis 9 Uhr am Bahnhof warten.
+Tiffany sah Kimberly von 9 bis 13 Uhr auf die Freiheitsstatue zulaufen.
+Linda sah, wie Kimberly von 15 bis 20 Uhr in einem Yoga-Studio Dehnübungen machte.
+Sean sah Kimberly von 20 bis 21 Uhr zum Wasserpark fahren.
+Der Fußballplatz wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Kimberly auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 8 bis 9 Uhr
+(B) 9.00 bis 13.00 Uhr
+(C) 13.00 bis 15.00 Uhr
+(D) 20:00 bis 21:00 Uhr",(C)
+"Heute ist Elizabeth in den Park gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 10 Uhr auf.
+Emily sah, wie Elizabeth von 10 bis 11 Uhr im Fahrradladen ein Fahrrad kaufte.
+Leslie sah, wie Elizabeth von 11 bis 14 Uhr im Feinkostladen das Mittagessen kaufte.
+Sarah sah Elizabeth von 16 bis 20 Uhr auf dem Tennisplatz Tennis spielen.
+Der Park wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth in den Park gegangen sein?
+Optionen:
+(A) 10 bis 11 Uhr
+(B) 11 bis 14 Uhr
+(C) 16:00 bis 20:00 Uhr
+(D) 14:00 bis 16:00 Uhr",(D)
+"Heute ging James ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 10 Uhr auf.
+Richard sah, wie James von 10 bis 11 Uhr in der Nähe des Eiffelturms Fotos machte.
+Leslie sah James von 12 bis 14 Uhr am Flughafen warten.
+Ashley sah James von 14 bis 17 Uhr auf einem Dach sitzen.
+Thomas sah James von 17 bis 18 Uhr auf dem Tennisplatz Tennis spielen.
+Jennifer sah James von 18 bis 19 Uhr auf die Freiheitsstatue zulaufen.
+Das Schwimmbad war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James ins Schwimmbad gegangen sein?
+Optionen:
+(A) 10 bis 11 Uhr
+(B) 12 bis 14 Uhr
+(C) 11 bis 12 Uhr
+(D) 14:00 bis 17:00 Uhr",(C)
+"Heute war Michael im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 5 Uhr morgens auf.
+Andrew sah Michael von 6 bis 13 Uhr am Bahnhof warten.
+Sarah sah, wie Michael von 13 bis 15 Uhr auf die Freiheitsstatue zuging.
+Mary sah Michael von 15 bis 18 Uhr im Garten spazieren gehen.
+Lisa sah, wie Michael von 18 bis 21 Uhr in der Nähe des Eiffelturms Fotos machte.
+Elizabeth sah, wie Michael von 21 bis 22 Uhr im Elektronikladen ihren Computer reparierte.
+Das Bekleidungsgeschäft war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 13:00 bis 15:00 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 6 bis 13 Uhr
+(D) 5 bis 6 Uhr",(D)
+"Heute war Sarah im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 10 Uhr auf.
+Anthony sah Sarah von 11 bis 12 Uhr im Café einen Kaffee trinken.
+Andrew sah, wie Sarah von 12 bis 14 Uhr im Elektronikladen ein Telefon kaufte.
+Kimberly sah Sarah von 14 bis 19 Uhr zum Wasserpark fahren.
+Sarah sah, wie Sarah von 19 bis 20 Uhr am Unterricht in der Schule teilnahm.
+Jennifer sah, wie Sarah sich von 20 bis 22 Uhr einen Film im Kino ansah.
+Der Vergnügungspark war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 14:00 bis 19:00 Uhr
+(B) 12 bis 14 Uhr
+(C) 10 bis 11 Uhr
+(D) 19:00 bis 20:00 Uhr",(C)
+"Heute war Mark zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mark wachte um 10 Uhr auf.
+Betty sah, wie Mark von 10 bis 11 Uhr ein Fahrrad im Fahrradladen kaufte.
+Ashley sah, wie Mark von 13 bis 14 Uhr einen Film im Kino sah.
+Linda sah, wie Mark von 14 bis 16 Uhr im Fitnessstudio trainierte.
+Leslie sah, wie Mark von 16 bis 21 Uhr im Elektronikladen ein Telefon kaufte.
+Michael sah Mark von 21 bis 22 Uhr am Flughafen warten.
+Die Kunstausstellung wurde nach 22 Uhr geschlossen.
+Wann könnte Mark die Kunstausstellung besucht haben?
+Optionen:
+(A) 11 bis 13 Uhr
+(F) 16:00 bis 21:00 Uhr
+(C) 10 bis 11 Uhr
+(D) 14:00 bis 16:00 Uhr",(A)
+"Heute ging Sean ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 6 Uhr morgens auf.
+Anthony sah, wie Sean von 7 bis 8 Uhr morgens Kekse in einer Bäckerei kaufte.
+Mark sah, wie Sean von 8 bis 15 Uhr im Fitnessstudio trainierte.
+Leslie sah Sean zwischen 15 und 17 Uhr in der Nähe des Schiefen Turms von Pisa fotografieren.
+Emily sah Sean von 17 bis 18 Uhr im Garten spazieren gehen.
+William sah, wie Sean von 18 bis 19 Uhr im Elektronikladen ihren Computer reparierte.
+Das Schwimmbad war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean ins Schwimmbad gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(F) 15:00 bis 17:00 Uhr
+(C) 7 bis 8 Uhr
+(D) 18:00 bis 19:00 Uhr",(A)
+"Heute ging James ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 5 Uhr morgens auf.
+Ashley sah James von 7 bis 9 Uhr morgens auf einem Dach sitzen.
+Hannah sah, wie James von 9 bis 19 Uhr in der Nähe des Eiffelturms Fotos machte.
+William sah, wie James von 19 bis 20 Uhr Kekse in einer Bäckerei kaufte.
+Linda sah James von 20 bis 22 Uhr am Bahnhof warten.
+Das Schwimmbad war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James ins Schwimmbad gegangen sein?
+Optionen:
+(A) 19:00 bis 20:00 Uhr
+(F) 20:00 bis 22:00 Uhr
+(C) 5 bis 7 Uhr
+(D) 7.00 bis 9.00 Uhr",(C)
+"Heute ging Jessica ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 9 Uhr auf.
+Richard sah, wie Jessica von 9 bis 11 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Mary sah Jessica von 11 bis 15 Uhr in der Bibliothek lesen.
+Kimberly sah Jessica von 15 bis 16 Uhr auf einem Dach sitzen.
+Das Schwimmbad war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica ins Schwimmbad gegangen sein?
+Optionen:
+(A) 9.00 bis 11.00 Uhr
+(F) 15:00 bis 16:00 Uhr
+(C) 11 bis 15 Uhr
+(D) 16:00 bis 19:00 Uhr",(D)
+"Heute ging Tiffany in die Bibliothek. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Tiffany wachte um 5 Uhr morgens auf.
+Anthony sah Tiffany von 6 bis 8 Uhr morgens im Garten spazieren gehen.
+Emily sah, wie Tiffany von 8 bis 17 Uhr im Fitnessstudio trainierte.
+Kimberly sah Tiffany von 17 bis 19 Uhr im Büro arbeiten.
+Thomas sah Tiffany von 19 bis 20 Uhr auf dem Tennisplatz Tennis spielen.
+Die Bibliothek war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Tiffany in die Bibliothek gegangen sein?
+Optionen:
+(A) 8 bis 17 Uhr
+(F) 5 bis 6 Uhr
+(C) 19:00 bis 20:00 Uhr
+(D) 6 bis 8 Uhr",(B)
+"Heute war James auf dem Markt. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 7 Uhr morgens auf.
+David sah, wie James von 7 bis 8 Uhr morgens in der Nähe des Eiffelturms Fotos machte.
+John sah James von 10 bis 13 Uhr auf dem Tennisplatz Tennis spielen.
+Elizabeth sah James von 13.00 bis 15.00 Uhr am Flughafen warten.
+William sah James von 15 bis 17 Uhr in der Bibliothek lesen.
+Der Markt war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James auf den Markt gegangen sein?
+Optionen:
+(A) 10 bis 13 Uhr
+(F) 7 bis 8 Uhr
+(C) 15:00 bis 17:00 Uhr
+(D) 8.00 bis 10.00 Uhr",(D)
+"Heute ist Nancy in die Buchhandlung gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 8 Uhr auf.
+Jennifer sah, wie Nancy von 8 bis 9 Uhr morgens Kekse in einer Bäckerei kaufte.
+William sah, wie Nancy von 9 bis 12 Uhr in der Nähe des Eiffelturms Fotos machte.
+Mary sah Nancy von 12 bis 14 Uhr auf dem Tennisplatz Tennis spielen.
+Der Buchladen war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy in die Buchhandlung gegangen sein?
+Optionen:
+(A) 12 bis 14 Uhr
+(F) 8.00 bis 9.00 Uhr
+(C) 14:00 bis 21:00 Uhr
+(D) 9:00 bis 12:00 Uhr",(C)
+"Heute war Tiffany auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Tiffany wachte um 7 Uhr auf.
+William sah, wie Tiffany von 7 bis 9 Uhr morgens am Unterricht in der Schule teilnahm.
+Steven sah Tiffany von 9 bis 13 Uhr am Flughafen warten.
+Mark sah, wie Tiffany von 16 bis 19 Uhr im Feinkostladen das Mittagessen kaufte.
+Die Baustelle wurde nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Tiffany auf die Baustelle gegangen sein?
+Optionen:
+(A) 16:00 bis 19:00 Uhr
+(B) 9.00 bis 13.00 Uhr
+(C) 7.00 bis 9.00 Uhr
+(D) 13:00 bis 16:00 Uhr",(D)
+"Heute ging Jennifer in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 6 Uhr morgens auf.
+Richard sah Jennifer von 7 bis 10 Uhr morgens zum Wasserpark fahren.
+Susan sah Jennifer von 10 bis 13 Uhr auf dem Tennisplatz Tennis spielen.
+Lisa sah Jennifer von 13 bis 15 Uhr am Bahnhof warten.
+Der Orchestersaal wurde nach 15 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer in den Orchestersaal gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(F) 10 bis 13 Uhr
+(C) 7.00 bis 10.00 Uhr
+(D) 13:00 bis 15:00 Uhr",(A)
+"Heute war Sean in der Bäckerei. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 5 Uhr morgens auf.
+James sah, wie Sean von 5 bis 6 Uhr morgens am Unterricht in der Schule teilnahm.
+David sah, wie Sean von 6 bis 8 Uhr morgens im Feinkostladen das Mittagessen kaufte.
+Betty sah, wie Sean von 8 bis 9 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Linda sah Sean von 9 bis 17 Uhr auf einem Dach sitzen.
+Tiffany sah Sean von 20 bis 21 Uhr zum Wasserpark fahren.
+Die Bäckerei war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean zum Bäcker gegangen sein?
+Optionen:
+(A) 20:00 bis 21:00 Uhr
+(B) 17:00 bis 20:00 Uhr
+(C) 8 bis 9 Uhr
+(D) 9.00 bis 17.00 Uhr",(B)
+"Heute war Samantha in der Bäckerei. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 6 Uhr morgens auf.
+Sarah sah Samantha von 6 bis 11 Uhr im Garten spazieren gehen.
+Sean sah, wie Samantha von 12 bis 13 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Jason sah, wie Samantha von 13 bis 14 Uhr in der Nähe des Eiffelturms Fotos machte.
+Elizabeth sah, wie Samantha von 14 bis 15 Uhr auf die Freiheitsstatue zuging.
+Tiffany sah, wie Samantha von 15 bis 21 Uhr im Feinkostladen das Mittagessen kaufte.
+Die Bäckerei war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha zum Bäcker gegangen sein?
+Optionen:
+(A) 13:00 bis 14:00 Uhr
+(F) 11 bis 12 Uhr
+(C) 15:00 bis 21:00 Uhr
+(D) 6:00 bis 11:00 Uhr",(B)
+"Heute ging Ashley auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 9 Uhr auf.
+John sah, wie Ashley von 9 bis 10 Uhr in der Nähe des Eiffelturms Fotos machte.
+Linda sah Ashley von 10 bis 13 Uhr im Garten spazieren gehen.
+Ashley sah, wie Ashley von 13.00 bis 14.00 Uhr am Unterricht in der Schule teilnahm.
+Der Basketballplatz wurde nach 19 Uhr geschlossen.
+Ab wann könnte Ashley auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 14:00 bis 19:00 Uhr
+(B) 9.00 bis 10.00 Uhr
+(C) 13 bis 14 Uhr
+(D) 10 bis 13 Uhr",(A)
+"Heute war Sarah im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Thomas sah, wie Sarah von 5 bis 7 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Betty sah Sarah von 10 bis 16 Uhr auf einem Dach sitzen.
+William sah, wie Sarah von 16 bis 21 Uhr im Feinkostladen das Mittagessen kaufte.
+Kimberly sah Sarah von 21 bis 22 Uhr im Café einen Kaffee trinken.
+Das Bekleidungsgeschäft war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 16:00 bis 21:00 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 7.00 bis 10.00 Uhr
+(D) 10 bis 16 Uhr",(C)
+"Heute war Steven im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Steven wachte um 9 Uhr auf.
+Leslie sah, wie Steven von 9 bis 12 Uhr im Feinkostladen das Mittagessen kaufte.
+Jason sah Steven von 12 bis 13 Uhr in einem Yoga-Studio Dehnübungen machen.
+James sah Steven von 16 bis 17 Uhr zum Wasserpark fahren.
+Nancy sah, wie Steven von 17 bis 19 Uhr den Unterricht in der Schule besuchte.
+Das Bekleidungsgeschäft war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Steven zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 9.00 bis 12.00 Uhr
+(F) 13:00 bis 16:00 Uhr
+(C) 16:00 bis 17:00 Uhr
+(D) 12 bis 13 Uhr",(B)
+"Heute war Jessica im Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 5 Uhr morgens auf.
+Jennifer sah, wie Jessica von 8 bis 13 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Susan sah Jessica von 13 bis 15 Uhr in der Bibliothek lesen.
+Jason sah, wie Jessica von 15 bis 18 Uhr in der Nähe des Eiffelturms Fotos machte.
+Sarah sah, wie Jessica von 18 bis 19 Uhr im Fitnessstudio trainierte.
+Betty sah, wie Jessica von 19 bis 20 Uhr im Elektronikladen ihren Computer reparierte.
+Das Tanzstudio war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica ins Tanzstudio gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(F) 15:00 bis 18:00 Uhr
+(C) 5 bis 8 Uhr
+(D) 19:00 bis 20:00 Uhr",(C)
+"Heute war Jessica im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 6 Uhr morgens auf.
+Lisa sah Jessica von 6 bis 12 Uhr am Bahnhof warten.
+Linda sah, wie Jessica von 12 bis 14 Uhr im Café einen Kaffee trank.
+Sarah sah Jessica zwischen 14 und 18 Uhr auf die Freiheitsstatue zulaufen.
+Das Restaurant war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica ins Restaurant gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(B) 6:00 bis 12:00 Uhr
+(C) 12 bis 14 Uhr
+(D) 14:00 bis 18:00 Uhr",(A)
+"Heute ist Emily ins Tanzstudio gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 5 Uhr morgens auf.
+Thomas sah Emily von 5 bis 7 Uhr morgens in der Bibliothek lesen.
+Tiffany sah Emily von 7 bis 11 Uhr auf die Freiheitsstatue zulaufen.
+John sah Emily von 11 bis 12 Uhr auf dem Tennisplatz Tennis spielen.
+Sean sah, wie Emily von 12 bis 20 Uhr in der Nähe des Eiffelturms Fotos machte.
+Jason sah Emily von 21 bis 22 Uhr am Bahnhof warten.
+Das Tanzstudio war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily ins Tanzstudio gegangen sein?
+Optionen:
+(A) 5 bis 7 Uhr
+(F) 20:00 bis 21:00 Uhr
+(C) 21:00 bis 22:00 Uhr
+(D) 11 bis 12 Uhr",(B)
+"Heute ging Anthony in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 6 Uhr morgens auf.
+Michael sah, wie Anthony von 6 bis 15 Uhr in einem Yoga-Studio Dehnübungen machte.
+Sarah sah, wie Anthony von 15 bis 17 Uhr in der Nähe des Eiffelturms Fotos machte.
+Elizabeth sah Anthony von 17 bis 18 Uhr am Bahnhof warten.
+Der Orchestersaal wurde nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony in den Orchestersaal gegangen sein?
+Optionen:
+(A) 15:00 bis 17:00 Uhr
+(F) 18:00 bis 19:00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 6 bis 15 Uhr",(B)
+"Heute war Mark im Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mark wachte um 7 Uhr auf.
+Richard sah, wie Mark von 7 bis 9 Uhr morgens im Fitnessstudio trainierte.
+Jennifer sah Mark von 9 bis 12 Uhr auf die Freiheitsstatue zulaufen.
+Mary sah Mark von 12 bis 13 Uhr im Büro arbeiten.
+Betty sah Mark von 13.00 bis 15.00 Uhr auf dem Tennisplatz Tennis spielen.
+Ashley sah Mark von 18 bis 19 Uhr in der Bibliothek lesen.
+Das Café war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Mark ins Café gegangen sein?
+Optionen:
+(A) 7 bis 9 Uhr
+(F) 18:00 bis 19:00 Uhr
+(C) 15:00 bis 18:00 Uhr
+(D) 12 bis 13 Uhr",(C)
+"Heute ging William ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 5 Uhr morgens auf.
+Jennifer sah William von 7 bis 17 Uhr im Garten spazieren gehen.
+Mary sah William von 17 bis 18 Uhr in der Bibliothek lesen.
+William sah, wie William von 18:00 bis 22:00 Uhr im Feinkostladen das Mittagessen kaufte.
+Das Schwimmbad war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Schwimmbad gegangen sein?
+Optionen:
+(A) 17:00 bis 18:00 Uhr
+(F) 18:00 bis 22:00 Uhr
+(C) 5 bis 7 Uhr
+(D) 7:00 bis 17:00 Uhr",(C)
+"Heute war Hannah zum Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 5 Uhr morgens auf.
+Hannah sah, wie Hannah von 11 bis 14 Uhr im Elektronikladen ein Telefon kaufte.
+Ashley sah, wie Hannah von 14 bis 15 Uhr in der Nähe des Eiffelturms Fotos machte.
+Nancy sah, wie Hannah von 15 bis 17 Uhr im Einkaufszentrum Kleidung kaufte.
+Die Bäckerei war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Hannah zum Bäcker gegangen sein?
+Optionen:
+(A) 14:00 bis 15:00 Uhr
+(F) 5:00 bis 11:00 Uhr
+(C) 15:00 bis 17:00 Uhr
+(D) 11 bis 14 Uhr",(B)
+"Heute ging William in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 5 Uhr morgens auf.
+Thomas sah, wie William von 5 bis 10 Uhr morgens im Fitnessstudio trainierte.
+Lisa sah, wie William von 12 bis 16 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Mary sah William von 16 bis 19 Uhr auf einem Dach sitzen.
+Der Orchestersaal wurde nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William in den Orchestersaal gegangen sein?
+Optionen:
+(A) 10 bis 12 Uhr
+(F) 16:00 bis 19:00 Uhr
+(C) 12 bis 16 Uhr
+(D) 5 bis 10 Uhr",(A)
+"Heute ging Nancy in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 5 Uhr morgens auf.
+James sah Nancy von 5 bis 6 Uhr morgens auf einem Dach sitzen.
+Jennifer sah Nancy von 6 bis 8 Uhr morgens auf die Freiheitsstatue zulaufen.
+Elizabeth sah, wie Nancy von 8 bis 10 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Michael sah, wie Nancy von 12 bis 17 Uhr am Unterricht in der Schule teilnahm.
+Der Physikunterricht war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy in den Physikunterricht gegangen sein?
+Optionen:
+(A) 10 bis 12 Uhr
+(F) 5 bis 6 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 12 bis 17 Uhr",(A)
+"Heute ging Andrew ins Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 8 Uhr auf.
+James sah, wie Andrew von 8 bis 13 Uhr Kekse in einer Bäckerei kaufte.
+Kimberly sah Andrew von 14 bis 15 Uhr im Büro arbeiten.
+Sarah sah, wie Andrew von 15:00 bis 17:00 Uhr im Elektronikladen ihren Computer reparierte.
+Das Café war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew ins Café gegangen sein?
+Optionen:
+(A) 8 bis 13 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 13 bis 14 Uhr
+(D) 15:00 bis 17:00 Uhr",(C)
+"Heute war David auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 7 Uhr morgens auf.
+Sarah sah David von 7 bis 8 Uhr morgens in der Bibliothek lesen.
+Richard sah, wie David von 12 bis 15 Uhr im Fahrradladen ein Fahrrad kaufte.
+James sah David von 15 bis 16 Uhr auf einem Dach sitzen.
+Andrew sah David von 16 bis 18 Uhr auf die Freiheitsstatue zulaufen.
+Jessica sah, wie David von 18 bis 22 Uhr im Fitnessstudio trainierte.
+Die Baustelle wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David auf der Baustelle gewesen sein?
+Optionen:
+(A) 8.00 bis 12.00 Uhr
+(F) 18:00 bis 22:00 Uhr
+(C) 16:00 bis 18:00 Uhr
+(D) 15:00 bis 16:00 Uhr",(A)
+"Heute ist Anthony in den Park gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 6 Uhr morgens auf.
+Thomas sah, wie Anthony von 6 bis 14 Uhr am Unterricht in der Schule teilnahm.
+Richard sah, wie Anthony von 14.00 bis 17.00 Uhr im Feinkostladen das Mittagessen kaufte.
+Susan sah Anthony von 17 bis 20 Uhr in der Bibliothek lesen.
+Der Park wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony in den Park gegangen sein?
+Optionen:
+(A) 14:00 bis 17:00 Uhr
+(B) 17:00 bis 20:00 Uhr
+(C) 6 bis 14 Uhr
+(D) 20:00 bis 21:00 Uhr",(D)
+"Heute war Sarah im Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Jason sah, wie Sarah sich von 5 bis 8 Uhr morgens einen Film im Kino ansah.
+Hannah sah Sarah von 10 bis 15 Uhr auf einem Dach sitzen.
+Andrew sah Sarah von 15 bis 21 Uhr am Bahnhof warten.
+Das Tanzstudio war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah ins Tanzstudio gegangen sein?
+Optionen:
+(A) 15:00 bis 21:00 Uhr
+(B) 8.00 bis 10.00 Uhr
+(C) 10 bis 15 Uhr
+(D) 5 bis 8 Uhr",(B)
+"Heute ist Mary ins Restaurant gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mary wachte um 9 Uhr auf.
+David sah Maria von 9 bis 11 Uhr im Garten spazieren gehen.
+Samantha sah, wie Mary von 14 bis 15 Uhr im Café einen Kaffee trank.
+Sarah sah Mary von 15 bis 19 Uhr zum Wasserpark fahren.
+Das Restaurant war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Mary ins Restaurant gegangen sein?
+Optionen:
+(A) 15:00 bis 19:00 Uhr
+(F) 9.00 bis 11.00 Uhr
+(C) 14:00 bis 15:00 Uhr
+(D) 11 bis 14 Uhr",(D)
+"Heute war Mark auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mark wachte um 5 Uhr morgens auf.
+Steven sah Mark von 5 bis 6 Uhr morgens auf die Freiheitsstatue zulaufen.
+William sah, wie Mark von 6 bis 7 Uhr morgens im Fitnessstudio trainierte.
+Jennifer sah Mark von 7 bis 21 Uhr in der Bibliothek lesen.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Ab wann könnte Mark auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 7 bis 21 Uhr
+(B) 6 bis 7 Uhr
+(C) 5 bis 6 Uhr
+(D) 21:00 bis 22:00 Uhr",(D)
+"Heute ging William auf den Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 13 Uhr auf.
+Sarah sah William von 13 bis 14 Uhr im Büro arbeiten.
+Mary sah William von 14 bis 16 Uhr am Bahnhof warten.
+Susan sah, wie William von 20 bis 22 Uhr in der Nähe des Eiffelturms Fotos machte.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Ab wann könnte William auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 20:00 bis 22:00 Uhr
+(B) 13 bis 14 Uhr
+(C) 14:00 bis 16:00 Uhr
+(D) 16:00 bis 20:00 Uhr",(D)
+"Heute ist Steven zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Steven wachte um 7 Uhr auf.
+Ashley sah, wie Steven von 7 bis 10 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+William sah Steven von 13 bis 14 Uhr in der Bibliothek lesen.
+Jennifer sah Steven von 14 bis 15 Uhr im Büro arbeiten.
+Michael sah, wie Steven sich von 15 bis 19 Uhr einen Film im Kino ansah.
+Mary sah Steven von 19 bis 22 Uhr am Bahnhof warten.
+Die Tankstelle war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Steven zur Tankstelle gegangen sein?
+Optionen:
+(A) 7.00 bis 10.00 Uhr
+(B) 19:00 bis 22:00 Uhr
+(C) 10 bis 13 Uhr
+(D) 15:00 bis 19:00 Uhr",(C)
+"Heute ist Leslie ins Kino gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 6 Uhr morgens auf.
+Thomas sah Leslie von 7 bis 9 Uhr morgens im Garten spazieren gehen.
+Nancy sah, wie Leslie von 9 bis 15 Uhr im Fahrradladen ein Fahrrad kaufte.
+Ashley sah, wie Leslie von 15 bis 16 Uhr zum Wasserpark fuhr.
+Das Kino war nach 16 Uhr geschlossen.
+Ab wann könnte Leslie ins Kino gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(B) 7.00 bis 9.00 Uhr
+(C) 9.00 bis 15.00 Uhr
+(D) 6 bis 7 Uhr",(D)
+"Heute war Sarah auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+William sah Sarah von 5 bis 11 Uhr morgens auf einem Dach sitzen.
+Mary sah Sarah von 11 bis 15 Uhr in der Bibliothek lesen.
+Jessica sah Sarah von 15 bis 16 Uhr auf die Freiheitsstatue zulaufen.
+Leslie sah Sarah von 19 bis 20 Uhr auf dem Tennisplatz Tennis spielen.
+Die Baustelle wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah auf die Baustelle gegangen sein?
+Optionen:
+(A) 11 bis 15 Uhr
+(F) 16:00 bis 19:00 Uhr
+(C) 15 bis 16 Uhr
+(D) 19:00 bis 20:00 Uhr",(B)
+"Heute ging Andrew zum Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 5 Uhr morgens auf.
+William sah Andrew von 5 bis 6 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Jessica sah, wie Andrew von 6 bis 9 Uhr morgens im Feinkostladen das Mittagessen kaufte.
+Tiffany sah, wie Andrew von 9 bis 11 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+John sah Andrew von 11 bis 17 Uhr am Bahnhof warten.
+Sarah sah Andrew von 18 bis 21 Uhr in der Bibliothek lesen.
+Das Bekleidungsgeschäft war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 9.00 bis 11.00 Uhr
+(F) 18:00 bis 21:00 Uhr
+(C) 11 bis 17 Uhr
+(D) 17:00 bis 18:00 Uhr",(D)
+"Heute ging David in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 9 Uhr auf.
+Sean sah, wie David von 9 bis 11 Uhr im Elektronikladen seinen Computer reparierte.
+Thomas sah David von 11 bis 12 Uhr auf die Freiheitsstatue zulaufen.
+James sah, wie David von 12 bis 20 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Physikunterricht war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David in den Physikunterricht gegangen sein?
+Optionen:
+(A) 11 bis 12 Uhr
+(B) 12 bis 20 Uhr
+(C) 9.00 bis 11.00 Uhr
+(D) 20:00 bis 22:00 Uhr",(D)
+"Heute war Jessica im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 9 Uhr auf.
+Nancy sah, wie Jessica von 9 bis 11 Uhr den Unterricht in der Schule besuchte.
+John sah, wie Jessica von 11 bis 12 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Mary sah, wie Jessica von 12 bis 13 Uhr in der Nähe des Eiffelturms Fotos machte.
+Anthony sah, wie Jessica zwischen 13 und 16 Uhr im Elektronikladen ein Telefon kaufte.
+Kimberly sah, wie Jessica von 16 bis 17 Uhr Kekse in einer Bäckerei kaufte.
+Das Restaurant war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica ins Restaurant gegangen sein?
+Optionen:
+(A) 9.00 bis 11.00 Uhr
+(F) 16:00 bis 17:00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 11 bis 12 Uhr",(C)
+"Heute war David auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 7 Uhr morgens auf.
+Michael sah David von 7 bis 9 Uhr morgens in der Bibliothek lesen.
+William sah David von 18 bis 20 Uhr am Flughafen warten.
+Lisa sah David von 20 bis 22 Uhr am Bahnhof warten.
+Die Baustelle wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David auf der Baustelle gewesen sein?
+Optionen:
+(A) 7 bis 9 Uhr
+(B) 9.00 bis 18.00 Uhr
+(C) 20:00 bis 22:00 Uhr
+(D) 18:00 bis 20:00 Uhr",(B)
+"Heute war Jessica im Buchladen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jessica wachte um 6 Uhr morgens auf.
+Susan sah, wie Jessica von 8 bis 9 Uhr im Fitnessstudio trainierte.
+Andrew sah Jessica von 9 bis 10 Uhr zum Wasserpark fahren.
+David sah Jessica von 10 bis 13 Uhr auf die Freiheitsstatue zulaufen.
+Linda sah, wie Jessica von 13.00 bis 20.00 Uhr im Feinkostladen das Mittagessen kaufte.
+James sah, wie Jessica von 20 bis 21 Uhr in der Nähe des Eiffelturms Fotos machte.
+Der Buchladen war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jessica in die Buchhandlung gegangen sein?
+Optionen:
+(A) 9.00 bis 10.00 Uhr
+(B) 6 bis 8 Uhr
+(C) 20:00 bis 21:00 Uhr
+(D) 8 bis 9 Uhr",(B)
+"Heute ging Mary ins Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mary wachte um 9 Uhr auf.
+Sarah sah, wie Mary von 9 bis 10 Uhr im Café einen Kaffee trank.
+Mary sah Mary von 12 bis 13 Uhr im Garten spazieren gehen.
+Tiffany sah Mary zwischen 13 und 22 Uhr zum Wasserpark fahren.
+Das Tanzstudio war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Mary ins Tanzstudio gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(B) 9.00 bis 10.00 Uhr
+(C) 13:00 bis 22:00 Uhr
+(D) 10 bis 12 Uhr",(D)
+"Heute war Michael im Park. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 7 Uhr auf.
+William sah Michael von 7 bis 8 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Richard sah Michael von 13 bis 15 Uhr im Büro arbeiten.
+Emily sah, wie Michael von 15 bis 20 Uhr im Feinkostladen das Mittagessen kaufte.
+Mark sah, wie Michael von 20 bis 22 Uhr auf die Freiheitsstatue zuging.
+Der Park wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael in den Park gegangen sein?
+Optionen:
+(A) 15:00 bis 20:00 Uhr
+(B) 8.00 bis 13.00 Uhr
+(C) 7 bis 8 Uhr
+(D) 20:00 bis 22:00 Uhr",(B)
+"Heute war David im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+William sah, wie David von 5 bis 6 Uhr morgens im Elektronikladen seinen Computer reparierte.
+David sah, wie David von 6 bis 9 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+John sah David von 9 bis 10 Uhr am Bahnhof warten.
+Das Bekleidungsgeschäft war nach 15 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 9.00 bis 10.00 Uhr
+(B) 6 bis 9 Uhr
+(C) 5 bis 6 Uhr
+(D) 10 bis 15 Uhr",(D)
+"Heute ging Andrew ins Museum. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 5 Uhr morgens auf.
+James sah Andrew von 5 bis 6 Uhr morgens im Garten spazieren gehen.
+Ashley sah, wie Andrew von 6 bis 8 Uhr morgens im Café einen Kaffee trank.
+David sah Andrew von 8 bis 10 Uhr morgens auf einem Dach sitzen.
+Betty sah, wie Andrew von 10 bis 11 Uhr im Feinkostladen das Mittagessen kaufte.
+Thomas sah, wie Andrew von 20:00 bis 22:00 Uhr im Elektronikladen ihren Computer reparierte.
+Das Museum war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew das Museum besucht haben?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(F) 5 bis 6 Uhr
+(C) 6 bis 8 Uhr
+(D) 11 bis 20 Uhr",(D)
+"Heute ist Leslie an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 5 Uhr morgens auf.
+Emily sah, wie Leslie von 5 bis 9 Uhr morgens am Unterricht in der Schule teilnahm.
+Anthony sah, wie Leslie von 9 bis 11 Uhr einen Film im Kino sah.
+Thomas sah, wie Leslie von 11 bis 16 Uhr Kekse in einer Bäckerei kaufte.
+Ashley sah, wie Leslie von 16 bis 17 Uhr im Elektronikladen ihren Computer reparierte.
+Susan sah, wie Leslie zwischen 21 und 22 Uhr auf die Freiheitsstatue zuging.
+Der Strand war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Leslie an den Strand gegangen sein?
+Optionen:
+(A) 17:00 bis 21:00 Uhr
+(F) 9.00 bis 11.00 Uhr
+(C) 21:00 bis 22:00 Uhr
+(D) 16:00 bis 17:00 Uhr",(A)
+"Heute ging Mary in den Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mary wachte um 13 Uhr auf.
+Richard sah Mary von 13 bis 15 Uhr in einem Yoga-Studio Dehnübungen machen.
+Jessica sah, wie Mary von 15 bis 16 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Samantha sah, wie Mary von 16 bis 18 Uhr im Elektronikladen ihren Computer reparierte.
+Sean sah, wie Mary von 18 bis 19 Uhr im Café einen Kaffee trank.
+Kimberly sah Mary von 21 bis 22 Uhr im Büro arbeiten.
+Der Vergnügungspark war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Mary in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 21:00 bis 22:00 Uhr
+(B) 13:00 bis 15:00 Uhr
+(C) 15 bis 16 Uhr
+(D) 19:00 bis 21:00 Uhr",(D)
+"Heute ist Ashley an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+Mark sah, wie Ashley von 5 bis 7 Uhr morgens Kekse in einer Bäckerei kaufte.
+Richard sah Ashley von 9 bis 13 Uhr auf einem Dach sitzen.
+William sah Ashley von 13 bis 15 Uhr im Garten spazieren gehen.
+Hannah sah Ashley von 15 bis 20 Uhr in der Nähe des Schiefen Turms von Pisa fotografieren.
+Sarah sah, wie Ashley von 20 bis 21 Uhr im Café einen Kaffee trank.
+Der Strand war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley an den Strand gegangen sein?
+Optionen:
+(A) 5 bis 7 Uhr
+(B) 15:00 bis 20:00 Uhr
+(C) 9.00 bis 13.00 Uhr
+(D) 7.00 bis 9.00 Uhr",(D)
+"Heute war Samantha auf dem Markt. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 5 Uhr morgens auf.
+Sarah sah Samantha von 5 bis 11 Uhr im Büro arbeiten.
+Ashley sah, wie Samantha von 11 bis 13 Uhr im Elektronikladen ein Telefon kaufte.
+Leslie sah, wie Samantha von 17 bis 20 Uhr im Elektronikladen ihren Computer reparierte.
+Der Markt war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha auf den Markt gegangen sein?
+Optionen:
+(A) 5:00 bis 11:00 Uhr
+(B) 17:00 bis 20:00 Uhr
+(C) 11 bis 13 Uhr
+(D) 13:00 bis 17:00 Uhr",(D)
+"Heute ist Elizabeth zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 5 Uhr morgens auf.
+Mark sah, wie Elizabeth von 6 bis 9 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Andrew sah Elizabeth von 9 bis 10 Uhr am Flughafen warten.
+Susan sah Elizabeth von 10 bis 13 Uhr zum Wasserpark fahren.
+Leslie sah Elizabeth von 13 bis 14 Uhr am Bahnhof warten.
+Thomas sah Elizabeth von 14.00 bis 18.00 Uhr am Unterricht in der Schule teilnehmen.
+Die Tankstelle war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth zur Tankstelle gegangen sein?
+Optionen:
+(A) 5 bis 6 Uhr
+(B) 14:00 bis 18:00 Uhr
+(C) 13 bis 14 Uhr
+(D) 6 bis 9 Uhr",(A)
+"Heute war Sean auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 5 Uhr morgens auf.
+Mary sah Sean von 7 bis 13 Uhr auf die Freiheitsstatue zulaufen.
+Anthony sah, wie Sean von 13:00 bis 16:00 Uhr im Elektronikladen ihren Computer reparierte.
+William sah, wie Sean sich von 16 bis 17 Uhr einen Film im Kino ansah.
+Sarah sah, wie Sean von 17 bis 20 Uhr im Café einen Kaffee trank.
+Der Fußballplatz wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 13:00 bis 16:00 Uhr
+(F) 16:00 bis 17:00 Uhr
+(C) 17:00 bis 20:00 Uhr
+(D) 5 bis 7 Uhr",(D)
+"Heute ging Elizabeth ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 6 Uhr morgens auf.
+Nancy sah, wie Elizabeth von 6 bis 7 Uhr morgens im Elektronikladen ihren Computer reparierte.
+Jessica sah, wie Elizabeth von 7 bis 11 Uhr den Unterricht in der Schule besuchte.
+William sah Elizabeth von 11 bis 15 Uhr im Café einen Kaffee trinken.
+Betty sah, wie Elizabeth von 15 bis 18 Uhr in der Nähe des Eiffelturms Fotos machte.
+Das Schwimmbad war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth ins Schwimmbad gegangen sein?
+Optionen:
+(A) 11 bis 15 Uhr
+(B) 6 bis 7 Uhr
+(C) 18:00 bis 19:00 Uhr
+(D) 7.00 bis 11.00 Uhr",(C)
+"Heute war Michael im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 10 Uhr auf.
+Sean sah, wie Michael von 10 bis 12 Uhr einen Film im Kino sah.
+Sarah sah, wie Michael von 16 bis 18 Uhr im Elektronikladen ein Telefon kaufte.
+Mary sah, wie Michael von 18 bis 20 Uhr im Fahrradladen ein Fahrrad kaufte.
+Das Bekleidungsgeschäft war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 18:00 bis 20:00 Uhr
+(F) 16:00 bis 18:00 Uhr
+(C) 10 bis 12 Uhr
+(D) 12 bis 16 Uhr",(D)
+"Heute war Andrew auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 9 Uhr auf.
+Anthony sah Andrew von 9 bis 14 Uhr im Einkaufszentrum Kleidung kaufen.
+Mark sah, wie Andrew von 14 bis 15 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Tiffany sah Andrew von 16 bis 19 Uhr auf einem Dach sitzen.
+Samantha sah Andrew von 19 bis 21 Uhr am Bahnhof warten.
+Die Baustelle wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew zur Baustelle gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(F) 16:00 bis 19:00 Uhr
+(C) 14:00 bis 15:00 Uhr
+(D) 19:00 bis 21:00 Uhr",(A)
+"Heute ist Nancy auf den Fußballplatz gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 5 Uhr morgens auf.
+William sah Nancy von 5 bis 11 Uhr am Unterricht in der Schule teilnehmen.
+Leslie sah Nancy von 11 bis 12 Uhr am Bahnhof warten.
+Nancy sah Nancy von 15 bis 20 Uhr in der Bibliothek lesen.
+Der Fußballplatz wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 20:00 Uhr
+(B) 12:00 bis 15:00 Uhr
+(C) 5:00 bis 11:00 Uhr
+(D) 11 bis 12 Uhr",(B)
+"Heute war Jason im Museum. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 7 Uhr morgens auf.
+Jessica sah, wie Jason von 7 bis 8 Uhr morgens in der Nähe des Eiffelturms Fotos machte.
+Andrew sah Jason von 9 bis 17 Uhr im Büro arbeiten.
+Susan sah, wie Jason von 17 bis 20 Uhr im Elektronikladen ein Telefon kaufte.
+John sah, wie Jason von 20 bis 21 Uhr den Unterricht in der Schule besuchte.
+Das Museum war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason ins Museum gegangen sein?
+Optionen:
+(A) 7 bis 8 Uhr
+(B) 9.00 bis 17.00 Uhr
+(C) 17:00 bis 20:00 Uhr
+(D) 8 bis 9 Uhr",(D)
+"Heute ist Anthony zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 5 Uhr morgens auf.
+Susan sah Anthony von 5 bis 7 Uhr morgens in der Bibliothek lesen.
+Sarah sah, wie Anthony von 7 bis 10 Uhr morgens auf die Freiheitsstatue zuging.
+Nancy sah, wie Anthony von 17 bis 19 Uhr im Fitnessstudio trainierte.
+David sah, wie Anthony von 19 bis 20 Uhr zum Wasserpark fuhr.
+Die Tankstelle war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony zur Tankstelle gegangen sein?
+Optionen:
+(A) 19:00 bis 20:00 Uhr
+(B) 10 bis 17 Uhr
+(C) 17:00 bis 19:00 Uhr
+(D) 5 bis 7 Uhr",(B)
+"Heute ist Leslie ins Kino gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 6 Uhr morgens auf.
+Susan sah Leslie von 6 bis 7 Uhr morgens auf einem Dach sitzen.
+Mary sah Leslie von 12 bis 14 Uhr im Büro arbeiten.
+Steven sah Leslie von 14 bis 19 Uhr im Café einen Kaffee trinken.
+Das Kino war nach 19 Uhr geschlossen.
+Ab wann könnte Leslie ins Kino gegangen sein?
+Optionen:
+(A) 7:00 bis 12:00 Uhr
+(B) 14:00 bis 19:00 Uhr
+(C) 12 bis 14 Uhr
+(D) 6 bis 7 Uhr",(A)
+"Heute war David im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 6 Uhr morgens auf.
+Sarah sah, wie David von 8 bis 9 Uhr morgens auf die Freiheitsstatue zuging.
+Leslie sah, wie David von 9 bis 11 Uhr einen Film im Kino sah.
+Emily sah, wie David von 11 bis 13 Uhr im Einkaufszentrum Kleidung kaufte.
+Hannah sah David von 13 bis 15 Uhr im Garten spazieren gehen.
+Samantha sah David von 15 bis 16 Uhr in der Bibliothek lesen.
+Das Bekleidungsgeschäft war nach 16 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 11 bis 13 Uhr
+(F) 8.00 bis 9.00 Uhr
+(C) 6 bis 8 Uhr
+(D) 13:00 bis 15:00 Uhr",(C)
+"Heute war Hannah auf dem Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 6 Uhr morgens auf.
+James sah Hannah von 6 bis 10 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Anthony sah Hannah von 10 bis 11 Uhr im Garten spazieren gehen.
+Jennifer sah Hannah von 11 bis 15 Uhr am Bahnhof warten.
+Linda sah Hannah von 17 bis 20 Uhr in einem Yoga-Studio Dehnübungen machen.
+Kimberly sah Hannah von 20 bis 22 Uhr in der Bibliothek lesen.
+Der Basketballplatz war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Hannah auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 11 bis 15 Uhr
+(B) 10 bis 11 Uhr
+(C) 20:00 bis 22:00 Uhr
+(D) 15:00 bis 17:00 Uhr",(D)
+"Heute war Sarah auf dem Markt. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 6 Uhr morgens auf.
+James sah Sarah von 6 bis 10 Uhr morgens in der Nähe des Eiffelturms Fotos machen.
+Betty sah, wie Sarah von 10 bis 12 Uhr Kekse in einer Bäckerei kaufte.
+William sah Sarah von 12 bis 13 Uhr im Garten spazieren gehen.
+John sah Sarah von 13 bis 14 Uhr im Büro arbeiten.
+Steven sah Sarah von 18 bis 19 Uhr zum Wasserpark fahren.
+Der Markt war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah auf den Markt gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(B) 13 bis 14 Uhr
+(C) 10 bis 12 Uhr
+(D) 14:00 bis 18:00 Uhr",(D)
+"Heute ging Andrew in den Park. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 5 Uhr morgens auf.
+Tiffany sah Andrew von 6 bis 10 Uhr morgens in der Bibliothek lesen.
+Nancy sah Andrew von 10 bis 12 Uhr im Garten spazieren gehen.
+Sarah sah, wie Andrew von 12 bis 17 Uhr im Fitnessstudio trainierte.
+Emily sah Andrew von 17:00 bis 21:00 Uhr am Flughafen warten.
+Der Park wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew in den Park gegangen sein?
+Optionen:
+(A) 12 bis 17 Uhr
+(F) 17:00 bis 21:00 Uhr
+(C) 6 bis 10 Uhr
+(D) 5 bis 6 Uhr",(D)
+"Heute ging William ins Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 6 Uhr morgens auf.
+Betty sah William von 12 bis 15 Uhr in der Bibliothek lesen.
+Hannah sah, wie William von 15 bis 16 Uhr im Elektronikladen ihren Computer reparierte.
+Nancy sah, wie William von 16 bis 19 Uhr Kekse in einer Bäckerei kaufte.
+Sarah sah William zwischen 19 und 20 Uhr auf die Freiheitsstatue zulaufen.
+Michael sah, wie William von 20 bis 22 Uhr einen Film im Kino sah.
+Das Kunstatelier war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Kunstatelier gegangen sein?
+Optionen:
+(A) 19:00 bis 20:00 Uhr
+(B) 6:00 bis 12:00 Uhr
+(C) 20:00 bis 22:00 Uhr
+(D) 12 bis 15 Uhr",(B)
+"Heute ging Elizabeth zum Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 8 Uhr auf.
+David sah, wie Elizabeth von 8 bis 16 Uhr am Unterricht in der Schule teilnahm.
+Elizabeth sah, wie Elizabeth von 16 bis 17 Uhr ihren Computer im Elektronikladen reparierte.
+Ashley sah, wie Elizabeth von 17:00 bis 21:00 Uhr im Café einen Kaffee trank.
+Die Bäckerei war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth zum Bäcker gegangen sein?
+Optionen:
+(A) 8 bis 16 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 16:00 bis 17:00 Uhr
+(D) 17:00 bis 21:00 Uhr",(B)
+"Heute war Sarah auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Thomas sah Sarah von 11 bis 15 Uhr auf einem Dach sitzen.
+Andrew sah, wie Sarah von 15:00 bis 17:00 Uhr im Elektronikladen ihren Computer reparierte.
+Emily sah Sarah von 17 bis 21 Uhr am Flughafen warten.
+Der Fußballplatz wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 17:00 Uhr
+(F) 11 bis 15 Uhr
+(C) 5:00 bis 11:00 Uhr
+(D) 17:00 bis 21:00 Uhr",(C)
+"Heute war David zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+Samantha sah David von 5 bis 7 Uhr morgens im Büro arbeiten.
+Mary sah, wie David von 7 bis 13 Uhr in der Nähe des Eiffelturms Fotos machte.
+Leslie sah David von 15 bis 20 Uhr zum Wasserpark fahren.
+Die Kunstausstellung wurde nach 20 Uhr geschlossen.
+Wann könnte David zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 7 bis 13 Uhr
+(B) 15:00 bis 20:00 Uhr
+(C) 5 bis 7 Uhr
+(D) 13:00 bis 15:00 Uhr",(D)
+"Heute ging Jason in den Park. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 5 Uhr morgens auf.
+Nancy sah, wie Jason von 5 bis 14 Uhr im Einkaufszentrum Kleidung kaufte.
+Emily sah Jason von 14 bis 16 Uhr im Garten spazieren gehen.
+John sah Jason von 17 bis 20 Uhr in der Bibliothek lesen.
+Jennifer sah, wie Jason von 20 bis 21 Uhr im Feinkostladen das Mittagessen kaufte.
+Der Park wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason in den Park gegangen sein?
+Optionen:
+(A) 5 bis 14 Uhr
+(F) 16:00 bis 17:00 Uhr
+(C) 14:00 bis 16:00 Uhr
+(D) 20:00 bis 21:00 Uhr",(B)
+"Heute ging Anthony ins Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 8 Uhr auf.
+William sah Anthony von 10 bis 12 Uhr zum Wasserpark fahren.
+David sah Anthony von 12 bis 13 Uhr auf einem Dach sitzen.
+Richard sah, wie Anthony zwischen 13 und 16 Uhr im Elektronikladen ein Telefon kaufte.
+Das Tanzstudio war nach 16 Uhr geschlossen.
+Ab wann könnte Anthony ins Tanzstudio gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(F) 13:00 bis 16:00 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 10 bis 12 Uhr",(C)
+"Heute ist Sarah an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 10 Uhr auf.
+Anthony sah, wie Sarah von 10 bis 12 Uhr im Elektronikladen ihren Computer reparierte.
+Betty sah Sarah von 13 bis 14 Uhr auf einem Dach sitzen.
+Kimberly sah Sarah von 14 bis 15 Uhr auf dem Tennisplatz Tennis spielen.
+Linda sah, wie Sarah von 15 bis 19 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Strand war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah an den Strand gegangen sein?
+Optionen:
+(A) 14:00 bis 15:00 Uhr
+(F) 12 bis 13 Uhr
+(C) 15:00 bis 19:00 Uhr
+(D) 10 bis 12 Uhr",(B)
+"Heute war Hannah zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 7 Uhr auf.
+Michael sah Hannah von 7 bis 8 Uhr morgens auf die Freiheitsstatue zulaufen.
+Leslie sah Hannah von 8 bis 9 Uhr in der Bibliothek lesen.
+Jason sah Hannah von 9 bis 13 Uhr auf einem Dach sitzen.
+Lisa sah, wie Hannah von 19 bis 21 Uhr im Elektronikladen ihren Computer reparierte.
+Hannah sah, wie Hannah sich von 21 bis 22 Uhr einen Film im Kino ansah.
+Die Kunstausstellung wurde nach 22 Uhr geschlossen.
+Wann könnte Hannah zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 19:00 bis 21:00 Uhr
+(F) 7 bis 8 Uhr
+(C) 13 bis 19 Uhr
+(D) 21:00 bis 22:00 Uhr",(C)
+"Heute ging Mark auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mark wachte um 12 Uhr auf.
+James sah Mark von 12 bis 13 Uhr im Einkaufszentrum Kleidung kaufen.
+Nancy sah, wie Mark von 13.00 bis 16.00 Uhr zum Wasserpark fuhr.
+Richard sah Mark von 17 bis 18 Uhr auf einem Dach sitzen.
+John sah Mark von 18 bis 22 Uhr im Café einen Kaffee trinken.
+Der Basketballplatz war nach 22 Uhr geschlossen.
+Ab wann könnte Mark auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 17:00 bis 18:00 Uhr
+(F) 13:00 bis 16:00 Uhr
+(C) 16:00 bis 17:00 Uhr
+(D) 12 bis 13 Uhr",(C)
+"Heute war Sarah zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Kimberly sah Sarah von 5 bis 8 Uhr morgens am Flughafen warten.
+Thomas sah Sarah von 8 bis 13 Uhr beim Fotografieren in der Nähe des Eiffelturms.
+Hannah sah, wie Sarah von 13:00 bis 14:00 Uhr im Elektronikladen ihren Computer reparierte.
+Die Kunstausstellung wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 13:00 bis 14:00 Uhr
+(F) 5 bis 8 Uhr
+(C) 14:00 bis 22:00 Uhr
+(D) 8 bis 13 Uhr",(C)
+"Heute ging James auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 6 Uhr morgens auf.
+Susan sah, wie James von 7 bis 8 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Emily sah, wie James von 8 bis 9 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Lisa sah, wie James von 9 bis 15 Uhr am Unterricht in der Schule teilnahm.
+Sarah sah, wie James von 15 bis 17 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+David sah, wie James von 17 bis 20 Uhr im Café einen Kaffee trank.
+Der Basketballplatz wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(B) 9.00 bis 15.00 Uhr
+(C) 8 bis 9 Uhr
+(D) 15:00 bis 17:00 Uhr",(A)
+"Heute ging Emily in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 5 Uhr morgens auf.
+Linda sah Emily von 5 bis 6 Uhr morgens am Flughafen warten.
+David sah, wie Emily von 14 bis 19 Uhr Kekse in einer Bäckerei kaufte.
+Michael sah, wie Emily von 19 bis 20 Uhr im Einkaufszentrum Kleidung kaufte.
+Thomas sah Emily von 20 bis 22 Uhr im Fitnessstudio trainieren.
+Der Orchestersaal wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily in den Orchestersaal gegangen sein?
+Optionen:
+(A) 5 bis 6 Uhr
+(B) 14:00 bis 19:00 Uhr
+(C) 20:00 bis 22:00 Uhr
+(D) 6 bis 14 Uhr",(D)
+"Heute war David auf dem Markt. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 7 Uhr morgens auf.
+Linda sah David von 7 bis 9 Uhr morgens auf einem Dach sitzen.
+Mary sah, wie David von 10 bis 13 Uhr Kekse in einer Bäckerei kaufte.
+Anthony sah David von 13 bis 14 Uhr im Garten spazieren gehen.
+Sean sah David von 14 bis 17 Uhr am Bahnhof warten.
+Der Markt war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David auf den Markt gegangen sein?
+Optionen:
+(A) 10 bis 13 Uhr
+(B) 9.00 bis 10.00 Uhr
+(C) 7.00 bis 9.00 Uhr
+(D) 13:00 bis 14:00 Uhr",(B)
+"Heute war Jennifer im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 5 Uhr morgens auf.
+Lisa sah, wie Jennifer von 5 bis 10 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Samantha sah, wie Jennifer von 10 bis 14 Uhr in der Nähe des Eiffelturms Fotos machte.
+William sah Jennifer von 14 bis 15 Uhr am Flughafen warten.
+Ashley sah, wie Jennifer von 16 bis 17 Uhr im Feinkostladen das Mittagessen kaufte.
+Andrew sah Jennifer von 17 bis 20 Uhr im Büro arbeiten.
+Der Vergnügungspark war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 14:00 bis 15:00 Uhr
+(B) 17:00 bis 20:00 Uhr
+(C) 5 bis 10 Uhr
+(D) 15:00 bis 16:00 Uhr",(D)
+"Heute ging Ashley ins Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+Ashley sah, wie Ashley von 5 bis 6 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+James sah, wie Ashley von 6 bis 11 Uhr morgens Kekse in einer Bäckerei kaufte.
+Anthony sah Ashley von 11 bis 12 Uhr im Garten spazieren gehen.
+Samantha sah, wie Ashley von 18 bis 22 Uhr in der Nähe des Eiffelturms Fotos machte.
+Das Tanzstudio war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley ins Tanzstudio gegangen sein?
+Optionen:
+(A) 12 bis 18 Uhr
+(F) 11 bis 12 Uhr
+(C) 6:00 bis 11:00 Uhr
+(D) 18:00 bis 22:00 Uhr",(A)
+"Heute ist William auf den Markt gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 7 Uhr morgens auf.
+William sah, wie William von 7 bis 8 Uhr morgens im Büro arbeitete.
+Hannah sah William von 8 bis 15 Uhr in der Bibliothek lesen.
+Susan sah, wie William von 15 bis 16 Uhr im Elektronikladen ihren Computer reparierte.
+Leslie sah, wie William von 18 bis 21 Uhr im Café einen Kaffee trank.
+Der Markt war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William auf den Markt gegangen sein?
+Optionen:
+(A) 16:00 bis 18:00 Uhr
+(F) 7 bis 8 Uhr
+(C) 15 bis 16 Uhr
+(D) 8.00 bis 15.00 Uhr",(A)
+"Heute war Jennifer im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 6 Uhr morgens auf.
+Mary sah Jennifer von 6 bis 11 Uhr morgens zum Wasserpark fahren.
+Sarah sah Jennifer von 13 bis 17 Uhr in der Bibliothek lesen.
+David sah Jennifer von 17 bis 18 Uhr in einem Yoga-Studio Dehnübungen machen.
+Michael sah, wie Jennifer von 18 bis 22 Uhr einen Film im Kino sah.
+Das Restaurant war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer ins Restaurant gegangen sein?
+Optionen:
+(A) 13:00 bis 17:00 Uhr
+(B) 11 bis 13 Uhr
+(C) 6:00 bis 11:00 Uhr
+(D) 17:00 bis 18:00 Uhr",(B)
+"Heute war Jennifer zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 8 Uhr auf.
+Lisa sah, wie Jennifer von 8 bis 9 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Steven sah Jennifer von 9 bis 10 Uhr auf die Freiheitsstatue zulaufen.
+Sarah sah Jennifer von 10 bis 14 Uhr auf einem Dach sitzen.
+Linda sah Jennifer zwischen 16 und 18 Uhr in der Nähe des Schiefen Turms von Pisa fotografieren.
+Andrew sah Jennifer von 18 bis 20 Uhr im Fitnessstudio trainieren.
+Die Kunstausstellung wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 14:00 bis 16:00 Uhr
+(F) 8.00 bis 9.00 Uhr
+(C) 9.00 bis 10.00 Uhr
+(D) 18:00 bis 20:00 Uhr",(A)
+"Heute ging Jennifer in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 5 Uhr morgens auf.
+Susan sah, wie Jennifer von 5 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+Jessica sah Jennifer von 12 bis 16 Uhr im Büro arbeiten.
+Nancy sah, wie Jennifer von 17 bis 21 Uhr im Einkaufszentrum Kleidung kaufte.
+Der Orchestersaal wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer in den Orchestersaal gegangen sein?
+Optionen:
+(A) 12 bis 16 Uhr
+(F) 17:00 bis 21:00 Uhr
+(C) 16:00 bis 17:00 Uhr
+(D) 5 bis 12 Uhr",(C)
+"Heute ging Nancy auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 9 Uhr auf.
+Steven sah Nancy von 14 bis 16 Uhr am Bahnhof warten.
+Sarah sah Nancy von 16 bis 17 Uhr in der Bibliothek lesen.
+Richard sah, wie Nancy von 17 bis 18 Uhr im Elektronikladen ein Telefon kaufte.
+Thomas sah, wie Nancy von 18 bis 19 Uhr den Unterricht in der Schule besuchte.
+Der Basketballplatz wurde nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 9.00 bis 14.00 Uhr
+(F) 16:00 bis 17:00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 14:00 bis 16:00 Uhr",(A)
+"Heute ist Samantha ins Kino gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 5 Uhr morgens auf.
+Lisa sah, wie Samantha von 8 bis 12 Uhr zum Wasserpark fuhr.
+Mary sah Samantha von 12 bis 16 Uhr im Garten spazieren gehen.
+Samantha sah Samantha von 16 bis 18 Uhr in der Bibliothek lesen.
+Das Kino war nach 18 Uhr geschlossen.
+Ab wann könnte Samantha ins Kino gegangen sein?
+Optionen:
+(A) 8.00 bis 12.00 Uhr
+(F) 16:00 bis 18:00 Uhr
+(C) 5 bis 8 Uhr
+(D) 12 bis 16 Uhr",(C)
+"Heute ist Tiffany auf den Markt gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Tiffany wachte um 5 Uhr morgens auf.
+Jason sah Tiffany von 5 bis 6 Uhr morgens zum Wasserpark fahren.
+Steven sah, wie Tiffany von 6 bis 12 Uhr im Café einen Kaffee trank.
+Jessica sah, wie Tiffany von 12 bis 16 Uhr im Feinkostladen das Mittagessen kaufte.
+Thomas sah Tiffany von 17 bis 19 Uhr im Büro arbeiten.
+Der Markt war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Tiffany auf den Markt gegangen sein?
+Optionen:
+(A) 6:00 bis 12:00 Uhr
+(F) 16:00 bis 17:00 Uhr
+(C) 5 bis 6 Uhr
+(D) 17:00 bis 19:00 Uhr",(B)
+"Heute ist Leslie ins Tanzstudio gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 7 Uhr morgens auf.
+Steven sah, wie Leslie von 7 bis 8 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+Hannah sah Leslie von 8 bis 10 Uhr morgens auf einem Dach sitzen.
+Michael sah, wie Leslie von 10 bis 12 Uhr im Feinkostladen das Mittagessen kaufte.
+Kimberly sah, wie Leslie von 13 bis 16 Uhr in der Nähe des Eiffelturms Fotos machte.
+Thomas sah Leslie von 16 bis 19 Uhr auf die Freiheitsstatue zulaufen.
+Das Tanzstudio war nach 19 Uhr geschlossen.
+Wann könnte Leslie ins Tanzstudio gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(F) 7 bis 8 Uhr
+(C) 12 bis 13 Uhr
+(D) 16:00 bis 19:00 Uhr",(C)
+"Heute war Hannah auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 5 Uhr morgens auf.
+Jessica sah, wie Hannah von 5 bis 6 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Kimberly sah, wie Hannah sich von 6 bis 11 Uhr einen Film im Kino ansah.
+Sarah sah, wie Hannah von 11 bis 13 Uhr im Café einen Kaffee trank.
+Steven sah Hannah von 13 bis 15 Uhr im Büro arbeiten.
+Hannah sah Hannah von 15 bis 17 Uhr am Flughafen warten.
+Der Fußballplatz wurde nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Hannah auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 17:00 Uhr
+(B) 11 bis 13 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 13:00 bis 15:00 Uhr",(C)
+"Heute war Anthony im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 6 Uhr morgens auf.
+Leslie sah Anthony von 6 bis 8 Uhr morgens in der Bibliothek lesen.
+Jennifer sah, wie Anthony von 8 bis 9 Uhr im Fitnessstudio trainierte.
+Anthony sah, wie Anthony von 14:00 bis 21:00 Uhr Kekse in einer Bäckerei kaufte.
+William sah, wie Anthony von 21 bis 22 Uhr im Fahrradladen ein Fahrrad kaufte.
+Der Vergnügungspark war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 21:00 bis 22:00 Uhr
+(B) 9.00 bis 14.00 Uhr
+(C) 6 bis 8 Uhr
+(D) 14:00 bis 21:00 Uhr",(B)
+"Heute war Hannah im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Hannah wachte um 6 Uhr morgens auf.
+Thomas sah Hannah von 6 bis 8 Uhr morgens in der Bibliothek lesen.
+David sah, wie Hannah von 8 bis 10 Uhr morgens im Café einen Kaffee trank.
+Leslie sah Hannah von 18 bis 19 Uhr in einem Yoga-Studio Dehnübungen machen.
+Ashley sah Hannah zwischen 19 und 20 Uhr auf die Freiheitsstatue zulaufen.
+Das Kunstatelier war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Hannah ins Kunstatelier gegangen sein?
+Optionen:
+(A) 10 bis 18 Uhr
+(F) 19:00 bis 20:00 Uhr
+(C) 6 bis 8 Uhr
+(D) 8.00 bis 10.00 Uhr",(A)
+"Heute ist Leslie ins Schwimmbad gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 7 Uhr morgens auf.
+William sah, wie Leslie von 18 bis 19 Uhr im Fitnessstudio trainierte.
+Mark sah Leslie von 19 bis 20 Uhr im Café einen Kaffee trinken.
+Hannah sah, wie Leslie von 20 bis 22 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Das Schwimmbad war nach 22 Uhr geschlossen.
+Wann könnte Leslie ins Schwimmbad gegangen sein?
+Optionen:
+(A) 19:00 bis 20:00 Uhr
+(F) 18:00 bis 19:00 Uhr
+(C) 7 bis 18 Uhr
+(D) 20:00 bis 22:00 Uhr",(C)
+"Heute ist Anthony in die Buchhandlung gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 7 Uhr morgens auf.
+David sah Anthony von 7 bis 8 Uhr im Büro arbeiten.
+Leslie sah, wie Anthony von 8 bis 11 Uhr im Café einen Kaffee trank.
+Sarah sah, wie Anthony von 13.00 bis 21.00 Uhr einen Film im Kino sah.
+Der Buchladen war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Anthony in die Buchhandlung gegangen sein?
+Optionen:
+(A) 11 bis 13 Uhr
+(B) 8.00 bis 11.00 Uhr
+(C) 7 bis 8 Uhr
+(D) 13:00 bis 21:00 Uhr",(A)
+"Heute war Thomas auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 6 Uhr auf.
+William sah Thomas von 8 bis 11 Uhr im Fitnessstudio trainieren.
+David sah, wie Thomas von 11 bis 15 Uhr in einem Yoga-Studio Dehnübungen machte.
+Steven sah, wie Thomas sich von 15 bis 18 Uhr einen Film im Kino ansah.
+Emily sah, wie Thomas von 18 bis 19 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Die Baustelle wurde nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas auf der Baustelle gewesen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(F) 11 bis 15 Uhr
+(C) 8.00 bis 11.00 Uhr
+(D) 6 bis 8 Uhr",(D)
+"Heute ging Jason zum Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 6 Uhr morgens auf.
+Elizabeth sah, wie Jason von 6 bis 7 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Jessica sah Jason von 7 bis 12 Uhr im Café einen Kaffee trinken.
+Mark sah Jason von 16:00 bis 18:00 Uhr auf dem Tennisplatz Tennis spielen.
+Linda sah, wie Jason von 18 bis 20 Uhr im Feinkostladen das Mittagessen kaufte.
+Die Bäckerei war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason zum Bäcker gegangen sein?
+Optionen:
+(A) 16:00 bis 18:00 Uhr
+(B) 6 bis 7 Uhr
+(C) 7:00 bis 12:00 Uhr
+(D) 12 bis 16 Uhr",(D)
+"Heute war Betty beim Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Betty wachte um 5 Uhr morgens auf.
+Jessica sah Betty von 5 bis 13 Uhr zum Wasserpark fahren.
+Susan sah, wie Betty von 13 bis 16 Uhr in einem Yoga-Studio Dehnübungen machte.
+Leslie sah, wie Betty von 16 bis 21 Uhr im Elektronikladen ein Telefon kaufte.
+Die Bäckerei war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Betty zum Bäcker gegangen sein?
+Optionen:
+(A) 5 bis 13 Uhr
+(F) 16:00 bis 21:00 Uhr
+(C) 13.00 bis 16.00 Uhr
+(D) 21:00 bis 22:00 Uhr",(D)
+"Heute ging Ashley auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 11 Uhr auf.
+David sah, wie Ashley von 11 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+William sah Ashley von 12 bis 15 Uhr auf einem Dach sitzen.
+Elizabeth sah Ashley von 15 bis 17 Uhr im Büro arbeiten.
+Der Basketballplatz wurde nach 20 Uhr geschlossen.
+Ab wann könnte Ashley auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 17:00 Uhr
+(B) 12:00 bis 15:00 Uhr
+(C) 17:00 bis 20:00 Uhr
+(D) 11 bis 12 Uhr",(C)
+"Heute war David auf dem Markt. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+Sarah sah David von 5 bis 7 Uhr morgens in der Bibliothek lesen.
+John sah, wie David von 7 bis 10 Uhr morgens im Elektronikladen ihren Computer reparierte.
+Tiffany sah, wie David von 10 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+William sah, wie David von 19 bis 22 Uhr im Elektronikladen ein Telefon kaufte.
+Der Markt war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David auf den Markt gegangen sein?
+Optionen:
+(A) 12 bis 19 Uhr
+(B) 19:00 bis 22:00 Uhr
+(C) 7.00 bis 10.00 Uhr
+(D) 10 bis 12 Uhr",(A)
+"Heute ging Leslie in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 5 Uhr morgens auf.
+Betty sah Leslie von 5 bis 7 Uhr morgens auf die Freiheitsstatue zulaufen.
+Mary sah, wie Leslie von 9 bis 10 Uhr im Fitnessstudio trainierte.
+Hannah sah, wie Leslie von 10 bis 17 Uhr im Elektronikladen ihren Computer reparierte.
+Mark sah, wie Leslie von 17:00 bis 21:00 Uhr den Unterricht in der Schule besuchte.
+Der Physikunterricht war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Leslie in den Physikunterricht gegangen sein?
+Optionen:
+(A) 5 bis 7 Uhr
+(F) 17:00 bis 21:00 Uhr
+(C) 7.00 bis 9.00 Uhr
+(D) 9.00 bis 10.00 Uhr",(C)
+"Heute ist Ashley an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 7 Uhr morgens auf.
+Elizabeth sah, wie Ashley von 7 bis 8 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Samantha sah, wie Ashley von 8 bis 11 Uhr im Feinkostladen das Mittagessen kaufte.
+Jennifer sah, wie Ashley von 11 bis 17 Uhr im Einkaufszentrum Kleidung kaufte.
+Der Strand war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley an den Strand gegangen sein?
+Optionen:
+(A) 8.00 bis 11.00 Uhr
+(B) 11 bis 17 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 7 bis 8 Uhr",(C)
+"Heute war Michael auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 5 Uhr morgens auf.
+Sean sah, wie Michael von 5 bis 10 Uhr morgens am Unterricht in der Schule teilnahm.
+Lisa sah Michael von 17 bis 19 Uhr im Garten spazieren gehen.
+Anthony sah Michael von 19 bis 22 Uhr im Café einen Kaffee trinken.
+Die Baustelle wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael auf der Baustelle gewesen sein?
+Optionen:
+(A) 10 bis 17 Uhr
+(B) 19:00 bis 22:00 Uhr
+(C) 5 bis 10 Uhr
+(D) 17:00 bis 19:00 Uhr",(A)
+"Heute ist Jason zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 5 Uhr morgens auf.
+Sean sah Jason von 5 bis 8 Uhr morgens im Garten spazieren gehen.
+David sah, wie Jason von 8 bis 14 Uhr im Feinkostladen das Mittagessen kaufte.
+Jennifer sah Jason von 14 bis 17 Uhr zum Wasserpark fahren.
+Lisa sah, wie Jason von 18 bis 19 Uhr einen Film im Kino sah.
+Mary sah, wie Jason von 19 bis 22 Uhr Kekse in einer Bäckerei kaufte.
+Die Tankstelle war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason zur Tankstelle gegangen sein?
+Optionen:
+(A) 17:00 bis 18:00 Uhr
+(F) 14:00 bis 17:00 Uhr
+(C) 18:00 bis 19:00 Uhr
+(D) 8:00 bis 14:00 Uhr",(A)
+"Heute war Sean im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 5 Uhr morgens auf.
+Emily sah Sean von 5 bis 6 Uhr morgens auf einem Dach sitzen.
+Jason sah, wie Sean von 6 bis 7 Uhr morgens im Elektronikladen ihren Computer reparierte.
+Jennifer sah, wie Sean von 7 bis 8 Uhr morgens im Fitnessstudio trainierte.
+David sah, wie Sean von 9 bis 19 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Das Restaurant war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sean ins Restaurant gegangen sein?
+Optionen:
+(A) 7 bis 8 Uhr
+(B) 6 bis 7 Uhr
+(C) 9 bis 19 Uhr
+(D) 8 bis 9 Uhr",(D)
+"Heute ist Sarah zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 7 Uhr auf.
+Kimberly sah Sarah von 7 bis 9 Uhr morgens auf einem Dach sitzen.
+Mark sah, wie Sarah von 11 bis 14 Uhr im Fahrradladen ein Fahrrad kaufte.
+John sah, wie Sarah von 14 bis 15 Uhr Kekse in einer Bäckerei kaufte.
+William sah, wie Sarah von 15 bis 16 Uhr im Elektronikladen ihren Computer reparierte.
+Die Tankstelle war nach 16 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zur Tankstelle gegangen sein?
+Optionen:
+(A) 11 bis 14 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 9.00 bis 11.00 Uhr
+(D) 15:00 bis 16:00 Uhr",(C)
+"Heute war Andrew zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 6 Uhr morgens auf.
+Kimberly sah Andrew von 10 bis 12 Uhr am Flughafen warten.
+Anthony sah, wie Andrew von 12 bis 19 Uhr den Unterricht in der Schule besuchte.
+John sah Andrew von 19 bis 20 Uhr im Fitnessstudio trainieren.
+Die Kunstausstellung wurde nach 20 Uhr geschlossen.
+Wann könnte Andrew die Kunstausstellung besucht haben?
+Optionen:
+(A) 6 bis 10 Uhr
+(F) 19:00 bis 20:00 Uhr
+(C) 12 bis 19 Uhr
+(D) 10 bis 12 Uhr",(A)
+"Heute war James im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 12 Uhr auf.
+Elizabeth sah, wie James von 15 bis 16 Uhr in einem Yoga-Studio Dehnübungen machte.
+Michael sah, wie James von 16:00 bis 19:00 Uhr im Elektronikladen ihren Computer reparierte.
+Mary sah James von 19 bis 21 Uhr im Büro arbeiten.
+Nancy sah, wie James von 21 bis 22 Uhr im Fitnessstudio trainierte.
+Das Restaurant war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James ins Restaurant gegangen sein?
+Optionen:
+(A) 12 bis 15 Uhr
+(F) 15:00 bis 16:00 Uhr
+(C) 19:00 bis 21:00 Uhr
+(D) 21:00 bis 22:00 Uhr",(A)
+"Heute war Ashley auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+James sah Ashley von 5 bis 9 Uhr im Büro arbeiten.
+Richard sah, wie Ashley von 16 bis 19 Uhr im Elektronikladen ein Telefon kaufte.
+David sah Ashley von 19 bis 20 Uhr auf dem Tennisplatz Tennis spielen.
+William sah, wie Ashley sich von 20 bis 22 Uhr einen Film im Kino ansah.
+Die Baustelle wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley auf die Baustelle gegangen sein?
+Optionen:
+(A) 16:00 bis 19:00 Uhr
+(B) 5 bis 9 Uhr
+(C) 9 bis 16 Uhr
+(D) 20:00 bis 22:00 Uhr",(C)
+"Heute ist Ashley zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+Nancy sah, wie Ashley von 6 bis 7 Uhr morgens Kekse in einer Bäckerei kaufte.
+David sah Ashley von 7 bis 13 Uhr im Büro arbeiten.
+Tiffany sah, wie Ashley zwischen 13 und 15 Uhr im Elektronikladen ein Telefon kaufte.
+Mary sah Ashley von 15 bis 16 Uhr im Café einen Kaffee trinken.
+Lisa sah, wie Ashley von 16 bis 22 Uhr im Feinkostladen das Mittagessen kaufte.
+Die Tankstelle war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley zur Tankstelle gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(B) 6 bis 7 Uhr
+(C) 7 bis 13 Uhr
+(D) 5 bis 6 Uhr",(D)
+"Heute war Sarah im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Ashley sah, wie Sarah von 5 bis 11 Uhr morgens in der Nähe des Eiffelturms Fotos machte.
+Michael sah Sarah von 11 bis 12 Uhr im Garten spazieren gehen.
+Emily sah, wie Sarah von 12 bis 14 Uhr Kekse in einer Bäckerei kaufte.
+Richard sah, wie Sarah von 14 bis 15 Uhr im Elektronikladen ein Telefon kaufte.
+Das Bekleidungsgeschäft war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 15:00 bis 19:00 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 12 bis 14 Uhr
+(D) 11 bis 12 Uhr",(A)
+"Heute war Michael auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 5 Uhr morgens auf.
+Kimberly sah, wie Michael von 5 bis 7 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+William sah Michael von 7 bis 8 Uhr morgens im Garten spazieren gehen.
+Sarah sah, wie Michael von 8 bis 10 Uhr im Elektronikladen ihren Computer reparierte.
+Nancy sah Michael von 10 bis 12 Uhr am Flughafen warten.
+Samantha sah Michael von 13 bis 21 Uhr im Fitnessstudio trainieren.
+Der Fußballplatz wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 12 bis 13 Uhr
+(B) 10 bis 12 Uhr
+(C) 7 bis 8 Uhr
+(D) 5 bis 7 Uhr",(A)
+"Heute ging Anthony auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 5 Uhr morgens auf.
+Sarah sah, wie Anthony von 5 bis 7 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Tiffany sah, wie Anthony von 7 bis 12 Uhr im Feinkostladen das Mittagessen kaufte.
+Sean sah, wie Anthony sich von 12 bis 14 Uhr einen Film im Kino ansah.
+Emily sah, wie Anthony von 14 bis 16 Uhr im Elektronikladen ein Telefon kaufte.
+Der Basketballplatz wurde nach 21 Uhr geschlossen.
+Ab wann könnte Anthony auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 5 bis 7 Uhr
+(B) 12 bis 14 Uhr
+(C) 16:00 bis 21:00 Uhr
+(D) 7:00 bis 12:00 Uhr",(C)
+"Heute ist William ins Restaurant gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 11 Uhr auf.
+Nancy sah, wie William von 15 bis 17 Uhr im Einkaufszentrum Kleidung kaufte.
+Leslie sah, wie William von 17 bis 19 Uhr im Elektronikladen ein Telefon kaufte.
+David sah William von 19 bis 22 Uhr auf dem Tennisplatz Tennis spielen.
+Das Restaurant war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Restaurant gegangen sein?
+Optionen:
+(A) 15:00 bis 17:00 Uhr
+(F) 11 bis 15 Uhr
+(C) 17:00 bis 19:00 Uhr
+(D) 19:00 bis 22:00 Uhr",(B)
+"Heute war Susan auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 5 Uhr morgens auf.
+William sah Susan von 5 bis 6 Uhr morgens im Garten spazieren gehen.
+Anthony sah Susan von 6 bis 7 Uhr morgens im Fitnessstudio trainieren.
+Betty sah, wie Susan von 14:00 bis 18:00 Uhr im Elektronikladen ihren Computer reparierte.
+Lisa sah, wie Susan von 18 bis 20 Uhr Kekse in einer Bäckerei kaufte.
+Linda sah Susan von 20 bis 21 Uhr Tennis auf dem Tennisplatz spielen.
+Der Fußballplatz wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(F) 5 bis 6 Uhr
+(C) 7:00 bis 14:00 Uhr
+(D) 18:00 bis 20:00 Uhr",(C)
+"Heute war Sarah im Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Susan sah, wie Sarah von 5 bis 7 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Emily sah Sarah von 7 bis 11 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Thomas sah Sarah von 13 bis 18 Uhr auf einem Dach sitzen.
+Das Tanzstudio war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah ins Tanzstudio gegangen sein?
+Optionen:
+(A) 13:00 bis 18:00 Uhr
+(B) 7.00 bis 11.00 Uhr
+(C) 5 bis 7 Uhr
+(D) 11 bis 13 Uhr",(D)
+"Heute ist Emily in den Park gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 5 Uhr morgens auf.
+Leslie sah Emily von 5 bis 6 Uhr morgens im Café einen Kaffee trinken.
+Kimberly sah Emily von 6 bis 14 Uhr auf die Freiheitsstatue zulaufen.
+Richard sah Emily von 16 bis 22 Uhr am Flughafen warten.
+Der Park wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily in den Park gegangen sein?
+Optionen:
+(A) 6 bis 14 Uhr
+(B) 16:00 bis 22:00 Uhr
+(C) 5 bis 6 Uhr
+(D) 14:00 bis 16:00 Uhr",(D)
+"Heute ging Emily auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 12 Uhr auf.
+John sah Emily von 12 bis 14 Uhr auf dem Tennisplatz Tennis spielen.
+Sean sah Emily von 14 bis 15 Uhr am Flughafen warten.
+Samantha sah, wie Emily von 18 bis 20 Uhr im Einkaufszentrum Kleidung kaufte.
+Anthony sah, wie Emily von 20 bis 21 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Sarah sah, wie Emily von 21 bis 22 Uhr im Fitnessstudio trainierte.
+Der Basketballplatz war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 18:00 Uhr
+(B) 12 bis 14 Uhr
+(C) 18:00 bis 20:00 Uhr
+(D) 14:00 bis 15:00 Uhr",(A)
+"Heute war Sean zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sean wachte um 7 Uhr morgens auf.
+Elizabeth sah, wie Sean von 7 bis 11 Uhr im Elektronikladen ihren Computer reparierte.
+Anthony sah Sean von 11 bis 14 Uhr am Flughafen warten.
+Tiffany sah Sean von 14 bis 15 Uhr am Bahnhof warten.
+Andrew sah, wie Sean von 16 bis 20 Uhr im Fahrradladen ein Fahrrad kaufte.
+Die Kunstausstellung wurde nach 20 Uhr geschlossen.
+Wann könnte Sean zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(B) 7.00 bis 11.00 Uhr
+(C) 16:00 bis 20:00 Uhr
+(D) 11 bis 14 Uhr",(A)
+"Heute ging Elizabeth ins Kino. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 5 Uhr morgens auf.
+Sarah sah, wie Elizabeth von 5 bis 15 Uhr im Café einen Kaffee trank.
+Susan sah Elizabeth von 15 bis 16 Uhr im Fitnessstudio trainieren.
+John sah, wie Elizabeth von 16 bis 18 Uhr im Elektronikladen ein Telefon kaufte.
+Tiffany sah Elizabeth von 18 bis 19 Uhr am Bahnhof warten.
+Andrew sah Elizabeth von 19 bis 20 Uhr am Flughafen warten.
+Das Kino war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth ins Kino gegangen sein?
+Optionen:
+(A) 20:00 bis 21:00 Uhr
+(F) 16:00 bis 18:00 Uhr
+(C) 5 bis 15 Uhr
+(D) 18:00 bis 19:00 Uhr",(A)
+"Heute ging William auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 7 Uhr morgens auf.
+Lisa sah, wie William von 11 bis 14 Uhr in einem Yoga-Studio Dehnübungen machte.
+John sah William zwischen 14 und 15 Uhr auf die Freiheitsstatue zulaufen.
+Sean sah William von 15 bis 17 Uhr in der Bibliothek lesen.
+Sarah sah, wie William von 17:00 bis 21:00 Uhr zum Wasserpark fuhr.
+Der Basketballplatz wurde nach 21 Uhr geschlossen.
+Ab wann könnte William auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 17:00 bis 21:00 Uhr
+(F) 15:00 bis 17:00 Uhr
+(C) 7.00 bis 11.00 Uhr
+(D) 11 bis 14 Uhr",(C)
+"Heute war Thomas auf dem Markt. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 6 Uhr auf.
+Andrew sah Thomas von 6 bis 7 Uhr morgens auf einem Dach sitzen.
+Elizabeth sah, wie Thomas von 9 bis 10 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Samantha sah Thomas von 10 bis 12 Uhr am Flughafen warten.
+Michael sah, wie Thomas von 12 bis 18 Uhr im Einkaufszentrum Kleidung kaufte.
+Sarah sah, wie Thomas zwischen 18 und 19 Uhr auf die Freiheitsstatue zuging.
+Der Markt war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas auf den Markt gegangen sein?
+Optionen:
+(A) 12 bis 18 Uhr
+(B) 7.00 bis 9.00 Uhr
+(C) 18:00 bis 19:00 Uhr
+(D) 10 bis 12 Uhr",(B)
+"Heute war Susan im Museum. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 9 Uhr auf.
+Thomas sah Susan von 9 bis 13 Uhr am Flughafen warten.
+David sah Susan von 16 bis 17 Uhr im Büro arbeiten.
+Elizabeth sah, wie Susan von 17 bis 18 Uhr Kekse in einer Bäckerei kaufte.
+Kimberly sah Susan von 18 bis 21 Uhr auf einem Dach sitzen.
+Das Museum war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan ins Museum gegangen sein?
+Optionen:
+(A) 17:00 bis 18:00 Uhr
+(F) 18:00 bis 21:00 Uhr
+(C) 16:00 bis 17:00 Uhr
+(D) 13:00 bis 16:00 Uhr",(D)
+"Heute war Kimberly auf der Baustelle. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Kimberly wachte um 6 Uhr morgens auf.
+Hannah sah, wie Kimberly von 7 bis 8 Uhr morgens Kekse in einer Bäckerei kaufte.
+Thomas sah, wie Kimberly von 8 bis 10 Uhr morgens im Elektronikladen ihren Computer reparierte.
+John sah, wie Kimberly von 10 bis 11 Uhr im Elektronikladen ein Telefon kaufte.
+David sah Kimberly von 11 bis 14 Uhr auf dem Tennisplatz Tennis spielen.
+Mark sah Kimberly, wie sie sich von 14 bis 15 Uhr einen Film im Kino ansah.
+Die Baustelle wurde nach 15 Uhr geschlossen.
+Wann könnte Kimberly auf die Baustelle gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(B) 8.00 bis 10.00 Uhr
+(C) 10 bis 11 Uhr
+(D) 11 bis 14 Uhr",(A)
+"Heute ist Leslie auf den Fußballplatz gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 5 Uhr morgens auf.
+Sarah sah Leslie von 5 bis 12 Uhr am Bahnhof warten.
+Hannah sah Leslie von 12 bis 14 Uhr auf einem Dach sitzen.
+Elizabeth sah, wie Leslie von 15 bis 16 Uhr im Fahrradladen ein Fahrrad kaufte.
+Emily sah Leslie von 16 bis 22 Uhr im Büro arbeiten.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Ab wann könnte Leslie auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 12 bis 14 Uhr
+(F) 14:00 bis 15:00 Uhr
+(C) 16:00 bis 22:00 Uhr
+(D) 5 bis 12 Uhr",(B)
+"Heute ging William in den Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 5 Uhr morgens auf.
+Betty sah William von 5 bis 9 Uhr morgens auf die Freiheitsstatue zulaufen.
+David sah William von 16 bis 19 Uhr in der Bibliothek lesen.
+Lisa sah, wie William von 19 bis 21 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Vergnügungspark war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 9.00 bis 16.00 Uhr
+(B) 5 bis 9 Uhr
+(C) 16:00 bis 19:00 Uhr
+(D) 19:00 bis 21:00 Uhr",(A)
+"Heute ging Andrew zum Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 9 Uhr auf.
+David sah Andrew von 9 bis 12 Uhr am Bahnhof warten.
+Emily sah Andrew von 12 bis 16 Uhr auf die Freiheitsstatue zulaufen.
+Sarah sah Andrew von 16 bis 20 Uhr im Garten spazieren gehen.
+Nancy sah, wie Andrew von 21 bis 22 Uhr im Elektronikladen ihren Computer reparierte.
+Das Bekleidungsgeschäft war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 9.00 bis 12.00 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 12 bis 16 Uhr
+(D) 20:00 bis 21:00 Uhr",(D)
+"Heute ist Jennifer ins Café gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 5 Uhr morgens auf.
+Steven sah Jennifer von 5 bis 8 Uhr morgens in einem Yoga-Studio Dehnübungen machen.
+Richard sah Jennifer von 8 bis 10 Uhr am Bahnhof warten.
+Mark sah Jennifer von 12 bis 19 Uhr im Garten spazieren gehen.
+Das Café war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer ins Café gegangen sein?
+Optionen:
+(A) 10 bis 12 Uhr
+(F) 5 bis 8 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 12 bis 19 Uhr",(A)
+"Heute war Susan im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 6 Uhr morgens auf.
+Susan sah, wie Susan von 11 bis 12 Uhr im Fahrradladen ein Fahrrad kaufte.
+William sah Susan von 12 bis 16 Uhr in einem Yoga-Studio Dehnübungen machen.
+David sah, wie Susan von 16 bis 20 Uhr in der Nähe des Eiffelturms Fotos machte.
+Das Kunstatelier war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan ins Kunstatelier gegangen sein?
+Optionen:
+(A) 11 bis 12 Uhr
+(B) 12 bis 16 Uhr
+(C) 6:00 bis 11:00 Uhr
+(D) 16:00 bis 20:00 Uhr",(C)
+"Heute ging James ins Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+James wachte um 7 Uhr morgens auf.
+Elizabeth sah James von 7 bis 8 Uhr am Flughafen warten.
+Kimberly sah James von 13 bis 15 Uhr in der Bibliothek lesen.
+Ashley sah, wie James von 15:00 bis 19:00 Uhr Fotos in der Nähe des Eiffelturms machte.
+Sean sah, wie James von 19 bis 21 Uhr in einem Yoga-Studio Dehnübungen machte.
+William sah, wie James von 21 bis 22 Uhr am Unterricht in der Schule teilnahm.
+Das Café war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte James ins Café gegangen sein?
+Optionen:
+(A) 21:00 bis 22:00 Uhr
+(F) 19:00 bis 21:00 Uhr
+(C) 8 bis 13 Uhr
+(D) 15:00 bis 19:00 Uhr",(C)
+"Heute war Tiffany im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Tiffany wachte um 10 Uhr auf.
+John sah, wie Tiffany von 10 bis 12 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+William sah, wie Tiffany von 13 bis 18 Uhr in der Nähe des Eiffelturms Fotos machte.
+Lisa sah, wie Tiffany von 18 bis 19 Uhr zum Wasserpark fuhr.
+Das Bekleidungsgeschäft war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Tiffany zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(B) 13 bis 18 Uhr
+(C) 12 bis 13 Uhr
+(D) 10 bis 12 Uhr",(C)
+"Heute ging Andrew auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 6 Uhr morgens auf.
+Jessica sah, wie Andrew von 6 bis 11 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Elizabeth sah Andrew von 11 bis 18 Uhr im Garten spazieren gehen.
+Emily sah, wie Andrew von 20 bis 21 Uhr einen Film im Kino sah.
+Der Basketballplatz wurde nach 21 Uhr geschlossen.
+Ab wann könnte Andrew auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 11 bis 18 Uhr
+(F) 20:00 bis 21:00 Uhr
+(C) 6:00 bis 11:00 Uhr
+(D) 18:00 bis 20:00 Uhr",(D)
+"Heute war Thomas im Restaurant. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 9 Uhr auf.
+Linda sah Thomas von 9 bis 12 Uhr am Flughafen warten.
+Susan sah, wie Thomas von 17:00 bis 19:00 Uhr im Feinkostladen das Mittagessen kaufte.
+Lisa sah, wie Thomas sich von 19 bis 22 Uhr einen Film im Kino ansah.
+Das Restaurant war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas ins Restaurant gegangen sein?
+Optionen:
+(A) 19:00 bis 22:00 Uhr
+(F) 9.00 bis 12.00 Uhr
+(C) 17:00 bis 19:00 Uhr
+(D) 12 bis 17 Uhr",(D)
+"Heute war David im Museum. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 6 Uhr morgens auf.
+Thomas sah David von 6 bis 7 Uhr morgens auf einem Dach sitzen.
+Sarah sah, wie David von 7 bis 8 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Sean sah, wie David von 8.00 bis 10.00 Uhr im Elektronikladen ihren Computer reparierte.
+Samantha sah, wie David von 12 bis 13 Uhr zum Wasserpark fuhr.
+Andrew sah, wie David von 13 bis 20 Uhr in einem Yoga-Studio Dehnübungen machte.
+Das Museum war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David ins Museum gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(F) 7 bis 8 Uhr
+(C) 10 bis 12 Uhr
+(D) 13:00 bis 20:00 Uhr",(C)
+"Heute war Elizabeth im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 6 Uhr morgens auf.
+Sean sah, wie Elizabeth von 6 bis 8 Uhr morgens im Feinkostladen das Mittagessen kaufte.
+Lisa sah Elizabeth von 8 bis 9 Uhr im Büro arbeiten.
+David sah, wie Elizabeth von 12 bis 13 Uhr in einem Yoga-Studio Dehnübungen machte.
+Samantha sah Elizabeth zwischen 13 und 17 Uhr auf die Freiheitsstatue zulaufen.
+Das Kunstatelier war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth ins Kunstatelier gegangen sein?
+Optionen:
+(A) 9.00 bis 12.00 Uhr
+(F) 8.00 bis 9.00 Uhr
+(C) 6 bis 8 Uhr
+(D) 12 bis 13 Uhr",(A)
+"Heute ging Jason in den Physikunterricht. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 5 Uhr morgens auf.
+Leslie sah, wie Jason von 5 bis 9 Uhr morgens im Fahrradladen ein Fahrrad kaufte.
+James sah Jason von 13 bis 20 Uhr in einem Yoga-Studio Dehnübungen machen.
+William sah, wie Jason von 20 bis 21 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Richard sah Jason von 21 bis 22 Uhr im Café einen Kaffee trinken.
+Der Physikunterricht war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason in den Physikunterricht gegangen sein?
+Optionen:
+(A) 5 bis 9 Uhr
+(B) 9.00 bis 13.00 Uhr
+(C) 13:00 bis 20:00 Uhr
+(D) 20:00 bis 21:00 Uhr",(B)
+"Heute ist Sarah zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 6 Uhr morgens auf.
+Samantha sah Sarah von 6 bis 9 Uhr morgens in der Bibliothek lesen.
+Mary sah, wie Sarah von 9 bis 11 Uhr in der Nähe des Eiffelturms Fotos machte.
+Steven sah, wie Sarah von 11 bis 14 Uhr Kekse in einer Bäckerei kaufte.
+Die Tankstelle war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah zur Tankstelle gegangen sein?
+Optionen:
+(A) 11 bis 14 Uhr
+(F) 14:00 bis 21:00 Uhr
+(C) 9.00 bis 11.00 Uhr
+(D) 6 bis 9 Uhr",(B)
+"Heute ging William ins Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 7 Uhr morgens auf.
+Lisa sah William von 9 bis 11 Uhr auf einem Dach sitzen.
+Elizabeth sah, wie William von 11 bis 13 Uhr im Fahrradladen ein Fahrrad kaufte.
+Richard sah William von 13 bis 18 Uhr im Büro arbeiten.
+Andrew sah William von 18 bis 22 Uhr am Bahnhof warten.
+Das Café war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Café gegangen sein?
+Optionen:
+(A) 11 bis 13 Uhr
+(B) 13 bis 18 Uhr
+(C) 18:00 bis 22:00 Uhr
+(D) 7.00 bis 9.00 Uhr",(D)
+"Heute ging Ashley auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 7 Uhr morgens auf.
+Lisa sah Ashley von 7 bis 8 Uhr im Büro arbeiten.
+Michael sah Ashley von 8 bis 10 Uhr im Garten spazieren gehen.
+Samantha sah, wie Ashley von 13.00 bis 18.00 Uhr am Unterricht in der Schule teilnahm.
+Der Basketballplatz wurde nach 18 Uhr geschlossen.
+Ab wann könnte Ashley auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(B) 13 bis 18 Uhr
+(C) 10 bis 13 Uhr
+(D) 7 bis 8 Uhr",(C)
+"Heute ist William auf den Markt gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 8 Uhr morgens auf.
+Thomas sah, wie William von 8 bis 10 Uhr morgens im Elektronikladen seinen Computer reparierte.
+James sah William von 10 bis 11 Uhr am Bahnhof warten.
+Steven sah William von 11 bis 18 Uhr auf einem Dach sitzen.
+Emily sah, wie William von 18 bis 21 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Der Markt war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William auf den Markt gegangen sein?
+Optionen:
+(A) 11 bis 18 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 18:00 bis 21:00 Uhr
+(D) 8.00 bis 10.00 Uhr",(B)
+"Heute war Sarah auf dem Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Sarah wachte um 5 Uhr morgens auf.
+Linda sah, wie Sarah von 5 bis 6 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Kimberly sah Sarah von 8 bis 10 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Jennifer sah, wie Sarah von 10 bis 19 Uhr Kekse in einer Bäckerei kaufte.
+Michael sah Sarah von 19 bis 21 Uhr im Büro arbeiten.
+Der Fußballplatz wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Sarah auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 5 bis 6 Uhr
+(B) 6 bis 8 Uhr
+(C) 8.00 bis 10.00 Uhr
+(D) 19:00 bis 21:00 Uhr",(B)
+"Heute ist Nancy an den Strand gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 11 Uhr auf.
+Tiffany sah, wie Nancy von 11 bis 14 Uhr in einem Yoga-Studio Dehnübungen machte.
+Linda sah, wie Nancy von 16 bis 17 Uhr Kekse in einer Bäckerei kaufte.
+Mary sah Nancy von 17 bis 20 Uhr am Bahnhof warten.
+Der Strand war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy an den Strand gegangen sein?
+Optionen:
+(A) 11 bis 14 Uhr
+(B) 17:00 bis 20:00 Uhr
+(C) 14:00 bis 16:00 Uhr
+(D) 16:00 bis 17:00 Uhr",(C)
+"Heute war Betty im Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Betty wachte um 8 Uhr auf.
+Emily sah, wie Betty von 8 bis 10 Uhr im Fahrradladen ein Fahrrad kaufte.
+Susan sah Betty von 10 bis 12 Uhr im Garten spazieren gehen.
+John sah Betty von 13 bis 15 Uhr im Büro arbeiten.
+Lisa sah, wie Betty von 15 bis 16 Uhr Kekse in einer Bäckerei kaufte.
+Mark sah, wie Betty von 16 bis 17 Uhr in der Nähe des Eiffelturms Fotos machte.
+Das Café war nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Betty ins Café gegangen sein?
+Optionen:
+(A) 13:00 bis 15:00 Uhr
+(B) 8.00 bis 10.00 Uhr
+(C) 10 bis 12 Uhr
+(D) 12 bis 13 Uhr",(D)
+"Heute ist Leslie auf den Markt gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Leslie wachte um 6 Uhr morgens auf.
+Anthony sah Leslie von 6 bis 9 Uhr morgens im Café einen Kaffee trinken.
+Sarah sah, wie Leslie von 9 bis 10 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Jason sah, wie Leslie von 10 bis 11 Uhr im Einkaufszentrum Kleidung kaufte.
+Lisa sah, wie Leslie von 17 bis 18 Uhr in einem Yoga-Studio Dehnübungen machte.
+Der Markt war nach 18 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Leslie auf den Markt gegangen sein?
+Optionen:
+(A) 6 bis 9 Uhr
+(B) 11 bis 17 Uhr
+(C) 10 bis 11 Uhr
+(D) 9.00 bis 10.00 Uhr",(B)
+"Heute war Samantha im Vergnügungspark. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Samantha wachte um 5 Uhr morgens auf.
+Hannah sah, wie Samantha von 5 bis 7 Uhr morgens im Elektronikladen ein Telefon kaufte.
+James sah, wie Samantha von 7 bis 8 Uhr morgens im Fitnessstudio trainierte.
+Richard sah Samantha von 8 bis 11 Uhr im Büro arbeiten.
+Mark sah, wie Samantha von 11 bis 14 Uhr im Feinkostladen das Mittagessen kaufte.
+William sah, wie Samantha von 19 bis 20 Uhr im Fahrradladen ein Fahrrad kaufte.
+Der Vergnügungspark war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Samantha in den Vergnügungspark gegangen sein?
+Optionen:
+(A) 14:00 bis 19:00 Uhr
+(B) 11 bis 14 Uhr
+(C) 5 bis 7 Uhr
+(D) 7 bis 8 Uhr",(A)
+"Heute ist William zur Tankstelle gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 5 Uhr morgens auf.
+Sarah sah, wie William von 7 bis 11 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Thomas sah, wie William von 11 bis 12 Uhr im Fitnessstudio trainierte.
+Steven sah William von 12 bis 14 Uhr am Flughafen warten.
+James sah William zwischen 14 und 20 Uhr auf die Freiheitsstatue zulaufen.
+Die Tankstelle war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William zur Tankstelle gegangen sein?
+Optionen:
+(A) 5 bis 7 Uhr
+(F) 11 bis 12 Uhr
+(C) 12 bis 14 Uhr
+(D) 7.00 bis 11.00 Uhr",(A)
+"Heute ging Jason zum Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jason wachte um 8 Uhr auf.
+Hannah sah, wie Jason von 8 bis 10 Uhr im Elektronikladen ihren Computer reparierte.
+Sarah sah, wie Jason von 10 bis 11 Uhr im Einkaufszentrum Kleidung kaufte.
+Thomas sah Jason von 11 bis 15 Uhr im Garten spazieren gehen.
+Linda sah Jason von 15 bis 19 Uhr auf einem Dach sitzen.
+Mark sah Jason von 19 bis 21 Uhr auf die Freiheitsstatue zulaufen.
+Der Basketballplatz war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jason auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 19:00 Uhr
+(B) 8.00 bis 10.00 Uhr
+(C) 21:00 bis 22:00 Uhr
+(D) 10 bis 11 Uhr",(C)
+"Heute war David im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+Linda sah, wie David von 5 bis 7 Uhr morgens einen Film im Kino sah.
+James sah, wie David von 9 bis 10 Uhr das Mittagessen im Feinkostladen kaufte.
+Mary sah, wie David von 10 bis 11 Uhr im Elektronikladen ein Telefon kaufte.
+Leslie sah David von 11 bis 14 Uhr zum Wasserpark fahren.
+Jessica sah, wie David von 14 bis 19 Uhr im Fahrradladen ein Fahrrad kaufte.
+Das Kunstatelier war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte David ins Kunstatelier gegangen sein?
+Optionen:
+(A) 7 bis 9 Uhr
+(B) 14:00 bis 19:00 Uhr
+(C) 5 bis 7 Uhr
+(D) 11 bis 14 Uhr",(A)
+"Heute ging Ashley auf den Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 13 Uhr auf.
+Lisa sah, wie Ashley von 14 bis 17 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Nancy sah Ashley von 17 bis 18 Uhr im Fitnessstudio trainieren.
+Steven sah Ashley von 18 bis 21 Uhr im Büro arbeiten.
+Kimberly sah, wie Ashley von 21 bis 22 Uhr im Fahrradladen ein Fahrrad kaufte.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Ab wann könnte Ashley auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 13:00 bis 14:00 Uhr
+(B) 17:00 bis 18:00 Uhr
+(C) 21:00 bis 22:00 Uhr
+(D) 14:00 bis 17:00 Uhr",(A)
+"Heute ging Elizabeth auf den Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 5 Uhr morgens auf.
+Betty sah Elizabeth von 5 bis 9 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Thomas sah Elizabeth von 9 bis 10 Uhr am Flughafen warten.
+Tiffany sah, wie Elizabeth von 10 bis 14 Uhr im Fahrradladen ein Fahrrad kaufte.
+Steven sah Elizabeth von 14 bis 16 Uhr im Büro arbeiten.
+John sah, wie Elizabeth von 17:00 bis 22:00 Uhr im Feinkostladen das Mittagessen kaufte.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Ab wann könnte Elizabeth auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 16:00 bis 17:00 Uhr
+(B) 17:00 bis 22:00 Uhr
+(C) 5 bis 9 Uhr
+(D) 10 bis 14 Uhr",(A)
+"Heute ging William zum Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 6 Uhr morgens auf.
+David sah William von 8 bis 9 Uhr am Flughafen warten.
+Michael sah, wie William von 9 bis 13 Uhr am Unterricht in der Schule teilnahm.
+Sarah sah, wie William von 13 bis 14 Uhr im Fitnessstudio trainierte.
+Jessica sah, wie William von 14 bis 21 Uhr in der Nähe des Eiffelturms Fotos machte.
+Die Bäckerei war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William zum Bäcker gegangen sein?
+Optionen:
+(A) 13:00 bis 14:00 Uhr
+(F) 8.00 bis 9.00 Uhr
+(C) 9.00 bis 13.00 Uhr
+(D) 6 bis 8 Uhr",(D)
+"Heute ging Anthony ins Tanzstudio. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Anthony wachte um 7 Uhr morgens auf.
+Kimberly sah Anthony von 7 bis 9 Uhr morgens im Garten spazieren gehen.
+Linda sah Anthony von 10 bis 13 Uhr am Bahnhof warten.
+Susan sah, wie Anthony von 13.00 bis 16.00 Uhr am Unterricht in der Schule teilnahm.
+David sah, wie Anthony von 16:00 bis 19:00 Uhr im Elektronikladen seinen Computer reparierte.
+Tiffany sah Anthony von 19 bis 20 Uhr in der Bibliothek lesen.
+Das Tanzstudio war nach 20 Uhr geschlossen.
+Ab wann könnte Anthony ins Tanzstudio gegangen sein?
+Optionen:
+(A) 7 bis 9 Uhr
+(F) 16:00 bis 19:00 Uhr
+(C) 9.00 bis 10.00 Uhr
+(D) 19:00 bis 20:00 Uhr",(C)
+"Heute war John im Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+John wachte um 6 Uhr morgens auf.
+Thomas sah John von 7 bis 15 Uhr in der Bibliothek lesen.
+Lisa sah, wie John von 15 bis 21 Uhr in der Nähe des Eiffelturms Fotos machte.
+Steven sah, wie John von 21 bis 22 Uhr Kekse in einer Bäckerei kaufte.
+Das Kunstatelier war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte John ins Kunstatelier gegangen sein?
+Optionen:
+(A) 7 bis 15 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 6 bis 7 Uhr
+(D) 15:00 bis 21:00 Uhr",(C)
+"Heute ging David auf den Fußballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+David wachte um 5 Uhr morgens auf.
+Steven sah, wie David von 5 bis 6 Uhr morgens im Elektronikladen ein Telefon kaufte.
+Kimberly sah, wie David von 6 bis 8 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Betty sah, wie David von 9 bis 12 Uhr im Fitnessstudio trainierte.
+Lisa sah, wie David von 12 bis 15 Uhr zum Wasserpark fuhr.
+William sah David von 15 bis 22 Uhr auf einem Dach sitzen.
+Der Fußballplatz wurde nach 22 Uhr geschlossen.
+Ab wann könnte David auf den Fußballplatz gegangen sein?
+Optionen:
+(A) 6 bis 8 Uhr
+(F) 5 bis 6 Uhr
+(C) 15:00 bis 22:00 Uhr
+(D) 8 bis 9 Uhr",(D)
+"Heute war Michael im Park. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Michael wachte um 6 Uhr morgens auf.
+Linda sah Michael von 11 bis 12 Uhr auf die Freiheitsstatue zulaufen.
+Betty sah Michael von 12 bis 17 Uhr in der Bibliothek lesen.
+Steven sah, wie Michael von 17 bis 19 Uhr in der Nähe des Eiffelturms Fotos machte.
+David sah, wie Michael von 19 bis 20 Uhr im Café einen Kaffee trank.
+Der Park wurde nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Michael in den Park gegangen sein?
+Optionen:
+(A) 6:00 bis 11:00 Uhr
+(F) 12 bis 17 Uhr
+(C) 17:00 bis 19:00 Uhr
+(D) 11 bis 12 Uhr",(A)
+"Heute ging Andrew in den Park. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Andrew wachte um 6 Uhr morgens auf.
+David sah, wie Andrew von 6 bis 7 Uhr morgens in einem Yoga-Studio Dehnübungen machte.
+Leslie sah, wie Andrew von 7 bis 9 Uhr morgens im Feinkostladen das Mittagessen kaufte.
+James sah Andrew von 9 bis 12 Uhr am Bahnhof warten.
+Tiffany sah Andrew von 12 bis 15 Uhr im Büro arbeiten.
+Mark sah Andrew von 15 bis 19 Uhr am Flughafen warten.
+Der Park wurde nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Andrew in den Park gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(F) 9.00 bis 12.00 Uhr
+(C) 19:00 bis 22:00 Uhr
+(D) 7.00 bis 9.00 Uhr",(C)
+"Heute war Mark im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Mark wachte um 5 Uhr morgens auf.
+Andrew sah, wie Mark von 5 bis 6 Uhr morgens in der Nähe des Eiffelturms Fotos machte.
+William sah Mark von 9 bis 18 Uhr am Bahnhof warten.
+Ashley sah, wie Mark von 18 bis 22 Uhr im Fahrradladen ein Fahrrad kaufte.
+Das Bekleidungsgeschäft war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Mark zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 5 bis 6 Uhr
+(B) 6 bis 9 Uhr
+(C) 9 bis 18 Uhr
+(D) 18:00 bis 22:00 Uhr",(B)
+"Heute ging Richard auf den Basketballplatz. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Richard wachte um 5 Uhr morgens auf.
+Elizabeth sah, wie Richard von 5 bis 7 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Lisa sah, wie Richard von 15 bis 19 Uhr im Elektronikladen ihren Computer reparierte.
+Leslie sah Richard von 19 bis 20 Uhr in der Bibliothek lesen.
+Der Basketballplatz wurde nach 20 Uhr geschlossen.
+Ab wann könnte Richard auf den Basketballplatz gegangen sein?
+Optionen:
+(A) 15:00 bis 19:00 Uhr
+(B) 5 bis 7 Uhr
+(C) 19:00 bis 20:00 Uhr
+(D) 7:00 bis 15:00 Uhr",(D)
+"Heute ging Ashley in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Ashley wachte um 5 Uhr morgens auf.
+Susan sah Ashley von 5 bis 6 Uhr morgens am Flughafen warten.
+Thomas sah, wie Ashley von 7 bis 9 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Mark sah, wie Ashley von 9 bis 13 Uhr einen Film im Kino sah.
+Sarah sah Ashley von 13 bis 16 Uhr im Garten spazieren gehen.
+Nancy sah Ashley von 16 bis 21 Uhr im Fitnessstudio trainieren.
+Der Orchestersaal wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Ashley in den Orchestersaal gegangen sein?
+Optionen:
+(A) 6 bis 7 Uhr
+(F) 13:00 bis 16:00 Uhr
+(C) 7.00 bis 9.00 Uhr
+(D) 16:00 bis 21:00 Uhr",(A)
+"Heute war Susan beim Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Susan wachte um 7 Uhr morgens auf.
+Samantha sah, wie Susan von 7 bis 9 Uhr morgens im Einkaufszentrum Kleidung kaufte.
+Sarah sah, wie Susan von 12 bis 14 Uhr im Feinkostladen das Mittagessen kaufte.
+Thomas sah, wie Susan von 14 bis 21 Uhr einen Film im Kino sah.
+James sah Susan von 21 bis 22 Uhr am Unterricht in der Schule teilnehmen.
+Die Bäckerei war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Susan zum Bäcker gegangen sein?
+Optionen:
+(A) 9.00 bis 12.00 Uhr
+(B) 12 bis 14 Uhr
+(C) 7.00 bis 9.00 Uhr
+(D) 21:00 bis 22:00 Uhr",(A)
+"Heute war John im Café. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+John wachte um 5 Uhr morgens auf.
+David sah John von 5 bis 8 Uhr morgens auf einem Dach sitzen.
+Sean sah, wie John sich von 8 bis 11 Uhr einen Film im Kino ansah.
+Tiffany sah, wie John von 16 bis 17 Uhr in einem Yoga-Studio Dehnübungen machte.
+Michael sah, wie John von 17 bis 19 Uhr im Elektronikladen ein Telefon kaufte.
+Das Café war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte John ins Café gegangen sein?
+Optionen:
+(A) 5 bis 8 Uhr
+(B) 8.00 bis 11.00 Uhr
+(C) 17:00 bis 19:00 Uhr
+(D) 11 bis 16 Uhr",(D)
+"Heute ging Jennifer ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Jennifer wachte um 5 Uhr morgens auf.
+Richard sah Jennifer von 5 bis 8 Uhr morgens im Büro arbeiten.
+Samantha sah Jennifer von 12 bis 13 Uhr in der Bibliothek lesen.
+Betty sah, wie Jennifer von 13 bis 14 Uhr im Fahrradladen ein Fahrrad kaufte.
+Sarah sah, wie Jennifer von 14 bis 21 Uhr im Elektronikladen ein Telefon kaufte.
+Thomas sah Jennifer zwischen 21 und 22 Uhr auf die Freiheitsstatue zulaufen.
+Das Schwimmbad war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Jennifer ins Schwimmbad gegangen sein?
+Optionen:
+(A) 8.00 bis 12.00 Uhr
+(B) 21:00 bis 22:00 Uhr
+(C) 14:00 bis 21:00 Uhr
+(D) 12 bis 13 Uhr",(A)
+"Heute ging William ins Kunstatelier. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+William wachte um 8 Uhr morgens auf.
+Steven sah William von 8 bis 10 Uhr im Büro arbeiten.
+David sah, wie William von 10 bis 15 Uhr im Fitnessstudio trainierte.
+Kimberly sah, wie William von 15 bis 17 Uhr in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Mary sah, wie William von 18 bis 20 Uhr im Einkaufszentrum Kleidung kaufte.
+Sean sah, wie William von 20 bis 22 Uhr in der Nähe des Eiffelturms Fotos machte.
+Das Kunstatelier war nach 22 Uhr geschlossen.
+Zwischen welchen Zeiten könnte William ins Kunstatelier gegangen sein?
+Optionen:
+(A) 20:00 bis 22:00 Uhr
+(F) 18:00 bis 20:00 Uhr
+(C) 10 bis 15 Uhr
+(D) 17:00 bis 18:00 Uhr",(D)
+"Heute ging Thomas in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Thomas wachte um 10 Uhr auf.
+William sah Thomas zwischen 13 und 16 Uhr zum Wasserpark fahren.
+Sarah sah Thomas von 16 bis 18 Uhr im Büro arbeiten.
+Betty sah, wie Thomas von 18 bis 21 Uhr im Fahrradladen ein Fahrrad kaufte.
+Der Orchestersaal wurde nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Thomas in den Orchestersaal gegangen sein?
+Optionen:
+(A) 18:00 bis 21:00 Uhr
+(F) 10 bis 13 Uhr
+(C) 13.00 bis 16.00 Uhr
+(D) 16:00 bis 18:00 Uhr",(B)
+"Heute ging Emily in den Orchestersaal. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Emily wachte um 6 Uhr morgens auf.
+Steven sah, wie Emily von 6 bis 7 Uhr morgens in der Nähe des Schiefen Turms von Pisa Fotos machte.
+Sean sah Emily von 7 bis 9 Uhr morgens auf dem Tennisplatz Tennis spielen.
+Nancy sah, wie Emily von 11 bis 14 Uhr im Einkaufszentrum Kleidung kaufte.
+Susan sah, wie Emily von 14 bis 16 Uhr im Feinkostladen das Mittagessen kaufte.
+Kimberly sah Emily von 16 bis 17 Uhr auf einem Dach sitzen.
+Der Orchestersaal wurde nach 17 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Emily in den Orchestersaal gegangen sein?
+Optionen:
+(A) 16:00 bis 17:00 Uhr
+(B) 7.00 bis 9.00 Uhr
+(C) 9.00 bis 11.00 Uhr
+(D) 11 bis 14 Uhr",(C)
+"Heute ging Elizabeth zum Bäcker. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 5 Uhr morgens auf.
+Jennifer sah Elizabeth von 5 bis 6 Uhr morgens auf einem Dach sitzen.
+William sah Elizabeth von 6 bis 7 Uhr morgens am Unterricht in der Schule teilnehmen.
+Thomas sah, wie Elizabeth von 7 bis 11 Uhr in einem Yoga-Studio Dehnübungen machte.
+Sarah sah Elizabeth von 11 bis 13 Uhr am Flughafen warten.
+Emily sah Elizabeth von 13 bis 14 Uhr im Fitnessstudio trainieren.
+Die Bäckerei war nach 19 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth zum Bäcker gegangen sein?
+Optionen:
+(A) 11 bis 13 Uhr
+(F) 5 bis 6 Uhr
+(C) 14:00 bis 19:00 Uhr
+(D) 7.00 bis 11.00 Uhr",(C)
+"Heute ging Elizabeth ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Elizabeth wachte um 5 Uhr morgens auf.
+Jason sah, wie Elizabeth von 5 bis 8 Uhr morgens in der Nähe des Eiffelturms Fotos machte.
+John sah Elizabeth von 8 bis 10 Uhr morgens auf dem Tennisplatz Tennis spielen.
+David sah, wie Elizabeth von 10 bis 15 Uhr im Fahrradladen ein Fahrrad kaufte.
+Das Schwimmbad war nach 16 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Elizabeth ins Schwimmbad gegangen sein?
+Optionen:
+(A) 8.00 bis 10.00 Uhr
+(F) 5 bis 8 Uhr
+(C) 15 bis 16 Uhr
+(D) 10 bis 15 Uhr",(C)
+"Heute war Lisa zur Kunstausstellung. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Lisa wachte um 10 Uhr auf.
+Lisa sah, wie Lisa von 12 bis 14 Uhr zum Wasserpark fuhr.
+Hannah sah Lisa von 14 bis 15 Uhr am Flughafen warten.
+Thomas sah, wie Lisa von 15 bis 16 Uhr im Elektronikladen ein Telefon kaufte.
+Die Kunstausstellung wurde nach 16 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Lisa zur Kunstausstellung gegangen sein?
+Optionen:
+(A) 15:00 bis 16:00 Uhr
+(B) 12 bis 14 Uhr
+(C) 10 bis 12 Uhr
+(D) 14:00 bis 15:00 Uhr",(C)
+"Heute ist Nancy ins Kino gegangen. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Nancy wachte um 8 Uhr auf.
+Richard sah, wie Nancy von 8 bis 12 Uhr im Elektronikladen ihren Computer reparierte.
+Mark sah, wie Nancy von 12 bis 14 Uhr in einem Yoga-Studio Dehnübungen machte.
+Nancy sah, wie Nancy von 14 bis 17 Uhr im Fitnessstudio trainierte.
+William sah Nancy von 17 bis 18 Uhr im Café einen Kaffee trinken.
+Steven sah Nancy von 19 bis 21 Uhr im Garten spazieren gehen.
+Das Kino war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Nancy ins Kino gegangen sein?
+Optionen:
+(A) 18:00 bis 19:00 Uhr
+(F) 14:00 bis 17:00 Uhr
+(C) 17:00 bis 18:00 Uhr
+(D) 19:00 bis 21:00 Uhr",(A)
+"Heute war John im Bekleidungsgeschäft. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+John wachte um 7 Uhr auf.
+Linda sah, wie John von 7 bis 10 Uhr morgens im Café einen Kaffee trank.
+Sean sah, wie John von 10 bis 11 Uhr im Einkaufszentrum Kleidung kaufte.
+Mark sah John von 14 bis 15 Uhr im Büro arbeiten.
+Jennifer sah John von 15 bis 17 Uhr im Fitnessstudio trainieren.
+Samantha sah, wie John von 17 bis 20 Uhr im Feinkostladen das Mittagessen kaufte.
+Das Bekleidungsgeschäft war nach 20 Uhr geschlossen.
+Zwischen welchen Zeiten könnte John zum Bekleidungsgeschäft gegangen sein?
+Optionen:
+(A) 11 bis 14 Uhr
+(B) 10 bis 11 Uhr
+(C) 15:00 bis 17:00 Uhr
+(D) 7.00 bis 10.00 Uhr",(A)
+"Heute ging Kimberly ins Schwimmbad. Zwischen welchen Zeiten könnten sie gewesen sein?
+Wir wissen das:
+Kimberly wachte um 8 Uhr auf.
+Emily sah Kimberly von 8 bis 12 Uhr im Fitnessstudio trainieren.
+Betty sah Kimberly von 12 bis 16 Uhr im Garten spazieren gehen.
+James sah, wie Kimberly von 17:00 bis 20:00 Uhr im Feinkostladen das Mittagessen kaufte.
+Samantha sah Kimberly von 20 bis 21 Uhr auf die Freiheitsstatue zulaufen.
+Das Schwimmbad war nach 21 Uhr geschlossen.
+Zwischen welchen Zeiten könnte Kimberly ins Schwimmbad gegangen sein?
+Optionen:
+(A) 17:00 bis 20:00 Uhr
+(B) 8.00 bis 12.00 Uhr
+(C) 20:00 bis 21:00 Uhr
+(D) 16:00 bis 17:00 Uhr",(D)
