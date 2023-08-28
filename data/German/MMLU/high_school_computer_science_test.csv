@@ -1,0 +1,299 @@
+Sei x = 1. Was ist x << 3 in Python 3?,1,3,8,16,C
+Welche der folgenden Funktionen konvertiert in Python 3 einen String in einen Int in Python?,"int(x [,Basis])","long(x [,base] )",float(x),str(x),A
+"Ein Benutzer gibt eine Webadresse in einen Browser ein und eine Anforderung für eine Datei wird an einen Webserver gesendet. Welche der folgenden Aussagen beschreibt am besten, wie die Datei an den Benutzer gesendet wird?",Die Datei wird zur Übertragung in Pakete aufgeteilt. Die Pakete müssen nach Erhalt wieder zusammengesetzt werden.,"Die Datei wird zur Übertragung in Pakete aufgeteilt. Der Browser des Benutzers muss jedes Paket der Reihe nach anfordern, bis alle Pakete empfangen wurden.","Der Server versucht, eine direkte Verbindung zum Computer des Benutzers herzustellen. Bei erfolgreicher Verbindung wird die gesamte Datei gesendet. Wenn die Verbindung nicht erfolgreich ist, wird eine Fehlermeldung an den Benutzer gesendet.","Der Server versucht wiederholt, eine direkte Verbindung zum Computer des Benutzers herzustellen, bis eine Verbindung hergestellt wird. Sobald die Verbindung hergestellt ist, wird die gesamte Datei gesendet.",A
+"Digitale Bilder werden oft durch die Rot-, Grün- und Blauwerte (ein RGB-Triplett) jedes einzelnen Pixels im Bild dargestellt. Ein Fotograf manipuliert ein digitales Bild und überschreibt das Originalbild. Welche der folgenden Aussagen beschreibt eine verlustfreie Transformation des digitalen Bildes?","Komprimieren Sie das Bild so, dass möglicherweise Informationen verloren gehen, die Bildqualität jedoch nur geringfügig beeinträchtigt wird.","Erstellen Sie die Grauskala eines Bildes, indem Sie die Anteile von Rot, Grün und Blau in jedem Pixel mitteln und diesen neuen Wert dem entsprechenden Pixel im neuen Bild zuweisen. Der neue Wert jedes Pixels stellt einen Grauton dar, der von Weiß bis Schwarz reicht.","Erstellen des Negativs eines Bildes durch Erstellen eines neuen RGB-Tripletts für jedes Pixel, in dem jeder Wert durch Subtrahieren des Originalwerts von 255 berechnet wird. Das Negativ eines Bildes ist das Gegenteil des Originals; Helle Bereiche erscheinen dunkel und die Farben werden umgekehrt.","Ändern eines Teils des Bildes, indem die Pixel in einem Teil des Bildes übernommen und auf die Pixel in einem anderen Teil des Bildes kopiert werden.",C
+"Ein Programmierer schreibt ein Programm, das große Datenmengen verarbeiten kann. Welche der folgenden Überlegungen wirkt sich am wenigsten wahrscheinlich auf die Fähigkeit des Programms aus, größere Datensätze zu verarbeiten?",Wie lange dauert die Ausführung des Programms?,Wie viele Programmieranweisungen das Programm enthält,Wie viel Speicher benötigt das Programm während der Ausführung?,Wie viel Speicherplatz benötigt das Programm während der Ausführung?,B
+"Angenommen, die Zeichen 0,1, . . . ,8,9,A,B,C,D, E,F werden zur Darstellung einer Hexadezimalzahl (Basis 16) verwendet. Hier A = 10, B = 11, . . . ,F = 15. Was ist die größte ganze Zahl zur Basis 10, die mit einer zweistelligen Hexadezimalzahl dargestellt werden kann, z. B. 14 oder 3A?",32,225,255,256,C
+"Ein großer Datensatz enthält Informationen über alle Studenten mit Schwerpunkt Informatik an Hochschulen in den Vereinigten Staaten. Der Datensatz enthält die folgenden Informationen zu jedem Schüler.
+   ° Das Geschlecht des Schülers
+   ° Der Staat, in dem der Student das College besucht
+   ° Der Notendurchschnitt des Schülers auf einer Skala von 4,0
+
+ Welche der folgenden Fragen könnten beantwortet werden, wenn nur die Informationen im Datensatz analysiert würden?",Haben Studierende im Hauptfach Informatik tendenziell höhere Notendurchschnitte als Studierende in anderen Fächern?,"In wie vielen Bundesstaaten gibt es einen höheren Prozentsatz weiblicher Informatik-Majors als männlicher Informatik-Majors, die in diesem Bundesstaat ein College besuchen?","Wie viel Prozent der Studenten, die in einem bestimmten Bundesstaat ein College besuchen, studieren Informatik als Hauptfach?",Welche Hochschule hat die meisten Studierenden im Hauptfach Informatik?,B
+"Das folgende Codesegment verwendet die Prozedur IsFound (Liste, Element), die „true“ zurückgibt, wenn das Element in der Liste erscheint, andernfalls „false“. Die Liste resultList ist zunächst leer.
+  FÜR JEDES Element IN inputList1{
+ IF (isFound (inputList2, item) )
+ APPEND (Ergebnisliste, Element)
+ }
+ Welche der folgenden Aussagen beschreibt den Inhalt von resultList am besten, nachdem das Codesegment ausgeführt wurde?","Alle Elemente in inputListl, gefolgt von allen Elementen in inputList2","Nur Elemente, die sowohl in inputListl als auch in inputList2 erscheinen","Nur Elemente, die entweder in inputListl oder inputList2 erscheinen, aber nicht in beiden Listen","Nur Elemente, die in inputListl erscheinen, aber nicht in inputList2",B
+Ein Programm wird in einer Programmiersprache ausgedrückt. Welche der folgenden Aussagen trifft auf das Programm zu?,"Das Programm kann auch als Binärcode ausgedrückt werden, ist jedoch für den Menschen leichter verständlich, wenn es in einer höheren Programmiersprache ausgedrückt wird.","Das Programm kann auch als Binärcode ausgedrückt werden, wodurch die Fehlerwahrscheinlichkeit verringert wird.","Das Programm kann nicht als Binärcode ausgedrückt werden, da Binärcode nur zur Darstellung von Daten verwendet werden kann.","Einige Teile des Programms können als Binärcode ausgedrückt werden, Operationen müssen jedoch mit einer höheren Programmiersprache ausgedrückt werden.",A
+"Was ist in Python 3 die Ausgabe von print tuple[0] if tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 )?","('abcd', 786, 2.23, 'john', 70.2)",A B C D,Fehler,Nichts des oben Genannten.,B
+Welcher der folgenden potenziellen Vorteile wird das aktualisierte System am wenigsten wahrscheinlich bieten?,Für die Beantwortung einiger Anfragen sind keine menschlichen Vertreter erforderlich.,Das Unternehmen kann für jeden eingehenden Anruf einen menschlichen Vertreter bereitstellen.,"Kunden verbringen wahrscheinlich weniger Zeit damit, sich Informationen anzuhören, die für ihr Problem nicht relevant sind.",Kunden können nicht versehentlich die falsche Abteilung für ihr spezielles Problem auswählen.,B
+"In der Vergangenheit wurde beobachtet, dass sich die Verarbeitungsgeschwindigkeit von Computern tendenziell alle zwei Jahre verdoppelt. Welche der folgenden Aussagen beschreibt am besten, wie Technologieunternehmen diese Beobachtung für Planungszwecke nutzen können?","Technologieunternehmen können genau vorhersagen, wann neue Computerinnovationen zur Nutzung verfügbar sein werden.","Technologieunternehmen können planen, die Kosten neuer Produkte jedes Mal zu verdoppeln, wenn die Verarbeitungsgeschwindigkeit verbessert wird.",Technologieunternehmen können Forschungs- und Entwicklungsziele auf der Grundlage der erwarteten Verarbeitungsgeschwindigkeiten festlegen.,"Technologieunternehmen können weniger Aufwand in die Entwicklung neuer Prozessoren investieren, da sich die Verarbeitungsgeschwindigkeit immer mit der beobachteten Geschwindigkeit verbessert.",C
+"Ein Programmierer hat das folgende Programm geschrieben. Das Programm verwendet eine Liste von Zahlen namens numList. Das Programm soll die Summe der Zahlen in der Liste anzeigen.
+ sum ← numList [1]
+ FÜR JEDEN Wert IN numList
+ Summe ← Summe + Wert
+ Summe anzeigen
+ Um das Programm zu testen, initialisiert der Programmierer numList auf [0, 1, 4, 5]. Das Programm zeigt 10 an und der Programmierer kommt zu dem Schluss, dass das Programm wie vorgesehen funktioniert. Welche der folgenden Aussagen ist wahr?",Die Schlussfolgerung ist richtig; Das Programm funktioniert wie vorgesehen.,"Die Schlussfolgerung ist falsch; Das Programm zeigt nicht den korrekten Wert für den Testfall an [0, 1, 4, 5].","Die Schlussfolgerung ist falsch; Die Verwendung des Testfalls [0, 1, 4, 5] reicht nicht aus, um zu dem Schluss zu kommen, dass das Programm korrekt ist.","Die Schlussfolgerung ist falsch; Die Verwendung des Testfalls [0, 1, 4, 5] bestätigt nur, dass das Programm für Listen in aufsteigender Reihenfolge funktioniert.",C
+"Eine Computersimulation wird erstellt, um das Wachstum einer bestimmten Pflanzenart unter verschiedenen Bedingungen zu simulieren. Welche der folgenden Aktionen könnten zur Validierung des in der Simulation verwendeten Modells verwendet werden?",Drücken Sie die Simulationssoftware sowohl mit rekursiven als auch mit iterativen Algorithmen aus. Vergleichen Sie die Ergebnisse des rekursiven Algorithmus mit denen des iterativen Algorithmus.,Führen Sie reale Experimente zum Wachstum der Pflanzenarten in verschiedenen Umgebungen durch. Vergleichen Sie die experimentellen Ergebnisse mit den Ergebnissen der Simulation.,Entfernen Sie alle unnötigen Details aus dem Modell. Vergleichen Sie die Laufzeiten der Originalsimulation und der vereinfachten Simulation.,Führen Sie die Simulationssoftware auf mehreren Geräten aus. Vergleichen Sie die Ergebnisse der einzelnen Geräte.,B
+"Die Huffman-Codierung weist Eingabewerten basierend auf der Häufigkeit des Auftretens jedes Werts eindeutige Codes variabler Länge zu. Häufig auftretenden Werten werden Codes zugewiesen, die weniger Bits enthalten, als seltener auftretenden Werten werden Codes zugewiesen, die mehr Bits enthalten. Welche der folgenden Aussagen beschreibt am besten eine angemessene Verwendung der Huffman-Codierung?",Entschlüsselung,Effiziente Sortierung,Verlustfreie Kompression,Verlustbehaftete Komprimierung,C
+"Welche der folgenden Funktionen prüft in Python 3 in einer Zeichenfolge, ob alle Zeichen in Großbuchstaben geschrieben sind?",isupper(),beitreten(seq),len(string),"hell(width[, fillchar])",A
+"Das folgende Codefragment soll „ungerade“ anzeigen, wenn die positive Zahl num ungerade ist.
+ WENN (<FEHLENDE BEDINGUNG>)
+ ANZEIGE „ungerade“
+
+ Welche der folgenden Möglichkeiten kann verwendet werden, um <MISSING CONDITION> zu ersetzen, damit das Codefragment wie vorgesehen funktioniert?",(num MOD 1) = 0,(Anzahl MOD 1) = 1,(num MOD 2 ) = 0,(num MOD 2) = 1,D
+Ein Programmierer verwendet online veröffentlichten Code unter einer Creative Commons Attribution (C C B Y)-Lizenz in einem kommerziellen Produkt. Welche der folgenden Aussagen beschreibt am besten eine akzeptable Verwendung des Codes?,Kopieren von Code aus der Online-Quelle in das Produkt des Programmierers ohne weitere Aktionen,Kopieren von Code aus der Online-Quelle in das Produkt des Programmierers und Beschränken des kopierten Codes auf zehn Codezeilen,Kopieren von Code aus der Online-Quelle in das Produkt des Programmierers und Ändern aller Variablennamen,Kopieren von Code aus der Online-Quelle in das Produkt des Programmierers und Nennung des ursprünglichen Autors in der in der Lizenz angegebenen Weise,D
+"Eine neue Bank plant, die Kundenfreundlichkeit zur Priorität zu machen, indem sie die Wartezeiten der Kunden in der Schlange minimiert. Die Bank erwägt zwei Optionen: eine einzige Warteschlange, bei der der Kunde vorne auf den nächsten verfügbaren Kassierer wartet, oder separate Warteschlangen für jeden Kassierer. Die Bank beschließt, eine Computersimulation dieser beiden Optionen zu nutzen, um die durchschnittliche Wartezeit für Kunden zu ermitteln. Welche der folgenden Aussagen trifft NICHT auf den Plan der Bank zu?","Die Bank kann weitere Faktoren, beispielsweise die Anzahl der Kassierer, in die Simulation einbeziehen.","Mit der Simulation kann die Bank diese beiden Möglichkeiten prüfen, ohne dass es zu Unannehmlichkeiten für die Kunden kommt.",Basierend auf den Simulationsergebnissen kann die Bank neue Alternativen in Betracht ziehen.,"Die Simulation wird keine verwertbaren Ergebnisse liefern, da keine tatsächlichen Kundendaten verfügbar sind.",D
+"Welche der folgenden Aussagen erklärt am besten, wie Daten typischerweise in Paketen für die Übertragung über das Internet zusammengestellt werden?",Jedes Paket enthält zu übertragende Daten sowie Metadaten mit Informationen zur Weiterleitung der Daten.,Jedes Paket enthält eine verschlüsselte Version der zu übertragenden Daten sowie Metadaten mit dem zum Entschlüsseln der Daten erforderlichen Schlüssel.,"Jedes Paket enthält nur die Metadaten, die zum Aufbau einer direkten Verbindung dienen, damit die Daten übertragen werden können.","Jedes Paket enthält mehrere gebündelte Datendateien sowie Metadaten, die beschreiben, wie die einzelnen Datendateien zu kategorisieren sind.",A
+"Es soll eine Methode geschrieben werden, die ein Array nach einem Wert durchsucht, der größer als ein bestimmtes Element ist, und seinen Index zurückgibt. Die Problemspezifikation gibt nicht an, was zurückgegeben werden soll, wenn das Array mehrere solcher Werte enthält. Welche der folgenden Maßnahmen wäre die beste?","Die Methode sollte unter der Annahme geschrieben werden, dass es nur einen Wert im Array gibt, der größer als das angegebene Element ist.","Die Methode sollte so geschrieben sein, dass sie den Index jedes Vorkommens eines größeren Werts zurückgibt.","Die Spezifikation sollte geändert werden, um anzugeben, was zu tun ist, wenn mehr als ein Index mit größeren Werten vorhanden ist.","Die Methode sollte so geschrieben werden, dass sie eine Meldung ausgibt, wenn mehr als ein größerer Wert gefunden wird.",C
+Was ist die Ausgabe der Anweisung „a“ + „ab“ in Python 3?,Fehler,aab,ab,a ab,B
+Welches der folgenden Elemente ist in Python 3 die Bodenaufteilung?,/,//,%,|,B
+Welche der folgenden Schulpolitiken dürfte sich am ehesten positiv auf die digitale Kluft auswirken?,"Eine Schule erlaubt es Schülern, einen Grafikrechner von zu Hause mitzubringen, um im Unterricht Mathematikaufgaben zu erledigen.","Eine Schule erlaubt es Schülern, jeden Tag einen Tablet-Computer zum Unterricht mitzubringen, um an benoteten Tests teilzunehmen.",Eine Schule stellt allen an der Schule eingeschriebenen Schülern einen Laptop oder Tablet-Computer zur Verfügung.,"Eine Schule empfiehlt allen Schülern die Anschaffung eines Computers mit möglichst hoher Rechengeschwindigkeit, damit Projekte schneller laufen.",C
+"In einem bestimmten Land muss eine Person mindestens 16 Jahre alt sein, um ein Auto zu fahren, und muss mindestens 18 Jahre alt sein, um wählen zu dürfen. Die Variable Alter repräsentiert das Alter einer Person als ganze Zahl. Welcher der folgenden Ausdrücke wird als wahr ausgewertet, wenn die Person alt genug ist, um Auto zu fahren, aber nicht alt genug, um zu wählen, und andernfalls wird er als falsch ausgewertet?
+ I. (Alter ≥ 16) UND (Alter ≤ 18)
+ II. (Alter ≥ 16) UND (NICHT(Alter ≥ 18))
+ III. (Alter < 18) UND (NICHT(Alter < 16))",Nur II,Nur I und II,Nur I und III,Nur II und III,D
+"Ein Online-Shop verwendet 6-Bit-Binärsequenzen, um jeden einzelnen zum Verkauf stehenden Artikel zu identifizieren. Das Geschäft plant, die Anzahl der verkauften Artikel zu erhöhen und erwägt die Verwendung von 7-Bit-Binärsequenzen. Welche der folgenden Aussagen beschreibt am besten das Ergebnis der Verwendung von 7-Bit-Sequenzen anstelle von 6-Bit-Sequenzen?",2 weitere Artikel können eindeutig identifiziert werden.,10 weitere Artikel können eindeutig identifiziert werden.,Es können doppelt so viele Artikel eindeutig identifiziert werden.,Es können zehnmal so viele Artikel eindeutig identifiziert werden.,C
+Welches der folgenden Programme wird am wahrscheinlichsten von der Verwendung einer Heuristik profitieren?,"Ein Programm, das die Note eines Schülers anhand der Quiz- und Hausaufgabenergebnisse des Schülers berechnet","Ein Programm, das einen Ordner mit digitalen Dateien verschlüsselt","Ein Programm, das die kürzeste Fahrtroute zwischen zwei Orten auf einer Karte findet","Ein Programm, das eine Liste von Zahlen vom kleinsten zum größten sortiert",C
+"Betrachten Sie das folgende Codesegment.
+ int num1 = Wert1, num2 = Wert2, num3 = Wert3;
+ while (num1 > num2 || num1 > num3)
+ {
+ /* Schleifenkörper */
+ }
+ Sie können davon ausgehen, dass Wert1, Wert2 und Wert3 int-Werte sind. Welche der folgenden Aussagen reicht aus, um sicherzustellen, dass /* Schleifenkörper */ niemals ausgeführt wird?",num1 < num2,num1 < num3,num1 > num2 && num1 > num3,num1 < num2 && num1 < num3,D
+"Zwei Listen, list1 und list2, enthalten die Namen von Büchern, die in zwei verschiedenen Sammlungen gefunden wurden. Ein Bibliothekar möchte eine neue Liste erstellen, die die Namen aller in beiden Listen gefundenen Bücher in alphabetischer Reihenfolge enthält und doppelte Einträge entfernt.
+
+ Wenn beispielsweise 1istl enthält
+ [„Macbeth“, „Frankenstein“, „Jane Eyre“]
+ und 1ist2 enthält
+ [„Frankenstein“, „Dracula, „Macbeth“, „Hamlet“],
+ dann wird newList enthalten
+ [„Dracula“, „Frankenstein“, „Hamlet“, „Jane Eyre“, „Macbeth“].
+
+ Zum Erstellen einer neuen Liste stehen die folgenden Verfahren zur Verfügung.
+ Verfahren
+ Erläuterung
+ Sortierliste)
+ Sortiert die Liste in alphabetischer Reihenfolge und gibt die resultierende Liste zurück.
+ Kombinieren (listl, list2)
+ Erstellt eine neue Liste bestehend aus den Einträgen von
+ list1 gefolgt von den Einträgen aus list2. Die resultierende Liste wird zurückgegeben.
+ RemoveDuplicates (Liste)
+ Durchläuft die Liste. Wenn zwei oder mehr Einträge denselben Wert haben, werden die doppelten Einträge entfernt, sodass jeder Eintrag höchstens einmal erscheint. Die resultierende Liste wird zurückgegeben.
+
+ Welches der folgenden Codesegmente erstellt korrekt eine neue Liste?","newList ← Combine (listl, list2)
+ newList ← Sortieren (newList)
+ newList ← RemoveDup1icates (newList)","listl ← Sortieren (listl)
+ Liste2 ← Sortieren (Liste2)
+ newList ← Combine (listl, list2)
+ newList ← RemoveDuplicates (newList)","listl ← Duplikate entfernen (list) list2 ← RemoveDuplicates (list2) newList ← Combine (listl, 1ist2) new List ← Sortieren (newList)","listl ← RemoveDuplicates (listl)
+ listl ← Sortieren (listl)
+ list2 ← RemoveDuplicates (list2)
+ 1ist2 ← Sortieren (list2)
+ newList ← Combine (listl, list2)",A
+Ist bei Python-Variablennamen die Groß-/Kleinschreibung beachtet?,Yes,No,Es ist maschinenabhängig,Nichts des oben Genannten,A
+"Ein Computerprogramm verwendet 3 Bits zur Darstellung von Ganzzahlen. Wenn das Programm die Dezimalzahlen (Basis 10) 5 und 3 addiert, ist das Ergebnis 0. Welche der folgenden Erklärungen ist die beste Erklärung für das Ergebnis?",Es ist ein Überlauffehler aufgetreten.,Es ist ein Rundungsfehler aufgetreten.,Das Ergebnis wurde durch verlustbehaftete Datenkomprimierung beeinträchtigt.,Das Ergebnis wurde durch eine Gleitkommadarstellung angenähert.,A
+Welches ist asymptotisch das größte?,O(1),An),O(n^2),O(log n),C
+"Ein Programmierer hat das folgende Codesegment geschrieben, um den Durchschnitt aller Elemente in einer Liste namens Zahlen anzuzeigen. Es gibt immer mindestens eine Nummer in der Liste.
+ Zeile 1: count ← 0
+ Zeile 2: Summe ← 0
+ Zeile 3: FÜR JEDEN Wert IN Zahlen
+ Zeile 4: {
+ Zeile 5: Anzahl ← Anzahl + 1
+ Zeile 6: Summe ← Summe + Wert
+ Zeile 7: Durchschnitt ← Summe / Anzahl
+ Zeile 8: }
+ Zeile 9: ANZEIGE (Durchschnitt)
+
+ Der Programmierer möchte die Anzahl der Operationen reduzieren, die beim Ausführen des Programms ausgeführt werden. Welche Änderung führt zu einem korrekten Programm mit einer reduzierten Anzahl ausgeführter Operationen?",Vertauschung von Zeile 1 und Zeile 2,Vertauschung von Zeile 5 und Zeile 6,Vertauschung von Zeile 6 und Zeile 7,Vertauschung von Zeile 7 und Zeile 8,D
+"Zur Verbreitung von Informationen im Internet werden sowohl Online-Zeitungen als auch Social-Media-Seiten genutzt. Welche der folgenden Aussagen beschreibt am besten einen Vorteil, den Online-Zeitungen gegenüber Social-Media-Sites haben?","Die Fähigkeit, Informationen sofort zu verteilen","Die Fähigkeit, den verbreiteten Informationen Glaubwürdigkeit zu verleihen","Die Fähigkeit, allgemein zugängliche Informationen bereitzustellen","Die Möglichkeit, medienreiche Inhalte zu geringen Kosten bereitzustellen",B
+Ein großes Java-Programm wurde ausgiebig getestet und es wurden keine Fehler gefunden. Was lässt sich daraus ableiten?,Alle Voraussetzungen im Programm sind korrekt.,Alle Nachbedingungen im Programm sind korrekt.,Das Programm kann Fehler aufweisen.,Jede Methode im Programm kann sicher in anderen Programmen verwendet werden.,C
+Welchen Wert hat dieser Python-Ausdruck: 1 + 3 % 3?,0,1,3,4,B
+"Jedem Schüler, der sich an einer Schule anmeldet, wird eine eindeutige ID-Nummer zugewiesen, die als Binärzahl gespeichert wird. Die ID-Nummern erhöhen sich fortlaufend um 1 mit jedem neu eingeschriebenen Studierenden. Wenn die ID-Nummer, die dem letzten eingeschriebenen Studenten zugewiesen wurde, die Binärzahl 1001 0011 war, welche Binärnummer wird dann dem nächsten eingeschriebenen Studenten zugewiesen?",1001 0100,1001 0111,1101 0100,1101 0111,A
+Welcher der folgenden Operatoren in Python führt in Python 3 eine Exponentialberechnung (Potenzberechnung) für Operanden durch?,**,//,is,nicht in,A
+Welche der folgenden ist die hexadezimale Darstellung der Dezimalzahl 231_{10}?,17_{16},H_{16},E7_{16},Fch_{16},C
+"Welche der folgenden Tabellenkalkulationsfunktionen wäre am nützlichsten, um unwahrscheinlich hohe oder niedrige Werte zu erkennen, die aufgrund von Dateneingabefehlern Teil eines Datensatzes geworden sind?","Eine Funktion, die numerische Werte in einer Spalte oder Zeile mittelt","Eine Funktion, die die Werte in einer Spalte oder Zeile zählt","Eine Funktion, die einen numerischen Wert rundet","Eine Funktion, die Werte in einer Spalte oder Zeile sortiert",D
+"Ein bestimmtes Computerspiel wird zwischen einem menschlichen Spieler und einem computergesteuerten Spieler gespielt. Jedes Mal, wenn der computergesteuerte Spieler an der Reihe ist, läuft das Spiel langsam ab, da der Computer alle möglichen Züge auswertet und den besten auswählt. Welche der folgenden Aussagen beschreibt am besten die Möglichkeit, die Laufgeschwindigkeit des Spiels zu verbessern?","Die Laufgeschwindigkeit des Spiels kann nur verbessert werden, wenn das Spiel zwischen zwei menschlichen Spielern statt mit dem computergesteuerten Spieler gespielt wird.","Die Laufgeschwindigkeit des Spiels könnte durch die Verwendung eines Prozesses verbessert werden, der jedes Mal, wenn der computergesteuerte Spieler an der Reihe ist, ungefähre Lösungen findet.","Die Laufgeschwindigkeit des Spiels kann nicht verbessert werden, da Computer nur so programmiert werden können, dass sie die bestmögliche Lösung finden.","Die Laufgeschwindigkeit des Spiels kann nicht verbessert werden, da das Spiel ein Beispiel für einen Algorithmus ist, der nicht in angemessener Zeit ausgeführt wird.",B
+"Was ist in Python 3 die Ausgabe von print list[1:3] if list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]?","[ 'abcd', 786 , 2.23, 'john', 70.2 ]",A B C D,"[786, 2.23]",Nichts des oben Genannten.,C
+"Betrachten Sie das folgende Codesegment.
+ Zeile 1: IF (a = 0)
+ Zeile 2: {
+ Zeile 3: b ← a + 10
+ Zeile 4: }
+ Zeile 5: ELSE
+ Zeile 6: {
+ Zeile 7: b ← a + 2O
+ Zeile 8: }
+ Welche der folgenden Änderungen wirken sich NICHT auf die Ergebnisse aus, wenn das Codesegment ausgeführt wird?",Zeile 3 in b ← 10 ändern,Ändern Sie Zeile 3 in a ← b + 10,Zeile 7 in b ← 20 ändern,Ändern Sie Zeile 7 in a ← b + 10,A
+"Es soll eine sortierte Liste von 120 Ganzzahlen durchsucht werden, um festzustellen, ob der Wert 100 in der Liste enthalten ist. Unter der Annahme, dass der effizienteste Suchalgorithmus verwendet wird, wie viele Elemente müssen maximal untersucht werden?",7,8,20,100,A
+Welche der folgenden Aussagen zu Python ist richtig?,Es unterstützt die automatische Speicherbereinigung.,"Es kann problemlos in C, C++, COM, ActiveX, CORBA und Java integriert werden.",Beide der oben genannten.,Nichts des oben Genannten.,C
+Sei x = 8. Was ist x>>1 in Python 3?,3,4,2,8,B
+"Die Farbe eines Pixels kann mithilfe des RGB-Farbmodells (Rot, Grün, Blau) dargestellt werden, das Werte für Rot, Grün und Blau im Bereich von jeweils 0 bis 255 speichert. Wie viele Bits (Binärziffern) wären dafür erforderlich? eine Farbe im RGB-Modell darstellen?",8,16,24,32,C
+Der boolesche Ausdruck a[i] == max || !(max != a[i]) kann vereinfacht werden zu,a[i] == max,a[i] != max,a[i] < max || a[i] > max,FALSCH,A
+"Ein Programmierer entscheidet sich für die Verwendung einer linearen oder binären Suche, um einen Zielwert in einer sortierten Liste zu finden. Welche der folgenden Aussagen ist wahr?",In allen Fällen erfordert eine binäre Suche in einer sortierten Liste weniger Vergleiche als eine lineare Suche.,Im Allgemeinen nimmt der Vorteil der Verwendung einer binären Suche gegenüber einer linearen Suche mit zunehmender Größe der Liste zu.,"Eine lineare Suche wird im Allgemeinen schneller ausgeführt als eine binäre Suche, da für die Implementierung einer linearen Suche weniger Codezeilen erforderlich sind.","Die Verwendung einer linearen Suche ist einer binären Suche vorzuziehen, wenn die Möglichkeit besteht, dass das Ziel nicht in der Liste gefunden wird.",B
+Welche Arten von Funktionen wachsen am langsamsten?,O(log e^N),O(log N),O(log log N),AN),C
+"Eine Schülerin nimmt ein Lied auf ihrem Computer auf. Wenn die Aufnahme beendet ist, speichert sie eine Kopie auf ihrem Computer. Der Schüler stellt fest, dass die gespeicherte Kopie eine schlechtere Tonqualität aufweist als die Originalaufnahme. Welche der folgenden könnte eine mögliche Erklärung für den Unterschied in der Klangqualität sein?",Der Song wurde mit weniger Bits pro Sekunde gespeichert als der Originalsong.,Der Song wurde mit mehr Bits pro Sekunde gespeichert als der Originalsong.,Der Song wurde mit einer verlustfreien Komprimierungstechnik gespeichert.,"Jedes Mal, wenn eine Datei von einem Ort auf einem Computer an einem anderen Ort gespeichert wird, gehen einige Informationen verloren.",A
+"Was ist in Python 3 die folgende Funktion, die ein Element aus der Liste mit dem Maximalwert zurückgibt?",cmp(Liste),einfach (Blatt),max(Liste),min(Liste),C
+Welches ist asymptotisch das kleinste?,O(1),An),O(n^2),O(log n),A
+Welche der folgenden Aussagen deutet am wenigsten auf einen Phishing-Angriff hin?,"In einer E-Mail Ihrer Bank werden Sie aufgefordert, die Nummer auf Ihrer Karte anzurufen, um eine Transaktion zu bestätigen","In einer E-Mail eines Händlers werden Sie aufgefordert, auf einen Link zu klicken, um Ihr Passwort zurückzusetzen","In einer E-Mail eines Versorgungsunternehmens werden Sie zur Überprüfung aufgefordert, Ihr Geburtsdatum und Ihre Sozialversicherungsnummer einzugeben","In einer E-Mail wird Ihnen mitgeteilt, dass Sie einen großen Geldbetrag gewonnen haben, und Sie werden aufgefordert, Ihre Bankkontonummer anzugeben, damit das Geld an Sie überwiesen werden kann",A
+"Der folgende Algorithmus wird verwendet, um die Ergebnisse eines viermaligen Münzwurfs zu simulieren. Betrachten Sie das Ziel, festzustellen, ob die Simulation zu einer gleichen Anzahl von Kopf und Zahl geführt hat.
+
+   Schritt l: Initialisieren Sie die Variablen head_counter und f1ip_counter auf 0.
+   Schritt 2: Einer Variablen „coin_f1ip“ wird zufällig der Wert 0 oder l zugewiesen.
+   Wenn „coin_f1ip“ den Wert 0 hat, ist das Ergebnis des Münzwurfs Kopf, also
+  head_counter wird um 1 erhöht.
+   Schritt 3: Erhöhen Sie den Wert von f1ip_counter um l.
+   Schritt 4: Wiederholen Sie die Schritte 2 und 3, bis f1ip_counter gleich 4 ist.
+
+ Welcher der folgenden Ausdrücke zeigt nach der Ausführung des Algorithmus an, dass die Simulation zu einer gleichen Anzahl von Kopf und Zahl geführt hat?",coin_f1ip = 1,flip_counter = 1,flip_counter = 2,head_counter = 2,D
+"Welche Säule der Cybersicherheit wird gefährdet, wenn sich jemand mit einem gestohlenen Benutzernamen und Passwort bei einem System anmeldet?",Authentifizierung,Vertraulichkeit,Integrität,Unbestreitbarkeit,A
+"Das folgende Verfahren soll zurückgeben, wie oft der Wert val in der Liste myList erscheint. Das Verfahren funktioniert nicht wie vorgesehen.
+ Zeile 1: PROCEDURE countNumOccurences(myList, val)
+ Zeile 2: {
+ Zeile 3: FÜR JEDES Element IN myList
+ Zeile 4: {
+ Zeile 5: 0 zählen
+ Zeile 6: IF(item = val)
+ Zeile 7: {
+ Zeile 8: count count + 1
+ Zeile 9: }
+ Zeile 10: }
+ Zeile 11: RETURN(count)
+ Zeile 12:}
+ Welche der folgenden Änderungen können vorgenommen werden, damit das Verfahren wie vorgesehen funktioniert?",Zeile 6 in IF(item = count) ändern,Zeile 6 in IF(myList[item] = val) ändern,"Verschieben Sie die Anweisung in Zeile 5 so, dass sie zwischen Zeile 2 und 3 erscheint","Verschieben Sie die Anweisung in Zeile 11 so, dass sie zwischen den Zeilen 9 und 10 erscheint",C
+Welche der folgenden Aussagen zur Programmdokumentation ist richtig?,"Die Programmdokumentation sollte nicht mehr geändert werden, nachdem sie zum ersten Mal geschrieben wurde.",Eine Programmdokumentation ist nur für Programme in der Entwicklung erforderlich; Es wird nach Abschluss eines Programms nicht mehr benötigt.,"Die Programmdokumentation ist nützlich, wenn Programmierer zusammenarbeiten, nicht jedoch, wenn ein Programmierer einzeln an einem Projekt arbeitet.",Die Programmdokumentation ist sowohl bei der anfänglichen Programmentwicklung als auch bei Änderungen an bestehenden Programmen hilfreich.,D
+"Betrachten Sie die folgenden drei Szenarien, die mithilfe von drei Datenstrukturen modelliert werden könnten: Wörterbuch/Karte, Warteschlange und Stapel. Szenario 1: Autos reihen sich in einer Autowaschanlage auf einer Spur auf. Sobald jeder Fahrer den Eingang der Autowaschanlage erreicht, steigt er aus dem Auto. Ein automatischer Flaschenzug bewegt das Auto durch die Waschanlage, während der Fahrer zum Ausgang der Waschanlage geht, um zu bezahlen und das Auto abzuholen. Szenario 2: Teilnehmern, die für eine Reality-TV-Talentshow vorsprechen, wird beim Ausfüllen eines Registrierungsformulars eine eindeutige numerische ID zugewiesen. Szenario 3: Tennisbälle werden in einer zylindrischen Dose verkauft, die maximal 3 Bälle fasst, wobei jeder Ball mit Ausnahme des unteren auf dem Ball darunter liegt. Die 3 Kugeln werden einzeln durch eine Öffnung oben in der Dose in die Dose gegeben. Die 3 Kugeln werden einzeln durch dieselbe Öffnung aus der Dose entnommen. Welche der folgenden zeigt die Datenstrukturen, die die Szenarien am besten modellieren? Szenario 1 | Szenario 2 | Szenario 3",Wörterbuch/Karte | Warteschlange | Stapel,Wörterbuch/Karte | Stapel | Warteschlange,Warteschlange | Wörterbuch/Karte | Stapel,Stapel | Warteschlange | Wörterbuch/Karte,C
+"Sei l = [1,2,3,4]. Was ist min(l) in Python3?",1,2,3,4,A
+"Sei l = [1,2,3,4]. Was ist max(l) in Python3?",1,2,3,4,D
+Welches der folgenden Merkmale ist charakteristisch für die Fehlertoleranz des Routings im Internet?,"Die Möglichkeit, ein hierarchisches Benennungssystem zu verwenden, um Namenskonflikte zu vermeiden","Die Möglichkeit, die Datenübertragung auch dann bereitzustellen, wenn einige Verbindungen ausgefallen sind","Die Möglichkeit, Fehler bei DNS-Suchen (Domain Name System) zu beheben","Die Möglichkeit, mehrere Protokolle wie Hypertext Transfer Protocol (HTTP), Internet Protocol (LP) und Simple Mail Transfer Protocol (SMTP) zum Übertragen von Daten zu verwenden",B
+"Betrachten Sie die folgenden Zahlen.
+   ° Binär 1100
+   ° Dezimal 11
+   ° Hexadezimal D
+ Welche der folgenden Listen listet die Zahlen in der Reihenfolge vom kleinsten zum größten auf?","Binär 1100, Dezimal 11, Hexadezimal D","Dezimal 11, Binär 1100, Hexadezimal D","Dezimal 11, Hexadezimal D, Binär 1100","Hexadezimal D, Dezimal 11, Binär 1100",B
+Welche Rolle spielt der Compiler bei der Entwicklung ausführbarer Software?,"Verwalten von Spezifikationsdateien, die im Rahmen des Entwicklungsprozesses erstellt wurden",Ausführen und Testen der vom Programmierer erstellten ausführbaren Datei,"Nachverfolgung älterer Versionen der Software für den Fall, dass ein Fehler gefunden wird und die Software auf eine frühere Form zurückgesetzt werden muss","Übersetzen eines in einer abstrakten Hochsprache geschriebenen Programms in ein Programm mit demselben Verhalten, das im Maschinencode ausgedrückt wird",D
+Welches der folgenden Probleme stellt das wahrscheinlichste Datenschutzproblem des aktualisierten Systems dar?,"Die persönlichen Daten von Kunden könnten gefährdet sein, wenn eine unbefugte Person Zugriff auf die Anrufsitzungsdatenbank erhält.",Durch das Speichern von Informationen in der Anrufsitzungsdatenbank können Einzelpersonen das System mithilfe bösartiger Links leicht austricksen.,"Das Systemdesign erhöht die Wahrscheinlichkeit, dass Kunden unwissentlich Malware auf ihren Geräten installieren, die ihre Daten an Unbefugte weitergibt.","Das Systemdesign macht es Unbefugten leicht, an die privaten Verschlüsselungsschlüssel der Kunden zu gelangen.",A
+Was ist die Ausgabe von „abc“[-1] in Python 3?,Fehler,a,b,c,D
+"Mithilfe eines Algorithmus wird der Maximalwert in einer Liste mit einer oder mehreren Ganzzahlen ermittelt. Betrachten Sie die beiden folgenden Versionen des Algorithmus.
+
+ Algorithmus I: Setzen Sie den Wert einer Variablen max auf -1. Durchlaufen Sie die Liste der Ganzzahlen
+   Werte. Wenn ein Datenwert größer als der Wert der Variablen max ist, wird festgelegt
+  max zum Datenwert.
+ Algorithmus II: Setzen Sie den Wert einer Variablen max auf den ersten Datenwert. Durchlaufen Sie die
+   verbleibende Werte in der Liste der Ganzzahlen. Wenn ein Datenwert größer ist als der
+   Wert der Variablen max, setze max auf den Datenwert.
+
+ Welche der folgenden Aussagen beschreibt das Verhalten der beiden Algorithmen am besten?",Beide Algorithmen funktionieren bei allen Eingabewerten korrekt.,"Algorithmus I funktioniert immer korrekt, Algorithmus II funktioniert jedoch nur dann korrekt, wenn der Maximalwert nicht der erste Wert in der Liste ist.","Algorithmus II funktioniert immer korrekt, Algorithmus I funktioniert jedoch nur dann korrekt, wenn der Maximalwert größer oder gleich -l ist.","Keiner der Algorithmen kann den Maximalwert korrekt identifizieren, wenn die Eingabe sowohl positive als auch negative Eingabewerte enthält.",D
+"Betrachten Sie die folgende Instanzvariable und Methoden in derselben Klasse.
+ private int[][]-Matrix;
+ /** Voraussetzung: array.length > 0.
+ * @return die größte Ganzzahl im Array
+ */
+ private int max(int[] array)
+ { /* Implementierung nicht angezeigt */ }
+ /** @return num1 if num1 >= num2; andernfalls num2 zurückgeben
+ */
+ public int max(int ​​num1, int num2)
+ { /* Implementierung nicht angezeigt */ }
+ Angenommen, die Matrix hat einen aktuellen Wert von
+ 2 1 4 8
+ 6 0 3 9
+ 5 7 7 6
+ 1 2 3 4
+ Was wird durch den folgenden Methodenaufruf in derselben Klasse zurückgegeben?
+ max(max(Matrix[2]), max(Matrix[3]))",9,8,7,4,C
+Welchen Wert hat dieser Python-Ausdruck: 4 + 3 % 2?,1,6,4,5,D
+"Airmail Express erhebt für den Versand kleiner Pakete Gebühren nach ganzzahligen Gewichtswerten. Die Gebühren für ein Gewicht w in Pfund betragen:
+ 0 < w ≤ 2 4,00 $
+ 2 < w ≤ 5 8,00 $
+ 5 < w ≤ 20 15,00 $
+ Das Unternehmen akzeptiert keine Pakete, die mehr als 20 Pfund wiegen. Welcher der folgenden Datensätze (Gewichte) eignet sich am besten zum Testen eines Programms, das Versandkosten berechnet?","0, 2, 5, 20","1, 4, 16","−1, 1, 2, 3, 5, 16, 20","−1, 0, 1, 2, 3, 5, 16, 20, 22",D
+"Im folgenden Programm ist y eine positive ganze Zahl (z. B. l, 2, 3, ...).
+ Ergebnis ← 0
+ 3 MAL WIEDERHOLEN {
+ y-MAL WIEDERHOLEN {
+ Ergebnis ← Ergebnis + 1
+ }
+ }",y+3,3y,y^3,3^y,B
+"Ein Programmierer entwirft ein Programm zum Katalogisieren aller Bücher in einer Bibliothek. Er plant eine Buchklasse, die Merkmale jedes Buches speichert: Autor, Titel, isOnShelf usw., mit Operationen wie getAuthor, getTitle, getShelfInfo und setShelfInfo. Eine andere Klasse, LibraryList, speichert ein Array von Book-Objekten. Die Klasse „LibraryList“ umfasst Vorgänge wie „listAllBooks“, „addBook“, „removeBook“ und „searchForBook“. Der Programmierer plant, zuerst die Book-Klasse zu implementieren und zu testen, bevor er die LibraryList-Klasse implementiert. Ein Beispiel dafür ist der Plan des Programmierers, zuerst die Buchklasse zu schreiben",Top-Down-Entwicklung,Bottom-up-Entwicklung,prozedurale Abstraktion,Informationen verbergen,B
+"Sei l = [1,2,3,4]. Was ist sum(l) in Python3?",4,1,10,8,C
+"Eine Website verwendet mehrere Strategien, um zu verhindern, dass unbefugte Personen auf Benutzerkonten zugreifen. Welche der folgenden Aussagen ist KEIN Beispiel für eine Multifaktor-Authentifizierung?","Jeder Mitarbeiter eines Unternehmens erhält ein USB-Gerät, das einen eindeutigen Token-Code enthält. Um sich an einem Firmencomputer anzumelden, muss ein Mitarbeiter das USB-Gerät an den Computer anschließen und ein korrektes Passwort eingeben.","Nach der Anmeldung bei einem Konto über ein neues Gerät muss ein Benutzer einen Code eingeben, der per E-Mail an die im Konto hinterlegte E-Mail-Adresse gesendet wird.","Um sich bei einem Konto anzumelden, muss ein Benutzer sowohl ein Passwort als auch einen Fingerabdruck angeben, der mit dem Gerät des Benutzers erfasst wird.","Wenn ein Benutzer mehr als zwei Mal hintereinander ein falsches Passwort eingibt, wird der Benutzer für 24 Stunden vom Konto ausgeschlossen.",D
+"Das folgende Verfahren dient dazu, den Index in einer Liste eindeutiger Namen (nameList) anzuzeigen, in der ein bestimmter Name (targetName) gefunden wird. Wenn targetName nicht in nameList gefunden wird, sollte der Code 0 anzeigen.
+ VERFAHREN FindName (nameList, targetName)
+ {
+  Index ← 0
+  FÜR JEDEN Namen IN nameList
+  {
+   Index ← Index + 1
+   IF (Name = Zielname)
+   {
+   gefundenIndex ← Index
+   }
+   ANDERS
+   {
+   gefundenIndex ← 0
+   }
+  }
+  ANZEIGE (foundIndex)
+ }
+ Welcher der folgenden Prozeduraufrufe kann verwendet werden, um zu zeigen, dass die Prozedur NICHT wie beabsichtigt funktioniert?","FindName ([""Andrea"", ""Ben""], ""Ben"" )","FindName ([""Andrea"", ""Ben"" ], ""Diane"")","FindName ([""Andrea"", ""Ben"", ""Chris""], ""Ben"")","FindName ([""Andrea"", ""Chris"", ""Diane""], ""Ben"")",C
+"Diese Frage basiert auf den folgenden Deklarationen: String strA = „CARROT“, strB = „Carrot“, strC = „car“; Wenn man davon ausgeht, dass bei der alphabetischen Reihenfolge alle Großbuchstaben vor allen Kleinbuchstaben stehen, was stimmt dann?",strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0,strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0,strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0,!(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0,C
+"In der Prozedur Mystery unten ist die Parameternummer eine positive ganze Zahl.
+
+ VERFAHREN Geheimnis (Nummer)
+ {
+  WIEDERHOLEN BIS (Zahl <= 0)
+  {
+   Zahl ← Zahl - 2
+  }
+  WENN (Zahl = 0)
+  {
+   RETURN (wahr)
+  }
+  ANDERS
+  {
+   Falsch zurückgeben)
+  }
+ }
+
+ Welche der folgenden Aussagen beschreibt am besten das Ergebnis der Ausführung der Prozedur „Mystery“?","Die Prozedur gibt „true“ zurück, wenn der Anfangswert von „number“ 2 ist, andernfalls gibt sie „false“ zurück.","Die Prozedur gibt „true“ zurück, wenn der Anfangswert der Zahl größer als 2 ist, andernfalls gibt sie „false“ zurück.","Die Prozedur gibt „true“ zurück, wenn der Anfangswert der Zahl gerade ist, andernfalls gibt sie „false“ zurück.","Die Prozedur gibt „true“ zurück, wenn der Anfangswert der Zahl ungerade ist, andernfalls gibt sie „false“ zurück.",C
+"Es soll eine Insect-Klasse geschrieben werden, die die folgenden Datenfelder enthält: Alter, das beim Erstellen eines Insects auf 0 initialisiert wird. nextAvailableID, die außerhalb des Konstruktors auf 0 initialisiert und jedes Mal erhöht wird, wenn ein Insekt erstellt wird. idNum, das beim Erstellen eines Insekts auf den aktuellen Wert von nextAvailableID initialisiert wird. Position, die auf den Ort in einem Garten initialisiert wird, an dem das Insekt platziert wird, wenn es erstellt wird. Richtung, die auf die Richtung initialisiert wird, in die das Insekt blickt, wenn es im Garten platziert wird. Welche Variable in der Insect-Klasse sollte statisch sein?",age,nextAvailableID,idNum,Position,B
+"Eine sortierte Zahlenliste enthält 500 Elemente. Welches der folgenden Elemente kommt der maximalen Anzahl von Listenelementen am nächsten, die bei einer binären Suche nach einem Wert in der Liste untersucht werden?",10,50,250,500,A
+"Welche der folgenden Funktionen legt in Python 3 den ganzzahligen Startwert fest, der beim Generieren von Zufallszahlen verwendet wird?",Wahl(seq),"randrange ([start,] stop [,step])",zufällig(),Samen([x]),D
+Was ist in Python 3 die Ausgabe von ['Hi!'] * 4?,"['Hallo!', 'Hallo!', 'Hallo!', 'Hallo!']",['Hallo!'] * 4,Fehler,Nichts des oben Genannten.,A
+Berücksichtigen Sie die folgenden Annahmen zur elektronischen Speicherung des Textes in allen Büchern der Bibliotheken einer Universität. - Die Bibliotheken der Universität umfassen zusammen 3 Millionen Bücher. - Ein Buch enthält durchschnittlich 400 Seiten. - Eine Seite enthält durchschnittlich 50 Zeilen. - Eine Zeile auf einer Seite enthält durchschnittlich 10 Wörter. - Ein Wort enthält durchschnittlich 5 Buchstaben/Zeichen. - Ein Buchstabe/Zeichen wird durch 1 Byte dargestellt. In welcher der folgenden Einheiten lässt sich unter Berücksichtigung der gegebenen Annahmen der elektronische Speicherbedarf für den Text in allen Büchern der Universitätsbibliotheken am besten messen?,Megabyte (2^20 oder etwa 10^6 Bytes),Gigabyte (2^30 oder etwa 10^9 Bytes),Terabyte (2^40 oder etwa 10^12 Bytes),Petabyte (2^50 oder etwa 10^15 Bytes),C
+"Eine Suchmaschine verfügt über eine Trendverfolgungsfunktion, die Informationen darüber liefert, wie beliebt ein Suchbegriff ist. Die Daten können nach geografischer Region, Datum und Kategorie gefiltert werden. Zu den Kategorien gehören Kunst und Unterhaltung, Computer und Elektronik, Spiele, Nachrichten, Menschen und Gesellschaft, Einkaufen, Sport und Reisen. Welche der folgenden Fragen lässt sich mit der Trendfunktion am wenigsten beantworten?",In welchem ​​Monat erhält eine bestimmte Sportart die meisten Suchanfragen?,Für welche politischen Kandidaten interessieren sich die Menschen?,Was kostet ein bestimmtes Elektronikprodukt?,In welcher Region des Landes suchen die meisten Menschen nach Opernaufführungen?,C
+"Was ist in Python 3 ['a', 'Chemistry', 0, 1][1]?",a,Chemie,0,1,B
+Welche der folgenden Aussagen beschreibt am besten den Hauptunterschied zwischen einem verteilten Denial-of-Service-Angriff (D o S) und einem Denial-of-Service-Angriff (D o S-Angriff)?,Das Ziel des Angriffs,Die Anzahl der angegriffenen Computer,"Die Anzahl der Computer, die den Angriff starten","Der Zeitraum, in dem der Angriff stattfindet",C
+Welcher der folgenden Punkte birgt das größte Potenzial für eine Gefährdung der Privatsphäre eines Benutzers?,"Eine Gruppe von Cookies, die vom Webbrowser des Benutzers gespeichert werden",Die Internet Protocol (IP)-Adresse des Computers des Benutzers,Die E-Mail-Adresse des Benutzers,"Der öffentliche Schlüssel des Benutzers, der zur Verschlüsselung verwendet wird",A
+"Welche der folgenden Aussagen erklärt am besten, was passiert, wenn ein neues Gerät mit dem Internet verbunden wird?",Dem Gerät ist ein Gerätetreiber zugeordnet.,Dem Gerät wird eine Internet Protocol (IP)-Adresse zugewiesen.,Dem Gerät wird eine Paketnummer zugewiesen.,Dem Gerät ist eine Website zugeordnet.,B
+"Wenn a, b und c ganze Zahlen sind, welche der folgenden Bedingungen reicht aus, um zu garantieren, dass der Ausdruck a < c || a < b && !(a == c) wird als wahr ausgewertet?",a < c,a < b,a > b,a == b,A
+"Sei l = [1,2,2,3,4]. Was ist in Python3 eine mögliche Ausgabe von set(l)?",{1},"{1,2,2,3,4}","{1,2,3,4}","{4,3,2,2,1}",C
+"Ein Einzelhändler, der Schuhe verkauft, unterhält eine einzelne Datenbank mit Datensätzen mit den folgenden Informationen zu jedem Artikel, der im Geschäft des Einzelhändlers zum Verkauf steht.
+
+   ° Artikelidentifikationsnummer
+   ° Schuhtyp (Turnschuhe, Stiefel, Sandalen usw.)
+   ° Verkaufspreis (in Dollar)
+   ° Größe
+   ° Farbe
+   ° Verfügbare Menge
+
+ Welche der folgenden Aussagen können allein anhand der Datenbank ermittelt werden?",Welche in der Datenbank aufgeführten Artikel sind derzeit nicht im Geschäft?,Welche Farben sind bei Männern beliebter als bei Frauen?,Welche Art von Schuhwerk ist bei Erwachsenen am beliebtesten?,Die Gesamtzahl der in einem bestimmten Monat verkauften Schuhe,A
+Was ist die Ausgabe von 4*1**4 in Python?,4,1,256,16,A
+"Weitere Informationen finden Sie in der nextIntInRange-Methode unten:
+ /** @return eine zufällige Ganzzahl im Bereich von niedrig bis hoch, einschließlich */
+ public int nextIntInRange(int low, int high)
+ {
+ return /* Ausdruck */
+ }
+ Welcher /* Ausdruck */ gibt immer einen Wert zurück, der die Nachbedingung erfüllt?",(int) (Math.random() * high) + low;,(int) (Math.random() * (high - low)) + low;,(int) (Math.random() * (hoch - niedrig + 1)) + niedrig;,(int) (Math.random() * (hoch + niedrig)) + niedrig;,C
+"In Python 3 ist b = [11,13,15,17,19,21]; print(b[::2]) gibt was aus?","[19,21]","[11,15]","[11,15,19]","[13,17,21]",C
+"Ein Algorithmus zum Ermitteln des Durchschnitts von N Zahlen ist Durchschnitt = Summe / N, wobei N und Summe beide ganze Zahlen sind. In einem Programm, das diesen Algorithmus verwendet, hat ein Programmierer vergessen, einen Test einzubauen, der prüft, ob N gleich Null ist. Wenn N Null ist, wann wird der Fehler erkannt?",Zur Kompilierungszeit,Zur Bearbeitungszeit,Sobald der Wert von N eingegeben wird,Während der Laufzeit,D
+"Eine große Liste mit Zahlen soll aufsteigend sortiert werden. Angenommen, eine „Datenverschiebung“ ist ein Austausch oder eine Neuzuweisung eines Elements. Welche der folgenden Aussagen ist dann richtig?","Wenn das Array zunächst in absteigender Reihenfolge sortiert wird, ist die Einfügungssortierung effizienter als die Auswahlsortierung.",Die Anzahl der Vergleiche für die Auswahlsortierung ist unabhängig von der anfänglichen Anordnung der Elemente.,Die Anzahl der Vergleiche für die Einfügungssortierung ist unabhängig von der anfänglichen Anordnung der Elemente.,Die Anzahl der Datenbewegungen bei der Auswahlsortierung hängt von der anfänglichen Anordnung der Elemente ab.,B
+"Betrachten Sie das folgende Codesegment, das die Variablen r, s und t verwendet.
+  r ← 1
+   s ← 2
+   t ← 3
+   r ← s
+   s ← t
+   ANZEIGE (r)
+   ANZEIGE(n)
+
+ Was wird als Ergebnis der Ausführung des Codesegments angezeigt?",1 1,1 2,2 3,3 2,C
+"Eine digitale Fotodatei enthält Daten, die den Rot-, Grün- und Blauanteil für jedes Pixel im Foto darstellen. Die Datei enthält außerdem Metadaten, die das Datum und den geografischen Ort beschreiben, an dem das Foto aufgenommen wurde. Für welches der folgenden Ziele wäre die Analyse der Metadaten geeigneter als die Analyse der Daten?","Bestimmen der Wahrscheinlichkeit, dass es sich bei dem Foto um ein Bild des Himmels handelt","Bestimmen der Wahrscheinlichkeit, dass das Foto bei einer bestimmten öffentlichen Veranstaltung aufgenommen wurde","Bestimmen der Anzahl der Personen, die auf dem Foto erscheinen",Bestimmen der Verwendbarkeit des Fotos für die Projektion auf einen bestimmten Farbhintergrund,B
+"Was ist in Python 3 ['a', 'Chemistry', 0, 1][-3]?",a,Chemie,0,1,B
+"Zwei Computer werden von unterschiedlichen Herstellern gebaut. Einer betreibt einen Webserver und der andere betreibt einen Webbrowser. Welche der folgenden Aussagen beschreibt am besten die Fähigkeit der beiden Computer, über das Internet miteinander zu kommunizieren?","Die Computer können nicht kommunizieren, da verschiedene Hersteller unterschiedliche Kommunikationsprotokolle verwenden.","Die Computer können kommunizieren, es ist jedoch zusätzliche Hardware erforderlich, um Datenpakete vom Protokoll eines Computers in das Protokoll des anderen Computers umzuwandeln.","Die Computer können nur dann direkt kommunizieren, wenn die Nachrichten aus Text bestehen; Andere Formate können nicht computerübergreifend interpretiert werden.","Die Computer können direkt kommunizieren, da die Internetkommunikation Standardprotokolle verwendet.",D
+Welche der folgenden Aktivitäten stellt das größte persönliche Cybersicherheitsrisiko dar?,"Einen Kauf in einem Online-Shop tätigen, der zur Übermittlung von Kreditkarteninformationen eine Public-Key-Verschlüsselung verwendet",Bezahlen einer Rechnung über ein sicheres elektronisches Zahlungssystem,"Reservieren Sie ein Hotelzimmer, indem Sie eine Kreditkartennummer per E-Mail an ein Hotel senden",Abheben von Geld von einem Bankkonto über einen Geldautomaten (ATM),C

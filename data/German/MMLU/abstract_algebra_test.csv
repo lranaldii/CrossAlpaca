@@ -1,0 +1,100 @@
+"Finden Sie den Grad für die gegebene Felderweiterung Q(sqrt(2), sqrt(3), sqrt(18)) über Q.",0,4,2,6,B
+"Sei p = (1, 2, 5, 4)(2, 3) in S_5 . Finden Sie den Index von <p> in S_5.",8,2,24,120,C
+Finden Sie alle Nullstellen im angegebenen endlichen Körper des gegebenen Polynoms mit Koeffizienten in diesem Körper. x^5 + 3x^3 + x^2 + 2x in Z_5,0,1,"0,1","0,4",D
+"Aussage 1 | Eine Faktorgruppe einer nichtabelschen Gruppe ist nichtabelsch. Aussage 2 | Wenn K eine Normalteilergruppe von H und H eine Normalteilergruppe von G ist, dann ist K eine Normalteilergruppe von G.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+"Finden Sie das Produkt der gegebenen Polynome im gegebenen Polynomring. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 in Z_8[x].",x^a + x,6x^2 + 4x + 6,0,x^2 + 1,B
+"Aussage 1 | Wenn eine Gruppe ein Element der Ordnung 15 hat, muss sie mindestens 8 Elemente der Ordnung 15 haben. Aussage 2 | Wenn eine Gruppe mehr als 8 Elemente der Ordnung 15 hat, muss sie mindestens 16 Elemente der Ordnung 15 haben.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+Aussage 1 | Jedes homomorphe Bild einer Gruppe G ist isomorph zu einer Faktorgruppe von G. Aussage 2 | Die homomorphen Bilder einer Gruppe G sind (bis auf Isomorphie) dieselben wie die Faktorgruppen von G.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Aussage 1 | Ein Ringhomomorphismus ist genau dann eins zu eins, wenn der Kernel {0} ist. Aussage 2 | Q ist ein Ideal in R.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Finden Sie den Grad für die gegebene Felderweiterung Q(sqrt(2) + sqrt(3)) über Q.,0,4,2,6,B
+Finden Sie alle Nullstellen im angegebenen endlichen Körper des gegebenen Polynoms mit Koeffizienten in diesem Körper. x^3 + 2x + 2 in Z_7,1,2,"2,3",6,C
+"Aussage 1 | Wenn H eine Untergruppe von G ist und a zu G gehört, dann |aH| = |Ha|. Aussage 2 | Wenn H eine Untergruppe von G ist und a und b zu G gehören, dann sind aH und Hb identisch oder disjunkt.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Wenn A = {1, 2, 3}, dann ist die Beziehung S = {(1, 1), (2, 2)}",Nur symmetrisch,nur antisymmetrisch,sowohl symmetrisch als auch antisymmetrisch,eine Äquivalenzrelation,C
+"Finden Sie die Reihenfolge der Faktorgruppe (Z_11 x Z_15)/(<1, 1>)",1,2,5,11,A
+Das Polynom x^3 + 2x^2 + 2x + 1 kann in Z_7[x] in lineare Faktoren zerlegt werden. Finden Sie diese Faktorisierung.,(x − 2)(x + 2)(x − 1),(x + 1)(x + 4)(x − 2),(x + 1)(x − 4)(x − 2),(x - 1)(x − 4)(x − 2),C
+Finden Sie die maximal mögliche Ordnung für ein Element von S_n für n = 10.,6,12,30,105,C
+Aussage 1 | R ist ein Aufspaltungskörper eines Polynoms über Q. Aussage 2 | Es gibt ein Feld mit 60 Elementen.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+"Die Umkehrung von -i in der multiplikativen Gruppe {1, -1, i , -i} ist",1,-1,i,-i,C
+"Berechnen Sie das Produkt im angegebenen Ring. (2,3)(3,5) in Z_5 x Z_9","(1,1)","(3,1)","(1,6)","(3,6)",C
+Die Menge aller reellen Zahlen unter der üblichen Multiplikationsoperation ist seitdem keine Gruppe,Multiplikation ist keine binäre Operation,Multiplikation ist nicht assoziativ,Identitätselement existiert nicht,Null hat keine Umkehrung,D
+"Aussage 1| Jede Gruppe der Ordnung p^2, in der p eine Primzahl ist, ist abelsch. Aussage 2 | Für eine feste Primzahl p ist eine Sylow-p-Untergruppe einer Gruppe G genau dann eine Normalteiler von G, wenn sie die einzige Sylow-p-Untergruppe von G ist.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Aussage 1 | Für endliche Gruppen G und H gilt |G + H| = |G||H|. (G + H ist das interne direkte Produkt.) Aussage 2 | Wenn r m teilt und s n teilt, dann hat Z_m + Z_n eine Untergruppe, die isomorph zu Z_r + Z_s ist.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Finden Sie die Summe der gegebenen Polynome im gegebenen Polynomring. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 in Z_8[x].",x^a + x,6x^2 + 4x + 6,0,x^2 + 1,A
+"Aussage 1 | Jede Menge zweier Vektoren in R^2 ist linear unabhängig. Aussage 2 | Wenn V = span(v1, ... , vk) und {v1, ... , vk} linear unabhängig sind, dann ist dim(V) = k.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Die Menge aller n-ten Einheitswurzeln unter Multiplikation komplexer Zahlen bildet a/an,Halbgruppe mit Identität,kommutative Halbgruppen mit Identität,Gruppe,abelsche Gruppe,D
+"Aussage 1 | Jedes maximale Ideal ist ein Primideal. Aussage 2 | Wenn I ein maximales Ideal eines kommutativen Rings R ist, dann ist R/I ein Körper.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+Sei G die Menge aller n x n nichtsingulären Matrizen mit rationalen Zahlen als Einträgen. Dann ist G bei der Multiplikation a/an,Untergruppe,endliche abelsche Gruppe,"unendliche, nichtabelsche Gruppe","unendlich, abelsch",C
+Aussage 1 | Jede Gruppe der Ordnung 42 hat eine Normalteilergruppe der Ordnung 7. Aussage 2 | Jede Gruppe der Ordnung 42 hat eine Normalteilergruppe der Ordnung 8.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Bestimmen Sie, ob das Polynom in Z[x] ein Eisenstein-Kriterium für Irreduzibilität über Q erfüllt. 8x^3 + 6x^2 - 9x + 24","Ja, mit p=2.","Ja, mit p=3.","Ja, mit p=5.",No.,B
+Aussage 1 | Das Bild einer Gruppe von 6 Elementen unter einem Homomorphismus kann 12 Elemente haben. Aussage 2 | Es gibt einen Homomorphismus einer Gruppe von 6 Elementen in eine Gruppe von 12 Elementen.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Aussage 1 | Das homomorphe Bild einer zyklischen Gruppe ist zyklisch. Aussage 2 | Das homomorphe Bild einer abelschen Gruppe ist abelsch.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Aussage 1 | Wenn H eine Untergruppe einer Gruppe G ist und a zu G gehört, dann ist aH = Ha. Aussage 2 | Wenn H normal von G ist und a zu G gehört, dann ist ah = ha für alle h in H.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+"Wenn (G, .) eine Gruppe mit (ab)^-1 = a^-1b^-1 für alle a, b in G ist, dann ist G a/an",kommutative Halbgruppe,abelsche Gruppe,nicht-abelsche Gruppe,Keine von diesen,B
+"Aussage 1 | In einem endlichdimensionalen Vektorraum ist jede linear unabhängige Menge von Vektoren in einer Basis enthalten. Aussage 2 | Wenn B_1 und B_2 Basen für denselben Vektorraum sind, dann |B_1| = |B_2|.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Es ist bekannt, dass eine Gruppe (G, 0) abelsch ist. Welche der folgenden Aussagen ist dann für G WAHR?",g = g^-1 für jedes g in G,g = g^2 für jedes g in G,"(g o h)^2 = g^2 o h^2 für jedes g,h in G",G ist von endlicher Ordnung,C
+"Aussage 1 | Wenn T: V -> W eine lineare Transformation ist und dim(V) < dim(W) < 1, dann muss T injektiv sein. Aussage 2 | Sei dim(V) = n und nehme an, dass T: V -> V linear ist. Wenn T injektiv ist, dann ist es eine Bijektion.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Finden Sie den Grad für die gegebene Felderweiterung Q(sqrt(2), sqrt(3)) über Q.",0,4,2,6,B
+Berechnen Sie das Produkt im angegebenen Ring. (20)(-8) in Z_26,0,1,11,22,D
+"Bestimmen Sie, ob das Polynom in Z[x] ein Eisenstein-Kriterium für Irreduzibilität über Q erfüllt. x^2 - 12","Ja, mit p=2.","Ja, mit p=3.","Ja, mit p=5.",No.,B
+Finden Sie den Generator für das endliche Feld Z_7.,1,2,3,4,C
+Aussage 1 | Jede Permutation ist ein Zyklus. Aussage 2 | Jeder Zyklus ist eine Permutation.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Die Menge der ganzen Zahlen Z mit der Binäroperation „*“, definiert als a*b =a +b+ 1 für a, b in Z, ist eine Gruppe. Das Identitätselement dieser Gruppe ist",0,1,-1,12,C
+Finden Sie die Charakteristik des Rings Z_3 x 3Z.,0,3,12,30,A
+"Aussage 1 | Eine abelsche Gruppe der Ordnung 45 hat eine Untergruppe der Ordnung 10. Aussage 2 | Eine Untergruppe H einer Gruppe G ist genau dann eine Normalteilergruppe, wenn die Anzahl der linken Nebenklassen von H gleich der Anzahl der rechten Nebenklassen von H ist.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+Aussage 1 | Jeder Integralbereich mit Charakteristik 0 ist unendlich. Aussage 2 | Jeder Integralbereich mit Primmerkmal ist endlich.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Seien A und B Mengen, f: A -> B und g: B -> A Funktionen, so dass für alle a \in A g(f(a)) = a gilt. Aussage 1 | Die Funktion f muss notwendigerweise injektiv sein. Aussage 2 | Die Funktion f muss notwendigerweise surjektiv sein.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+Aussage 1 | Für zwei beliebige Gruppen G und G' gibt es einen Homomorphismus von G zu G'. Aussage 2 | Jeder Homomorphismus ist eine Eins-zu-eins-Abbildung.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Aussage 1 | Ein Homomorphismus kann einen leeren Kern haben. Aussage 2 | Es ist nicht möglich, einen nichttrivialen Homomorphismus einer endlichen Gruppe in eine unendliche Gruppe zu haben.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+"Finden Sie alle c in Z_3, sodass Z_3[x]/(x^3 + x^2 + c) ein Feld ist.",0,2,1,3,B
+"Aussage 1 | Wenn ein R ein Integralbereich ist, dann ist R[x] ein Integralbereich. Aussage 2 | Wenn R ein Ring ist und f(x) und g(x) in R[x] liegen, dann ist Grad (f(x)g(x)) = Grad f(x) + Grad g(x).","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+Finden Sie die maximal mögliche Ordnung für ein Element von Z_8 x Z_10 x Z_24.,8,120,240,24,B
+Aussage 1 | Jede lösbare Gruppe hat eine Primzahlpotenzordnung. Aussage 2 | Jede Gruppe der Primärpotenzordnung ist lösbar.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Finden Sie alle c in Z_3, sodass Z_3[x]/(x^3 + cx^2 + 1) ein Feld ist.",0,2,1,3,B
+"In der Gruppe G = {2, 4, 6, 8) unter Multiplikation modulo 10 ist das Identitätselement",6,8,4,2,A
+"Aussage 1 | Wenn G, H und K Gruppen der Ordnung 4 sind, sind mindestens zwei von ihnen isomorph. Aussage 2 | Wenn Z_r + Z_s isomorph zu einer Untergruppe Z_m + Z_n ist, dann teilt r m und s n.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+Finden Sie den Grad für die gegebene Felderweiterung Q(sqrt(2)) über Q.,0,2,1,3,B
+Aussage 1 | Jede freie abelsche Gruppe ist torsionsfrei. Aussage 2 | Jede endlich erzeugte torsionsfreie abelsche Gruppe ist eine freie abelsche Gruppe.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+Aussage 1 | 4x - 2 ist über Z irreduzibel. Aussage 2 | 4x - 2 ist über Q irreduzibel.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Finden Sie den Generator für das endliche Feld Z_11.,1,2,3,4,B
+Aussage 1 | Jede Gruppe der Ordnung 159 ist zyklisch. Aussage 2 | Jede Gruppe der Ordnung 102 hat eine nichttriviale echte Normalteilergruppe.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Aussage 1 | Wenn H und K Untergruppen von G sind und einer von H oder K ein Normalteiler von G ist, dann ist HK eine Untergruppe von G. Aussage 2 | Alle Gruppen der Ordnung p^2, in denen p eine Primzahl ist, sind abelsch.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+Aussage 1 | Die Einheit eines Teilrings muss mit der Einheit des Rings identisch sein. Aussage 2 | Jedes Feld ist ein integraler Bereich.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Aussage 1 | Der Satz von 2 x 2-Matrizen mit ganzzahligen Einträgen und einer Determinante ungleich Null ist eine Gruppe unter Matrixmultiplikation. Aussage 2 | Die Menge der 2 x 2-Matrizen mit ganzzahligen Einträgen und der Determinante 1 ist eine Gruppe unter Matrixmultiplikation.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Aussage 1 | Jeder Quotientenring jedes kommutativen Rings ist wieder ein kommutativer Ring. Aussage 2 | Ein ideales N in einem Ring R mit Eins 1 ist genau dann ganz R, wenn 1 in N ist.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Wenn A = (1, 2, 3, 4). Sei ~= {(1, 2), (1, 3), (4, 2)}. Dann ist ~",nicht antisymmetrisch,transitiv,reflexiv,symmetrisch,B
+Wie viele Homomorphismen gibt es von Z in Z_2?,1,2,unendlich viele,0,B
+Aussage 1 | Jedes Feld ist auch ein Ring. Aussage 2 | Jeder Ring hat eine multiplikative Identität.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Aussage 1 | Wenn R ein Ring ist und f(x) und g(x) in R[x] liegen, dann ist Grad (f(x)+g(x)) = Maximum (Grad f(x), Grad g(x)) . Aussage 2 | Wenn F ein Körper ist, dann ist jedes Ideal von F[x] Hauptideal.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Eine Teilmenge H einer Gruppe (G,*) ist eine Gruppe, wenn","a,b in H=> a * b in H",a in H => a^-1 in H,"a,b in H=> a * b^-1 in H",H enthält das Identitätselement,C
+Das Polynom x^4 + 4 kann in Z_5[x] in lineare Faktoren zerlegt werden. Finden Sie diese Faktorisierung.,(x − 2)(x + 2)(x − 1)(x + 1),(x+1)^4,(x-1)(x+1)^3,(x-1)^3(x+1),A
+"Aussage 1 | Für jeden positiven ganzzahligen Rang existiert eine freie abelsche Gruppe. Aussage 2 | Eine endlich erzeugte abelsche Gruppe ist frei abelsch, wenn ihre Betti-Zahl gleich der Anzahl der Elemente in einem erzeugenden Satz ist.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"(Z,*) ist eine Gruppe mit a*b = a+b+1 für alle a, b in Z. Die Umkehrung von a ist",0,-2,a-2,(2+a)*-1,D
+Finden Sie den Grad für die gegebene Felderweiterung Q(sqrt(2)*sqrt(3)) über Q.,0,4,2,6,C
+"Bestimmen Sie mithilfe des Satzes von Fermat den Rest von 3^47, wenn es durch 23 geteilt wird.",1,2,3,4,D
+Finden Sie die Charakteristik des Rings Z_3 x Z_3.,0,3,12,30,B
+"Aussage 1 | Wenn a und b Elemente einer Gruppe sind und a nicht gleich b ist, dann ist a^2 nicht gleich b^2. Aussage 2 | Der Rotationssatz in einer Diedergruppe bildet eine zyklische Untergruppe.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Aussage 1 | In einer Gruppe (ab)^{-2} = b^{-2}a^{-2}. Aussage 2 | In einer Gruppe (ab)^n = a^nb^n.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+"Aussage 1 | S_n ist nichtabelsch für alle n >= 3. Aussage 2 | Wenn a eine Permutation ist, die ein m-Zyklus ist, und b eine Permutation ist, die ein n-Zyklus ist, dann |ab| = lcm(m,n).","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+Finden Sie die Charakteristik des Rings Z x Z.,0,3,12,30,A
+"Aussage 1 | Für n > 1 ist die Menge {1,2, ..., n-1} eine Gruppe unter Multiplikation modulo n. Aussage 2 | Es gibt eine ganze Zahl x mit 63x mod 100 = 1.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Aussage 1 | Wenn K eine Untergruppe ungleich Null einer endlich erzeugten freien abelschen Gruppe ist, dann ist K frei abelsch. Aussage 2 | Wenn K eine von Null verschiedene Untergruppe einer endlich erzeugten freien abelschen Gruppe ist, dann ist G / K frei abelsch.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+Aussage 1 | Das externe direkte Produkt zyklischer Gruppen ist zyklisch. Aussage 2 | Das externe direkte Produkt von D_3 und D_4 ist isomorph zu D_12.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,B
+Aussage 1 | Jede freie abelsche Gruppe ungleich Null hat unendlich viele Basen. Aussage 2 | Jede freie abelsche Gruppe mit Rang mindestens 2 hat unendlich viele Basen.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Aussage 1 | Für jede positive ganze Zahl n gibt es eine zyklische Gruppe der Ordnung n. Aussage 2 | Jede endliche zyklische Gruppe enthält ein Element jeder Ordnung, das die Ordnung der Gruppe teilt.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Aussage 1 | Wenn eine Gruppe ein Element der Ordnung 10 hat, dann hat sie Elemente der Ordnungen 1, 2 und 5. Aussage 2 | Wenn eine Gruppe ein Element der Ordnung 2 und ein Element der Ordnung 3 hat, dann hat sie ein Element der Ordnung 6.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Seien A und B Mengen, f: A -> B und g: B -> A Funktionen, so dass für alle a \in A g(f(a)) = a gilt. Aussage 1 | Die Funktion g muss notwendigerweise injektiv sein. Aussage 2 | Die Funktion g muss notwendigerweise surjektiv sein.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Aussage 1 | Ein Homomorphismus ist genau dann eins zu eins, wenn der Kernel nur aus dem Identitätselement besteht. Aussage 2 | Das Bild einer Gruppe von 6 Elementen kann unter einem Homomorphismus 4 Elemente haben.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Aussage 1 | Wenn H und K Untergruppen einer Gruppe G sind, dann |HK| = |H||K|/|H Schnittpunkt K|. Aussage 2 | Eine Gruppe der Ordnung 2p, in der p eine ungerade Primzahl ist, ist zyklisch oder isomorph zu D_p.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,A
+"Finden Sie für T: Z x Z -> Z mit T(1, 0) = 3 und T(0, 1) = -5 T(-3,2).",-19,-10,19,10,A
+Berechnen Sie das Produkt im angegebenen Ring. (12)(16) in Z_24,0,1,4,6,A
+"Aussage 1 | Jede Permutation ist eine Eins-zu-eins-Funktion. Aussage 2 | Jede Funktion ist genau dann eine Permutation, wenn sie eins zu eins ist.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+"Aussage 1 | Wenn eine endliche Gruppe die Ordnung n hat, dann enthält die Gruppe eine Untergruppe der Ordnung d für jeden positiven Teiler d von n. Aussage 2 | Wenn a zu einer endlichen Gruppe gehört, dann |a| teilt |G|.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+Finden Sie alle Nebenmengen der Untergruppe 4Z von 2Z.,4Z,"4Z, 2 + 4Z",2Z,Z,B
+Welche der folgenden Aussagen ist wahr?,Jede Äquivalenzrelation ist eine Teilordnungsrelation.,"Die Anzahl der Beziehungen von A = {x, y, z} zu B= (1, 2) beträgt 64.",Leere Relation _ ist reflexiv,"Die Eigenschaften einer Beziehung, dass sie symmetrisch und unsymmetrisch ist, sind einander negativ.",B
+Finden Sie die maximal mögliche Ordnung für ein Element von S_n für n = 6.,6,12,30,105,A
+Aussage 1 | Q ist ein Erweiterungsfeld von Z_2. Aussage 2 | Jedes nicht konstante Polynom über einem Körper hat in einem Erweiterungskörper eine Nullstelle.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,D
+"Aussage 1 | Wenn H eine Untergruppe von G ist und a zu G gehört, dann ist aH genau dann eine Untergruppe von G, wenn a in H ist. Aussage 2 | Wenn H eine Untergruppe von G ist und a und b zu G gehören, dann ist aH = bH genau dann, wenn ab in H liegt.","Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
+Finden Sie alle Nullstellen im angegebenen endlichen Körper des gegebenen Polynoms mit Koeffizienten in diesem Körper. x^2 + 1 in Z_2,0,1,"0,1",2,B
+"Ermitteln Sie die Anzahl der Elemente in der angegebenen zyklischen Gruppe: Die zyklische Untergruppe von Z_30, erzeugt durch 25.",25,5,6,30,C
+"Das Element (4, 2) von Z_12 x Z_8 hat Ordnung",4,8,12,6,C
+Aussage 1 | Jedes Ideal in einem Ring ist ein Unterring des Rings. Aussage 2 | Jeder Teilring jedes Rings ist ein Ideal des Rings.,"Wahr, wahr","False, False",Wahr falsch,Falsch Richtig,C
