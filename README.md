@@ -11,7 +11,7 @@
 
 ## 🖊️ Citations
 
-If you use out benchmarks in your research, please cite [our paper](https://arxiv.org/abs/2308.14186):
+If you use our benchmarks in your research, please cite [our work](https://arxiv.org/abs/2308.14186):
 
 ```bibtex
 @misc{ranaldi2023empowering,
